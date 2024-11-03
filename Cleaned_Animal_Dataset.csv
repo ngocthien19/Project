@@ -1,0 +1,40 @@
+Animal,Weight (kg),Lifespan (years),Diet,Habitat,Conservation Status
+African Lion,186.0,12.0,Carnivore,"Grasslands, Savannas",Vulnerable
+African Elephant,4350.0,65.0,Herbivore,"Savannah, Forest",Vulnerable
+African Wild Dog,28.0,11.0,Carnivore,Savannahs,Endangered
+Capybara,50.5,10.0,Herbivore,"Grasslands, Swamps",Least Concern
+Arabian Oryx,77.5,17.0,Herbivore,Desert,Vulnerable
+Asian Elephant,3500.0,74.0,Herbivore,"Grasslands, Forests",Endangered
+Atlantic Spotted Dolphin,130.0,22.5,Carnivore,"Oceans, Coastal Areas",Least Concern
+Australian Fur Seal,29.0,15.5,Carnivore,Coastal Waters,Least Concern
+Aye-Aye,2.45,21.5,"Omnivore, Insectivore",Rainforests,Endangered
+Baird's Tapir,275.0,27.5,Herbivore,"Rainforests, Grasslands",Endangered
+Bald Eagle,4.5,25.0,Carnivore,"Forests, Lakes, Coasts",Least Concern
+Banded Palm Civet,3.5,8.5,Omnivore,Forests,Least Concern
+Basking Shark,550.0,22.5,Carnivore,Oceans,Vulnerable
+Bengal Fox,3.25,7.0,Omnivore,Grasslands,Least Concern
+Bengal Tiger,240.0,12.5,Carnivore,"Grasslands, Mangroves",Endangered
+Black Rhinoceros,1100.0,42.5,Herbivore,"Grasslands, Forests",Critically Endangered
+Blue Jay,0.095,10.5,Omnivore,"Forests, Urban Areas",Least Concern
+Blue-Footed Booby,2.25,14.5,Piscivore,Coastal Areas,Least Concern
+Bonobo,35.0,50.0,Omnivore,Rainforests,Endangered
+Bornean Orangutan,56.0,40.0,Omnivore,Rainforests,Critically Endangered
+Bottlenose Dolphin,400.0,35.0,Carnivore,Oceans,Least Concern
+Boxer Dog,28.5,11.0,Omnivore,Human Dwellings,Not Applicable
+Brown Bear,425.0,25.0,Omnivore,"Forests, Mountains",Least Concern
+Capybara,50.5,9.0,Herbivore,"Grasslands, Swamps",Least Concern
+Cheetah,46.0,11.0,Carnivore,"Grasslands, Savannas",Vulnerable
+Chimpanzee,48.0,45.0,Omnivore,"Rainforests, Grasslands",Endangered
+Clownfish,175.0,8.0,Omnivore,Coral Reefs,Not Evaluated
+Common Dolphin,117.5,22.5,Carnivore,"Oceans, Coastal Areas",Least Concern
+Common Snapping Turtle,10.25,40.0,Omnivore,Freshwater,Least Concern
+Coquerel's Sifaka,4.5,16.5,Herbivore,"Rainforests, Madagascar",Endangered
+Dalmatian Dog,27.5,11.5,Omnivore,Worldwide,Not Applicable
+Dhole,16.5,12.5,Carnivore,"Forests, Grasslands",Endangered
+Dingo,16.5,12.5,Carnivore,"Grasslands, Forests",Least Concern
+Eastern Gorilla,138.5,45.0,Herbivore,Rainforests,Endangered
+Echidna,4.5,17.5,Insectivore,"Forests, Grasslands",Least Concern
+Emperor Penguin,33.5,17.5,Carnivore,Antarctic,Near Threatened
+Emperor Tamarin,350.0,12.5,Omnivore,Rainforests,Least Concern
+Fossa,6.5,17.5,Carnivore,"Rainforests, Madagascar",Vulnerable
+Galápagos Penguin,2.15,17.5,"Carnivore, Piscivore",Galápagos Islands,Endangeredheo
