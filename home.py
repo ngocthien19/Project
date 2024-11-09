@@ -123,9 +123,7 @@ def HomePage(root):
         radius=15,  
         text="Exploring",  
         command=on_button_click  
-    )
-
-    
+    )  
 
     animate_button(canvas, button, text_button)  # Thêm hiệu ứng hover cho nút
     

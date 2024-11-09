@@ -24,7 +24,7 @@ def populate_table(table, filter_value="", sort_by_weight=False):
     # Điền dữ liệu vào bảng, lọc theo giá trị nếu có
     for index, row in data.iterrows():
         if filter_value.lower() in row["Animal"].lower():
-            table.insert("", "end", values=(row["Animal"], row["Weight (kg)"], row["Lifespan (years)"], row["Diet"], row["Habitat"], row["Conservation Status"]))
+            table.insert("", "end", values=(index + 1, row["Animal"], row["Weight (kg)"], row["Lifespan (years)"], row["Diet"], row["Habitat"], row["Conservation Status"]))
 
 def search_animals(event, entry, table):
     filter_value = entry.get()  # Lấy giá trị từ ô Entry
@@ -48,7 +48,7 @@ def FeaturesPage(root):
     global featuresPage
     featuresPage = tk.Toplevel()  
     featuresPage.title("Features")
-    featuresPage.geometry("1200x600")
+    featuresPage.geometry("1300x600")
     featuresPage.config(bg="#FFF")
 
     # Fonts
@@ -60,7 +60,7 @@ def FeaturesPage(root):
     title_label.pack(pady=(5, 20)) 
 
     # Tạo khung cho bảng và thanh cuộn với grid layout
-    frame = tk.Frame(featuresPage, width=1150, height=300)  # Chiều rộng cố định là 1150 và chiều cao cố định là 300
+    frame = tk.Frame(featuresPage, width=1250, height=300)  # Chiều rộng cố định là 1150 và chiều cao cố định là 300
     frame.grid_propagate(False)  # Ngăn khung tự động điều chỉnh theo nội dung
     frame.pack(pady=(5, 20), padx=20)
 
@@ -70,7 +70,7 @@ def FeaturesPage(root):
     
     # Tạo Treeview với số hàng cố định
     global table
-    table = ttk.Treeview(frame, columns=("Animal", "Weight", "Lifespan", "Diet", "Habitat", "Conservation Status"), show="headings", height=10)
+    table = ttk.Treeview(frame, columns=("ID", "Animal", "Weight", "Lifespan", "Diet", "Habitat", "Conservation Status"), show="headings", height=10)
 
     # Khung cho ô tìm kiếm và nút search
     search_frame = tk.Frame(featuresPage, bg="#FFF")
@@ -94,6 +94,7 @@ def FeaturesPage(root):
 
     # Độ dài mỗi cột
     column_widths = {
+        "ID": 50,
         "Animal": 200,
         "Weight": 150,
         "Lifespan": 150,

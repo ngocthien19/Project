@@ -7,38 +7,84 @@ from button_radius import create_rounded_button
 
 
 def Submit(entries):
-    data = [entry.get() for entry in entries]
-
+    # Đường dẫn đến file CSV
     file_path = r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv"
-
-    # Kiểm tra xem file CSV đã tồn tại hay chưa
     file_exists = os.path.isfile(file_path)
+    
+    # Xác định ID mới dựa trên số lượng hàng trong file CSV
+    next_id = 1
+    if file_exists:
+        with open(file_path, 'r') as file:
+            reader = csv.reader(file)
+            next_id = sum(1 for row in reader)  # Số lượng hàng hiện có sẽ là ID kế tiếp
+
+    # Thu thập dữ liệu từ các `Entry` (bỏ qua ID)
+    data = []
+    for i, entry in enumerate(entries):
+        value = entry.get().strip()
+        
+        # Nếu trường dữ liệu trống, hiển thị thông báo và dừng việc gửi
+        if not value:
+            messagebox.showwarning("Warning", f"⚠️ Please fill out all fields.")
+            return
+
+        # Kiểm tra kiểu dữ liệu cho "Weight (kg)" và "Lifespan (years)"
+        if i == 1 or i == 2:  # Weight và Lifespan
+            try:
+                value = float(value)
+            except ValueError:
+                messagebox.showwarning("Warning", f"⚠️ '{entries[i].get()}' must be a valid number.")
+                return
+        else:  # Các trường còn lại yêu cầu là chuỗi ký tự
+            if not isinstance(value, str) or value.isdigit():
+                messagebox.showwarning("Warning", f"⚠️ '{entries[i].get()}' must be a valid text.")
+                return
+
+        data.append(value)
+
+    # Kiểm tra trùng lặp trước khi thêm vào file CSV
+    if file_exists:
+        with open(file_path, 'r') as file:
+            reader = csv.reader(file)
+            rows = list(reader)  # Đọc toàn bộ file vào một danh sách
+            
+            # Chuẩn hóa dữ liệu đầu vào để so sánh chính xác hơn
+            normalized_data = [str(value).strip().lower() for value in data]
+            
+            for row in rows[1:]:  # Bỏ qua dòng tiêu đề
+                # Chuẩn hóa hàng dữ liệu từ CSV
+                normalized_row = [str(cell).strip().lower() for cell in row[1:]]  # Bỏ qua ID
+                
+                if normalized_row == normalized_data:
+                    messagebox.showwarning("Warning", "⚠️ Entry already exists. Please enter different information.")
+                    return
+
+    # Thêm ID vào đầu danh sách dữ liệu trước khi ghi vào CSV
+    data_with_id = [next_id] + data
 
     try:
-        # Ghi vào file CSV
+        # Ghi dữ liệu vào file CSV bao gồm cả ID
         with open(file_path, mode='a', newline='') as file:
             writer = csv.writer(file)
-
+            
             # Chỉ viết tiêu đề nếu file mới
             if not file_exists:
-                writer.writerow(["Animal", "Weight (kg)", "Lifespan (years)", "Diet", "Habitat", "Conservation Status"])
+                writer.writerow(["ID", "Animal", "Weight (kg)", "Lifespan (years)", "Diet", "Habitat", "Conservation Status"])
 
-            writer.writerow(data)  # Ghi từng dòng dữ liệu vào file CSV
+            writer.writerow(data_with_id)  # Ghi dữ liệu với ID vào file CSV
 
         # Xóa các mục sau khi gửi
         for entry in entries:
             entry.delete(0, tk.END)
 
-        # Cập nhật bảng (Treeview)
-        Table().insert("", "0", values=data)  # Thêm dữ liệu mới vào Table
+        # Thêm dữ liệu vào Treeview
+        Table().insert("", "0", values=data_with_id)  # Thêm dữ liệu mới vào Treeview
 
         # Hiển thị thông báo thành công
         messagebox.showinfo("Success", "✅ Submit Successfully!")
         
-
     except Exception as e:
-        # Hiển thị thông báo thất bại nếu có lỗi
-        messagebox.showerror("Error", "❌ Submit Failure!" + str(e))
+        messagebox.showwarning("Warning", f"Submission failed: {str(e)}")
 
 def back_to_home():
     managementPage.destroy()
