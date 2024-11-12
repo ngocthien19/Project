@@ -3,7 +3,7 @@ from tkinter import font
 from home import HomePage
 from management import ManagementPage
 from features import FeaturesPage
-from chart import ChartPage
+# from chart import ChartPage
 
 # Thiết lập các biến cho layout
 window_width = 1200
@@ -52,8 +52,8 @@ def show_frame(frame_name, button_canvas=None):
         ManagementPage(frames["Management"])        
     elif frame_name == "Feature":
         FeaturesPage(frames["Feature"])
-    elif frame_name == "Chart":
-        ChartPage(frames["Chart"])
+    # elif frame_name == "Chart":
+    #     ChartPage(frames["Chart"])
 
 # Hàm tạo nút bo góc
 def create_rounded_button(canvas, x, y, width, height, radius, text="", command=None):
