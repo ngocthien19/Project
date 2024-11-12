@@ -1,0 +1,1201 @@
+Animal,Height (cm),Weight (kg),Color,Lifespan (years),Diet,Habitat,Predators,Average Speed (km/h),Countries Found,Conservation Status,Family,Gestation Period (days),Top Speed (km/h),Social Structure,Offspring per Birth
+Aardvark,105-130,8-14,Dark green,35-50,Herbivore,Grasslands,"Lions, Hyenas",58,Worldwide,Vulnerable,Felidae,Incubation,80,Group-based,1
+Aardwolf,270-310,8-14,Dark green,60-70,Insectivore,Savannas,"Lions, Hyenas",70,Africa,Vulnerable,Diomedeidae,90,30,Herd-based,2-4 (usually)
+Albatross,270-310,40-65,Grey,60-70,Herbivore,Savannahs,"Lions, Hyenas",56,Africa,Vulnerable,Orycteropodidae,98-105,40,Group-based,1
+African Lion,75-80,120-250,Dark green,35-50,Carnivore,Savannas,Humans,40,Africa,Least Concern,Alligatoridae,60-90,40,Group-based,10-12
+Alligator,80-110,200-450,Tan,30-40,Herbivore,Savannahs,Sharks,24-30,Eastern and Southern Africa,Least Concern,Alligatoridae,Incubation,70,Solitary,2-4 (usually)
+Aardvark,75-80,120-250,Multicolored,30-40,Carnivore,Grasslands,Sharks,56,Africa,Vulnerable,Elephantidae,90,30,Solitary,10-12
+Alligator,80-110,18-36,White,20-30,Piscivore,Grasslands,"Hyenas, Crocodiles",56,Africa,Vulnerable,Orycteropodidae,90,70,Solitary,2-5
+Aardvark,75-80,200-450,Tan,10-12,Carnivore,Oceans,"Lions, Hyenas",25,Worldwide,Near Threatened,Hyaenidae,210-240,30,Solitary,1
+Aardwolf,100-120,8-14,Grey,10-14,Insectivore,Savannah,"Lions, Hyenas",20,Africa,Least Concern,Orycteropodidae,640-660,40,Group-based,2-4 (usually)
+Aardvark,105-130,8-14,Dark green,10-12,Insectivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Canidae,90,30,Group-based,2-5
+African Wild Dog,80-110,40-65,Multicolored,60-70,Carnivore,Grasslands,Sharks,56,Africa,Vulnerable,Elephantidae,640-660,40,Herd-based,1
+African Lion,150-200,8-15,Tan,35-50,Insectivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Elephantidae,98-105,30,Solitary,1
+African Wild Dog,105-130,120-250,Grey,10-14,Carnivore,Grasslands,"Lions, Hyenas",56,Eastern and Southern Africa,Vulnerable,Felidae,70,30,Group-based,1
+African Lion,105-130,120-250,Grey,10-12,Carnivore,Grasslands,"Lions, Hyenas",25,Eastern and Southern Africa,Near Threatened,Orycteropodidae,60-90,40,Group-based,1
+African Elephant,80-110,8-14,Tan,10-12,Carnivore,Grasslands,"Hyenas, Crocodiles",58,Sub-Saharan Africa,Vulnerable,Hyaenidae,210-240,80,Group-based,1
+African Elephant,270-310,8-15,Grey,10-14,Carnivore,Grasslands,"Lions, Leopards",70,Africa,Least Concern,Felidae,60-90,40,Solitary,10-12
+African Lion,80-110,200-450,Grey,30-40,Insectivore,Savannas,Humans,58,North America,Near Threatened,Orycteropodidae,90,30,Group-based,1
+African Lion,150-200,200-450,White,10-12,Herbivore,Grasslands,"Hyenas, Crocodiles",24-30,Worldwide,Least Concern,Canidae,90,40,Group-based,2-5
+Alligator,100-120,8-15,Yellow-brown,60-70,Insectivore,Savannah,"Lions, Hyenas",24-30,Worldwide,Least Concern,Orycteropodidae,Incubation,40,Group-based,1
+African Wild Dog,75-80,120-250,White,30-40,Carnivore,Savannas,"Hyenas, Crocodiles",56,Sub-Saharan Africa,Least Concern,Diomedeidae,70,40,Solitary,10-20
+African Wild Dog,75-80,18-36,White,30-40,Piscivore,Savannah,Humans,20,Africa,Near Threatened,Hyaenidae,640-660,56,Group-based,10-12
+Alligator,105-130,120-250,Yellow-brown,10-12,Insectivore,Oceans,Humans,20,North America,Vulnerable,Diomedeidae,Incubation,80,Solitary,1
+African Wild Dog,105-130,120-250,Yellow-brown,10-12,Carnivore,Savannah,Humans,70,Africa,Endangered,Canidae,90,70,Solitary,10-20
+African Wild Dog,105-130,18-36,Tan,30-40,Carnivore,Savannahs,"Lions, Leopards",24-30,North America,Vulnerable,Diomedeidae,60-90,56,Group-based,2-5
+African Wild Dog,270-310,8-15,Multicolored,30-40,Insectivore,Grasslands,"Lions, Leopards",70,Worldwide,Least Concern,Felidae,Incubation,40,Solitary,10-20
+Aardvark,105-130,8-15,Dark green,30-40,Carnivore,Savannah,Humans,70,Africa,Vulnerable,Alligatoridae,90,30,Group-based,1
+African Lion,75-80,40-65,White,30-40,Herbivore,Savannahs,Sharks,25,Africa,Least Concern,Canidae,60-90,80,Group-based,10-20
+Alligator,270-310,2700-6000,Tan,10-12,Carnivore,Savannahs,Humans,58,Africa,Least Concern,Canidae,90,56,Group-based,2-4 (usually)
+Aardvark,100-120,2700-6000,White,35-50,Piscivore,Grasslands,"Lions, Hyenas",58,Sub-Saharan Africa,Least Concern,Elephantidae,70,40,Group-based,1
+African Elephant,80-110,2700-6000,Grey,10-14,Carnivore,Oceans,"Lions, Hyenas",58,Sub-Saharan Africa,Near Threatened,Alligatoridae,90,70,Group-based,10-12
+Aardvark,100-120,40-65,Multicolored,10-12,Piscivore,Grasslands,"Lions, Leopards",20,Africa,Least Concern,Alligatoridae,60-90,40,Solitary,10-20
+African Elephant,75-80,2700-6000,White,35-50,Insectivore,Oceans,"Lions, Hyenas",24-30,Africa,Endangered,Alligatoridae,Incubation,56,Herd-based,2-4 (usually)
+African Wild Dog,100-120,8-14,Yellow-brown,10-14,Herbivore,Wetlands,"Lions, Hyenas",56,North America,Near Threatened,Elephantidae,210-240,56,Group-based,10-12
+African Lion,150-200,120-250,White,10-14,Piscivore,Savannahs,"Hyenas, Crocodiles",25,Sub-Saharan Africa,Endangered,Canidae,98-105,40,Solitary,1
+Albatross,75-80,2700-6000,Grey,10-14,Carnivore,Oceans,Humans,25,Sub-Saharan Africa,Vulnerable,Elephantidae,70,40,Group-based,1
+Albatross,150-200,120-250,White,60-70,Piscivore,Savannas,"Hyenas, Crocodiles",25,Worldwide,Vulnerable,Elephantidae,Incubation,80,Solitary,2-4 (usually)
+African Wild Dog,100-120,200-450,Multicolored,60-70,Carnivore,Oceans,"Hyenas, Crocodiles",40,Africa,Vulnerable,Hyaenidae,60-90,30,Group-based,10-12
+Alligator,150-200,2700-6000,Tan,60-70,Carnivore,Oceans,"Lions, Hyenas",24-30,North America,Vulnerable,Felidae,60-90,40,Group-based,2-4 (usually)
+Aardwolf,75-80,18-36,Yellow-brown,10-12,Herbivore,Savannas,"Lions, Hyenas",56,Africa,Endangered,Hyaenidae,98-105,70,Herd-based,1
+Alligator,100-120,8-14,Grey,60-70,Herbivore,Savannahs,Humans,25,Sub-Saharan Africa,Endangered,Hyaenidae,90,70,Group-based,2-4 (usually)
+African Wild Dog,150-200,120-250,Tan,35-50,Herbivore,Savannahs,"Lions, Hyenas",25,Worldwide,Endangered,Orycteropodidae,90,40,Solitary,1
+Aardwolf,150-200,2700-6000,Dark green,20-30,Carnivore,Grasslands,"Lions, Hyenas",20,Worldwide,Least Concern,Felidae,90,40,Herd-based,1
+African Lion,80-110,200-450,Tan,60-70,Piscivore,Savannah,"Lions, Hyenas",56,Eastern and Southern Africa,Least Concern,Canidae,90,56,Group-based,10-12
+Alligator,75-80,8-15,Multicolored,20-30,Carnivore,Grasslands,"Hyenas, Crocodiles",25,Africa,Least Concern,Orycteropodidae,98-105,40,Solitary,1
+Aardwolf,75-80,18-36,Grey,10-14,Insectivore,Savannahs,"Lions, Hyenas",70,Africa,Vulnerable,Hyaenidae,Incubation,56,Solitary,10-12
+African Lion,75-80,8-14,Tan,20-30,Herbivore,Grasslands,"Lions, Hyenas",24-30,Sub-Saharan Africa,Vulnerable,Alligatoridae,60-90,40,Group-based,2-4 (usually)
+Albatross,150-200,8-15,White,10-12,Carnivore,Savannas,"Lions, Hyenas",70,Africa,Least Concern,Felidae,640-660,40,Group-based,10-20
+African Wild Dog,270-310,120-250,Multicolored,30-40,Piscivore,Wetlands,"Lions, Leopards",20,Eastern and Southern Africa,Near Threatened,Elephantidae,640-660,56,Solitary,2-5
+Aardvark,105-130,8-15,Yellow-brown,20-30,Insectivore,Savannah,Sharks,56,Worldwide,Vulnerable,Elephantidae,90,40,Group-based,1
+Aardvark,105-130,18-36,White,35-50,Carnivore,Grasslands,Humans,40,Africa,Endangered,Orycteropodidae,90,40,Herd-based,10-20
+African Wild Dog,40-50,2700-6000,Grey,10-12,Insectivore,Savannah,"Lions, Hyenas",56,North America,Vulnerable,Hyaenidae,Incubation,80,Herd-based,1
+Albatross,105-130,2700-6000,Yellow-brown,10-12,Insectivore,Grasslands,Humans,56,Africa,Near Threatened,Canidae,90,40,Solitary,10-20
+Albatross,270-310,120-250,Grey,20-30,Carnivore,Wetlands,"Lions, Hyenas",58,Eastern and Southern Africa,Endangered,Orycteropodidae,Incubation,56,Group-based,2-5
+African Lion,80-110,2700-6000,Tan,10-14,Carnivore,Savannahs,"Lions, Leopards",40,Worldwide,Least Concern,Hyaenidae,98-105,40,Group-based,10-20
+African Lion,80-110,8-15,Yellow-brown,20-30,Herbivore,Savannas,"Lions, Hyenas",24-30,Africa,Vulnerable,Diomedeidae,640-660,40,Solitary,1
+Alligator,100-120,40-65,Tan,10-12,Piscivore,Grasslands,"Hyenas, Crocodiles",40,Africa,Least Concern,Hyaenidae,Incubation,30,Herd-based,10-12
+Aardvark,80-110,18-36,White,35-50,Insectivore,Grasslands,"Lions, Hyenas",56,Eastern and Southern Africa,Least Concern,Hyaenidae,210-240,30,Group-based,1
+Alligator,150-200,200-450,Dark green,20-30,Insectivore,Wetlands,"Hyenas, Crocodiles",25,Africa,Least Concern,Diomedeidae,210-240,40,Group-based,1
+African Wild Dog,40-50,18-36,Grey,20-30,Herbivore,Savannahs,"Lions, Leopards",25,Africa,Near Threatened,Alligatoridae,90,40,Solitary,10-20
+Aardvark,270-310,18-36,Grey,10-12,Carnivore,Savannah,"Lions, Hyenas",40,Eastern and Southern Africa,Least Concern,Canidae,60-90,70,Solitary,2-5
+African Lion,100-120,8-14,Dark green,30-40,Insectivore,Oceans,"Lions, Hyenas",58,North America,Near Threatened,Hyaenidae,70,30,Herd-based,2-4 (usually)
+African Wild Dog,100-120,40-65,Dark green,10-12,Carnivore,Grasslands,"Hyenas, Crocodiles",56,Sub-Saharan Africa,Least Concern,Orycteropodidae,90,56,Group-based,1
+Aardvark,40-50,8-15,Multicolored,20-30,Insectivore,Wetlands,Sharks,58,Worldwide,Vulnerable,Felidae,90,56,Solitary,10-20
+African Wild Dog,100-120,40-65,Multicolored,60-70,Insectivore,Wetlands,"Lions, Hyenas",56,Sub-Saharan Africa,Least Concern,Canidae,60-90,40,Group-based,10-12
+Alligator,100-120,120-250,Grey,30-40,Insectivore,Savannah,"Lions, Hyenas",24-30,Worldwide,Least Concern,Elephantidae,Incubation,30,Solitary,10-12
+African Lion,80-110,40-65,Grey,10-12,Insectivore,Savannahs,Humans,20,Sub-Saharan Africa,Least Concern,Orycteropodidae,210-240,40,Group-based,10-20
+African Elephant,80-110,200-450,Multicolored,10-12,Insectivore,Savannah,"Lions, Hyenas",58,Africa,Least Concern,Diomedeidae,210-240,40,Group-based,2-4 (usually)
+Aardwolf,150-200,200-450,Yellow-brown,10-14,Carnivore,Wetlands,"Lions, Hyenas",25,North America,Near Threatened,Alligatoridae,98-105,70,Group-based,2-5
+Albatross,75-80,8-14,Grey,10-12,Carnivore,Savannahs,"Lions, Hyenas",20,North America,Vulnerable,Alligatoridae,210-240,40,Solitary,2-4 (usually)
+Aardwolf,40-50,8-14,White,30-40,Piscivore,Savannas,Sharks,24-30,Sub-Saharan Africa,Endangered,Diomedeidae,Incubation,40,Solitary,10-12
+African Wild Dog,105-130,120-250,Grey,20-30,Piscivore,Savannas,"Lions, Leopards",70,Sub-Saharan Africa,Least Concern,Hyaenidae,640-660,40,Solitary,2-5
+African Wild Dog,100-120,8-14,Grey,30-40,Herbivore,Savannahs,Sharks,25,Africa,Vulnerable,Felidae,90,70,Group-based,1
+Aardvark,75-80,200-450,Tan,10-14,Insectivore,Savannahs,Humans,25,Africa,Vulnerable,Alligatoridae,210-240,56,Group-based,1
+African Elephant,40-50,2700-6000,Grey,35-50,Insectivore,Savannas,"Hyenas, Crocodiles",70,Africa,Endangered,Orycteropodidae,70,40,Herd-based,2-4 (usually)
+African Elephant,100-120,200-450,Multicolored,10-12,Carnivore,Savannahs,"Lions, Leopards",58,Worldwide,Near Threatened,Orycteropodidae,Incubation,40,Group-based,1
+African Wild Dog,150-200,200-450,Multicolored,60-70,Insectivore,Savannas,"Lions, Hyenas",40,Africa,Vulnerable,Felidae,98-105,56,Group-based,10-12
+African Wild Dog,105-130,2700-6000,Grey,10-12,Insectivore,Savannah,"Hyenas, Crocodiles",58,Worldwide,Least Concern,Elephantidae,98-105,70,Solitary,2-4 (usually)
+African Wild Dog,80-110,120-250,Dark green,10-14,Insectivore,Savannas,"Hyenas, Crocodiles",24-30,Sub-Saharan Africa,Least Concern,Elephantidae,98-105,40,Group-based,10-12
+Albatross,105-130,18-36,Yellow-brown,10-12,Insectivore,Savannah,"Hyenas, Crocodiles",20,Sub-Saharan Africa,Least Concern,Felidae,60-90,80,Solitary,1
+African Wild Dog,105-130,8-15,White,10-12,Piscivore,Savannas,"Lions, Hyenas",25,Sub-Saharan Africa,Least Concern,Hyaenidae,640-660,40,Group-based,1
+African Wild Dog,105-130,2700-6000,Yellow-brown,60-70,Herbivore,Grasslands,"Lions, Hyenas",25,North America,Least Concern,Elephantidae,90,70,Solitary,10-12
+Alligator,100-120,8-15,Yellow-brown,60-70,Insectivore,Savannah,"Lions, Hyenas",24-30,Worldwide,Least Concern,Orycteropodidae,Incubation,40,Group-based,1
+Alligator,75-80,18-36,Grey,10-12,Piscivore,Savannas,Sharks,58,Africa,Endangered,Elephantidae,60-90,30,Herd-based,10-20
+Aardvark,270-310,18-36,Yellow-brown,10-12,Insectivore,Grasslands,Sharks,58,North America,Vulnerable,Elephantidae,90,70,Group-based,10-12
+African Elephant,270-310,8-15,White,60-70,Insectivore,Grasslands,Sharks,20,Africa,Endangered,Felidae,90,80,Solitary,10-12
+Albatross,150-200,8-15,Dark green,30-40,Carnivore,Wetlands,"Lions, Leopards",25,North America,Vulnerable,Elephantidae,60-90,80,Solitary,10-20
+African Elephant,105-130,2700-6000,Tan,35-50,Insectivore,Wetlands,"Lions, Hyenas",56,Africa,Least Concern,Hyaenidae,Incubation,80,Group-based,10-12
+African Wild Dog,80-110,8-15,Grey,35-50,Carnivore,Grasslands,"Hyenas, Crocodiles",56,North America,Least Concern,Orycteropodidae,Incubation,80,Solitary,2-4 (usually)
+African Wild Dog,100-120,40-65,Tan,35-50,Insectivore,Savannas,"Lions, Hyenas",25,Eastern and Southern Africa,Least Concern,Canidae,70,80,Herd-based,1
+Aardvark,105-130,18-36,Yellow-brown,30-40,Insectivore,Savannahs,"Lions, Leopards",20,Eastern and Southern Africa,Least Concern,Hyaenidae,210-240,80,Solitary,1
+Albatross,100-120,120-250,Grey,10-14,Carnivore,Wetlands,Humans,58,Sub-Saharan Africa,Least Concern,Hyaenidae,640-660,30,Solitary,1
+Aardvark,75-80,40-65,Grey,35-50,Piscivore,Savannas,"Hyenas, Crocodiles",24-30,Eastern and Southern Africa,Least Concern,Orycteropodidae,Incubation,70,Herd-based,2-4 (usually)
+Aardwolf,75-80,18-36,Grey,35-50,Insectivore,Grasslands,"Lions, Leopards",20,Africa,Endangered,Orycteropodidae,70,40,Solitary,2-4 (usually)
+Alligator,80-110,200-450,Grey,10-14,Herbivore,Grasslands,Sharks,56,North America,Endangered,Alligatoridae,98-105,40,Group-based,2-4 (usually)
+Alligator,105-130,40-65,Multicolored,20-30,Herbivore,Oceans,"Lions, Hyenas",20,Eastern and Southern Africa,Vulnerable,Hyaenidae,210-240,30,Herd-based,1
+African Wild Dog,80-110,2700-6000,Yellow-brown,10-12,Carnivore,Savannah,Sharks,20,North America,Least Concern,Felidae,98-105,80,Solitary,10-12
+African Elephant,40-50,120-250,Grey,35-50,Carnivore,Grasslands,"Lions, Hyenas",20,Eastern and Southern Africa,Least Concern,Diomedeidae,70,70,Herd-based,2-4 (usually)
+African Wild Dog,75-80,120-250,Grey,10-12,Herbivore,Oceans,"Lions, Leopards",40,North America,Vulnerable,Orycteropodidae,210-240,40,Group-based,1
+Alligator,270-310,40-65,Dark green,10-12,Insectivore,Grasslands,"Lions, Hyenas",20,Africa,Near Threatened,Canidae,70,30,Group-based,10-12
+Albatross,75-80,2700-6000,Grey,60-70,Insectivore,Savannahs,"Hyenas, Crocodiles",20,North America,Least Concern,Diomedeidae,210-240,30,Group-based,1
+Albatross,150-200,40-65,White,10-12,Piscivore,Savannahs,"Lions, Hyenas",58,Africa,Least Concern,Alligatoridae,60-90,40,Solitary,2-5
+Alligator,40-50,18-36,Tan,35-50,Piscivore,Oceans,"Lions, Hyenas",56,Worldwide,Least Concern,Hyaenidae,210-240,40,Solitary,1
+Aardvark,100-120,2700-6000,Grey,60-70,Insectivore,Wetlands,"Lions, Hyenas",40,Sub-Saharan Africa,Vulnerable,Canidae,90,40,Solitary,1
+Albatross,100-120,40-65,White,10-14,Insectivore,Savannah,Humans,70,Eastern and Southern Africa,Vulnerable,Felidae,98-105,56,Solitary,2-5
+Aardwolf,40-50,8-15,Tan,35-50,Insectivore,Savannahs,Humans,70,Sub-Saharan Africa,Least Concern,Orycteropodidae,210-240,56,Solitary,1
+African Lion,100-120,2700-6000,Dark green,30-40,Piscivore,Savannas,"Lions, Hyenas",56,North America,Least Concern,Diomedeidae,640-660,40,Solitary,2-4 (usually)
+Aardvark,80-110,2700-6000,Grey,10-12,Carnivore,Savannas,Humans,70,Africa,Near Threatened,Elephantidae,640-660,70,Group-based,10-12
+Alligator,150-200,120-250,Grey,10-12,Insectivore,Oceans,"Lions, Hyenas",25,Eastern and Southern Africa,Least Concern,Orycteropodidae,90,40,Group-based,2-5
+Aardwolf,270-310,8-14,Multicolored,20-30,Piscivore,Grasslands,"Lions, Hyenas",56,North America,Vulnerable,Elephantidae,90,40,Solitary,10-12
+Albatross,80-110,18-36,Dark green,20-30,Insectivore,Savannas,"Lions, Hyenas",56,Africa,Least Concern,Canidae,210-240,40,Group-based,2-5
+Alligator,270-310,40-65,Tan,10-14,Insectivore,Grasslands,Sharks,70,Africa,Least Concern,Orycteropodidae,60-90,40,Solitary,2-5
+Alligator,150-200,8-14,Grey,10-12,Carnivore,Grasslands,Sharks,56,Worldwide,Least Concern,Canidae,210-240,70,Herd-based,2-4 (usually)
+Albatross,100-120,8-15,White,60-70,Carnivore,Savannah,"Lions, Leopards",58,Africa,Endangered,Elephantidae,90,56,Solitary,1
+African Wild Dog,150-200,200-450,Tan,20-30,Insectivore,Grasslands,"Lions, Hyenas",24-30,Sub-Saharan Africa,Endangered,Elephantidae,Incubation,30,Solitary,1
+Alligator,105-130,8-15,Multicolored,10-14,Carnivore,Grasslands,"Lions, Hyenas",58,Eastern and Southern Africa,Least Concern,Elephantidae,Incubation,40,Solitary,1
+Alligator,105-130,8-14,Tan,60-70,Carnivore,Savannahs,Humans,25,Africa,Vulnerable,Hyaenidae,70,80,Group-based,1
+Albatross,75-80,120-250,Multicolored,60-70,Piscivore,Savannah,"Lions, Hyenas",25,Sub-Saharan Africa,Least Concern,Felidae,90,70,Group-based,1
+African Elephant,100-120,40-65,Tan,20-30,Carnivore,Grasslands,"Lions, Hyenas",70,Sub-Saharan Africa,Least Concern,Diomedeidae,90,56,Solitary,1
+Alligator,150-200,120-250,Grey,20-30,Carnivore,Grasslands,"Lions, Hyenas",24-30,Sub-Saharan Africa,Vulnerable,Hyaenidae,98-105,56,Solitary,10-20
+Aardwolf,100-120,200-450,Grey,35-50,Piscivore,Savannas,"Hyenas, Crocodiles",24-30,Africa,Endangered,Orycteropodidae,Incubation,70,Solitary,1
+Albatross,75-80,18-36,Grey,35-50,Carnivore,Savannas,Humans,70,Africa,Vulnerable,Canidae,70,80,Herd-based,10-20
+Alligator,105-130,8-14,White,35-50,Insectivore,Savannah,"Hyenas, Crocodiles",58,Worldwide,Least Concern,Canidae,60-90,30,Group-based,10-12
+Albatross,270-310,18-36,Multicolored,20-30,Carnivore,Savannah,Humans,40,Eastern and Southern Africa,Least Concern,Hyaenidae,90,30,Group-based,2-4 (usually)
+African Lion,75-80,2700-6000,White,35-50,Insectivore,Grasslands,Sharks,58,Africa,Near Threatened,Diomedeidae,210-240,40,Group-based,2-4 (usually)
+African Lion,100-120,2700-6000,Grey,10-14,Carnivore,Grasslands,Humans,25,Africa,Least Concern,Diomedeidae,640-660,70,Solitary,10-20
+Albatross,270-310,8-14,Yellow-brown,60-70,Carnivore,Savannas,Humans,58,Sub-Saharan Africa,Vulnerable,Alligatoridae,90,56,Solitary,10-12
+African Wild Dog,105-130,120-250,Grey,20-30,Piscivore,Savannas,"Lions, Leopards",70,Sub-Saharan Africa,Least Concern,Hyaenidae,640-660,40,Solitary,2-5
+Albatross,105-130,40-65,White,20-30,Carnivore,Grasslands,"Lions, Leopards",58,Africa,Vulnerable,Felidae,90,40,Solitary,1
+African Lion,105-130,40-65,Multicolored,10-12,Insectivore,Savannahs,"Lions, Leopards",40,Worldwide,Least Concern,Orycteropodidae,90,40,Group-based,1
+Aardvark,105-130,2700-6000,Grey,30-40,Carnivore,Savannas,"Lions, Hyenas",56,Worldwide,Least Concern,Elephantidae,210-240,30,Group-based,1
+African Lion,270-310,8-14,Dark green,60-70,Carnivore,Grasslands,"Lions, Hyenas",58,North America,Near Threatened,Hyaenidae,Incubation,70,Solitary,2-4 (usually)
+Albatross,100-120,8-14,Grey,60-70,Insectivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Hyaenidae,640-660,30,Solitary,2-4 (usually)
+African Lion,100-120,18-36,Yellow-brown,35-50,Carnivore,Savannah,"Lions, Leopards",56,Africa,Least Concern,Felidae,98-105,40,Group-based,2-5
+African Lion,40-50,8-14,Yellow-brown,60-70,Insectivore,Grasslands,"Lions, Hyenas",70,Eastern and Southern Africa,Near Threatened,Canidae,98-105,40,Group-based,1
+African Wild Dog,270-310,18-36,White,35-50,Herbivore,Savannah,"Hyenas, Crocodiles",25,Eastern and Southern Africa,Least Concern,Alligatoridae,640-660,40,Group-based,2-5
+African Elephant,75-80,200-450,Multicolored,35-50,Carnivore,Savannah,Sharks,25,Sub-Saharan Africa,Least Concern,Orycteropodidae,98-105,30,Group-based,2-5
+Alligator,100-120,120-250,Dark green,10-14,Carnivore,Grasslands,"Lions, Hyenas",70,Africa,Least Concern,Hyaenidae,60-90,40,Group-based,2-4 (usually)
+Aardvark,150-200,2700-6000,Grey,35-50,Insectivore,Oceans,"Lions, Hyenas",58,Eastern and Southern Africa,Vulnerable,Alligatoridae,70,40,Group-based,10-20
+Aardwolf,100-120,8-15,Dark green,30-40,Carnivore,Savannahs,Humans,56,Africa,Vulnerable,Elephantidae,Incubation,30,Group-based,1
+African Elephant,105-130,40-65,Multicolored,10-14,Herbivore,Savannahs,Humans,20,Africa,Vulnerable,Alligatoridae,98-105,40,Group-based,1
+Albatross,75-80,120-250,Tan,10-12,Carnivore,Grasslands,Humans,56,Africa,Vulnerable,Hyaenidae,640-660,80,Group-based,2-4 (usually)
+Aardvark,40-50,200-450,Multicolored,30-40,Piscivore,Savannah,"Lions, Hyenas",58,Africa,Least Concern,Orycteropodidae,Incubation,40,Group-based,1
+Aardvark,75-80,2700-6000,White,10-14,Carnivore,Savannah,Sharks,40,Eastern and Southern Africa,Near Threatened,Felidae,640-660,70,Solitary,1
+African Lion,75-80,120-250,Grey,20-30,Carnivore,Oceans,"Lions, Hyenas",25,Africa,Near Threatened,Elephantidae,98-105,70,Group-based,10-20
+Aardwolf,100-120,2700-6000,Dark green,60-70,Carnivore,Grasslands,"Lions, Leopards",58,Africa,Near Threatened,Orycteropodidae,Incubation,40,Solitary,1
+Albatross,100-120,8-14,Grey,10-12,Insectivore,Savannahs,"Lions, Hyenas",70,Worldwide,Least Concern,Elephantidae,90,80,Solitary,10-20
+Albatross,40-50,8-14,White,60-70,Carnivore,Grasslands,"Lions, Leopards",25,North America,Near Threatened,Alligatoridae,210-240,30,Group-based,2-5
+Aardwolf,80-110,200-450,Grey,60-70,Piscivore,Wetlands,"Hyenas, Crocodiles",58,Eastern and Southern Africa,Least Concern,Orycteropodidae,98-105,40,Group-based,10-12
+Alligator,105-130,8-14,White,60-70,Carnivore,Savannah,"Hyenas, Crocodiles",25,Africa,Least Concern,Alligatoridae,98-105,70,Solitary,1
+African Elephant,40-50,120-250,White,35-50,Carnivore,Grasslands,Humans,25,Africa,Near Threatened,Canidae,640-660,30,Group-based,2-5
+African Wild Dog,40-50,8-15,White,35-50,Carnivore,Grasslands,"Lions, Hyenas",20,Africa,Vulnerable,Alligatoridae,60-90,56,Herd-based,1
+Aardwolf,75-80,18-36,White,20-30,Carnivore,Savannahs,Humans,40,Eastern and Southern Africa,Least Concern,Elephantidae,98-105,70,Herd-based,1
+African Lion,75-80,120-250,Dark green,10-12,Carnivore,Wetlands,"Lions, Leopards",58,Sub-Saharan Africa,Endangered,Orycteropodidae,70,40,Solitary,10-12
+African Elephant,105-130,8-14,Tan,10-14,Piscivore,Savannah,"Lions, Hyenas",70,North America,Least Concern,Diomedeidae,Incubation,30,Solitary,2-4 (usually)
+Aardvark,40-50,2700-6000,Yellow-brown,30-40,Insectivore,Savannas,"Lions, Hyenas",20,Eastern and Southern Africa,Vulnerable,Hyaenidae,Incubation,56,Herd-based,1
+Aardwolf,105-130,8-14,Grey,30-40,Insectivore,Oceans,"Lions, Hyenas",70,Worldwide,Least Concern,Hyaenidae,60-90,30,Group-based,10-12
+Albatross,105-130,8-15,Grey,35-50,Carnivore,Wetlands,"Hyenas, Crocodiles",58,Africa,Least Concern,Diomedeidae,640-660,56,Herd-based,2-4 (usually)
+Aardvark,105-130,8-14,Tan,10-12,Piscivore,Savannahs,"Lions, Hyenas",25,Africa,Least Concern,Felidae,210-240,30,Herd-based,10-20
+African Elephant,270-310,40-65,Grey,20-30,Insectivore,Grasslands,"Lions, Hyenas",20,Africa,Least Concern,Diomedeidae,98-105,30,Group-based,10-20
+African Wild Dog,80-110,8-14,Grey,10-14,Carnivore,Wetlands,"Hyenas, Crocodiles",58,Africa,Vulnerable,Diomedeidae,640-660,40,Solitary,1
+African Lion,80-110,18-36,White,60-70,Carnivore,Savannah,Humans,58,Worldwide,Least Concern,Orycteropodidae,90,30,Herd-based,1
+Aardvark,105-130,120-250,Multicolored,35-50,Carnivore,Savannah,Sharks,25,North America,Endangered,Elephantidae,Incubation,40,Solitary,1
+Aardwolf,75-80,200-450,Grey,20-30,Piscivore,Oceans,Humans,40,Africa,Vulnerable,Orycteropodidae,Incubation,56,Solitary,2-5
+African Elephant,40-50,40-65,Yellow-brown,35-50,Herbivore,Grasslands,Sharks,24-30,North America,Least Concern,Hyaenidae,Incubation,40,Solitary,1
+African Wild Dog,150-200,8-14,Grey,10-14,Insectivore,Grasslands,"Lions, Hyenas",25,Worldwide,Least Concern,Elephantidae,60-90,56,Solitary,1
+African Wild Dog,75-80,2700-6000,Yellow-brown,35-50,Carnivore,Savannah,Humans,24-30,Worldwide,Near Threatened,Hyaenidae,70,80,Solitary,10-20
+Aardwolf,80-110,200-450,Grey,60-70,Piscivore,Wetlands,"Hyenas, Crocodiles",58,Eastern and Southern Africa,Least Concern,Orycteropodidae,98-105,40,Group-based,10-12
+African Wild Dog,80-110,8-15,Grey,10-12,Piscivore,Grasslands,"Lions, Leopards",25,Sub-Saharan Africa,Endangered,Hyaenidae,98-105,80,Solitary,2-4 (usually)
+African Elephant,270-310,8-14,Multicolored,30-40,Piscivore,Savannah,Sharks,56,Africa,Vulnerable,Orycteropodidae,90,56,Solitary,10-12
+Alligator,270-310,40-65,Grey,30-40,Piscivore,Savannas,"Hyenas, Crocodiles",58,Africa,Vulnerable,Canidae,90,40,Solitary,2-5
+Aardvark,270-310,200-450,Grey,10-14,Piscivore,Grasslands,"Lions, Hyenas",56,Worldwide,Least Concern,Diomedeidae,70,70,Group-based,2-4 (usually)
+Aardwolf,100-120,8-15,Dark green,10-12,Carnivore,Savannah,"Lions, Hyenas",56,Eastern and Southern Africa,Least Concern,Elephantidae,90,80,Solitary,1
+Alligator,270-310,8-15,Yellow-brown,20-30,Carnivore,Wetlands,"Lions, Leopards",58,Eastern and Southern Africa,Least Concern,Orycteropodidae,98-105,80,Solitary,2-4 (usually)
+Alligator,100-120,200-450,Yellow-brown,10-14,Herbivore,Savannahs,"Lions, Hyenas",20,Africa,Least Concern,Orycteropodidae,70,40,Solitary,1
+Aardwolf,150-200,8-15,Dark green,10-14,Piscivore,Savannas,Sharks,58,Africa,Least Concern,Orycteropodidae,70,56,Solitary,2-4 (usually)
+Albatross,105-130,8-14,Multicolored,10-12,Piscivore,Savannah,Humans,24-30,Sub-Saharan Africa,Least Concern,Felidae,210-240,40,Solitary,1
+Aardvark,150-200,8-14,Multicolored,35-50,Piscivore,Savannas,"Lions, Hyenas",58,Sub-Saharan Africa,Least Concern,Hyaenidae,Incubation,40,Solitary,10-20
+Aardvark,105-130,18-36,Grey,30-40,Piscivore,Savannahs,Sharks,58,Africa,Least Concern,Diomedeidae,210-240,40,Group-based,10-12
+Alligator,100-120,40-65,Yellow-brown,60-70,Carnivore,Savannas,Humans,24-30,Africa,Endangered,Hyaenidae,70,70,Group-based,1
+African Lion,105-130,40-65,Grey,60-70,Herbivore,Savannahs,Humans,20,North America,Vulnerable,Diomedeidae,640-660,30,Group-based,2-4 (usually)
+Alligator,270-310,120-250,Tan,30-40,Insectivore,Grasslands,"Hyenas, Crocodiles",24-30,Africa,Least Concern,Felidae,98-105,80,Group-based,2-4 (usually)
+Aardwolf,40-50,8-15,Yellow-brown,20-30,Carnivore,Wetlands,"Hyenas, Crocodiles",25,Africa,Least Concern,Elephantidae,98-105,80,Group-based,1
+African Elephant,100-120,40-65,Grey,35-50,Piscivore,Grasslands,"Lions, Hyenas",40,Africa,Least Concern,Elephantidae,70,80,Solitary,2-4 (usually)
+Alligator,100-120,40-65,White,10-14,Herbivore,Savannahs,Sharks,25,Sub-Saharan Africa,Vulnerable,Canidae,70,40,Solitary,1
+Albatross,40-50,8-15,Grey,20-30,Insectivore,Oceans,"Lions, Leopards",56,Sub-Saharan Africa,Vulnerable,Elephantidae,Incubation,40,Herd-based,2-4 (usually)
+Albatross,105-130,18-36,Multicolored,10-12,Herbivore,Savannas,"Hyenas, Crocodiles",40,North America,Least Concern,Felidae,210-240,40,Group-based,1
+African Elephant,150-200,18-36,Multicolored,60-70,Carnivore,Savannas,Humans,70,Africa,Vulnerable,Alligatoridae,210-240,80,Solitary,1
+African Lion,105-130,120-250,Dark green,60-70,Carnivore,Savannahs,Sharks,40,Africa,Endangered,Orycteropodidae,60-90,40,Group-based,1
+African Elephant,75-80,40-65,Tan,35-50,Insectivore,Savannah,Sharks,25,North America,Least Concern,Orycteropodidae,98-105,56,Group-based,1
+Aardvark,105-130,8-15,Dark green,30-40,Carnivore,Savannah,Humans,70,Africa,Vulnerable,Alligatoridae,90,30,Group-based,1
+African Wild Dog,80-110,8-15,Grey,10-12,Piscivore,Grasslands,"Lions, Leopards",25,Sub-Saharan Africa,Endangered,Hyaenidae,98-105,80,Solitary,2-4 (usually)
+Albatross,80-110,8-14,Grey,35-50,Insectivore,Wetlands,Sharks,70,Sub-Saharan Africa,Vulnerable,Diomedeidae,210-240,40,Solitary,10-20
+African Wild Dog,100-120,8-14,Grey,30-40,Herbivore,Savannahs,Sharks,25,Africa,Vulnerable,Felidae,90,70,Group-based,1
+Alligator,75-80,18-36,Yellow-brown,35-50,Carnivore,Savannas,"Hyenas, Crocodiles",24-30,North America,Least Concern,Felidae,60-90,56,Solitary,2-5
+African Wild Dog,100-120,8-15,Multicolored,10-14,Insectivore,Grasslands,"Lions, Leopards",25,Africa,Least Concern,Elephantidae,90,40,Group-based,10-20
+African Elephant,150-200,18-36,Multicolored,60-70,Carnivore,Savannahs,"Hyenas, Crocodiles",20,Eastern and Southern Africa,Least Concern,Canidae,98-105,80,Herd-based,2-4 (usually)
+African Wild Dog,150-200,120-250,Grey,10-14,Insectivore,Oceans,"Lions, Hyenas",70,Worldwide,Vulnerable,Hyaenidae,70,40,Group-based,2-5
+Aardwolf,40-50,40-65,Dark green,35-50,Piscivore,Grasslands,"Lions, Hyenas",25,North America,Vulnerable,Elephantidae,640-660,40,Solitary,1
+Alligator,75-80,200-450,Yellow-brown,30-40,Carnivore,Savannas,Humans,56,Africa,Vulnerable,Felidae,90,30,Solitary,2-4 (usually)
+Aardvark,100-120,2700-6000,Grey,30-40,Herbivore,Savannah,"Lions, Hyenas",25,Eastern and Southern Africa,Least Concern,Canidae,70,80,Solitary,2-5
+Alligator,270-310,18-36,Tan,20-30,Carnivore,Oceans,"Lions, Hyenas",24-30,Africa,Vulnerable,Hyaenidae,60-90,56,Group-based,1
+Albatross,105-130,18-36,Multicolored,10-12,Herbivore,Savannas,"Hyenas, Crocodiles",40,North America,Least Concern,Felidae,210-240,40,Group-based,1
+Aardwolf,150-200,40-65,Grey,30-40,Piscivore,Oceans,Sharks,24-30,North America,Near Threatened,Diomedeidae,Incubation,30,Solitary,2-4 (usually)
+Aardvark,40-50,8-15,Dark green,10-14,Carnivore,Savannas,"Lions, Hyenas",58,Worldwide,Endangered,Diomedeidae,60-90,40,Group-based,10-12
+Alligator,40-50,40-65,Yellow-brown,10-12,Herbivore,Grasslands,"Lions, Hyenas",58,Eastern and Southern Africa,Near Threatened,Elephantidae,60-90,40,Solitary,2-5
+Aardvark,40-50,120-250,Grey,30-40,Carnivore,Oceans,"Hyenas, Crocodiles",24-30,North America,Endangered,Diomedeidae,Incubation,70,Herd-based,2-4 (usually)
+Alligator,100-120,120-250,Multicolored,60-70,Piscivore,Wetlands,"Lions, Hyenas",20,Eastern and Southern Africa,Near Threatened,Diomedeidae,90,40,Group-based,1
+Alligator,80-110,2700-6000,Yellow-brown,10-12,Insectivore,Grasslands,"Lions, Hyenas",56,Africa,Endangered,Felidae,70,80,Solitary,1
+Aardvark,40-50,8-14,Grey,60-70,Carnivore,Oceans,"Lions, Hyenas",24-30,Eastern and Southern Africa,Near Threatened,Orycteropodidae,98-105,40,Group-based,1
+Aardwolf,40-50,40-65,Grey,10-12,Insectivore,Grasslands,"Lions, Hyenas",70,Africa,Least Concern,Alligatoridae,Incubation,40,Solitary,1
+African Wild Dog,270-310,2700-6000,Grey,20-30,Insectivore,Grasslands,"Lions, Hyenas",20,Worldwide,Vulnerable,Elephantidae,70,40,Solitary,10-12
+Aardwolf,105-130,120-250,Yellow-brown,20-30,Insectivore,Savannahs,"Lions, Hyenas",70,North America,Vulnerable,Hyaenidae,70,70,Herd-based,10-20
+Alligator,100-120,8-15,White,60-70,Insectivore,Savannas,"Hyenas, Crocodiles",58,Africa,Least Concern,Canidae,640-660,30,Group-based,1
+Aardvark,100-120,8-14,Yellow-brown,10-14,Carnivore,Wetlands,Sharks,58,Africa,Near Threatened,Canidae,90,70,Solitary,2-5
+African Lion,40-50,200-450,Multicolored,30-40,Insectivore,Savannas,"Lions, Hyenas",70,Africa,Vulnerable,Canidae,210-240,30,Group-based,2-5
+African Wild Dog,270-310,120-250,Dark green,30-40,Insectivore,Wetlands,Sharks,40,Worldwide,Least Concern,Felidae,640-660,30,Solitary,2-4 (usually)
+Albatross,100-120,8-15,Grey,20-30,Insectivore,Savannah,"Lions, Hyenas",24-30,Africa,Vulnerable,Elephantidae,90,80,Herd-based,1
+African Elephant,40-50,40-65,Grey,10-12,Insectivore,Wetlands,Humans,25,Africa,Least Concern,Diomedeidae,70,30,Herd-based,1
+African Lion,150-200,200-450,Tan,10-12,Carnivore,Savannahs,"Lions, Hyenas",24-30,North America,Vulnerable,Diomedeidae,210-240,70,Group-based,2-5
+Alligator,80-110,120-250,Dark green,10-12,Insectivore,Savannas,Sharks,58,Eastern and Southern Africa,Vulnerable,Diomedeidae,70,40,Group-based,1
+Aardwolf,150-200,200-450,Yellow-brown,10-14,Carnivore,Wetlands,"Lions, Hyenas",25,North America,Near Threatened,Alligatoridae,98-105,70,Group-based,2-5
+Aardvark,80-110,18-36,Grey,60-70,Carnivore,Savannahs,"Lions, Hyenas",40,Eastern and Southern Africa,Near Threatened,Elephantidae,90,40,Solitary,1
+Alligator,75-80,18-36,White,10-12,Piscivore,Wetlands,Humans,70,Africa,Least Concern,Alligatoridae,Incubation,40,Group-based,2-4 (usually)
+Albatross,270-310,200-450,Yellow-brown,35-50,Carnivore,Savannas,"Lions, Hyenas",24-30,Africa,Least Concern,Canidae,210-240,40,Group-based,10-20
+Aardvark,270-310,18-36,Yellow-brown,60-70,Carnivore,Grasslands,"Lions, Hyenas",40,North America,Least Concern,Diomedeidae,640-660,30,Solitary,2-4 (usually)
+African Elephant,105-130,200-450,Dark green,10-12,Insectivore,Savannah,"Lions, Leopards",20,Eastern and Southern Africa,Least Concern,Felidae,Incubation,56,Solitary,10-20
+African Lion,80-110,18-36,Tan,35-50,Carnivore,Oceans,"Lions, Hyenas",40,Africa,Least Concern,Elephantidae,90,40,Solitary,2-4 (usually)
+African Wild Dog,75-80,120-250,Grey,10-12,Herbivore,Oceans,"Lions, Leopards",40,North America,Vulnerable,Orycteropodidae,210-240,40,Group-based,1
+Alligator,105-130,18-36,Grey,10-14,Insectivore,Wetlands,"Hyenas, Crocodiles",58,Eastern and Southern Africa,Least Concern,Felidae,210-240,40,Solitary,10-12
+Aardwolf,105-130,18-36,White,10-12,Piscivore,Wetlands,"Lions, Hyenas",58,North America,Least Concern,Elephantidae,70,30,Group-based,10-12
+African Wild Dog,150-200,120-250,Tan,35-50,Herbivore,Savannahs,"Lions, Hyenas",25,Worldwide,Endangered,Orycteropodidae,90,40,Solitary,1
+Alligator,105-130,40-65,Yellow-brown,10-12,Insectivore,Oceans,"Lions, Hyenas",24-30,Africa,Least Concern,Hyaenidae,60-90,40,Solitary,10-12
+Aardwolf,75-80,200-450,Grey,20-30,Piscivore,Oceans,Humans,40,Africa,Vulnerable,Orycteropodidae,Incubation,56,Solitary,2-5
+African Elephant,80-110,40-65,Multicolored,10-12,Herbivore,Savannahs,"Lions, Hyenas",70,Africa,Least Concern,Alligatoridae,90,70,Group-based,1
+Aardvark,105-130,120-250,Multicolored,35-50,Carnivore,Savannah,Sharks,25,North America,Endangered,Elephantidae,Incubation,40,Solitary,1
+African Elephant,105-130,40-65,Multicolored,30-40,Carnivore,Savannahs,Sharks,56,Sub-Saharan Africa,Near Threatened,Felidae,Incubation,30,Group-based,10-12
+Albatross,40-50,200-450,White,10-12,Carnivore,Wetlands,"Lions, Hyenas",58,Africa,Vulnerable,Canidae,210-240,40,Group-based,10-20
+Albatross,150-200,200-450,Grey,35-50,Herbivore,Savannahs,"Lions, Hyenas",70,North America,Least Concern,Alligatoridae,98-105,40,Group-based,10-20
+African Lion,105-130,120-250,Dark green,60-70,Carnivore,Savannahs,Sharks,40,Africa,Endangered,Orycteropodidae,60-90,40,Group-based,1
+Albatross,270-310,8-14,Grey,35-50,Piscivore,Grasslands,Sharks,70,Sub-Saharan Africa,Endangered,Orycteropodidae,60-90,30,Solitary,2-5
+Aardwolf,150-200,2700-6000,Yellow-brown,60-70,Piscivore,Savannahs,"Lions, Leopards",20,Eastern and Southern Africa,Vulnerable,Elephantidae,70,40,Group-based,1
+Aardvark,100-120,8-14,Dark green,35-50,Carnivore,Grasslands,Sharks,58,Africa,Vulnerable,Orycteropodidae,640-660,40,Herd-based,2-4 (usually)
+African Elephant,100-120,2700-6000,Tan,20-30,Carnivore,Grasslands,Humans,58,Africa,Least Concern,Diomedeidae,640-660,56,Solitary,2-5
+African Elephant,40-50,40-65,Tan,35-50,Piscivore,Oceans,"Lions, Hyenas",70,Africa,Least Concern,Alligatoridae,Incubation,80,Solitary,1
+Albatross,80-110,18-36,Grey,10-12,Insectivore,Grasslands,Sharks,25,Eastern and Southern Africa,Least Concern,Diomedeidae,60-90,40,Solitary,10-20
+African Lion,80-110,8-14,Tan,35-50,Carnivore,Wetlands,Humans,58,Sub-Saharan Africa,Vulnerable,Diomedeidae,640-660,70,Solitary,2-5
+Aardwolf,150-200,200-450,Yellow-brown,60-70,Carnivore,Wetlands,"Lions, Hyenas",25,Africa,Least Concern,Orycteropodidae,98-105,30,Solitary,10-20
+African Elephant,270-310,8-15,Grey,60-70,Carnivore,Wetlands,"Lions, Hyenas",24-30,Africa,Least Concern,Canidae,98-105,40,Herd-based,1
+African Wild Dog,80-110,8-14,Dark green,10-14,Carnivore,Savannas,"Lions, Hyenas",70,Africa,Least Concern,Alligatoridae,98-105,80,Solitary,1
+Alligator,80-110,2700-6000,Multicolored,60-70,Herbivore,Savannas,"Lions, Hyenas",70,Eastern and Southern Africa,Least Concern,Canidae,640-660,40,Solitary,1
+African Lion,75-80,8-15,Tan,60-70,Insectivore,Grasslands,"Lions, Leopards",70,Sub-Saharan Africa,Vulnerable,Felidae,210-240,56,Group-based,10-12
+Albatross,150-200,200-450,Dark green,60-70,Carnivore,Savannah,"Lions, Hyenas",25,Africa,Least Concern,Hyaenidae,210-240,56,Group-based,2-5
+African Elephant,100-120,200-450,Multicolored,10-14,Piscivore,Wetlands,"Lions, Hyenas",56,Africa,Vulnerable,Felidae,90,80,Group-based,1
+Albatross,270-310,2700-6000,Tan,60-70,Herbivore,Savannas,"Hyenas, Crocodiles",58,Eastern and Southern Africa,Vulnerable,Felidae,640-660,40,Group-based,2-5
+African Elephant,40-50,18-36,Yellow-brown,20-30,Piscivore,Oceans,Humans,58,Africa,Endangered,Diomedeidae,Incubation,40,Solitary,2-5
+African Elephant,105-130,2700-6000,Tan,35-50,Insectivore,Wetlands,"Lions, Hyenas",56,Africa,Least Concern,Hyaenidae,Incubation,80,Group-based,10-12
+Aardvark,150-200,40-65,Grey,20-30,Insectivore,Grasslands,"Lions, Hyenas",25,Africa,Least Concern,Orycteropodidae,90,56,Group-based,2-5
+Alligator,100-120,8-14,Tan,35-50,Insectivore,Savannah,"Lions, Leopards",40,North America,Least Concern,Diomedeidae,210-240,40,Solitary,2-5
+African Lion,40-50,8-15,Dark green,10-12,Carnivore,Grasslands,"Lions, Hyenas",70,North America,Vulnerable,Felidae,Incubation,70,Solitary,2-5
+Albatross,100-120,8-15,White,10-14,Carnivore,Savannas,"Lions, Hyenas",58,Africa,Vulnerable,Alligatoridae,98-105,30,Solitary,10-20
+African Wild Dog,80-110,120-250,Tan,35-50,Carnivore,Savannahs,"Hyenas, Crocodiles",56,Africa,Endangered,Elephantidae,640-660,56,Solitary,1
+African Lion,270-310,8-14,Grey,10-12,Insectivore,Grasslands,"Hyenas, Crocodiles",40,Worldwide,Least Concern,Felidae,640-660,80,Group-based,1
+Aardwolf,105-130,40-65,Grey,10-12,Carnivore,Savannas,"Hyenas, Crocodiles",24-30,Africa,Near Threatened,Felidae,70,30,Group-based,2-5
+Alligator,105-130,8-14,Tan,20-30,Piscivore,Oceans,"Lions, Leopards",20,Africa,Vulnerable,Felidae,70,56,Solitary,1
+Albatross,75-80,40-65,Yellow-brown,10-14,Insectivore,Oceans,Humans,56,Africa,Vulnerable,Orycteropodidae,640-660,80,Group-based,10-12
+Alligator,270-310,40-65,Tan,10-14,Insectivore,Grasslands,Sharks,70,Africa,Least Concern,Orycteropodidae,60-90,40,Solitary,2-5
+African Lion,40-50,120-250,Grey,60-70,Herbivore,Savannas,Humans,56,Worldwide,Vulnerable,Elephantidae,640-660,70,Solitary,10-12
+Aardvark,105-130,120-250,Tan,60-70,Carnivore,Savannahs,"Lions, Hyenas",25,North America,Least Concern,Orycteropodidae,98-105,80,Group-based,2-5
+Aardvark,75-80,40-65,Tan,35-50,Herbivore,Grasslands,Sharks,24-30,Sub-Saharan Africa,Least Concern,Diomedeidae,210-240,40,Group-based,10-12
+Aardwolf,105-130,8-14,Yellow-brown,10-12,Herbivore,Savannahs,"Lions, Hyenas",58,Africa,Vulnerable,Alligatoridae,210-240,56,Solitary,2-5
+Aardwolf,270-310,18-36,Multicolored,10-12,Insectivore,Savannas,Sharks,58,Africa,Least Concern,Elephantidae,60-90,70,Group-based,2-4 (usually)
+African Elephant,80-110,40-65,Multicolored,10-12,Herbivore,Savannahs,"Lions, Hyenas",70,Africa,Least Concern,Alligatoridae,90,70,Group-based,1
+Alligator,40-50,2700-6000,Tan,20-30,Carnivore,Wetlands,Sharks,25,Africa,Vulnerable,Felidae,60-90,80,Solitary,1
+African Wild Dog,105-130,8-15,White,10-12,Piscivore,Savannas,"Lions, Hyenas",25,Sub-Saharan Africa,Least Concern,Hyaenidae,640-660,40,Group-based,1
+Aardvark,40-50,120-250,Grey,10-12,Insectivore,Grasslands,Sharks,24-30,Worldwide,Vulnerable,Elephantidae,640-660,40,Solitary,10-20
+African Elephant,100-120,40-65,Tan,20-30,Insectivore,Savannah,"Lions, Leopards",70,Worldwide,Endangered,Diomedeidae,210-240,40,Group-based,10-20
+African Elephant,40-50,8-14,Tan,10-12,Insectivore,Oceans,Sharks,40,Africa,Least Concern,Elephantidae,98-105,40,Solitary,1
+African Elephant,75-80,40-65,Dark green,35-50,Insectivore,Savannas,Humans,24-30,Africa,Endangered,Alligatoridae,Incubation,30,Solitary,1
+Aardwolf,150-200,200-450,Grey,10-14,Insectivore,Grasslands,"Lions, Hyenas",58,North America,Vulnerable,Diomedeidae,60-90,30,Herd-based,10-20
+Aardvark,75-80,120-250,Grey,10-12,Herbivore,Wetlands,"Hyenas, Crocodiles",58,Sub-Saharan Africa,Vulnerable,Alligatoridae,640-660,80,Solitary,2-5
+African Wild Dog,105-130,8-15,Yellow-brown,30-40,Insectivore,Savannah,Sharks,25,Africa,Least Concern,Hyaenidae,90,40,Group-based,10-12
+Albatross,100-120,8-15,Yellow-brown,10-12,Insectivore,Oceans,"Lions, Hyenas",40,Africa,Least Concern,Elephantidae,210-240,40,Solitary,1
+African Elephant,100-120,120-250,Yellow-brown,30-40,Carnivore,Grasslands,"Lions, Leopards",70,Sub-Saharan Africa,Least Concern,Felidae,Incubation,40,Group-based,10-12
+Aardwolf,80-110,8-14,Grey,10-12,Carnivore,Oceans,"Lions, Hyenas",56,Africa,Vulnerable,Canidae,640-660,80,Solitary,10-12
+African Lion,105-130,40-65,Dark green,10-12,Insectivore,Savannahs,Humans,20,Sub-Saharan Africa,Near Threatened,Elephantidae,90,30,Herd-based,1
+Aardvark,40-50,8-14,Dark green,30-40,Herbivore,Oceans,Humans,58,North America,Least Concern,Alligatoridae,90,56,Group-based,1
+Albatross,75-80,18-36,Grey,20-30,Piscivore,Wetlands,"Lions, Hyenas",25,Africa,Vulnerable,Alligatoridae,640-660,80,Herd-based,1
+Alligator,80-110,8-14,Multicolored,60-70,Carnivore,Grasslands,"Lions, Hyenas",25,Sub-Saharan Africa,Endangered,Diomedeidae,70,80,Group-based,1
+Aardvark,40-50,8-14,Dark green,30-40,Herbivore,Oceans,Humans,58,North America,Least Concern,Alligatoridae,90,56,Group-based,1
+African Wild Dog,75-80,8-14,White,10-12,Piscivore,Savannas,"Lions, Leopards",56,Sub-Saharan Africa,Least Concern,Felidae,210-240,40,Group-based,1
+African Lion,100-120,8-14,Grey,10-12,Insectivore,Grasslands,"Lions, Hyenas",20,Worldwide,Endangered,Diomedeidae,Incubation,40,Solitary,10-12
+African Elephant,150-200,8-14,Dark green,10-12,Herbivore,Savannas,"Lions, Hyenas",24-30,Africa,Near Threatened,Elephantidae,70,56,Solitary,2-5
+Aardvark,270-310,120-250,White,60-70,Insectivore,Savannah,"Lions, Hyenas",58,Sub-Saharan Africa,Least Concern,Diomedeidae,640-660,70,Solitary,1
+Aardwolf,100-120,8-15,Dark green,60-70,Carnivore,Savannas,Humans,56,Worldwide,Endangered,Canidae,Incubation,40,Herd-based,2-5
+African Elephant,100-120,200-450,Multicolored,30-40,Carnivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Orycteropodidae,Incubation,40,Solitary,10-12
+Alligator,100-120,8-14,Multicolored,35-50,Carnivore,Savannahs,Humans,40,Africa,Least Concern,Felidae,60-90,56,Solitary,1
+African Elephant,105-130,8-14,Tan,10-14,Piscivore,Savannah,"Lions, Hyenas",70,North America,Least Concern,Diomedeidae,Incubation,30,Solitary,2-4 (usually)
+Albatross,100-120,120-250,Grey,60-70,Herbivore,Oceans,"Lions, Leopards",20,Worldwide,Endangered,Orycteropodidae,70,56,Herd-based,10-20
+Alligator,105-130,2700-6000,Yellow-brown,60-70,Insectivore,Grasslands,"Hyenas, Crocodiles",56,Africa,Vulnerable,Orycteropodidae,Incubation,70,Group-based,10-12
+Albatross,270-310,18-36,Yellow-brown,20-30,Insectivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Diomedeidae,640-660,30,Solitary,1
+African Wild Dog,105-130,8-15,Multicolored,10-12,Carnivore,Savannahs,Humans,56,Africa,Least Concern,Orycteropodidae,60-90,80,Group-based,1
+African Lion,105-130,8-15,Tan,35-50,Insectivore,Savannas,Humans,20,Worldwide,Near Threatened,Diomedeidae,98-105,40,Group-based,2-5
+African Wild Dog,75-80,8-14,Tan,20-30,Carnivore,Savannah,"Lions, Hyenas",70,Africa,Endangered,Diomedeidae,Incubation,70,Solitary,1
+Aardvark,40-50,200-450,White,10-12,Insectivore,Oceans,"Lions, Leopards",40,North America,Least Concern,Diomedeidae,210-240,56,Solitary,1
+Alligator,75-80,8-15,Dark green,10-14,Carnivore,Wetlands,"Lions, Hyenas",20,Africa,Near Threatened,Elephantidae,90,40,Group-based,1
+African Elephant,100-120,8-15,Multicolored,10-12,Carnivore,Savannahs,"Lions, Hyenas",24-30,North America,Near Threatened,Felidae,60-90,40,Solitary,10-12
+Aardwolf,40-50,18-36,Dark green,35-50,Carnivore,Grasslands,Humans,56,Africa,Least Concern,Orycteropodidae,90,70,Group-based,1
+African Lion,105-130,200-450,White,30-40,Insectivore,Wetlands,Humans,56,Africa,Vulnerable,Diomedeidae,98-105,30,Solitary,1
+African Elephant,80-110,40-65,Grey,10-12,Piscivore,Savannah,"Lions, Hyenas",20,Eastern and Southern Africa,Endangered,Hyaenidae,98-105,70,Solitary,1
+Albatross,105-130,2700-6000,Yellow-brown,10-12,Insectivore,Grasslands,Humans,56,Africa,Near Threatened,Canidae,90,40,Solitary,10-20
+African Wild Dog,75-80,8-14,Tan,30-40,Carnivore,Savannas,"Hyenas, Crocodiles",25,Sub-Saharan Africa,Near Threatened,Alligatoridae,Incubation,40,Solitary,1
+Alligator,75-80,8-14,Multicolored,10-12,Carnivore,Savannah,"Lions, Hyenas",20,Africa,Least Concern,Felidae,60-90,70,Solitary,2-5
+Aardwolf,150-200,8-14,Multicolored,10-12,Carnivore,Wetlands,"Lions, Hyenas",58,North America,Vulnerable,Elephantidae,Incubation,80,Solitary,1
+Aardvark,270-310,200-450,Dark green,10-12,Herbivore,Grasslands,"Lions, Hyenas",40,Worldwide,Least Concern,Orycteropodidae,70,40,Solitary,2-4 (usually)
+African Wild Dog,80-110,8-14,Grey,30-40,Insectivore,Oceans,"Lions, Hyenas",24-30,Worldwide,Near Threatened,Felidae,640-660,40,Herd-based,1
+Aardwolf,100-120,40-65,Dark green,60-70,Herbivore,Savannas,"Hyenas, Crocodiles",58,Eastern and Southern Africa,Least Concern,Orycteropodidae,90,40,Group-based,1
+Aardwolf,150-200,8-15,Yellow-brown,30-40,Insectivore,Grasslands,Humans,58,Eastern and Southern Africa,Endangered,Orycteropodidae,Incubation,40,Solitary,10-20
+African Wild Dog,100-120,8-14,Yellow-brown,10-14,Herbivore,Wetlands,"Lions, Hyenas",56,North America,Near Threatened,Elephantidae,210-240,56,Group-based,10-12
+African Lion,105-130,200-450,Dark green,60-70,Piscivore,Savannah,"Hyenas, Crocodiles",40,Worldwide,Least Concern,Hyaenidae,210-240,30,Group-based,10-20
+African Wild Dog,150-200,18-36,Tan,35-50,Insectivore,Grasslands,"Lions, Hyenas",20,Africa,Least Concern,Hyaenidae,210-240,40,Group-based,2-5
+African Wild Dog,75-80,8-14,White,20-30,Insectivore,Wetlands,Humans,40,North America,Endangered,Hyaenidae,60-90,30,Solitary,2-5
+Alligator,105-130,8-15,White,10-14,Carnivore,Grasslands,Sharks,24-30,Africa,Least Concern,Elephantidae,70,30,Herd-based,10-20
+Aardwolf,75-80,2700-6000,Yellow-brown,20-30,Herbivore,Grasslands,Humans,58,Worldwide,Vulnerable,Alligatoridae,98-105,80,Group-based,1
+Aardwolf,100-120,8-15,Grey,60-70,Carnivore,Savannahs,"Lions, Hyenas",70,Sub-Saharan Africa,Near Threatened,Hyaenidae,Incubation,40,Herd-based,2-4 (usually)
+Alligator,270-310,18-36,Tan,20-30,Carnivore,Oceans,"Lions, Hyenas",24-30,Africa,Vulnerable,Hyaenidae,60-90,56,Group-based,1
+Alligator,100-120,40-65,Grey,20-30,Herbivore,Oceans,Sharks,40,Africa,Near Threatened,Alligatoridae,70,40,Group-based,1
+African Elephant,270-310,8-15,Dark green,60-70,Insectivore,Wetlands,"Lions, Hyenas",24-30,Eastern and Southern Africa,Near Threatened,Hyaenidae,Incubation,30,Herd-based,1
+Albatross,80-110,18-36,Dark green,20-30,Insectivore,Savannas,"Lions, Hyenas",56,Africa,Least Concern,Canidae,210-240,40,Group-based,2-5
+Alligator,150-200,8-14,Grey,10-12,Carnivore,Grasslands,Sharks,56,Worldwide,Least Concern,Canidae,210-240,70,Herd-based,2-4 (usually)
+Aardwolf,270-310,40-65,Yellow-brown,20-30,Piscivore,Oceans,Sharks,70,Worldwide,Least Concern,Elephantidae,Incubation,80,Solitary,2-4 (usually)
+African Lion,105-130,8-15,Multicolored,20-30,Carnivore,Savannahs,"Lions, Hyenas",24-30,Africa,Near Threatened,Felidae,640-660,40,Solitary,1
+African Wild Dog,270-310,40-65,Dark green,10-12,Insectivore,Savannah,Humans,58,Africa,Least Concern,Hyaenidae,Incubation,40,Group-based,2-4 (usually)
+African Lion,105-130,120-250,White,35-50,Piscivore,Grasslands,"Lions, Leopards",56,Eastern and Southern Africa,Least Concern,Canidae,210-240,40,Group-based,2-4 (usually)
+Albatross,75-80,40-65,Yellow-brown,10-12,Piscivore,Grasslands,"Lions, Leopards",20,Worldwide,Vulnerable,Canidae,90,40,Solitary,1
+Aardwolf,105-130,18-36,Tan,60-70,Piscivore,Wetlands,"Lions, Hyenas",20,North America,Near Threatened,Orycteropodidae,60-90,56,Solitary,2-5
+Aardvark,105-130,18-36,Grey,10-12,Piscivore,Savannah,"Lions, Hyenas",20,North America,Endangered,Diomedeidae,98-105,70,Solitary,2-5
+Aardvark,75-80,18-36,Dark green,10-12,Herbivore,Oceans,"Lions, Hyenas",70,Africa,Endangered,Orycteropodidae,70,40,Herd-based,1
+African Lion,80-110,2700-6000,Yellow-brown,10-12,Piscivore,Wetlands,"Lions, Hyenas",25,Sub-Saharan Africa,Vulnerable,Diomedeidae,640-660,70,Solitary,1
+Alligator,100-120,40-65,Yellow-brown,60-70,Carnivore,Savannas,Humans,24-30,Africa,Endangered,Hyaenidae,70,70,Group-based,1
+Albatross,270-310,120-250,Multicolored,30-40,Herbivore,Savannahs,"Hyenas, Crocodiles",58,Africa,Least Concern,Alligatoridae,90,40,Solitary,10-12
+African Lion,75-80,40-65,Grey,10-14,Carnivore,Grasslands,"Lions, Hyenas",70,Sub-Saharan Africa,Endangered,Alligatoridae,70,80,Solitary,1
+Aardvark,270-310,18-36,Multicolored,10-14,Insectivore,Grasslands,"Hyenas, Crocodiles",70,Africa,Least Concern,Felidae,60-90,30,Herd-based,2-5
+African Lion,75-80,120-250,Tan,10-12,Insectivore,Savannahs,Sharks,58,Worldwide,Least Concern,Diomedeidae,60-90,30,Group-based,1
+Aardwolf,75-80,8-15,Tan,20-30,Carnivore,Savannahs,"Lions, Hyenas",40,Africa,Least Concern,Hyaenidae,210-240,80,Herd-based,2-4 (usually)
+Aardwolf,150-200,8-15,Tan,20-30,Carnivore,Oceans,"Lions, Hyenas",40,Africa,Near Threatened,Diomedeidae,98-105,30,Group-based,2-5
+Albatross,105-130,40-65,White,20-30,Carnivore,Grasslands,"Lions, Leopards",58,Africa,Vulnerable,Felidae,90,40,Solitary,1
+African Lion,150-200,120-250,White,10-14,Piscivore,Savannahs,"Hyenas, Crocodiles",25,Sub-Saharan Africa,Endangered,Canidae,98-105,40,Solitary,1
+Aardvark,270-310,18-36,Yellow-brown,60-70,Carnivore,Grasslands,"Lions, Hyenas",40,North America,Least Concern,Diomedeidae,640-660,30,Solitary,2-4 (usually)
+Albatross,40-50,8-14,Grey,60-70,Carnivore,Savannas,Sharks,20,Africa,Vulnerable,Elephantidae,90,40,Solitary,1
+African Lion,75-80,2700-6000,Grey,30-40,Carnivore,Wetlands,"Lions, Hyenas",20,Africa,Vulnerable,Elephantidae,70,70,Solitary,1
+African Wild Dog,75-80,8-14,Grey,20-30,Carnivore,Savannas,"Hyenas, Crocodiles",25,Africa,Vulnerable,Alligatoridae,90,70,Group-based,10-12
+African Wild Dog,105-130,2700-6000,Yellow-brown,60-70,Herbivore,Grasslands,"Lions, Hyenas",25,North America,Least Concern,Elephantidae,90,70,Solitary,10-12
+Aardvark,100-120,200-450,Yellow-brown,30-40,Carnivore,Savannas,"Lions, Hyenas",56,Eastern and Southern Africa,Least Concern,Diomedeidae,210-240,70,Solitary,10-12
+African Wild Dog,80-110,40-65,Grey,30-40,Carnivore,Wetlands,"Lions, Hyenas",70,Africa,Vulnerable,Orycteropodidae,70,70,Solitary,1
+Aardvark,105-130,200-450,Dark green,20-30,Insectivore,Savannas,"Lions, Leopards",56,North America,Least Concern,Orycteropodidae,98-105,56,Group-based,2-4 (usually)
+Aardvark,80-110,120-250,Grey,60-70,Insectivore,Grasslands,Sharks,70,Africa,Least Concern,Canidae,210-240,40,Solitary,2-5
+Alligator,105-130,2700-6000,Tan,10-12,Insectivore,Wetlands,"Lions, Hyenas",58,Africa,Least Concern,Diomedeidae,90,80,Group-based,10-12
+African Elephant,150-200,8-14,Grey,30-40,Carnivore,Grasslands,"Lions, Leopards",25,Africa,Near Threatened,Orycteropodidae,98-105,70,Herd-based,1
+African Lion,80-110,200-450,Tan,60-70,Piscivore,Savannah,"Lions, Hyenas",56,Eastern and Southern Africa,Least Concern,Canidae,90,56,Group-based,10-12
+Albatross,100-120,40-65,Multicolored,35-50,Insectivore,Savannahs,"Lions, Hyenas",40,Worldwide,Near Threatened,Alligatoridae,70,40,Solitary,1
+African Wild Dog,80-110,18-36,Multicolored,35-50,Herbivore,Wetlands,"Hyenas, Crocodiles",40,Worldwide,Least Concern,Orycteropodidae,98-105,40,Herd-based,2-4 (usually)
+Alligator,105-130,18-36,Multicolored,35-50,Carnivore,Oceans,Humans,40,Africa,Least Concern,Felidae,60-90,40,Group-based,2-4 (usually)
+Alligator,100-120,8-15,White,60-70,Insectivore,Savannas,"Hyenas, Crocodiles",58,Africa,Least Concern,Canidae,640-660,30,Group-based,1
+Alligator,40-50,2700-6000,White,10-12,Insectivore,Oceans,Sharks,24-30,Africa,Near Threatened,Diomedeidae,60-90,40,Group-based,1
+African Elephant,270-310,200-450,Multicolored,30-40,Insectivore,Savannas,Sharks,25,Africa,Least Concern,Orycteropodidae,70,40,Solitary,10-20
+Albatross,270-310,8-15,Tan,30-40,Carnivore,Wetlands,"Lions, Hyenas",56,Africa,Least Concern,Orycteropodidae,60-90,40,Solitary,1
+African Elephant,105-130,120-250,Dark green,60-70,Carnivore,Savannahs,"Lions, Hyenas",56,Africa,Near Threatened,Alligatoridae,98-105,56,Solitary,10-20
+Aardvark,105-130,200-450,Grey,20-30,Piscivore,Savannas,"Hyenas, Crocodiles",20,Eastern and Southern Africa,Near Threatened,Hyaenidae,Incubation,56,Group-based,1
+African Wild Dog,100-120,120-250,Dark green,35-50,Insectivore,Savannah,"Lions, Leopards",24-30,Africa,Least Concern,Elephantidae,98-105,80,Herd-based,1
+African Lion,100-120,2700-6000,Grey,10-12,Carnivore,Grasslands,"Hyenas, Crocodiles",24-30,Worldwide,Endangered,Felidae,640-660,56,Solitary,1
+Albatross,40-50,120-250,Dark green,60-70,Insectivore,Wetlands,"Lions, Leopards",40,Africa,Near Threatened,Orycteropodidae,60-90,56,Group-based,1
+Albatross,80-110,200-450,Multicolored,10-14,Insectivore,Savannah,"Hyenas, Crocodiles",24-30,Africa,Vulnerable,Orycteropodidae,Incubation,40,Group-based,1
+Albatross,75-80,2700-6000,Multicolored,30-40,Carnivore,Savannah,Sharks,40,North America,Least Concern,Felidae,70,40,Group-based,1
+Aardvark,40-50,8-15,Multicolored,20-30,Insectivore,Wetlands,Sharks,58,Worldwide,Vulnerable,Felidae,90,56,Solitary,10-20
+African Elephant,105-130,120-250,Dark green,60-70,Carnivore,Savannahs,"Lions, Hyenas",56,Africa,Near Threatened,Alligatoridae,98-105,56,Solitary,10-20
+Alligator,40-50,2700-6000,White,10-12,Insectivore,Oceans,Sharks,24-30,Africa,Near Threatened,Diomedeidae,60-90,40,Group-based,1
+Albatross,75-80,18-36,White,30-40,Piscivore,Oceans,"Lions, Hyenas",58,Africa,Least Concern,Orycteropodidae,210-240,40,Solitary,1
+Albatross,40-50,120-250,Dark green,60-70,Insectivore,Wetlands,"Lions, Leopards",40,Africa,Near Threatened,Orycteropodidae,60-90,56,Group-based,1
+African Elephant,40-50,18-36,Multicolored,60-70,Carnivore,Savannas,"Lions, Hyenas",40,Africa,Least Concern,Felidae,98-105,40,Herd-based,2-5
+Aardwolf,150-200,8-15,Tan,10-12,Insectivore,Grasslands,"Hyenas, Crocodiles",70,Africa,Near Threatened,Orycteropodidae,98-105,70,Group-based,1
+Alligator,80-110,120-250,Grey,60-70,Insectivore,Savannas,Humans,25,Worldwide,Least Concern,Felidae,70,70,Solitary,2-5
+Alligator,150-200,18-36,Multicolored,20-30,Carnivore,Savannahs,"Lions, Hyenas",25,Africa,Least Concern,Felidae,Incubation,70,Group-based,10-20
+African Elephant,105-130,40-65,Multicolored,10-12,Carnivore,Wetlands,"Lions, Leopards",70,Worldwide,Near Threatened,Elephantidae,Incubation,80,Group-based,1
+Aardwolf,150-200,8-14,Yellow-brown,10-12,Herbivore,Grasslands,"Lions, Hyenas",40,Africa,Least Concern,Hyaenidae,640-660,40,Solitary,1
+Alligator,80-110,8-14,Tan,10-12,Piscivore,Wetlands,"Lions, Hyenas",25,Africa,Vulnerable,Alligatoridae,60-90,40,Group-based,2-4 (usually)
+Aardvark,100-120,2700-6000,Multicolored,60-70,Carnivore,Oceans,Humans,70,Sub-Saharan Africa,Least Concern,Orycteropodidae,Incubation,80,Solitary,10-12
+Aardwolf,40-50,8-14,White,30-40,Piscivore,Savannas,Sharks,24-30,Sub-Saharan Africa,Endangered,Diomedeidae,Incubation,40,Solitary,10-12
+Alligator,150-200,2700-6000,Multicolored,10-14,Herbivore,Grasslands,"Lions, Leopards",56,Africa,Least Concern,Hyaenidae,98-105,30,Group-based,10-20
+African Lion,80-110,120-250,Grey,10-12,Insectivore,Savannahs,"Lions, Hyenas",24-30,North America,Least Concern,Felidae,210-240,30,Solitary,10-12
+Albatross,40-50,200-450,Multicolored,60-70,Carnivore,Oceans,"Lions, Hyenas",40,Africa,Endangered,Felidae,640-660,40,Solitary,1
+Alligator,105-130,8-15,Multicolored,10-14,Carnivore,Grasslands,"Lions, Hyenas",58,Eastern and Southern Africa,Least Concern,Elephantidae,Incubation,40,Solitary,1
+African Elephant,270-310,8-15,Dark green,60-70,Insectivore,Wetlands,"Lions, Hyenas",24-30,Eastern and Southern Africa,Near Threatened,Hyaenidae,Incubation,30,Herd-based,1
+Alligator,150-200,2700-6000,Tan,60-70,Carnivore,Oceans,"Lions, Hyenas",24-30,North America,Vulnerable,Felidae,60-90,40,Group-based,2-4 (usually)
+Aardvark,150-200,40-65,Tan,10-14,Insectivore,Grasslands,"Lions, Leopards",70,Sub-Saharan Africa,Near Threatened,Alligatoridae,210-240,30,Solitary,2-4 (usually)
+Alligator,80-110,200-450,Tan,20-30,Insectivore,Savannah,"Lions, Hyenas",70,North America,Endangered,Elephantidae,98-105,56,Group-based,10-20
+African Lion,100-120,8-14,Dark green,10-12,Carnivore,Grasslands,"Lions, Leopards",20,Worldwide,Least Concern,Felidae,98-105,30,Solitary,1
+African Elephant,270-310,40-65,Grey,60-70,Carnivore,Oceans,"Hyenas, Crocodiles",56,Worldwide,Near Threatened,Alligatoridae,90,56,Group-based,1
+African Elephant,105-130,40-65,Grey,60-70,Carnivore,Grasslands,Humans,40,Africa,Vulnerable,Alligatoridae,210-240,70,Group-based,2-4 (usually)
+African Elephant,75-80,40-65,Yellow-brown,30-40,Insectivore,Savannas,Sharks,40,Eastern and Southern Africa,Vulnerable,Diomedeidae,210-240,40,Group-based,1
+African Wild Dog,75-80,40-65,Yellow-brown,20-30,Herbivore,Oceans,"Lions, Hyenas",70,Worldwide,Least Concern,Diomedeidae,90,40,Solitary,1
+Aardwolf,105-130,120-250,Yellow-brown,20-30,Insectivore,Savannahs,"Lions, Hyenas",70,North America,Vulnerable,Hyaenidae,70,70,Herd-based,10-20
+African Wild Dog,75-80,40-65,Grey,10-12,Herbivore,Savannas,"Lions, Hyenas",25,Africa,Least Concern,Canidae,640-660,40,Group-based,1
+Alligator,100-120,8-14,Grey,60-70,Carnivore,Savannah,"Hyenas, Crocodiles",40,North America,Endangered,Felidae,60-90,30,Solitary,10-20
+Albatross,75-80,18-36,Dark green,20-30,Piscivore,Oceans,Humans,56,Worldwide,Near Threatened,Canidae,60-90,30,Group-based,10-20
+Albatross,105-130,2700-6000,Grey,10-14,Herbivore,Oceans,"Lions, Leopards",20,Sub-Saharan Africa,Least Concern,Elephantidae,90,30,Solitary,1
+African Elephant,80-110,200-450,Dark green,60-70,Piscivore,Oceans,"Lions, Leopards",58,Africa,Vulnerable,Orycteropodidae,98-105,56,Herd-based,2-4 (usually)
+African Elephant,100-120,2700-6000,Tan,20-30,Carnivore,Grasslands,Humans,58,Africa,Least Concern,Diomedeidae,640-660,56,Solitary,2-5
+African Wild Dog,75-80,8-14,Grey,10-12,Piscivore,Grasslands,"Hyenas, Crocodiles",20,Sub-Saharan Africa,Least Concern,Orycteropodidae,210-240,80,Group-based,2-4 (usually)
+Alligator,105-130,2700-6000,Tan,10-12,Insectivore,Grasslands,"Lions, Leopards",25,Worldwide,Least Concern,Alligatoridae,70,30,Group-based,1
+African Wild Dog,40-50,8-15,Dark green,20-30,Carnivore,Oceans,"Lions, Hyenas",25,Africa,Least Concern,Felidae,90,80,Group-based,1
+Aardvark,40-50,120-250,White,35-50,Carnivore,Savannas,"Lions, Hyenas",56,Eastern and Southern Africa,Near Threatened,Hyaenidae,210-240,80,Solitary,2-4 (usually)
+African Lion,40-50,40-65,White,10-12,Carnivore,Wetlands,Sharks,40,North America,Endangered,Diomedeidae,60-90,40,Herd-based,2-4 (usually)
+Alligator,270-310,18-36,Yellow-brown,20-30,Insectivore,Savannah,"Hyenas, Crocodiles",20,Africa,Least Concern,Diomedeidae,Incubation,40,Group-based,1
+Albatross,105-130,2700-6000,Grey,10-14,Herbivore,Oceans,"Lions, Leopards",20,Sub-Saharan Africa,Least Concern,Elephantidae,90,30,Solitary,1
+African Elephant,75-80,40-65,Yellow-brown,30-40,Insectivore,Savannas,Sharks,40,Eastern and Southern Africa,Vulnerable,Diomedeidae,210-240,40,Group-based,1
+African Elephant,270-310,18-36,White,10-12,Carnivore,Wetlands,Sharks,58,Africa,Least Concern,Diomedeidae,210-240,80,Group-based,1
+African Wild Dog,80-110,120-250,White,10-14,Carnivore,Grasslands,"Hyenas, Crocodiles",70,North America,Least Concern,Diomedeidae,98-105,56,Group-based,10-12
+African Elephant,40-50,8-14,White,30-40,Insectivore,Grasslands,Sharks,40,Worldwide,Least Concern,Diomedeidae,98-105,80,Solitary,2-5
+African Elephant,270-310,2700-6000,White,60-70,Carnivore,Grasslands,"Lions, Hyenas",20,Africa,Least Concern,Orycteropodidae,Incubation,30,Solitary,2-4 (usually)
+Alligator,150-200,18-36,White,10-12,Insectivore,Savannah,"Lions, Hyenas",25,Sub-Saharan Africa,Endangered,Elephantidae,Incubation,70,Herd-based,1
+Albatross,75-80,120-250,Multicolored,60-70,Piscivore,Savannah,"Lions, Hyenas",25,Sub-Saharan Africa,Least Concern,Felidae,90,70,Group-based,1
+Alligator,150-200,8-14,Tan,60-70,Carnivore,Savannas,"Lions, Hyenas",24-30,Worldwide,Least Concern,Canidae,640-660,40,Group-based,2-4 (usually)
+Alligator,75-80,40-65,Multicolored,10-12,Piscivore,Savannas,"Lions, Hyenas",58,Africa,Endangered,Diomedeidae,60-90,30,Group-based,10-12
+Aardwolf,80-110,8-14,Dark green,30-40,Herbivore,Savannas,Humans,70,Sub-Saharan Africa,Least Concern,Canidae,98-105,30,Group-based,10-12
+Aardwolf,40-50,18-36,Dark green,35-50,Carnivore,Grasslands,"Hyenas, Crocodiles",24-30,North America,Near Threatened,Diomedeidae,210-240,70,Solitary,10-12
+Alligator,75-80,18-36,White,10-12,Piscivore,Wetlands,Humans,70,Africa,Least Concern,Alligatoridae,Incubation,40,Group-based,2-4 (usually)
+African Lion,105-130,120-250,White,35-50,Carnivore,Savannahs,Humans,56,Sub-Saharan Africa,Vulnerable,Canidae,60-90,56,Solitary,2-5
+Albatross,40-50,40-65,Multicolored,20-30,Carnivore,Savannah,"Lions, Hyenas",25,Eastern and Southern Africa,Vulnerable,Hyaenidae,Incubation,56,Group-based,2-4 (usually)
+African Lion,40-50,8-14,Dark green,10-12,Carnivore,Savannah,"Hyenas, Crocodiles",24-30,Africa,Least Concern,Orycteropodidae,90,56,Group-based,2-4 (usually)
+Aardvark,40-50,18-36,Yellow-brown,10-12,Piscivore,Savannas,Sharks,58,Worldwide,Endangered,Hyaenidae,70,40,Solitary,10-12
+Aardwolf,80-110,2700-6000,Grey,60-70,Herbivore,Wetlands,"Lions, Leopards",20,North America,Near Threatened,Alligatoridae,Incubation,70,Solitary,10-12
+African Wild Dog,80-110,120-250,Multicolored,10-12,Piscivore,Grasslands,"Lions, Hyenas",56,Sub-Saharan Africa,Least Concern,Alligatoridae,640-660,70,Solitary,2-5
+African Elephant,100-120,200-450,Multicolored,10-14,Piscivore,Wetlands,"Lions, Hyenas",56,Africa,Vulnerable,Felidae,90,80,Group-based,1
+Alligator,150-200,18-36,White,10-12,Insectivore,Savannah,"Lions, Hyenas",25,Sub-Saharan Africa,Endangered,Elephantidae,Incubation,70,Herd-based,1
+African Lion,40-50,18-36,Dark green,10-12,Carnivore,Grasslands,"Lions, Hyenas",58,North America,Vulnerable,Hyaenidae,70,40,Herd-based,2-5
+Alligator,80-110,18-36,Grey,20-30,Piscivore,Oceans,"Lions, Hyenas",25,Worldwide,Least Concern,Orycteropodidae,Incubation,40,Solitary,10-12
+Aardvark,100-120,8-14,Dark green,10-14,Piscivore,Grasslands,"Lions, Leopards",40,Africa,Vulnerable,Alligatoridae,640-660,40,Herd-based,1
+Albatross,270-310,2700-6000,White,10-14,Insectivore,Savannah,"Lions, Hyenas",56,Eastern and Southern Africa,Near Threatened,Canidae,90,40,Group-based,1
+Albatross,150-200,8-15,Dark green,10-12,Carnivore,Savannahs,"Lions, Hyenas",20,North America,Near Threatened,Alligatoridae,60-90,70,Herd-based,2-4 (usually)
+Alligator,80-110,8-14,Grey,10-12,Carnivore,Savannas,Sharks,24-30,Africa,Least Concern,Diomedeidae,Incubation,30,Group-based,1
+Alligator,150-200,40-65,Yellow-brown,10-12,Carnivore,Oceans,"Lions, Hyenas",40,Africa,Near Threatened,Felidae,640-660,56,Herd-based,2-5
+Albatross,150-200,200-450,Grey,10-14,Carnivore,Oceans,Humans,56,Africa,Vulnerable,Canidae,210-240,40,Group-based,10-20
+African Lion,75-80,40-65,Multicolored,60-70,Herbivore,Savannahs,"Lions, Hyenas",24-30,Eastern and Southern Africa,Least Concern,Hyaenidae,Incubation,56,Solitary,2-5
+African Wild Dog,40-50,120-250,Tan,20-30,Insectivore,Oceans,"Lions, Hyenas",56,Worldwide,Least Concern,Elephantidae,60-90,30,Herd-based,10-12
+Aardwolf,105-130,18-36,White,10-12,Insectivore,Wetlands,"Lions, Hyenas",25,North America,Vulnerable,Felidae,70,40,Herd-based,10-12
+African Elephant,80-110,8-15,Dark green,10-12,Carnivore,Savannas,Sharks,56,Eastern and Southern Africa,Least Concern,Alligatoridae,98-105,40,Herd-based,2-4 (usually)
+Aardwolf,100-120,8-15,Dark green,60-70,Carnivore,Savannas,Humans,56,Worldwide,Endangered,Canidae,Incubation,40,Herd-based,2-5
+Albatross,100-120,8-15,Yellow-brown,10-12,Insectivore,Oceans,"Lions, Hyenas",40,Africa,Least Concern,Elephantidae,210-240,40,Solitary,1
+Alligator,75-80,18-36,Yellow-brown,35-50,Carnivore,Savannas,"Hyenas, Crocodiles",24-30,North America,Least Concern,Felidae,60-90,56,Solitary,2-5
+African Lion,105-130,8-15,Tan,35-50,Insectivore,Savannas,Humans,20,Worldwide,Near Threatened,Diomedeidae,98-105,40,Group-based,2-5
+Alligator,105-130,8-15,Tan,10-14,Piscivore,Oceans,"Lions, Hyenas",70,Africa,Least Concern,Diomedeidae,210-240,30,Group-based,1
+African Elephant,100-120,120-250,Grey,20-30,Insectivore,Savannas,"Lions, Hyenas",40,Africa,Vulnerable,Canidae,640-660,70,Herd-based,10-12
+Alligator,105-130,18-36,White,30-40,Insectivore,Savannas,"Lions, Hyenas",56,Africa,Near Threatened,Felidae,Incubation,70,Group-based,1
+African Lion,150-200,120-250,Dark green,10-12,Piscivore,Grasslands,"Lions, Hyenas",40,Worldwide,Least Concern,Canidae,640-660,40,Solitary,2-5
+African Wild Dog,75-80,40-65,Yellow-brown,35-50,Piscivore,Savannahs,"Lions, Hyenas",70,Africa,Vulnerable,Felidae,90,40,Group-based,10-12
+African Elephant,105-130,8-15,Yellow-brown,35-50,Insectivore,Savannahs,Sharks,40,Africa,Least Concern,Elephantidae,210-240,40,Group-based,1
+African Elephant,150-200,8-15,Multicolored,20-30,Carnivore,Grasslands,"Lions, Hyenas",40,Africa,Least Concern,Orycteropodidae,210-240,40,Group-based,10-20
+African Lion,100-120,8-14,Grey,30-40,Carnivore,Grasslands,"Lions, Hyenas",56,Africa,Vulnerable,Elephantidae,70,80,Solitary,10-20
+Aardwolf,75-80,200-450,White,20-30,Herbivore,Savannahs,"Lions, Leopards",25,Worldwide,Least Concern,Elephantidae,Incubation,40,Group-based,10-20
+Alligator,105-130,40-65,White,10-12,Insectivore,Savannah,"Hyenas, Crocodiles",25,Africa,Least Concern,Felidae,60-90,56,Solitary,1
+Alligator,40-50,2700-6000,Grey,30-40,Carnivore,Oceans,"Hyenas, Crocodiles",56,Africa,Least Concern,Hyaenidae,98-105,80,Group-based,10-12
+Aardvark,75-80,8-15,Grey,10-12,Insectivore,Grasslands,"Lions, Hyenas",58,Eastern and Southern Africa,Endangered,Canidae,98-105,40,Group-based,1
+Aardwolf,75-80,120-250,Tan,30-40,Insectivore,Savannahs,"Lions, Leopards",70,Africa,Least Concern,Orycteropodidae,70,80,Solitary,2-5
+Aardwolf,100-120,8-15,Dark green,30-40,Carnivore,Savannahs,Humans,56,Africa,Vulnerable,Elephantidae,Incubation,30,Group-based,1
+Alligator,80-110,8-14,Tan,10-12,Piscivore,Wetlands,"Lions, Hyenas",25,Africa,Vulnerable,Alligatoridae,60-90,40,Group-based,2-4 (usually)
+Albatross,75-80,18-36,Grey,35-50,Carnivore,Savannas,Humans,70,Africa,Vulnerable,Canidae,70,80,Herd-based,10-20
+African Wild Dog,105-130,40-65,Tan,35-50,Herbivore,Oceans,"Lions, Hyenas",70,North America,Endangered,Elephantidae,70,80,Solitary,2-4 (usually)
+Albatross,150-200,40-65,Grey,60-70,Herbivore,Oceans,"Lions, Hyenas",20,Eastern and Southern Africa,Least Concern,Canidae,210-240,30,Solitary,2-4 (usually)
+Albatross,100-120,120-250,Grey,10-14,Carnivore,Wetlands,Humans,58,Sub-Saharan Africa,Least Concern,Hyaenidae,640-660,30,Solitary,1
+Aardwolf,150-200,200-450,Yellow-brown,60-70,Carnivore,Wetlands,"Lions, Hyenas",25,Africa,Least Concern,Orycteropodidae,98-105,30,Solitary,10-20
+Aardvark,80-110,40-65,Grey,10-14,Carnivore,Grasslands,"Lions, Hyenas",70,Eastern and Southern Africa,Vulnerable,Alligatoridae,640-660,40,Group-based,10-12
+Albatross,40-50,8-15,Tan,10-12,Carnivore,Savannas,"Lions, Hyenas",24-30,North America,Vulnerable,Alligatoridae,60-90,56,Herd-based,2-4 (usually)
+African Lion,40-50,2700-6000,Tan,60-70,Herbivore,Oceans,Humans,70,Africa,Least Concern,Canidae,90,56,Solitary,1
+Aardwolf,105-130,2700-6000,Multicolored,20-30,Herbivore,Grasslands,"Hyenas, Crocodiles",70,Africa,Vulnerable,Alligatoridae,Incubation,40,Solitary,10-20
+African Lion,40-50,2700-6000,Tan,30-40,Piscivore,Savannahs,Humans,20,Africa,Least Concern,Hyaenidae,640-660,30,Group-based,1
+Aardwolf,40-50,120-250,Yellow-brown,20-30,Carnivore,Oceans,Humans,25,Africa,Endangered,Orycteropodidae,Incubation,40,Solitary,1
+Aardvark,80-110,18-36,White,35-50,Insectivore,Grasslands,"Lions, Hyenas",56,Eastern and Southern Africa,Least Concern,Hyaenidae,210-240,30,Group-based,1
+African Wild Dog,150-200,8-14,Tan,60-70,Carnivore,Grasslands,"Lions, Leopards",56,Sub-Saharan Africa,Least Concern,Hyaenidae,210-240,40,Group-based,10-12
+Alligator,80-110,120-250,Multicolored,10-12,Piscivore,Wetlands,Sharks,58,Africa,Vulnerable,Orycteropodidae,98-105,40,Solitary,1
+Albatross,105-130,8-14,Multicolored,10-12,Piscivore,Savannah,Humans,24-30,Sub-Saharan Africa,Least Concern,Felidae,210-240,40,Solitary,1
+Aardwolf,150-200,8-15,Tan,20-30,Carnivore,Oceans,"Lions, Hyenas",40,Africa,Near Threatened,Diomedeidae,98-105,30,Group-based,2-5
+African Lion,80-110,18-36,Grey,30-40,Insectivore,Grasslands,"Lions, Hyenas",40,Africa,Vulnerable,Canidae,640-660,56,Group-based,2-4 (usually)
+Alligator,75-80,120-250,Grey,30-40,Piscivore,Grasslands,Humans,20,Africa,Vulnerable,Alligatoridae,640-660,40,Solitary,1
+Alligator,80-110,2700-6000,Grey,20-30,Insectivore,Oceans,"Lions, Hyenas",70,North America,Vulnerable,Canidae,98-105,40,Herd-based,1
+Aardwolf,100-120,120-250,Yellow-brown,30-40,Insectivore,Wetlands,"Lions, Hyenas",58,Sub-Saharan Africa,Endangered,Elephantidae,210-240,70,Group-based,1
+African Elephant,105-130,40-65,Multicolored,10-14,Herbivore,Savannahs,Humans,20,Africa,Vulnerable,Alligatoridae,98-105,40,Group-based,1
+African Wild Dog,105-130,40-65,Tan,35-50,Herbivore,Oceans,"Lions, Hyenas",70,North America,Endangered,Elephantidae,70,80,Solitary,2-4 (usually)
+African Elephant,150-200,2700-6000,White,60-70,Herbivore,Savannah,Sharks,20,Africa,Near Threatened,Felidae,60-90,40,Solitary,10-20
+African Elephant,75-80,120-250,White,35-50,Piscivore,Savannahs,"Hyenas, Crocodiles",20,Sub-Saharan Africa,Endangered,Alligatoridae,70,56,Solitary,1
+Aardvark,150-200,8-14,Multicolored,60-70,Piscivore,Grasslands,"Hyenas, Crocodiles",56,Sub-Saharan Africa,Least Concern,Canidae,60-90,56,Herd-based,1
+African Elephant,75-80,120-250,Dark green,35-50,Insectivore,Savannas,"Lions, Leopards",20,Eastern and Southern Africa,Near Threatened,Felidae,90,56,Solitary,1
+Aardvark,80-110,8-15,White,10-12,Herbivore,Grasslands,"Lions, Hyenas",56,Africa,Least Concern,Elephantidae,60-90,30,Group-based,10-12
+African Wild Dog,75-80,40-65,Grey,10-12,Herbivore,Savannas,"Lions, Hyenas",25,Africa,Least Concern,Canidae,640-660,40,Group-based,1
+African Wild Dog,270-310,18-36,Dark green,10-12,Carnivore,Wetlands,"Lions, Hyenas",56,Sub-Saharan Africa,Vulnerable,Elephantidae,210-240,56,Solitary,1
+African Elephant,40-50,40-65,Dark green,30-40,Piscivore,Savannas,"Lions, Hyenas",70,Africa,Near Threatened,Elephantidae,90,30,Solitary,10-12
+Albatross,270-310,120-250,Grey,20-30,Carnivore,Wetlands,"Lions, Hyenas",58,Eastern and Southern Africa,Endangered,Orycteropodidae,Incubation,56,Group-based,2-5
+Aardwolf,105-130,8-14,Grey,30-40,Insectivore,Oceans,"Lions, Hyenas",70,Worldwide,Least Concern,Hyaenidae,60-90,30,Group-based,10-12
+Alligator,40-50,8-15,Tan,10-14,Carnivore,Grasslands,"Lions, Hyenas",70,Africa,Vulnerable,Orycteropodidae,90,56,Solitary,1
+African Wild Dog,105-130,8-15,Yellow-brown,30-40,Insectivore,Savannah,Sharks,25,Africa,Least Concern,Hyaenidae,90,40,Group-based,10-12
+Aardwolf,150-200,2700-6000,Dark green,20-30,Carnivore,Grasslands,"Lions, Hyenas",20,Worldwide,Least Concern,Felidae,90,40,Herd-based,1
+Albatross,80-110,2700-6000,Grey,10-12,Insectivore,Savannahs,Humans,25,Worldwide,Least Concern,Elephantidae,90,40,Group-based,2-5
+Aardwolf,75-80,18-36,Grey,20-30,Carnivore,Savannah,"Lions, Hyenas",25,Africa,Least Concern,Elephantidae,60-90,30,Solitary,2-5
+Albatross,270-310,18-36,Tan,10-12,Herbivore,Savannahs,"Lions, Hyenas",24-30,Eastern and Southern Africa,Near Threatened,Felidae,Incubation,40,Group-based,1
+Aardvark,40-50,120-250,Grey,30-40,Carnivore,Oceans,"Hyenas, Crocodiles",24-30,North America,Endangered,Diomedeidae,Incubation,70,Herd-based,2-4 (usually)
+African Wild Dog,150-200,2700-6000,Grey,10-12,Carnivore,Savannas,"Lions, Leopards",70,Sub-Saharan Africa,Least Concern,Canidae,98-105,40,Group-based,10-12
+Aardvark,105-130,2700-6000,Grey,30-40,Carnivore,Savannas,"Lions, Hyenas",56,Worldwide,Least Concern,Elephantidae,210-240,30,Group-based,1
+Alligator,75-80,40-65,Multicolored,10-12,Piscivore,Savannas,"Lions, Hyenas",58,Africa,Endangered,Diomedeidae,60-90,30,Group-based,10-12
+Albatross,150-200,18-36,Yellow-brown,10-12,Insectivore,Grasslands,"Lions, Leopards",40,Worldwide,Endangered,Diomedeidae,70,70,Solitary,1
+Aardvark,270-310,8-15,Grey,35-50,Insectivore,Savannah,"Hyenas, Crocodiles",70,Worldwide,Vulnerable,Felidae,98-105,70,Solitary,1
+African Wild Dog,40-50,8-14,White,35-50,Insectivore,Grasslands,"Lions, Leopards",56,Africa,Vulnerable,Diomedeidae,70,40,Group-based,1
+African Elephant,270-310,40-65,Grey,10-12,Herbivore,Grasslands,"Hyenas, Crocodiles",25,Sub-Saharan Africa,Vulnerable,Hyaenidae,640-660,56,Herd-based,2-5
+African Elephant,75-80,18-36,Tan,60-70,Insectivore,Savannas,"Lions, Hyenas",40,Worldwide,Vulnerable,Orycteropodidae,98-105,40,Solitary,1
+African Wild Dog,80-110,8-14,Dark green,10-14,Carnivore,Savannas,"Lions, Hyenas",70,Africa,Least Concern,Alligatoridae,98-105,80,Solitary,1
+Alligator,100-120,40-65,White,20-30,Carnivore,Grasslands,"Lions, Hyenas",70,Africa,Vulnerable,Alligatoridae,60-90,80,Group-based,2-4 (usually)
+African Wild Dog,75-80,2700-6000,Tan,10-12,Insectivore,Savannahs,Humans,25,Sub-Saharan Africa,Endangered,Orycteropodidae,640-660,56,Group-based,1
+African Elephant,150-200,120-250,Grey,20-30,Herbivore,Oceans,"Hyenas, Crocodiles",20,Eastern and Southern Africa,Least Concern,Canidae,640-660,30,Solitary,1
+African Lion,100-120,8-15,Tan,10-12,Carnivore,Wetlands,"Lions, Hyenas",40,Worldwide,Least Concern,Canidae,70,56,Solitary,1
+Aardvark,105-130,120-250,Yellow-brown,20-30,Piscivore,Savannas,"Lions, Leopards",24-30,Sub-Saharan Africa,Least Concern,Canidae,60-90,56,Group-based,2-4 (usually)
+Aardvark,75-80,8-14,Multicolored,20-30,Carnivore,Savannah,"Lions, Hyenas",20,Eastern and Southern Africa,Vulnerable,Elephantidae,210-240,70,Solitary,1
+African Wild Dog,75-80,8-14,Grey,10-12,Piscivore,Grasslands,"Hyenas, Crocodiles",20,Sub-Saharan Africa,Least Concern,Orycteropodidae,210-240,80,Group-based,2-4 (usually)
+African Wild Dog,100-120,120-250,Multicolored,30-40,Carnivore,Savannah,"Lions, Hyenas",25,Africa,Least Concern,Orycteropodidae,Incubation,30,Group-based,1
+African Elephant,270-310,200-450,Multicolored,30-40,Insectivore,Savannas,Sharks,25,Africa,Least Concern,Orycteropodidae,70,40,Solitary,10-20
+Aardvark,105-130,200-450,Grey,10-14,Carnivore,Savannah,Humans,58,Worldwide,Least Concern,Canidae,210-240,70,Group-based,1
+African Lion,80-110,120-250,Multicolored,30-40,Insectivore,Savannas,Humans,40,Sub-Saharan Africa,Least Concern,Hyaenidae,60-90,40,Group-based,1
+Aardwolf,270-310,120-250,White,20-30,Carnivore,Savannas,"Lions, Hyenas",40,Sub-Saharan Africa,Least Concern,Alligatoridae,98-105,40,Solitary,1
+Aardvark,150-200,2700-6000,Multicolored,10-12,Piscivore,Oceans,"Lions, Hyenas",25,Africa,Near Threatened,Diomedeidae,90,40,Group-based,1
+African Lion,150-200,2700-6000,Yellow-brown,10-12,Carnivore,Oceans,Sharks,24-30,Sub-Saharan Africa,Least Concern,Canidae,60-90,40,Group-based,1
+African Lion,105-130,18-36,Grey,30-40,Piscivore,Oceans,"Lions, Hyenas",56,North America,Vulnerable,Canidae,640-660,30,Solitary,1
+African Wild Dog,100-120,18-36,Dark green,35-50,Carnivore,Wetlands,"Lions, Leopards",25,Worldwide,Vulnerable,Alligatoridae,90,40,Solitary,1
+Aardvark,150-200,40-65,Grey,35-50,Carnivore,Grasslands,"Lions, Hyenas",40,Sub-Saharan Africa,Least Concern,Orycteropodidae,70,40,Group-based,1
+Albatross,270-310,8-14,Yellow-brown,60-70,Carnivore,Savannas,Humans,58,Sub-Saharan Africa,Vulnerable,Alligatoridae,90,56,Solitary,10-12
+Aardvark,80-110,8-15,Tan,10-12,Insectivore,Savannas,"Lions, Hyenas",56,Eastern and Southern Africa,Least Concern,Elephantidae,210-240,40,Solitary,1
+Aardwolf,100-120,18-36,White,35-50,Insectivore,Savannas,"Lions, Leopards",25,Africa,Vulnerable,Hyaenidae,60-90,70,Group-based,2-4 (usually)
+Aardwolf,105-130,120-250,Dark green,30-40,Insectivore,Grasslands,Humans,24-30,Sub-Saharan Africa,Least Concern,Alligatoridae,60-90,80,Group-based,2-5
+African Wild Dog,270-310,8-15,Tan,20-30,Insectivore,Grasslands,"Lions, Leopards",58,Africa,Endangered,Diomedeidae,Incubation,40,Group-based,2-4 (usually)
+African Elephant,105-130,8-15,Grey,20-30,Herbivore,Wetlands,"Lions, Hyenas",70,Worldwide,Vulnerable,Hyaenidae,210-240,80,Solitary,10-20
+Aardvark,105-130,8-14,Grey,10-14,Piscivore,Wetlands,Humans,70,Sub-Saharan Africa,Vulnerable,Canidae,210-240,40,Group-based,10-12
+African Elephant,40-50,40-65,Yellow-brown,35-50,Herbivore,Grasslands,Sharks,24-30,North America,Least Concern,Hyaenidae,Incubation,40,Solitary,1
+Albatross,80-110,8-14,Tan,60-70,Insectivore,Grasslands,"Lions, Hyenas",56,North America,Least Concern,Diomedeidae,640-660,80,Group-based,2-5
+Albatross,75-80,40-65,Multicolored,10-14,Carnivore,Savannas,"Lions, Hyenas",24-30,Africa,Near Threatened,Orycteropodidae,70,40,Solitary,2-4 (usually)
+African Lion,150-200,120-250,Yellow-brown,10-12,Herbivore,Savannas,"Lions, Leopards",20,Africa,Vulnerable,Alligatoridae,60-90,40,Group-based,1
+African Wild Dog,150-200,18-36,Yellow-brown,10-14,Insectivore,Grasslands,"Lions, Hyenas",24-30,Africa,Least Concern,Elephantidae,640-660,56,Group-based,1
+African Lion,80-110,18-36,Tan,30-40,Insectivore,Savannah,"Lions, Hyenas",56,Africa,Least Concern,Hyaenidae,98-105,70,Group-based,10-20
+Alligator,150-200,40-65,Yellow-brown,20-30,Piscivore,Grasslands,"Hyenas, Crocodiles",40,Eastern and Southern Africa,Endangered,Elephantidae,210-240,40,Solitary,1
+Aardwolf,105-130,40-65,Grey,10-12,Carnivore,Savannas,"Hyenas, Crocodiles",24-30,Africa,Near Threatened,Felidae,70,30,Group-based,2-5
+African Wild Dog,270-310,18-36,Yellow-brown,10-12,Carnivore,Savannas,"Hyenas, Crocodiles",56,Worldwide,Vulnerable,Orycteropodidae,640-660,56,Herd-based,1
+Albatross,75-80,40-65,Yellow-brown,10-12,Piscivore,Grasslands,"Lions, Leopards",20,Worldwide,Vulnerable,Canidae,90,40,Solitary,1
+African Lion,75-80,8-14,Tan,20-30,Herbivore,Grasslands,"Lions, Hyenas",24-30,Sub-Saharan Africa,Vulnerable,Alligatoridae,60-90,40,Group-based,2-4 (usually)
+Alligator,150-200,8-14,Grey,10-12,Piscivore,Grasslands,"Hyenas, Crocodiles",24-30,Sub-Saharan Africa,Near Threatened,Felidae,640-660,56,Solitary,2-4 (usually)
+African Wild Dog,105-130,2700-6000,White,10-14,Carnivore,Grasslands,Sharks,25,Africa,Least Concern,Diomedeidae,640-660,80,Group-based,10-20
+Aardwolf,100-120,18-36,White,35-50,Insectivore,Savannas,"Lions, Leopards",25,Africa,Vulnerable,Hyaenidae,60-90,70,Group-based,2-4 (usually)
+Aardvark,100-120,8-14,Grey,10-14,Carnivore,Grasslands,"Hyenas, Crocodiles",56,Worldwide,Near Threatened,Elephantidae,Incubation,70,Group-based,1
+Albatross,40-50,200-450,Multicolored,60-70,Carnivore,Oceans,"Lions, Hyenas",40,Africa,Endangered,Felidae,640-660,40,Solitary,1
+Albatross,150-200,8-14,White,35-50,Insectivore,Wetlands,"Lions, Leopards",40,North America,Endangered,Canidae,98-105,40,Solitary,10-20
+African Wild Dog,80-110,120-250,White,10-14,Carnivore,Grasslands,"Hyenas, Crocodiles",70,North America,Least Concern,Diomedeidae,98-105,56,Group-based,10-12
+Aardwolf,40-50,18-36,Dark green,35-50,Carnivore,Grasslands,Humans,56,Africa,Least Concern,Orycteropodidae,90,70,Group-based,1
+Albatross,75-80,40-65,Multicolored,10-14,Carnivore,Savannas,"Lions, Hyenas",24-30,Africa,Near Threatened,Orycteropodidae,70,40,Solitary,2-4 (usually)
+African Elephant,150-200,120-250,Grey,10-12,Herbivore,Grasslands,Humans,70,North America,Near Threatened,Diomedeidae,70,56,Group-based,10-20
+African Lion,75-80,2700-6000,Dark green,10-12,Piscivore,Grasslands,"Lions, Hyenas",24-30,Worldwide,Endangered,Alligatoridae,70,70,Solitary,10-20
+African Lion,100-120,200-450,Yellow-brown,10-14,Carnivore,Grasslands,"Lions, Hyenas",40,Worldwide,Vulnerable,Elephantidae,60-90,70,Group-based,2-4 (usually)
+African Lion,270-310,200-450,Yellow-brown,35-50,Herbivore,Savannah,"Lions, Hyenas",24-30,Eastern and Southern Africa,Vulnerable,Diomedeidae,Incubation,40,Herd-based,10-20
+African Elephant,75-80,120-250,Grey,10-14,Carnivore,Grasslands,"Lions, Hyenas",25,Worldwide,Least Concern,Canidae,60-90,70,Solitary,1
+Albatross,150-200,8-15,Dark green,30-40,Carnivore,Wetlands,"Lions, Leopards",25,North America,Vulnerable,Elephantidae,60-90,80,Solitary,10-20
+African Lion,105-130,18-36,Grey,20-30,Carnivore,Grasslands,"Hyenas, Crocodiles",70,Eastern and Southern Africa,Near Threatened,Felidae,Incubation,70,Group-based,2-5
+Aardwolf,80-110,8-14,Grey,35-50,Insectivore,Savannahs,"Hyenas, Crocodiles",25,North America,Least Concern,Elephantidae,90,30,Solitary,10-12
+African Wild Dog,75-80,200-450,Yellow-brown,10-12,Piscivore,Wetlands,"Lions, Hyenas",25,Worldwide,Vulnerable,Elephantidae,70,40,Herd-based,2-4 (usually)
+African Lion,150-200,18-36,White,10-12,Insectivore,Savannas,"Lions, Hyenas",25,Africa,Vulnerable,Alligatoridae,98-105,70,Herd-based,10-20
+Alligator,40-50,120-250,Multicolored,10-12,Insectivore,Grasslands,"Lions, Hyenas",25,Africa,Least Concern,Felidae,60-90,40,Solitary,1
+Albatross,80-110,18-36,Multicolored,10-12,Carnivore,Grasslands,Humans,20,Africa,Vulnerable,Felidae,Incubation,56,Solitary,2-5
+African Wild Dog,75-80,200-450,Yellow-brown,10-12,Insectivore,Wetlands,Humans,40,Africa,Least Concern,Felidae,640-660,70,Solitary,1
+African Lion,100-120,8-14,Grey,30-40,Carnivore,Grasslands,"Lions, Hyenas",56,Africa,Vulnerable,Elephantidae,70,80,Solitary,10-20
+African Lion,75-80,2700-6000,Multicolored,10-14,Carnivore,Wetlands,"Hyenas, Crocodiles",24-30,Sub-Saharan Africa,Near Threatened,Elephantidae,Incubation,40,Solitary,1
+African Elephant,40-50,2700-6000,White,35-50,Insectivore,Oceans,"Lions, Leopards",20,Africa,Vulnerable,Diomedeidae,Incubation,80,Solitary,10-20
+Albatross,75-80,120-250,Dark green,35-50,Herbivore,Savannah,Sharks,70,Africa,Least Concern,Diomedeidae,Incubation,40,Group-based,10-20
+African Wild Dog,75-80,8-15,Grey,10-14,Carnivore,Savannah,"Lions, Hyenas",40,Africa,Near Threatened,Diomedeidae,98-105,70,Solitary,10-20
+African Lion,80-110,2700-6000,Grey,10-12,Carnivore,Grasslands,"Lions, Leopards",70,North America,Vulnerable,Diomedeidae,98-105,40,Solitary,1
+African Elephant,150-200,200-450,Yellow-brown,35-50,Insectivore,Grasslands,"Lions, Hyenas",58,North America,Least Concern,Orycteropodidae,640-660,40,Herd-based,2-4 (usually)
+African Elephant,80-110,2700-6000,Tan,35-50,Herbivore,Wetlands,"Lions, Hyenas",58,Africa,Least Concern,Elephantidae,70,30,Solitary,1
+African Elephant,80-110,40-65,Dark green,10-14,Herbivore,Oceans,"Hyenas, Crocodiles",24-30,Africa,Near Threatened,Alligatoridae,Incubation,40,Solitary,10-20
+Aardwolf,75-80,18-36,Yellow-brown,10-12,Herbivore,Savannas,"Lions, Hyenas",56,Africa,Endangered,Hyaenidae,98-105,70,Herd-based,1
+Aardwolf,75-80,18-36,Yellow-brown,60-70,Piscivore,Savannah,Sharks,24-30,Africa,Least Concern,Canidae,70,40,Herd-based,2-4 (usually)
+Aardvark,105-130,18-36,Yellow-brown,60-70,Herbivore,Savannah,"Lions, Hyenas",20,Africa,Least Concern,Orycteropodidae,70,56,Herd-based,1
+Alligator,80-110,120-250,Grey,60-70,Piscivore,Savannahs,"Lions, Hyenas",40,Africa,Near Threatened,Alligatoridae,98-105,30,Group-based,10-12
+Aardwolf,270-310,200-450,Tan,35-50,Insectivore,Oceans,"Lions, Leopards",20,Eastern and Southern Africa,Endangered,Felidae,98-105,56,Group-based,2-5
+African Lion,75-80,40-65,Yellow-brown,30-40,Carnivore,Oceans,"Hyenas, Crocodiles",70,Worldwide,Least Concern,Felidae,210-240,80,Group-based,1
+African Elephant,80-110,200-450,Dark green,10-12,Herbivore,Savannah,"Hyenas, Crocodiles",24-30,Africa,Vulnerable,Alligatoridae,640-660,80,Herd-based,10-20
+African Lion,105-130,40-65,Dark green,10-12,Insectivore,Savannahs,Humans,20,Sub-Saharan Africa,Near Threatened,Elephantidae,90,30,Herd-based,1
+African Elephant,150-200,8-14,Grey,30-40,Carnivore,Grasslands,"Lions, Leopards",25,Africa,Near Threatened,Orycteropodidae,98-105,70,Herd-based,1
+African Wild Dog,150-200,120-250,Dark green,10-12,Carnivore,Grasslands,"Lions, Leopards",56,North America,Vulnerable,Hyaenidae,90,70,Herd-based,1
+Alligator,270-310,8-15,Yellow-brown,20-30,Carnivore,Wetlands,"Lions, Leopards",58,Eastern and Southern Africa,Least Concern,Orycteropodidae,98-105,80,Solitary,2-4 (usually)
+Albatross,270-310,200-450,Grey,20-30,Piscivore,Wetlands,"Lions, Leopards",20,North America,Vulnerable,Orycteropodidae,Incubation,40,Group-based,2-5
+Aardwolf,75-80,2700-6000,Yellow-brown,20-30,Herbivore,Grasslands,Humans,58,Worldwide,Vulnerable,Alligatoridae,98-105,80,Group-based,1
+African Elephant,40-50,40-65,Grey,10-12,Carnivore,Grasslands,Sharks,40,Africa,Endangered,Diomedeidae,98-105,80,Group-based,2-5
+Aardvark,40-50,200-450,Grey,10-12,Carnivore,Grasslands,Sharks,20,Sub-Saharan Africa,Vulnerable,Felidae,98-105,70,Group-based,2-5
+Aardvark,40-50,8-14,Tan,30-40,Herbivore,Wetlands,"Lions, Leopards",20,Worldwide,Least Concern,Felidae,90,40,Solitary,2-5
+African Elephant,40-50,8-14,Tan,10-12,Insectivore,Oceans,Sharks,40,Africa,Least Concern,Elephantidae,98-105,40,Solitary,1
+Aardvark,105-130,18-36,Yellow-brown,30-40,Insectivore,Savannahs,"Lions, Leopards",20,Eastern and Southern Africa,Least Concern,Hyaenidae,210-240,80,Solitary,1
+African Wild Dog,40-50,8-14,Dark green,60-70,Carnivore,Grasslands,Humans,58,Eastern and Southern Africa,Least Concern,Diomedeidae,90,40,Herd-based,1
+African Elephant,75-80,200-450,Grey,10-14,Carnivore,Grasslands,"Lions, Hyenas",24-30,Africa,Endangered,Diomedeidae,640-660,30,Group-based,1
+Alligator,100-120,8-14,Yellow-brown,10-12,Insectivore,Savannah,"Lions, Hyenas",24-30,Worldwide,Vulnerable,Canidae,90,56,Group-based,10-12
+African Wild Dog,80-110,2700-6000,White,10-14,Insectivore,Savannas,"Lions, Hyenas",25,Africa,Near Threatened,Felidae,60-90,40,Group-based,1
+African Elephant,150-200,8-15,Yellow-brown,10-12,Carnivore,Savannah,"Lions, Hyenas",56,Eastern and Southern Africa,Endangered,Diomedeidae,90,40,Herd-based,10-12
+Aardwolf,80-110,120-250,Multicolored,60-70,Piscivore,Wetlands,"Lions, Hyenas",58,North America,Vulnerable,Alligatoridae,Incubation,40,Group-based,10-20
+African Wild Dog,75-80,2700-6000,Yellow-brown,35-50,Carnivore,Savannah,Humans,24-30,Worldwide,Near Threatened,Hyaenidae,70,80,Solitary,10-20
+African Lion,40-50,8-14,Dark green,10-12,Carnivore,Savannah,"Hyenas, Crocodiles",24-30,Africa,Least Concern,Orycteropodidae,90,56,Group-based,2-4 (usually)
+African Wild Dog,150-200,2700-6000,Grey,60-70,Herbivore,Oceans,Sharks,56,Africa,Vulnerable,Elephantidae,90,56,Solitary,1
+African Wild Dog,75-80,2700-6000,Dark green,60-70,Carnivore,Savannahs,"Lions, Leopards",40,Eastern and Southern Africa,Least Concern,Hyaenidae,210-240,40,Solitary,10-20
+African Elephant,100-120,8-14,Yellow-brown,30-40,Piscivore,Savannas,Humans,56,North America,Endangered,Canidae,90,56,Group-based,1
+Alligator,100-120,8-14,Tan,35-50,Insectivore,Savannah,"Lions, Leopards",40,North America,Least Concern,Diomedeidae,210-240,40,Solitary,2-5
+Albatross,105-130,120-250,White,35-50,Carnivore,Grasslands,Sharks,40,Worldwide,Least Concern,Felidae,70,40,Group-based,2-5
+Aardwolf,80-110,40-65,Yellow-brown,10-12,Carnivore,Grasslands,"Lions, Leopards",70,Eastern and Southern Africa,Endangered,Diomedeidae,640-660,56,Solitary,1
+Aardvark,75-80,8-15,Grey,10-12,Insectivore,Grasslands,"Lions, Hyenas",58,Eastern and Southern Africa,Endangered,Canidae,98-105,40,Group-based,1
+African Lion,100-120,8-14,Grey,10-12,Insectivore,Grasslands,"Lions, Hyenas",20,Worldwide,Endangered,Diomedeidae,Incubation,40,Solitary,10-12
+Aardvark,270-310,2700-6000,Multicolored,60-70,Carnivore,Oceans,"Lions, Hyenas",24-30,Sub-Saharan Africa,Least Concern,Felidae,60-90,40,Herd-based,1
+Alligator,105-130,8-15,Tan,10-14,Piscivore,Oceans,"Lions, Hyenas",70,Africa,Least Concern,Diomedeidae,210-240,30,Group-based,1
+Aardwolf,40-50,120-250,White,20-30,Carnivore,Grasslands,"Lions, Hyenas",70,Africa,Near Threatened,Canidae,70,40,Group-based,2-5
+Alligator,40-50,8-14,White,60-70,Carnivore,Wetlands,"Lions, Hyenas",70,North America,Least Concern,Alligatoridae,60-90,40,Solitary,2-4 (usually)
+Aardvark,270-310,8-15,Grey,35-50,Insectivore,Savannah,"Hyenas, Crocodiles",70,Worldwide,Vulnerable,Felidae,98-105,70,Solitary,1
+African Wild Dog,270-310,120-250,Dark green,10-12,Carnivore,Oceans,"Lions, Hyenas",40,Sub-Saharan Africa,Least Concern,Orycteropodidae,60-90,70,Herd-based,10-12
+African Wild Dog,75-80,40-65,Grey,20-30,Carnivore,Savannahs,"Lions, Hyenas",58,Africa,Least Concern,Elephantidae,210-240,56,Solitary,2-5
+Aardvark,100-120,8-14,Grey,20-30,Herbivore,Savannahs,"Hyenas, Crocodiles",56,Sub-Saharan Africa,Least Concern,Alligatoridae,60-90,70,Solitary,2-4 (usually)
+Albatross,75-80,18-36,White,30-40,Piscivore,Oceans,"Lions, Hyenas",58,Africa,Least Concern,Orycteropodidae,210-240,40,Solitary,1
+African Wild Dog,75-80,8-14,Tan,30-40,Carnivore,Savannas,"Hyenas, Crocodiles",25,Sub-Saharan Africa,Near Threatened,Alligatoridae,Incubation,40,Solitary,1
+Albatross,270-310,2700-6000,Grey,30-40,Insectivore,Grasslands,"Hyenas, Crocodiles",25,Eastern and Southern Africa,Vulnerable,Alligatoridae,70,70,Group-based,10-20
+African Wild Dog,105-130,8-15,Dark green,35-50,Piscivore,Savannahs,"Lions, Hyenas",25,Sub-Saharan Africa,Least Concern,Hyaenidae,210-240,40,Herd-based,1
+African Wild Dog,105-130,2700-6000,Multicolored,10-14,Insectivore,Grasslands,Humans,70,Sub-Saharan Africa,Least Concern,Canidae,60-90,40,Group-based,1
+African Elephant,150-200,120-250,Grey,10-12,Herbivore,Grasslands,Humans,70,North America,Near Threatened,Diomedeidae,70,56,Group-based,10-20
+Alligator,80-110,2700-6000,Grey,20-30,Insectivore,Oceans,"Lions, Hyenas",70,North America,Vulnerable,Canidae,98-105,40,Herd-based,1
+African Lion,105-130,18-36,Yellow-brown,10-14,Carnivore,Savannas,"Lions, Hyenas",20,Africa,Near Threatened,Diomedeidae,90,80,Solitary,1
+African Wild Dog,105-130,8-15,Grey,60-70,Carnivore,Grasslands,"Hyenas, Crocodiles",56,Eastern and Southern Africa,Vulnerable,Felidae,70,40,Group-based,10-12
+African Elephant,100-120,8-15,Multicolored,10-12,Carnivore,Savannahs,"Lions, Hyenas",24-30,North America,Near Threatened,Felidae,60-90,40,Solitary,10-12
+Albatross,80-110,120-250,Tan,35-50,Carnivore,Grasslands,Humans,40,Africa,Near Threatened,Diomedeidae,640-660,30,Group-based,1
+Aardvark,80-110,8-15,Tan,10-12,Insectivore,Savannas,"Lions, Hyenas",56,Eastern and Southern Africa,Least Concern,Elephantidae,210-240,40,Solitary,1
+Aardvark,40-50,120-250,Dark green,10-14,Insectivore,Savannas,"Lions, Leopards",58,Africa,Vulnerable,Elephantidae,70,56,Herd-based,1
+Aardvark,100-120,40-65,Multicolored,10-12,Piscivore,Grasslands,"Lions, Leopards",20,Africa,Least Concern,Alligatoridae,60-90,40,Solitary,10-20
+Aardvark,100-120,8-14,Yellow-brown,10-14,Carnivore,Wetlands,Sharks,58,Africa,Near Threatened,Canidae,90,70,Solitary,2-5
+African Lion,40-50,40-65,White,10-12,Carnivore,Wetlands,Sharks,40,North America,Endangered,Diomedeidae,60-90,40,Herd-based,2-4 (usually)
+African Lion,105-130,2700-6000,Dark green,30-40,Carnivore,Savannas,"Hyenas, Crocodiles",40,Africa,Vulnerable,Orycteropodidae,640-660,70,Group-based,10-20
+Aardvark,40-50,40-65,Grey,10-14,Carnivore,Grasslands,"Lions, Leopards",70,Eastern and Southern Africa,Least Concern,Canidae,98-105,56,Herd-based,1
+Alligator,150-200,8-15,Grey,30-40,Carnivore,Oceans,Sharks,20,Sub-Saharan Africa,Least Concern,Hyaenidae,60-90,40,Group-based,1
+African Lion,100-120,8-15,Tan,10-12,Carnivore,Wetlands,"Lions, Hyenas",40,Worldwide,Least Concern,Canidae,70,56,Solitary,1
+African Wild Dog,150-200,120-250,Grey,10-14,Insectivore,Oceans,"Lions, Hyenas",70,Worldwide,Vulnerable,Hyaenidae,70,40,Group-based,2-5
+African Wild Dog,270-310,2700-6000,Grey,20-30,Insectivore,Grasslands,"Lions, Hyenas",20,Worldwide,Vulnerable,Elephantidae,70,40,Solitary,10-12
+Alligator,100-120,8-14,Yellow-brown,10-12,Insectivore,Savannah,"Lions, Hyenas",24-30,Worldwide,Vulnerable,Canidae,90,56,Group-based,10-12
+Aardvark,105-130,8-14,Dark green,10-12,Herbivore,Savannahs,"Lions, Leopards",20,Africa,Endangered,Hyaenidae,Incubation,70,Herd-based,1
+Albatross,80-110,8-14,Grey,60-70,Herbivore,Savannah,"Lions, Leopards",20,Africa,Least Concern,Canidae,98-105,40,Group-based,10-20
+Alligator,105-130,40-65,Grey,30-40,Carnivore,Savannah,"Hyenas, Crocodiles",70,Eastern and Southern Africa,Near Threatened,Canidae,640-660,80,Herd-based,2-4 (usually)
+Aardvark,75-80,40-65,Dark green,20-30,Insectivore,Savannah,Humans,70,Africa,Vulnerable,Diomedeidae,640-660,56,Herd-based,1
+Alligator,75-80,200-450,Yellow-brown,30-40,Carnivore,Savannas,Humans,56,Africa,Vulnerable,Felidae,90,30,Solitary,2-4 (usually)
+African Elephant,40-50,8-14,White,10-12,Carnivore,Savannas,Humans,40,North America,Vulnerable,Canidae,60-90,70,Herd-based,1
+African Lion,100-120,200-450,Multicolored,10-14,Piscivore,Savannas,"Hyenas, Crocodiles",25,Worldwide,Least Concern,Canidae,70,80,Solitary,2-4 (usually)
+African Wild Dog,40-50,18-36,Grey,10-12,Insectivore,Oceans,"Hyenas, Crocodiles",25,Africa,Near Threatened,Diomedeidae,60-90,80,Group-based,2-4 (usually)
+African Lion,80-110,8-15,Yellow-brown,10-12,Carnivore,Savannah,"Lions, Hyenas",70,North America,Least Concern,Diomedeidae,70,56,Group-based,1
+African Lion,40-50,18-36,Grey,60-70,Insectivore,Grasslands,"Lions, Hyenas",56,Sub-Saharan Africa,Vulnerable,Canidae,60-90,30,Group-based,2-4 (usually)
+Alligator,270-310,40-65,Grey,30-40,Piscivore,Savannas,"Hyenas, Crocodiles",58,Africa,Vulnerable,Canidae,90,40,Solitary,2-5
+Aardwolf,105-130,200-450,White,35-50,Insectivore,Grasslands,"Lions, Hyenas",20,Worldwide,Endangered,Elephantidae,Incubation,40,Group-based,1
+African Wild Dog,40-50,40-65,White,30-40,Carnivore,Savannahs,"Lions, Hyenas",70,Eastern and Southern Africa,Least Concern,Hyaenidae,70,80,Group-based,2-4 (usually)
+African Wild Dog,75-80,8-15,Yellow-brown,10-12,Herbivore,Grasslands,"Lions, Hyenas",20,Sub-Saharan Africa,Least Concern,Alligatoridae,90,56,Group-based,2-4 (usually)
+Alligator,150-200,120-250,Tan,35-50,Insectivore,Savannah,Humans,40,Africa,Endangered,Alligatoridae,60-90,40,Solitary,1
+Alligator,150-200,8-14,Tan,60-70,Carnivore,Savannas,"Lions, Hyenas",24-30,Worldwide,Least Concern,Canidae,640-660,40,Group-based,2-4 (usually)
+African Wild Dog,100-120,8-15,Multicolored,10-14,Insectivore,Grasslands,"Lions, Leopards",25,Africa,Least Concern,Elephantidae,90,40,Group-based,10-20
+African Wild Dog,75-80,200-450,Multicolored,30-40,Insectivore,Savannah,"Lions, Hyenas",56,Sub-Saharan Africa,Least Concern,Orycteropodidae,210-240,40,Solitary,1
+African Elephant,80-110,40-65,Tan,10-12,Carnivore,Savannas,"Hyenas, Crocodiles",58,Africa,Least Concern,Hyaenidae,60-90,40,Solitary,10-12
+Alligator,100-120,8-14,Dark green,60-70,Carnivore,Wetlands,Sharks,25,Eastern and Southern Africa,Vulnerable,Felidae,210-240,56,Solitary,1
+African Elephant,75-80,120-250,Yellow-brown,10-14,Carnivore,Savannas,"Lions, Hyenas",40,Africa,Least Concern,Diomedeidae,90,80,Herd-based,1
+African Elephant,105-130,2700-6000,Tan,10-14,Piscivore,Oceans,"Lions, Leopards",58,Sub-Saharan Africa,Least Concern,Orycteropodidae,90,40,Solitary,1
+African Lion,40-50,8-15,Dark green,10-12,Piscivore,Savannahs,"Hyenas, Crocodiles",56,North America,Least Concern,Orycteropodidae,210-240,40,Solitary,2-4 (usually)
+Albatross,105-130,8-15,Grey,35-50,Carnivore,Wetlands,"Hyenas, Crocodiles",58,Africa,Least Concern,Diomedeidae,640-660,56,Herd-based,2-4 (usually)
+Aardvark,150-200,40-65,Grey,35-50,Carnivore,Wetlands,"Lions, Hyenas",24-30,Worldwide,Near Threatened,Felidae,90,40,Solitary,1
+African Elephant,40-50,2700-6000,White,35-50,Insectivore,Oceans,"Lions, Leopards",20,Africa,Vulnerable,Diomedeidae,Incubation,80,Solitary,10-20
+African Elephant,150-200,120-250,Grey,10-14,Insectivore,Savannas,"Lions, Leopards",56,North America,Vulnerable,Alligatoridae,640-660,30,Solitary,2-5
+Aardwolf,100-120,200-450,Multicolored,10-12,Carnivore,Savannas,"Hyenas, Crocodiles",20,Africa,Vulnerable,Elephantidae,Incubation,80,Herd-based,2-4 (usually)
+Aardwolf,100-120,40-65,Dark green,20-30,Herbivore,Savannah,Humans,58,Africa,Near Threatened,Alligatoridae,Incubation,40,Herd-based,1
+African Elephant,40-50,18-36,Multicolored,60-70,Carnivore,Savannas,"Lions, Hyenas",40,Africa,Least Concern,Felidae,98-105,40,Herd-based,2-5
+Aardvark,80-110,40-65,White,30-40,Insectivore,Wetlands,Sharks,24-30,Sub-Saharan Africa,Near Threatened,Canidae,98-105,40,Group-based,1
+African Wild Dog,40-50,8-15,Grey,30-40,Carnivore,Wetlands,"Lions, Hyenas",40,Africa,Near Threatened,Diomedeidae,640-660,40,Solitary,1
+African Elephant,80-110,18-36,Grey,20-30,Piscivore,Grasslands,Sharks,20,Eastern and Southern Africa,Least Concern,Alligatoridae,98-105,56,Solitary,2-4 (usually)
+African Lion,105-130,120-250,Grey,10-12,Piscivore,Savannah,"Lions, Hyenas",20,Africa,Vulnerable,Diomedeidae,98-105,70,Herd-based,1
+African Wild Dog,40-50,8-14,Dark green,60-70,Carnivore,Grasslands,Humans,58,Eastern and Southern Africa,Least Concern,Diomedeidae,90,40,Herd-based,1
+Aardwolf,75-80,200-450,Multicolored,10-12,Carnivore,Savannah,Sharks,25,Sub-Saharan Africa,Endangered,Canidae,98-105,70,Solitary,10-12
+Albatross,40-50,8-15,Grey,20-30,Insectivore,Oceans,"Lions, Hyenas",25,Eastern and Southern Africa,Near Threatened,Alligatoridae,90,80,Group-based,1
+Albatross,100-120,120-250,Dark green,60-70,Piscivore,Savannah,Humans,20,Worldwide,Least Concern,Diomedeidae,640-660,56,Group-based,1
+African Elephant,100-120,2700-6000,Dark green,60-70,Insectivore,Savannas,"Hyenas, Crocodiles",40,Africa,Endangered,Felidae,Incubation,70,Solitary,1
+Aardwolf,150-200,8-15,Grey,30-40,Carnivore,Savannah,"Lions, Hyenas",58,Sub-Saharan Africa,Least Concern,Orycteropodidae,98-105,40,Solitary,1
+Aardvark,40-50,2700-6000,Yellow-brown,30-40,Insectivore,Savannas,"Lions, Hyenas",20,Eastern and Southern Africa,Vulnerable,Hyaenidae,Incubation,56,Herd-based,1
+Albatross,100-120,120-250,Dark green,60-70,Piscivore,Savannah,Humans,20,Worldwide,Least Concern,Diomedeidae,640-660,56,Group-based,1
+Alligator,40-50,200-450,Tan,10-12,Insectivore,Savannas,"Lions, Hyenas",24-30,Sub-Saharan Africa,Least Concern,Alligatoridae,60-90,70,Herd-based,1
+Aardwolf,100-120,40-65,Dark green,20-30,Herbivore,Savannah,Humans,58,Africa,Near Threatened,Alligatoridae,Incubation,40,Herd-based,1
+Aardwolf,100-120,8-14,Grey,10-14,Carnivore,Wetlands,"Lions, Hyenas",24-30,Africa,Vulnerable,Elephantidae,Incubation,70,Solitary,1
+African Wild Dog,150-200,8-15,Dark green,20-30,Carnivore,Grasslands,"Lions, Hyenas",58,Worldwide,Endangered,Alligatoridae,640-660,30,Solitary,10-20
+Albatross,75-80,2700-6000,Grey,60-70,Insectivore,Savannahs,"Hyenas, Crocodiles",20,North America,Least Concern,Diomedeidae,210-240,30,Group-based,1
+African Wild Dog,270-310,120-250,Dark green,30-40,Carnivore,Savannahs,Sharks,24-30,North America,Least Concern,Elephantidae,98-105,40,Herd-based,2-4 (usually)
+African Lion,40-50,200-450,Multicolored,10-14,Carnivore,Savannahs,Humans,56,Africa,Endangered,Orycteropodidae,90,40,Solitary,10-12
+African Lion,270-310,8-14,Grey,30-40,Carnivore,Savannahs,Humans,58,Africa,Least Concern,Hyaenidae,Incubation,40,Solitary,2-5
+African Lion,40-50,200-450,White,20-30,Carnivore,Oceans,"Lions, Hyenas",25,Africa,Vulnerable,Felidae,98-105,40,Herd-based,2-5
+African Wild Dog,40-50,8-15,Grey,35-50,Carnivore,Grasslands,"Lions, Hyenas",58,North America,Least Concern,Alligatoridae,70,70,Solitary,1
+African Wild Dog,270-310,8-14,Tan,20-30,Carnivore,Wetlands,"Hyenas, Crocodiles",24-30,North America,Least Concern,Orycteropodidae,210-240,30,Solitary,1
+Aardvark,100-120,2700-6000,Grey,30-40,Piscivore,Grasslands,Humans,40,Sub-Saharan Africa,Least Concern,Canidae,60-90,30,Herd-based,10-20
+Aardwolf,105-130,8-14,Yellow-brown,10-12,Herbivore,Savannahs,"Lions, Hyenas",58,Africa,Vulnerable,Alligatoridae,210-240,56,Solitary,2-5
+Aardwolf,150-200,2700-6000,Yellow-brown,60-70,Piscivore,Savannahs,"Lions, Leopards",20,Eastern and Southern Africa,Vulnerable,Elephantidae,70,40,Group-based,1
+African Wild Dog,105-130,18-36,White,30-40,Carnivore,Oceans,"Lions, Leopards",70,Africa,Least Concern,Diomedeidae,90,56,Group-based,2-4 (usually)
+African Elephant,80-110,2700-6000,Grey,10-14,Carnivore,Oceans,"Lions, Hyenas",58,Sub-Saharan Africa,Near Threatened,Alligatoridae,90,70,Group-based,10-12
+African Wild Dog,270-310,2700-6000,Tan,10-12,Carnivore,Savannahs,"Hyenas, Crocodiles",58,Africa,Vulnerable,Elephantidae,60-90,70,Group-based,1
+Aardvark,105-130,8-14,Dark green,35-50,Herbivore,Grasslands,"Lions, Hyenas",58,Worldwide,Vulnerable,Felidae,Incubation,80,Group-based,1
+Albatross,100-120,2700-6000,Grey,30-40,Insectivore,Savannahs,"Lions, Hyenas",70,Sub-Saharan Africa,Vulnerable,Elephantidae,210-240,70,Solitary,10-12
+Aardwolf,105-130,2700-6000,Tan,30-40,Insectivore,Oceans,"Lions, Hyenas",70,Eastern and Southern Africa,Least Concern,Hyaenidae,60-90,40,Herd-based,1
+Aardvark,75-80,18-36,Yellow-brown,60-70,Carnivore,Savannas,"Lions, Hyenas",56,Sub-Saharan Africa,Vulnerable,Canidae,60-90,40,Herd-based,1
+Albatross,80-110,8-14,Grey,35-50,Insectivore,Wetlands,Sharks,70,Sub-Saharan Africa,Vulnerable,Diomedeidae,210-240,40,Solitary,10-20
+African Wild Dog,100-120,8-14,Grey,10-12,Herbivore,Oceans,Sharks,58,Africa,Least Concern,Felidae,Incubation,40,Group-based,2-4 (usually)
+Aardvark,150-200,8-15,Grey,30-40,Carnivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Orycteropodidae,Incubation,40,Solitary,1
+Aardwolf,75-80,120-250,Tan,30-40,Insectivore,Savannahs,"Lions, Leopards",70,Africa,Least Concern,Orycteropodidae,70,80,Solitary,2-5
+African Elephant,75-80,40-65,Dark green,35-50,Insectivore,Savannas,Humans,24-30,Africa,Endangered,Alligatoridae,Incubation,30,Solitary,1
+Albatross,75-80,8-14,Grey,10-12,Carnivore,Savannahs,"Lions, Hyenas",20,North America,Vulnerable,Alligatoridae,210-240,40,Solitary,2-4 (usually)
+African Wild Dog,80-110,40-65,Grey,30-40,Carnivore,Wetlands,"Lions, Hyenas",70,Africa,Vulnerable,Orycteropodidae,70,70,Solitary,1
+Alligator,100-120,120-250,Grey,30-40,Insectivore,Savannah,"Lions, Hyenas",24-30,Worldwide,Least Concern,Elephantidae,Incubation,30,Solitary,10-12
+Aardvark,80-110,2700-6000,Grey,10-12,Carnivore,Savannas,Humans,70,Africa,Near Threatened,Elephantidae,640-660,70,Group-based,10-12
+Aardwolf,270-310,8-14,Grey,35-50,Herbivore,Savannahs,"Lions, Hyenas",58,Eastern and Southern Africa,Endangered,Elephantidae,70,70,Group-based,1
+African Wild Dog,40-50,18-36,Grey,10-12,Insectivore,Oceans,"Hyenas, Crocodiles",25,Africa,Near Threatened,Diomedeidae,60-90,80,Group-based,2-4 (usually)
+African Wild Dog,80-110,120-250,Multicolored,10-12,Piscivore,Grasslands,"Lions, Hyenas",56,Sub-Saharan Africa,Least Concern,Alligatoridae,640-660,70,Solitary,2-5
+African Elephant,270-310,8-15,Grey,20-30,Insectivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Canidae,90,56,Solitary,1
+Aardwolf,105-130,8-15,Dark green,10-12,Insectivore,Wetlands,Humans,20,Africa,Endangered,Alligatoridae,210-240,40,Group-based,1
+African Elephant,150-200,120-250,Grey,60-70,Carnivore,Grasslands,"Hyenas, Crocodiles",40,Sub-Saharan Africa,Near Threatened,Felidae,210-240,40,Solitary,2-5
+African Wild Dog,150-200,18-36,Grey,35-50,Carnivore,Oceans,"Lions, Hyenas",25,North America,Least Concern,Orycteropodidae,60-90,70,Solitary,2-4 (usually)
+African Wild Dog,75-80,200-450,Multicolored,30-40,Insectivore,Savannah,"Lions, Hyenas",56,Sub-Saharan Africa,Least Concern,Orycteropodidae,210-240,40,Solitary,1
+Aardwolf,80-110,8-14,Yellow-brown,10-12,Insectivore,Savannah,"Lions, Leopards",20,Africa,Least Concern,Felidae,60-90,40,Solitary,2-5
+Aardvark,75-80,40-65,Dark green,20-30,Insectivore,Savannah,Humans,70,Africa,Vulnerable,Diomedeidae,640-660,56,Herd-based,1
+Alligator,105-130,40-65,Grey,30-40,Carnivore,Savannah,"Hyenas, Crocodiles",70,Eastern and Southern Africa,Near Threatened,Canidae,640-660,80,Herd-based,2-4 (usually)
+Aardvark,270-310,18-36,Yellow-brown,20-30,Carnivore,Wetlands,"Lions, Hyenas",24-30,Africa,Endangered,Orycteropodidae,640-660,80,Group-based,1
+African Lion,150-200,8-15,Dark green,60-70,Insectivore,Savannah,Sharks,25,Africa,Least Concern,Canidae,70,40,Group-based,2-5
+African Lion,100-120,120-250,Dark green,10-12,Herbivore,Savannahs,Sharks,25,Africa,Endangered,Alligatoridae,70,40,Group-based,1
+African Lion,40-50,2700-6000,Tan,30-40,Piscivore,Savannahs,Humans,20,Africa,Least Concern,Hyaenidae,640-660,30,Group-based,1
+African Wild Dog,150-200,40-65,White,10-14,Insectivore,Oceans,"Hyenas, Crocodiles",24-30,Africa,Least Concern,Canidae,70,30,Herd-based,2-4 (usually)
+African Elephant,100-120,8-14,White,10-12,Carnivore,Oceans,"Lions, Hyenas",56,Worldwide,Least Concern,Canidae,Incubation,40,Group-based,1
+Aardwolf,150-200,40-65,Grey,30-40,Piscivore,Oceans,Sharks,24-30,North America,Near Threatened,Diomedeidae,Incubation,30,Solitary,2-4 (usually)
+African Wild Dog,105-130,18-36,Yellow-brown,30-40,Insectivore,Savannahs,"Hyenas, Crocodiles",20,Worldwide,Least Concern,Canidae,210-240,70,Group-based,1
+Aardwolf,150-200,40-65,White,30-40,Carnivore,Savannah,"Hyenas, Crocodiles",25,North America,Least Concern,Alligatoridae,60-90,40,Group-based,2-5
+Alligator,75-80,40-65,White,35-50,Piscivore,Wetlands,Sharks,56,North America,Least Concern,Diomedeidae,210-240,56,Group-based,1
+African Elephant,100-120,8-15,Grey,10-14,Carnivore,Grasslands,"Lions, Leopards",25,Africa,Least Concern,Hyaenidae,90,40,Herd-based,1
+African Wild Dog,40-50,200-450,Yellow-brown,10-14,Carnivore,Savannah,Sharks,40,North America,Least Concern,Orycteropodidae,98-105,56,Solitary,1
+Aardwolf,150-200,2700-6000,Yellow-brown,30-40,Carnivore,Wetlands,Humans,58,Africa,Vulnerable,Alligatoridae,90,70,Solitary,10-20
+African Wild Dog,150-200,120-250,Multicolored,10-12,Carnivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Hyaenidae,98-105,40,Herd-based,1
+African Elephant,75-80,200-450,Multicolored,35-50,Carnivore,Savannah,Sharks,25,Sub-Saharan Africa,Least Concern,Orycteropodidae,98-105,30,Group-based,2-5
+Aardwolf,270-310,8-14,Multicolored,20-30,Piscivore,Grasslands,"Lions, Hyenas",56,North America,Vulnerable,Elephantidae,90,40,Solitary,10-12
+Aardwolf,150-200,40-65,White,30-40,Carnivore,Savannah,"Hyenas, Crocodiles",25,North America,Least Concern,Alligatoridae,60-90,40,Group-based,2-5
+Aardvark,150-200,40-65,Tan,10-14,Insectivore,Grasslands,"Lions, Leopards",70,Sub-Saharan Africa,Near Threatened,Alligatoridae,210-240,30,Solitary,2-4 (usually)
+Albatross,40-50,8-15,Tan,10-12,Carnivore,Savannas,"Lions, Hyenas",24-30,North America,Vulnerable,Alligatoridae,60-90,56,Herd-based,2-4 (usually)
+African Lion,150-200,40-65,Grey,35-50,Carnivore,Wetlands,"Hyenas, Crocodiles",58,Worldwide,Least Concern,Alligatoridae,60-90,70,Solitary,2-5
+African Lion,80-110,8-14,Tan,30-40,Carnivore,Oceans,"Lions, Leopards",24-30,Africa,Least Concern,Alligatoridae,90,70,Herd-based,10-12
+Alligator,40-50,2700-6000,Grey,10-14,Carnivore,Oceans,"Lions, Hyenas",20,Eastern and Southern Africa,Vulnerable,Diomedeidae,70,56,Solitary,1
+African Lion,40-50,40-65,Yellow-brown,10-12,Carnivore,Oceans,"Hyenas, Crocodiles",25,Sub-Saharan Africa,Vulnerable,Orycteropodidae,70,40,Group-based,1
+African Wild Dog,105-130,2700-6000,Grey,10-12,Insectivore,Savannah,"Hyenas, Crocodiles",58,Worldwide,Least Concern,Elephantidae,98-105,70,Solitary,2-4 (usually)
+Alligator,105-130,120-250,Yellow-brown,10-12,Insectivore,Oceans,Humans,20,North America,Vulnerable,Diomedeidae,Incubation,80,Solitary,1
+African Wild Dog,150-200,40-65,White,10-14,Insectivore,Oceans,"Hyenas, Crocodiles",24-30,Africa,Least Concern,Canidae,70,30,Herd-based,2-4 (usually)
+African Lion,75-80,2700-6000,Dark green,10-12,Piscivore,Grasslands,"Lions, Hyenas",24-30,Worldwide,Endangered,Alligatoridae,70,70,Solitary,10-20
+Albatross,80-110,8-14,Tan,60-70,Insectivore,Grasslands,"Lions, Hyenas",56,North America,Least Concern,Diomedeidae,640-660,80,Group-based,2-5
+Aardwolf,150-200,120-250,Multicolored,10-12,Herbivore,Savannas,"Lions, Hyenas",20,Worldwide,Endangered,Alligatoridae,70,40,Solitary,1
+Aardwolf,80-110,8-14,Grey,35-50,Insectivore,Savannahs,"Hyenas, Crocodiles",25,North America,Least Concern,Elephantidae,90,30,Solitary,10-12
+Alligator,80-110,18-36,White,20-30,Piscivore,Grasslands,"Hyenas, Crocodiles",56,Africa,Vulnerable,Orycteropodidae,90,70,Solitary,2-5
+African Lion,75-80,120-250,Multicolored,10-14,Herbivore,Oceans,"Lions, Hyenas",56,Africa,Least Concern,Alligatoridae,98-105,70,Group-based,2-5
+Aardwolf,40-50,200-450,White,60-70,Insectivore,Grasslands,Humans,24-30,Sub-Saharan Africa,Least Concern,Felidae,210-240,40,Herd-based,1
+Alligator,150-200,120-250,Grey,20-30,Carnivore,Grasslands,"Lions, Hyenas",24-30,Sub-Saharan Africa,Vulnerable,Hyaenidae,98-105,56,Solitary,10-20
+African Elephant,100-120,40-65,Tan,20-30,Insectivore,Savannah,"Lions, Leopards",70,Worldwide,Endangered,Diomedeidae,210-240,40,Group-based,10-20
+Aardvark,150-200,200-450,Tan,30-40,Insectivore,Savannas,"Lions, Hyenas",24-30,Sub-Saharan Africa,Endangered,Felidae,60-90,80,Solitary,1
+Aardvark,105-130,2700-6000,Yellow-brown,10-14,Carnivore,Oceans,Humans,24-30,Africa,Least Concern,Diomedeidae,90,70,Group-based,1
+Aardwolf,40-50,18-36,Yellow-brown,35-50,Piscivore,Savannah,"Lions, Hyenas",40,North America,Near Threatened,Diomedeidae,90,70,Group-based,10-20
+Alligator,105-130,40-65,Grey,35-50,Carnivore,Savannah,"Lions, Hyenas",70,Africa,Vulnerable,Diomedeidae,90,56,Group-based,10-20
+African Elephant,100-120,8-14,Multicolored,60-70,Carnivore,Wetlands,"Lions, Hyenas",20,Worldwide,Least Concern,Orycteropodidae,640-660,40,Solitary,10-20
+Aardwolf,105-130,8-14,Yellow-brown,10-12,Carnivore,Savannas,Sharks,58,Africa,Least Concern,Elephantidae,60-90,30,Solitary,1
+Albatross,150-200,8-15,Dark green,35-50,Carnivore,Oceans,Sharks,25,North America,Vulnerable,Orycteropodidae,90,30,Group-based,10-20
+African Wild Dog,270-310,200-450,Yellow-brown,10-14,Carnivore,Savannas,"Lions, Leopards",40,North America,Vulnerable,Felidae,640-660,40,Group-based,1
+African Wild Dog,80-110,120-250,White,35-50,Carnivore,Grasslands,Humans,40,Africa,Vulnerable,Alligatoridae,60-90,80,Group-based,1
+African Elephant,150-200,2700-6000,Multicolored,60-70,Herbivore,Grasslands,Humans,58,Africa,Least Concern,Orycteropodidae,90,80,Group-based,10-12
+African Wild Dog,40-50,120-250,White,20-30,Insectivore,Wetlands,"Lions, Hyenas",56,Eastern and Southern Africa,Vulnerable,Elephantidae,90,56,Herd-based,1
+African Wild Dog,150-200,8-15,Tan,10-14,Piscivore,Savannah,"Lions, Hyenas",25,North America,Vulnerable,Alligatoridae,98-105,56,Group-based,1
+Albatross,270-310,18-36,Yellow-brown,20-30,Insectivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Diomedeidae,640-660,30,Solitary,1
+Aardvark,105-130,200-450,Grey,10-14,Carnivore,Savannah,Humans,58,Worldwide,Least Concern,Canidae,210-240,70,Group-based,1
+African Elephant,75-80,120-250,Grey,10-14,Insectivore,Oceans,Humans,58,Eastern and Southern Africa,Least Concern,Canidae,98-105,70,Solitary,1
+African Lion,105-130,18-36,Grey,20-30,Carnivore,Grasslands,"Hyenas, Crocodiles",70,Eastern and Southern Africa,Near Threatened,Felidae,Incubation,70,Group-based,2-5
+African Wild Dog,100-120,8-14,Multicolored,60-70,Herbivore,Wetlands,"Lions, Hyenas",56,North America,Vulnerable,Orycteropodidae,210-240,30,Group-based,1
+Albatross,270-310,18-36,Grey,10-12,Carnivore,Grasslands,"Lions, Hyenas",56,Eastern and Southern Africa,Vulnerable,Felidae,210-240,56,Group-based,10-12
+Aardwolf,270-310,8-14,Dark green,60-70,Insectivore,Savannas,"Lions, Hyenas",70,Africa,Vulnerable,Diomedeidae,90,30,Herd-based,2-4 (usually)
+Aardwolf,105-130,8-15,White,60-70,Herbivore,Savannahs,"Lions, Hyenas",56,Eastern and Southern Africa,Vulnerable,Felidae,70,40,Solitary,2-4 (usually)
+African Elephant,150-200,120-250,Grey,60-70,Carnivore,Grasslands,"Hyenas, Crocodiles",40,Sub-Saharan Africa,Near Threatened,Felidae,210-240,40,Solitary,2-5
+African Elephant,105-130,18-36,Grey,30-40,Insectivore,Grasslands,"Lions, Hyenas",25,Africa,Near Threatened,Alligatoridae,Incubation,80,Group-based,2-5
+Albatross,105-130,2700-6000,White,35-50,Insectivore,Grasslands,"Hyenas, Crocodiles",20,Sub-Saharan Africa,Near Threatened,Elephantidae,60-90,80,Herd-based,1
+Albatross,150-200,8-14,Multicolored,35-50,Carnivore,Savannah,"Lions, Hyenas",56,North America,Vulnerable,Elephantidae,70,70,Group-based,2-4 (usually)
+Alligator,150-200,8-14,Grey,10-12,Piscivore,Grasslands,"Hyenas, Crocodiles",24-30,Sub-Saharan Africa,Near Threatened,Felidae,640-660,56,Solitary,2-4 (usually)
+Aardvark,40-50,120-250,Yellow-brown,20-30,Insectivore,Grasslands,"Lions, Hyenas",20,Africa,Least Concern,Alligatoridae,210-240,40,Solitary,1
+Alligator,270-310,40-65,Yellow-brown,10-12,Carnivore,Oceans,Humans,58,Sub-Saharan Africa,Least Concern,Alligatoridae,90,40,Group-based,10-20
+Aardwolf,100-120,40-65,Grey,30-40,Herbivore,Savannahs,Humans,25,Sub-Saharan Africa,Vulnerable,Felidae,98-105,70,Herd-based,1
+African Lion,270-310,200-450,Yellow-brown,35-50,Herbivore,Savannah,"Lions, Hyenas",24-30,Eastern and Southern Africa,Vulnerable,Diomedeidae,Incubation,40,Herd-based,10-20
+Alligator,100-120,18-36,Grey,35-50,Herbivore,Grasslands,"Lions, Hyenas",40,Worldwide,Least Concern,Felidae,90,56,Solitary,10-20
+Alligator,100-120,40-65,White,10-14,Herbivore,Savannahs,Sharks,25,Sub-Saharan Africa,Vulnerable,Canidae,70,40,Solitary,1
+African Wild Dog,270-310,40-65,Grey,10-12,Herbivore,Wetlands,"Lions, Leopards",56,Worldwide,Endangered,Canidae,60-90,56,Group-based,1
+African Lion,150-200,200-450,Grey,30-40,Insectivore,Savannahs,"Lions, Hyenas",58,Africa,Least Concern,Orycteropodidae,90,70,Herd-based,1
+Aardwolf,100-120,8-14,Dark green,60-70,Insectivore,Savannah,"Lions, Hyenas",70,Worldwide,Endangered,Elephantidae,210-240,40,Group-based,10-12
+African Elephant,105-130,8-14,White,10-12,Piscivore,Savannas,"Lions, Hyenas",24-30,Worldwide,Least Concern,Hyaenidae,210-240,30,Solitary,2-5
+Alligator,40-50,8-15,Dark green,35-50,Carnivore,Grasslands,Sharks,20,Africa,Least Concern,Canidae,210-240,40,Group-based,10-20
+Alligator,100-120,8-14,Multicolored,35-50,Carnivore,Savannahs,Humans,40,Africa,Least Concern,Felidae,60-90,56,Solitary,1
+African Elephant,150-200,18-36,Dark green,20-30,Carnivore,Grasslands,"Lions, Hyenas",25,Africa,Vulnerable,Alligatoridae,60-90,70,Group-based,1
+African Elephant,80-110,40-65,Grey,10-12,Piscivore,Savannah,"Lions, Hyenas",20,Eastern and Southern Africa,Endangered,Hyaenidae,98-105,70,Solitary,1
+Albatross,105-130,40-65,Grey,10-12,Carnivore,Savannas,"Lions, Leopards",40,North America,Vulnerable,Felidae,60-90,30,Herd-based,1
+African Wild Dog,270-310,18-36,Yellow-brown,60-70,Carnivore,Savannas,"Lions, Hyenas",24-30,Sub-Saharan Africa,Endangered,Diomedeidae,210-240,40,Solitary,1
+African Elephant,40-50,120-250,Multicolored,10-14,Insectivore,Savannah,"Lions, Leopards",56,Africa,Least Concern,Diomedeidae,90,30,Group-based,10-12
+Aardvark,80-110,2700-6000,Yellow-brown,10-12,Herbivore,Oceans,Sharks,20,North America,Near Threatened,Canidae,210-240,40,Solitary,1
+African Elephant,270-310,8-15,Yellow-brown,20-30,Insectivore,Savannas,Humans,58,North America,Endangered,Orycteropodidae,640-660,40,Group-based,10-12
+Aardvark,40-50,120-250,Dark green,10-14,Insectivore,Savannas,"Lions, Leopards",58,Africa,Vulnerable,Elephantidae,70,56,Herd-based,1
+Alligator,40-50,18-36,Tan,35-50,Insectivore,Grasslands,"Lions, Leopards",70,Africa,Least Concern,Alligatoridae,70,80,Solitary,1
+Alligator,40-50,8-15,Tan,10-14,Carnivore,Grasslands,"Lions, Hyenas",70,Africa,Vulnerable,Orycteropodidae,90,56,Solitary,1
+Aardvark,75-80,18-36,Dark green,10-12,Herbivore,Oceans,"Lions, Hyenas",70,Africa,Endangered,Orycteropodidae,70,40,Herd-based,1
+Alligator,75-80,8-14,Grey,20-30,Carnivore,Grasslands,"Lions, Hyenas",70,Eastern and Southern Africa,Least Concern,Orycteropodidae,98-105,40,Solitary,1
+African Lion,105-130,40-65,Multicolored,10-12,Insectivore,Savannahs,"Lions, Leopards",40,Worldwide,Least Concern,Orycteropodidae,90,40,Group-based,1
+African Lion,75-80,8-14,Grey,60-70,Insectivore,Savannas,"Lions, Hyenas",56,Worldwide,Near Threatened,Felidae,60-90,80,Solitary,2-4 (usually)
+Albatross,150-200,200-450,Grey,35-50,Herbivore,Savannahs,"Lions, Hyenas",70,North America,Least Concern,Alligatoridae,98-105,40,Group-based,10-20
+African Wild Dog,150-200,120-250,Dark green,10-12,Carnivore,Grasslands,"Lions, Leopards",56,North America,Vulnerable,Hyaenidae,90,70,Herd-based,1
+African Lion,100-120,120-250,Grey,10-14,Carnivore,Grasslands,"Lions, Leopards",25,Worldwide,Least Concern,Elephantidae,60-90,80,Solitary,10-20
+Albatross,100-120,8-14,Grey,10-12,Carnivore,Savannahs,"Hyenas, Crocodiles",40,Africa,Least Concern,Felidae,60-90,56,Solitary,1
+Alligator,270-310,120-250,White,30-40,Piscivore,Grasslands,Sharks,24-30,Africa,Near Threatened,Hyaenidae,70,40,Solitary,10-12
+Aardvark,75-80,40-65,Grey,10-12,Carnivore,Grasslands,Humans,56,Africa,Vulnerable,Elephantidae,90,80,Group-based,1
+African Elephant,150-200,8-15,Tan,10-12,Herbivore,Oceans,"Lions, Leopards",70,Sub-Saharan Africa,Vulnerable,Orycteropodidae,90,80,Group-based,2-5
+Aardvark,150-200,2700-6000,Grey,35-50,Insectivore,Oceans,"Lions, Hyenas",58,Eastern and Southern Africa,Vulnerable,Alligatoridae,70,40,Group-based,10-20
+African Wild Dog,105-130,18-36,Yellow-brown,30-40,Insectivore,Savannahs,"Hyenas, Crocodiles",20,Worldwide,Least Concern,Canidae,210-240,70,Group-based,1
+Aardvark,75-80,8-14,Multicolored,30-40,Carnivore,Oceans,"Lions, Hyenas",58,Africa,Vulnerable,Orycteropodidae,210-240,56,Solitary,1
+Aardvark,150-200,8-14,White,60-70,Piscivore,Oceans,"Lions, Hyenas",56,Africa,Least Concern,Orycteropodidae,210-240,40,Solitary,2-4 (usually)
+Alligator,270-310,8-14,Tan,60-70,Insectivore,Savannah,"Lions, Hyenas",40,Africa,Vulnerable,Diomedeidae,640-660,40,Group-based,1
+Albatross,150-200,120-250,Grey,10-12,Carnivore,Savannas,"Hyenas, Crocodiles",24-30,Africa,Vulnerable,Canidae,Incubation,80,Group-based,10-20
+Albatross,40-50,8-15,Grey,60-70,Carnivore,Savannas,"Hyenas, Crocodiles",24-30,Africa,Least Concern,Hyaenidae,210-240,80,Group-based,10-12
+Albatross,40-50,200-450,Yellow-brown,10-12,Carnivore,Wetlands,"Lions, Hyenas",56,Africa,Vulnerable,Canidae,70,40,Solitary,1
+Alligator,40-50,18-36,Tan,35-50,Piscivore,Oceans,"Lions, Hyenas",56,Worldwide,Least Concern,Hyaenidae,210-240,40,Solitary,1
+African Elephant,75-80,2700-6000,Grey,10-14,Piscivore,Wetlands,Sharks,70,Africa,Least Concern,Canidae,90,56,Group-based,1
+Alligator,105-130,2700-6000,Tan,10-12,Insectivore,Grasslands,"Lions, Leopards",25,Worldwide,Least Concern,Alligatoridae,70,30,Group-based,1
+African Wild Dog,100-120,120-250,Grey,35-50,Carnivore,Savannahs,"Hyenas, Crocodiles",20,Eastern and Southern Africa,Least Concern,Alligatoridae,60-90,80,Solitary,10-12
+Aardvark,105-130,8-14,Dark green,10-12,Carnivore,Savannas,Humans,20,Worldwide,Least Concern,Alligatoridae,70,56,Solitary,10-12
+Aardvark,270-310,8-15,Yellow-brown,10-12,Carnivore,Wetlands,Humans,58,Africa,Vulnerable,Alligatoridae,640-660,80,Group-based,2-4 (usually)
+Aardvark,270-310,18-36,Multicolored,10-12,Herbivore,Grasslands,"Hyenas, Crocodiles",25,Eastern and Southern Africa,Near Threatened,Alligatoridae,90,56,Group-based,10-12
+African Lion,105-130,18-36,Grey,30-40,Piscivore,Oceans,"Lions, Hyenas",56,North America,Vulnerable,Canidae,640-660,30,Solitary,1
+African Wild Dog,40-50,2700-6000,Dark green,10-14,Piscivore,Oceans,"Lions, Hyenas",24-30,North America,Least Concern,Felidae,Incubation,80,Group-based,2-5
+African Wild Dog,150-200,200-450,Multicolored,60-70,Insectivore,Savannas,"Lions, Hyenas",40,Africa,Vulnerable,Felidae,98-105,56,Group-based,10-12
+African Elephant,75-80,2700-6000,White,35-50,Insectivore,Oceans,"Lions, Hyenas",24-30,Africa,Endangered,Alligatoridae,Incubation,56,Herd-based,2-4 (usually)
+African Elephant,105-130,120-250,Grey,20-30,Carnivore,Oceans,"Lions, Leopards",20,Worldwide,Least Concern,Hyaenidae,70,80,Group-based,10-12
+Aardvark,105-130,8-14,Multicolored,30-40,Carnivore,Oceans,"Lions, Hyenas",58,Africa,Least Concern,Felidae,60-90,30,Group-based,2-5
+Albatross,105-130,2700-6000,Dark green,60-70,Insectivore,Savannahs,Sharks,70,Africa,Least Concern,Felidae,98-105,40,Group-based,2-5
+African Lion,75-80,120-250,Multicolored,10-14,Herbivore,Oceans,"Lions, Hyenas",56,Africa,Least Concern,Alligatoridae,98-105,70,Group-based,2-5
+Alligator,100-120,120-250,Multicolored,60-70,Piscivore,Wetlands,"Lions, Hyenas",20,Eastern and Southern Africa,Near Threatened,Diomedeidae,90,40,Group-based,1
+African Elephant,105-130,8-15,Multicolored,10-12,Herbivore,Savannahs,"Lions, Hyenas",58,Africa,Vulnerable,Alligatoridae,70,40,Group-based,2-4 (usually)
+African Lion,270-310,8-14,Dark green,60-70,Carnivore,Grasslands,"Lions, Hyenas",58,North America,Near Threatened,Hyaenidae,Incubation,70,Solitary,2-4 (usually)
+Albatross,150-200,120-250,Grey,30-40,Piscivore,Savannah,"Lions, Hyenas",58,Worldwide,Near Threatened,Diomedeidae,70,40,Group-based,1
+African Elephant,75-80,120-250,White,35-50,Piscivore,Savannahs,"Hyenas, Crocodiles",20,Sub-Saharan Africa,Endangered,Alligatoridae,70,56,Solitary,1
+Alligator,105-130,8-14,Yellow-brown,10-12,Piscivore,Grasslands,"Lions, Hyenas",56,Worldwide,Least Concern,Hyaenidae,90,40,Solitary,1
+Aardvark,150-200,8-14,Multicolored,60-70,Piscivore,Grasslands,"Hyenas, Crocodiles",56,Sub-Saharan Africa,Least Concern,Canidae,60-90,56,Herd-based,1
+Aardwolf,40-50,8-14,Grey,10-12,Insectivore,Grasslands,"Lions, Hyenas",25,Eastern and Southern Africa,Least Concern,Diomedeidae,640-660,70,Herd-based,10-20
+African Elephant,80-110,200-450,Dark green,60-70,Piscivore,Oceans,"Lions, Leopards",58,Africa,Vulnerable,Orycteropodidae,98-105,56,Herd-based,2-4 (usually)
+Aardwolf,150-200,200-450,Yellow-brown,20-30,Carnivore,Grasslands,"Lions, Hyenas",20,Worldwide,Least Concern,Diomedeidae,640-660,40,Group-based,10-20
+African Elephant,100-120,8-14,Yellow-brown,30-40,Piscivore,Savannas,Humans,56,North America,Endangered,Canidae,90,56,Group-based,1
+African Elephant,105-130,18-36,White,20-30,Carnivore,Savannas,"Lions, Leopards",58,Africa,Vulnerable,Elephantidae,70,30,Solitary,2-4 (usually)
+Alligator,40-50,18-36,Tan,10-12,Carnivore,Grasslands,Humans,24-30,Worldwide,Least Concern,Alligatoridae,70,70,Solitary,1
+Alligator,105-130,40-65,Dark green,60-70,Insectivore,Wetlands,"Lions, Hyenas",25,Worldwide,Least Concern,Canidae,70,30,Solitary,2-5
+Alligator,270-310,120-250,Tan,30-40,Insectivore,Grasslands,"Hyenas, Crocodiles",24-30,Africa,Least Concern,Felidae,98-105,80,Group-based,2-4 (usually)
+Aardvark,270-310,8-15,Yellow-brown,10-12,Carnivore,Wetlands,Humans,58,Africa,Vulnerable,Alligatoridae,640-660,80,Group-based,2-4 (usually)
+African Elephant,80-110,2700-6000,White,20-30,Insectivore,Grasslands,"Lions, Hyenas",20,Sub-Saharan Africa,Least Concern,Alligatoridae,70,80,Group-based,2-4 (usually)
+Aardwolf,100-120,8-15,Yellow-brown,30-40,Herbivore,Savannahs,"Lions, Hyenas",70,Africa,Near Threatened,Orycteropodidae,210-240,80,Solitary,2-5
+Alligator,80-110,8-14,Multicolored,60-70,Carnivore,Grasslands,"Lions, Hyenas",25,Sub-Saharan Africa,Endangered,Diomedeidae,70,80,Group-based,1
+Alligator,150-200,18-36,Multicolored,20-30,Carnivore,Savannahs,"Lions, Hyenas",25,Africa,Least Concern,Felidae,Incubation,70,Group-based,10-20
+African Wild Dog,100-120,120-250,Multicolored,30-40,Carnivore,Savannah,"Lions, Hyenas",25,Africa,Least Concern,Orycteropodidae,Incubation,30,Group-based,1
+Alligator,80-110,18-36,White,20-30,Carnivore,Wetlands,Humans,25,North America,Endangered,Canidae,60-90,80,Herd-based,2-4 (usually)
+African Wild Dog,80-110,120-250,Tan,35-50,Carnivore,Savannahs,"Hyenas, Crocodiles",56,Africa,Endangered,Elephantidae,640-660,56,Solitary,1
+Aardwolf,270-310,40-65,Yellow-brown,20-30,Piscivore,Oceans,Sharks,70,Worldwide,Least Concern,Elephantidae,Incubation,80,Solitary,2-4 (usually)
+African Elephant,75-80,18-36,Grey,10-14,Carnivore,Savannah,"Lions, Leopards",58,North America,Least Concern,Alligatoridae,70,70,Group-based,10-12
+African Lion,80-110,120-250,Multicolored,30-40,Insectivore,Savannas,Humans,40,Sub-Saharan Africa,Least Concern,Hyaenidae,60-90,40,Group-based,1
+Alligator,75-80,18-36,Grey,10-12,Piscivore,Savannas,Sharks,58,Africa,Endangered,Elephantidae,60-90,30,Herd-based,10-20
+African Elephant,150-200,18-36,Dark green,20-30,Carnivore,Grasslands,"Lions, Hyenas",25,Africa,Vulnerable,Alligatoridae,60-90,70,Group-based,1
+Aardvark,270-310,200-450,Grey,10-14,Piscivore,Grasslands,"Lions, Hyenas",56,Worldwide,Least Concern,Diomedeidae,70,70,Group-based,2-4 (usually)
+African Wild Dog,75-80,40-65,Yellow-brown,20-30,Herbivore,Oceans,"Lions, Hyenas",70,Worldwide,Least Concern,Diomedeidae,90,40,Solitary,1
+African Elephant,105-130,120-250,White,10-12,Insectivore,Grasslands,"Lions, Hyenas",25,North America,Vulnerable,Diomedeidae,210-240,80,Solitary,1
+African Elephant,75-80,120-250,Multicolored,30-40,Insectivore,Wetlands,"Hyenas, Crocodiles",24-30,Worldwide,Least Concern,Elephantidae,70,40,Herd-based,10-12
+Aardvark,150-200,8-15,Tan,35-50,Herbivore,Savannas,Sharks,56,Africa,Endangered,Alligatoridae,90,70,Group-based,2-5
+Albatross,270-310,40-65,Grey,10-14,Herbivore,Wetlands,"Lions, Leopards",40,Eastern and Southern Africa,Vulnerable,Diomedeidae,70,56,Group-based,2-4 (usually)
+Aardvark,100-120,8-14,Grey,60-70,Insectivore,Savannahs,Humans,56,Africa,Least Concern,Diomedeidae,640-660,40,Group-based,1
+African Wild Dog,105-130,2700-6000,Multicolored,10-14,Insectivore,Grasslands,Humans,70,Sub-Saharan Africa,Least Concern,Canidae,60-90,40,Group-based,1
+Albatross,100-120,8-14,Yellow-brown,20-30,Piscivore,Grasslands,"Lions, Hyenas",56,Africa,Vulnerable,Diomedeidae,70,40,Herd-based,1
+African Wild Dog,105-130,18-36,Dark green,30-40,Herbivore,Wetlands,"Lions, Leopards",25,Worldwide,Near Threatened,Elephantidae,60-90,30,Group-based,1
+Aardvark,40-50,120-250,White,35-50,Carnivore,Savannas,"Lions, Hyenas",56,Eastern and Southern Africa,Near Threatened,Hyaenidae,210-240,80,Solitary,2-4 (usually)
+Aardvark,150-200,8-15,Grey,20-30,Herbivore,Savannas,Humans,40,Worldwide,Near Threatened,Hyaenidae,90,80,Solitary,1
+Aardwolf,105-130,200-450,White,35-50,Insectivore,Grasslands,"Lions, Hyenas",20,Worldwide,Endangered,Elephantidae,Incubation,40,Group-based,1
+Aardvark,270-310,40-65,Multicolored,10-12,Piscivore,Grasslands,"Lions, Hyenas",56,Sub-Saharan Africa,Least Concern,Orycteropodidae,98-105,40,Solitary,10-12
+African Elephant,75-80,200-450,Multicolored,60-70,Carnivore,Savannah,"Lions, Leopards",40,Eastern and Southern Africa,Vulnerable,Orycteropodidae,70,40,Herd-based,10-12
+Albatross,270-310,8-15,White,30-40,Carnivore,Oceans,"Lions, Hyenas",20,Sub-Saharan Africa,Least Concern,Felidae,210-240,30,Solitary,2-5
+African Wild Dog,40-50,200-450,Multicolored,60-70,Carnivore,Savannahs,Humans,56,Africa,Least Concern,Alligatoridae,60-90,70,Group-based,1
+Alligator,150-200,200-450,Dark green,60-70,Insectivore,Grasslands,"Lions, Hyenas",56,Worldwide,Near Threatened,Elephantidae,210-240,80,Group-based,1
+Alligator,75-80,8-14,Dark green,60-70,Piscivore,Savannah,"Lions, Hyenas",24-30,North America,Least Concern,Hyaenidae,70,30,Solitary,10-20
+African Lion,40-50,8-15,Grey,35-50,Insectivore,Savannah,"Lions, Hyenas",56,Africa,Vulnerable,Canidae,98-105,56,Solitary,2-5
+Albatross,150-200,8-15,Dark green,10-12,Carnivore,Savannahs,"Lions, Hyenas",20,North America,Near Threatened,Alligatoridae,60-90,70,Herd-based,2-4 (usually)
+African Wild Dog,270-310,2700-6000,White,30-40,Herbivore,Savannahs,"Lions, Leopards",70,Africa,Least Concern,Alligatoridae,210-240,70,Group-based,10-12
+Alligator,270-310,2700-6000,Dark green,35-50,Carnivore,Grasslands,"Lions, Hyenas",40,Eastern and Southern Africa,Near Threatened,Diomedeidae,210-240,30,Group-based,1
+Aardwolf,150-200,18-36,Yellow-brown,10-12,Carnivore,Wetlands,"Lions, Hyenas",56,Sub-Saharan Africa,Vulnerable,Felidae,90,80,Herd-based,2-5
+African Wild Dog,40-50,40-65,Grey,60-70,Carnivore,Grasslands,Sharks,25,Eastern and Southern Africa,Endangered,Canidae,640-660,30,Solitary,10-12
+Albatross,40-50,200-450,Yellow-brown,10-12,Carnivore,Wetlands,"Lions, Hyenas",56,Africa,Vulnerable,Canidae,70,40,Solitary,1
+Albatross,270-310,8-14,Dark green,60-70,Carnivore,Grasslands,Humans,25,Sub-Saharan Africa,Least Concern,Elephantidae,210-240,70,Herd-based,2-5
+Aardwolf,100-120,40-65,White,20-30,Insectivore,Savannahs,"Hyenas, Crocodiles",56,Africa,Vulnerable,Alligatoridae,98-105,40,Solitary,10-12
+Aardvark,105-130,120-250,Tan,60-70,Carnivore,Savannahs,"Lions, Hyenas",25,North America,Least Concern,Orycteropodidae,98-105,80,Group-based,2-5
+Alligator,100-120,40-65,Multicolored,10-12,Insectivore,Savannas,"Lions, Hyenas",58,Eastern and Southern Africa,Vulnerable,Alligatoridae,90,40,Solitary,10-12
+Aardwolf,40-50,2700-6000,Multicolored,10-14,Carnivore,Savannahs,"Lions, Hyenas",40,Africa,Endangered,Hyaenidae,90,40,Solitary,2-5
+African Elephant,80-110,8-14,Tan,10-12,Carnivore,Grasslands,"Hyenas, Crocodiles",58,Sub-Saharan Africa,Vulnerable,Hyaenidae,210-240,80,Group-based,1
+Aardvark,75-80,120-250,Yellow-brown,10-14,Insectivore,Grasslands,"Lions, Hyenas",56,Sub-Saharan Africa,Near Threatened,Canidae,98-105,30,Group-based,2-5
+Alligator,100-120,40-65,Grey,20-30,Herbivore,Oceans,Sharks,40,Africa,Near Threatened,Alligatoridae,70,40,Group-based,1
+Alligator,80-110,120-250,Grey,60-70,Piscivore,Savannahs,"Lions, Hyenas",40,Africa,Near Threatened,Alligatoridae,98-105,30,Group-based,10-12
+African Lion,80-110,8-15,Grey,10-12,Insectivore,Grasslands,"Lions, Hyenas",70,Eastern and Southern Africa,Least Concern,Orycteropodidae,90,56,Herd-based,1
+Aardwolf,75-80,18-36,White,20-30,Carnivore,Savannahs,Humans,40,Eastern and Southern Africa,Least Concern,Elephantidae,98-105,70,Herd-based,1
+Aardvark,40-50,8-14,Grey,35-50,Herbivore,Savannahs,Humans,58,North America,Least Concern,Diomedeidae,210-240,56,Group-based,1
+African Lion,105-130,8-15,Grey,20-30,Carnivore,Oceans,"Hyenas, Crocodiles",25,Worldwide,Near Threatened,Diomedeidae,60-90,40,Group-based,2-5
+Alligator,105-130,40-65,White,10-12,Insectivore,Savannah,"Hyenas, Crocodiles",25,Africa,Least Concern,Felidae,60-90,56,Solitary,1
+Alligator,105-130,18-36,Grey,60-70,Carnivore,Savannahs,Sharks,40,Africa,Least Concern,Elephantidae,70,56,Herd-based,1
+African Lion,270-310,8-14,Grey,10-12,Insectivore,Grasslands,"Hyenas, Crocodiles",40,Worldwide,Least Concern,Felidae,640-660,80,Group-based,1
+Alligator,40-50,40-65,Yellow-brown,10-12,Herbivore,Grasslands,"Lions, Hyenas",58,Eastern and Southern Africa,Near Threatened,Elephantidae,60-90,40,Solitary,2-5
+African Elephant,270-310,8-15,Yellow-brown,20-30,Insectivore,Savannas,Humans,58,North America,Endangered,Orycteropodidae,640-660,40,Group-based,10-12
+African Wild Dog,100-120,8-15,Dark green,10-12,Piscivore,Grasslands,Humans,56,Africa,Least Concern,Felidae,210-240,70,Group-based,2-5
+Albatross,270-310,8-15,Tan,30-40,Carnivore,Wetlands,"Lions, Hyenas",56,Africa,Least Concern,Orycteropodidae,60-90,40,Solitary,1
+Alligator,105-130,18-36,Grey,60-70,Carnivore,Savannahs,Sharks,40,Africa,Least Concern,Elephantidae,70,56,Herd-based,1
+Aardwolf,75-80,200-450,Multicolored,10-12,Carnivore,Savannah,Sharks,25,Sub-Saharan Africa,Endangered,Canidae,98-105,70,Solitary,10-12
+Aardvark,270-310,18-36,Yellow-brown,20-30,Carnivore,Wetlands,"Lions, Hyenas",24-30,Africa,Endangered,Orycteropodidae,640-660,80,Group-based,1
+Aardvark,100-120,2700-6000,Multicolored,60-70,Carnivore,Oceans,Humans,70,Sub-Saharan Africa,Least Concern,Orycteropodidae,Incubation,80,Solitary,10-12
+African Elephant,105-130,8-14,Dark green,10-12,Insectivore,Savannahs,"Lions, Hyenas",40,Africa,Vulnerable,Canidae,90,80,Solitary,10-20
+Albatross,80-110,18-36,Grey,10-12,Insectivore,Grasslands,Sharks,25,Eastern and Southern Africa,Least Concern,Diomedeidae,60-90,40,Solitary,10-20
+Aardwolf,80-110,8-14,Grey,10-12,Carnivore,Oceans,"Lions, Hyenas",56,Africa,Vulnerable,Canidae,640-660,80,Solitary,10-12
+Aardvark,105-130,18-36,Yellow-brown,60-70,Herbivore,Savannah,"Lions, Hyenas",20,Africa,Least Concern,Orycteropodidae,70,56,Herd-based,1
+African Elephant,150-200,8-15,Multicolored,20-30,Carnivore,Grasslands,"Lions, Hyenas",40,Africa,Least Concern,Orycteropodidae,210-240,40,Group-based,10-20
+African Wild Dog,270-310,200-450,Yellow-brown,10-14,Carnivore,Savannas,"Lions, Leopards",40,North America,Vulnerable,Felidae,640-660,40,Group-based,1
+Aardwolf,150-200,200-450,Yellow-brown,20-30,Carnivore,Grasslands,"Lions, Hyenas",20,Worldwide,Least Concern,Diomedeidae,640-660,40,Group-based,10-20
+Aardvark,80-110,8-14,Dark green,30-40,Insectivore,Savannah,Sharks,56,Eastern and Southern Africa,Least Concern,Canidae,Incubation,40,Group-based,1
+Aardwolf,75-80,18-36,Grey,30-40,Insectivore,Savannah,"Hyenas, Crocodiles",58,Worldwide,Vulnerable,Hyaenidae,70,30,Herd-based,1
+African Wild Dog,100-120,120-250,Dark green,35-50,Insectivore,Savannah,"Lions, Leopards",24-30,Africa,Least Concern,Elephantidae,98-105,80,Herd-based,1
+African Lion,100-120,2700-6000,Grey,10-12,Carnivore,Grasslands,"Hyenas, Crocodiles",24-30,Worldwide,Endangered,Felidae,640-660,56,Solitary,1
+African Lion,150-200,8-15,Tan,35-50,Insectivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Elephantidae,98-105,30,Solitary,1
+African Lion,150-200,120-250,Grey,10-14,Carnivore,Oceans,"Lions, Hyenas",20,Africa,Vulnerable,Diomedeidae,60-90,40,Group-based,2-5
+Alligator,105-130,8-14,Grey,35-50,Carnivore,Savannah,"Hyenas, Crocodiles",70,Africa,Endangered,Alligatoridae,70,40,Group-based,1
+African Wild Dog,75-80,40-65,Grey,10-12,Insectivore,Savannah,"Hyenas, Crocodiles",58,North America,Near Threatened,Canidae,Incubation,40,Solitary,1
+Aardvark,270-310,40-65,Grey,30-40,Piscivore,Savannah,"Lions, Hyenas",70,Eastern and Southern Africa,Vulnerable,Elephantidae,210-240,56,Solitary,10-12
+African Elephant,40-50,120-250,Grey,35-50,Carnivore,Savannas,"Lions, Leopards",24-30,Eastern and Southern Africa,Least Concern,Diomedeidae,90,70,Solitary,1
+African Wild Dog,150-200,18-36,Yellow-brown,10-14,Insectivore,Grasslands,"Lions, Hyenas",24-30,Africa,Least Concern,Elephantidae,640-660,56,Group-based,1
+Aardwolf,150-200,8-14,Multicolored,10-12,Herbivore,Wetlands,"Lions, Leopards",58,North America,Least Concern,Felidae,70,30,Solitary,2-5
+Alligator,105-130,8-14,Tan,10-12,Carnivore,Wetlands,"Lions, Hyenas",40,Worldwide,Vulnerable,Felidae,70,30,Group-based,10-20
+Albatross,80-110,18-36,Grey,35-50,Insectivore,Wetlands,"Lions, Hyenas",20,Worldwide,Least Concern,Hyaenidae,98-105,40,Solitary,10-20
+Aardvark,40-50,8-15,Dark green,10-14,Carnivore,Savannas,"Lions, Hyenas",58,Worldwide,Endangered,Diomedeidae,60-90,40,Group-based,10-12
+African Lion,100-120,40-65,Yellow-brown,10-12,Carnivore,Grasslands,"Lions, Hyenas",58,Eastern and Southern Africa,Least Concern,Elephantidae,640-660,40,Solitary,2-4 (usually)
+Alligator,105-130,18-36,White,30-40,Insectivore,Savannas,"Lions, Hyenas",56,Africa,Near Threatened,Felidae,Incubation,70,Group-based,1
+African Elephant,105-130,120-250,Dark green,10-12,Herbivore,Savannahs,"Lions, Hyenas",40,Africa,Least Concern,Hyaenidae,210-240,40,Group-based,2-5
+Aardvark,270-310,18-36,Multicolored,10-12,Herbivore,Grasslands,"Hyenas, Crocodiles",25,Eastern and Southern Africa,Near Threatened,Alligatoridae,90,56,Group-based,10-12
+African Lion,75-80,40-65,White,30-40,Herbivore,Savannahs,Sharks,25,Africa,Least Concern,Canidae,60-90,80,Group-based,10-20
+Albatross,100-120,40-65,Multicolored,35-50,Insectivore,Savannahs,"Lions, Hyenas",40,Worldwide,Near Threatened,Alligatoridae,70,40,Solitary,1
+African Elephant,150-200,2700-6000,Dark green,10-14,Carnivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Felidae,Incubation,70,Group-based,10-20
+African Wild Dog,100-120,200-450,Multicolored,60-70,Carnivore,Oceans,"Hyenas, Crocodiles",40,Africa,Vulnerable,Hyaenidae,60-90,30,Group-based,10-12
+Alligator,40-50,8-15,Grey,20-30,Carnivore,Grasslands,"Lions, Leopards",70,Africa,Endangered,Diomedeidae,70,80,Solitary,10-20
+African Elephant,100-120,200-450,Multicolored,30-40,Carnivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Orycteropodidae,Incubation,40,Solitary,10-12
+African Wild Dog,100-120,18-36,Grey,20-30,Insectivore,Wetlands,"Lions, Hyenas",40,Worldwide,Vulnerable,Orycteropodidae,98-105,70,Group-based,10-20
+Alligator,80-110,120-250,Multicolored,10-12,Piscivore,Wetlands,Sharks,58,Africa,Vulnerable,Orycteropodidae,98-105,40,Solitary,1
+Aardvark,105-130,2700-6000,Grey,10-12,Carnivore,Oceans,"Lions, Hyenas",58,Africa,Endangered,Diomedeidae,90,80,Group-based,10-12
+Aardwolf,105-130,2700-6000,Multicolored,20-30,Herbivore,Grasslands,"Hyenas, Crocodiles",70,Africa,Vulnerable,Alligatoridae,Incubation,40,Solitary,10-20
+African Elephant,150-200,200-450,Yellow-brown,35-50,Insectivore,Grasslands,"Lions, Hyenas",58,North America,Least Concern,Orycteropodidae,640-660,40,Herd-based,2-4 (usually)
+Albatross,150-200,8-14,Tan,10-14,Carnivore,Grasslands,"Lions, Hyenas",40,Africa,Endangered,Diomedeidae,60-90,70,Group-based,10-20
+African Lion,105-130,40-65,Multicolored,10-12,Piscivore,Grasslands,Humans,56,Sub-Saharan Africa,Near Threatened,Elephantidae,Incubation,40,Herd-based,1
+Aardvark,270-310,18-36,Multicolored,10-14,Insectivore,Grasslands,"Hyenas, Crocodiles",70,Africa,Least Concern,Felidae,60-90,30,Herd-based,2-5
+Aardvark,75-80,40-65,Tan,35-50,Herbivore,Grasslands,Sharks,24-30,Sub-Saharan Africa,Least Concern,Diomedeidae,210-240,40,Group-based,10-12
+Aardvark,150-200,8-14,Tan,10-12,Carnivore,Savannas,Humans,40,Africa,Vulnerable,Canidae,640-660,56,Group-based,1
+Aardwolf,270-310,2700-6000,Grey,10-12,Herbivore,Grasslands,"Lions, Hyenas",70,Africa,Near Threatened,Orycteropodidae,210-240,40,Group-based,2-4 (usually)
+African Lion,150-200,8-15,Multicolored,60-70,Carnivore,Savannah,Humans,56,Africa,Vulnerable,Felidae,70,30,Herd-based,1
+Aardvark,100-120,2700-6000,Grey,60-70,Insectivore,Wetlands,"Lions, Hyenas",40,Sub-Saharan Africa,Vulnerable,Canidae,90,40,Solitary,1
+African Elephant,75-80,120-250,Grey,10-14,Insectivore,Oceans,Humans,58,Eastern and Southern Africa,Least Concern,Canidae,98-105,70,Solitary,1
+Aardwolf,150-200,8-15,Grey,30-40,Carnivore,Savannah,"Lions, Hyenas",58,Sub-Saharan Africa,Least Concern,Orycteropodidae,98-105,40,Solitary,1
+African Wild Dog,270-310,200-450,Tan,30-40,Carnivore,Savannah,"Hyenas, Crocodiles",25,Eastern and Southern Africa,Vulnerable,Canidae,Incubation,40,Group-based,10-20
+Aardvark,100-120,2700-6000,White,35-50,Piscivore,Grasslands,"Lions, Hyenas",58,Sub-Saharan Africa,Least Concern,Elephantidae,70,40,Group-based,1
+Albatross,150-200,200-450,Grey,10-14,Carnivore,Grasslands,"Lions, Hyenas",56,Africa,Least Concern,Elephantidae,210-240,80,Group-based,10-20
+Albatross,105-130,120-250,Multicolored,20-30,Carnivore,Oceans,"Hyenas, Crocodiles",25,North America,Least Concern,Felidae,Incubation,70,Group-based,1
+Aardwolf,270-310,8-14,Yellow-brown,10-14,Insectivore,Grasslands,"Hyenas, Crocodiles",24-30,Africa,Near Threatened,Diomedeidae,90,70,Group-based,1
+Aardvark,150-200,8-15,Grey,20-30,Herbivore,Savannas,Humans,40,Worldwide,Near Threatened,Hyaenidae,90,80,Solitary,1
+Alligator,105-130,40-65,Multicolored,20-30,Herbivore,Oceans,"Lions, Hyenas",20,Eastern and Southern Africa,Vulnerable,Hyaenidae,210-240,30,Herd-based,1
+Albatross,150-200,18-36,Yellow-brown,10-12,Insectivore,Grasslands,"Lions, Leopards",40,Worldwide,Endangered,Diomedeidae,70,70,Solitary,1
+Aardwolf,80-110,40-65,White,10-14,Insectivore,Oceans,"Lions, Hyenas",40,Sub-Saharan Africa,Vulnerable,Alligatoridae,210-240,70,Group-based,2-5
+Aardvark,105-130,8-15,Dark green,60-70,Piscivore,Grasslands,Sharks,20,Sub-Saharan Africa,Least Concern,Alligatoridae,70,56,Group-based,10-20
+Aardwolf,80-110,8-14,Dark green,30-40,Herbivore,Savannas,Humans,70,Sub-Saharan Africa,Least Concern,Canidae,98-105,30,Group-based,10-12
+Aardvark,100-120,40-65,Dark green,35-50,Carnivore,Grasslands,"Hyenas, Crocodiles",58,Africa,Least Concern,Elephantidae,60-90,40,Solitary,1
+African Wild Dog,75-80,2700-6000,Yellow-brown,60-70,Carnivore,Grasslands,"Lions, Hyenas",58,Sub-Saharan Africa,Least Concern,Alligatoridae,98-105,56,Group-based,1
+African Wild Dog,105-130,200-450,White,60-70,Herbivore,Grasslands,Humans,20,Sub-Saharan Africa,Vulnerable,Diomedeidae,90,40,Herd-based,10-20
+African Wild Dog,80-110,18-36,Multicolored,35-50,Herbivore,Wetlands,"Hyenas, Crocodiles",40,Worldwide,Least Concern,Orycteropodidae,98-105,40,Herd-based,2-4 (usually)
+Aardvark,75-80,8-14,Grey,35-50,Piscivore,Grasslands,Humans,70,Africa,Least Concern,Diomedeidae,90,40,Group-based,1
+Aardvark,100-120,8-14,Grey,20-30,Herbivore,Savannahs,"Hyenas, Crocodiles",56,Sub-Saharan Africa,Least Concern,Alligatoridae,60-90,70,Solitary,2-4 (usually)
+Alligator,105-130,8-14,Yellow-brown,30-40,Carnivore,Savannah,"Lions, Hyenas",20,Africa,Vulnerable,Elephantidae,210-240,40,Herd-based,2-4 (usually)
+Aardvark,150-200,40-65,Grey,20-30,Insectivore,Grasslands,"Lions, Hyenas",25,Africa,Least Concern,Orycteropodidae,90,56,Group-based,2-5
+Albatross,150-200,40-65,Grey,60-70,Herbivore,Oceans,"Lions, Hyenas",20,Eastern and Southern Africa,Least Concern,Canidae,210-240,30,Solitary,2-4 (usually)
+African Wild Dog,40-50,40-65,Dark green,20-30,Insectivore,Savannas,"Lions, Hyenas",40,Sub-Saharan Africa,Least Concern,Alligatoridae,90,80,Group-based,1
+African Elephant,40-50,18-36,Yellow-brown,20-30,Piscivore,Oceans,Humans,58,Africa,Endangered,Diomedeidae,Incubation,40,Solitary,2-5
+African Lion,150-200,18-36,White,10-12,Insectivore,Savannas,"Lions, Hyenas",25,Africa,Vulnerable,Alligatoridae,98-105,70,Herd-based,10-20
+Alligator,80-110,2700-6000,Tan,35-50,Carnivore,Grasslands,"Lions, Leopards",58,Africa,Vulnerable,Canidae,640-660,80,Solitary,1
+Alligator,100-120,8-15,Grey,20-30,Insectivore,Savannahs,Sharks,40,Sub-Saharan Africa,Least Concern,Orycteropodidae,210-240,70,Group-based,1
+African Elephant,75-80,40-65,White,35-50,Piscivore,Grasslands,Humans,25,Sub-Saharan Africa,Vulnerable,Orycteropodidae,60-90,40,Herd-based,1
+African Elephant,100-120,2700-6000,White,35-50,Carnivore,Oceans,"Lions, Hyenas",56,Sub-Saharan Africa,Near Threatened,Felidae,60-90,80,Solitary,10-12
+Aardvark,105-130,8-14,Tan,10-12,Piscivore,Savannahs,"Lions, Hyenas",25,Africa,Least Concern,Felidae,210-240,30,Herd-based,10-20
+Aardwolf,105-130,2700-6000,White,10-12,Insectivore,Savannahs,"Hyenas, Crocodiles",58,Sub-Saharan Africa,Least Concern,Alligatoridae,98-105,40,Solitary,2-5
+African Wild Dog,105-130,18-36,Dark green,30-40,Herbivore,Wetlands,"Lions, Leopards",25,Worldwide,Near Threatened,Elephantidae,60-90,30,Group-based,1
+African Elephant,105-130,8-15,Multicolored,10-12,Herbivore,Savannahs,"Lions, Hyenas",58,Africa,Vulnerable,Alligatoridae,70,40,Group-based,2-4 (usually)
+Albatross,150-200,8-14,Tan,35-50,Carnivore,Savannah,"Lions, Hyenas",25,Worldwide,Near Threatened,Diomedeidae,70,30,Group-based,10-12
+African Wild Dog,105-130,120-250,Grey,10-14,Carnivore,Grasslands,"Lions, Hyenas",56,Eastern and Southern Africa,Vulnerable,Felidae,70,30,Group-based,1
+Alligator,40-50,120-250,Grey,10-12,Insectivore,Wetlands,"Lions, Hyenas",70,North America,Vulnerable,Alligatoridae,70,56,Group-based,2-4 (usually)
+African Wild Dog,75-80,200-450,Yellow-brown,10-12,Insectivore,Wetlands,Humans,40,Africa,Least Concern,Felidae,640-660,70,Solitary,1
+Albatross,100-120,8-14,Grey,60-70,Insectivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Hyaenidae,640-660,30,Solitary,2-4 (usually)
+African Lion,80-110,120-250,Grey,10-12,Insectivore,Savannahs,"Lions, Hyenas",24-30,North America,Least Concern,Felidae,210-240,30,Solitary,10-12
+Alligator,40-50,18-36,Grey,60-70,Carnivore,Wetlands,"Lions, Hyenas",56,Africa,Least Concern,Hyaenidae,60-90,40,Solitary,10-20
+African Lion,40-50,18-36,Grey,30-40,Insectivore,Grasslands,"Lions, Hyenas",56,Worldwide,Least Concern,Orycteropodidae,60-90,30,Solitary,1
+African Elephant,80-110,200-450,Multicolored,10-12,Insectivore,Savannahs,"Lions, Leopards",56,Africa,Near Threatened,Canidae,70,70,Herd-based,2-4 (usually)
+Alligator,40-50,120-250,Grey,10-12,Insectivore,Wetlands,"Lions, Hyenas",70,North America,Vulnerable,Alligatoridae,70,56,Group-based,2-4 (usually)
+Alligator,105-130,18-36,Grey,10-12,Herbivore,Savannah,"Lions, Leopards",70,Eastern and Southern Africa,Near Threatened,Diomedeidae,60-90,40,Solitary,10-20
+Albatross,105-130,18-36,Yellow-brown,10-12,Insectivore,Savannah,"Hyenas, Crocodiles",20,Sub-Saharan Africa,Least Concern,Felidae,60-90,80,Solitary,1
+African Lion,150-200,200-450,White,10-12,Herbivore,Grasslands,"Hyenas, Crocodiles",24-30,Worldwide,Least Concern,Canidae,90,40,Group-based,2-5
+African Wild Dog,75-80,40-65,Grey,10-12,Insectivore,Savannah,"Hyenas, Crocodiles",58,North America,Near Threatened,Canidae,Incubation,40,Solitary,1
+Alligator,80-110,18-36,Grey,10-12,Carnivore,Savannah,"Lions, Hyenas",25,Sub-Saharan Africa,Least Concern,Orycteropodidae,98-105,40,Group-based,2-5
+African Elephant,75-80,120-250,Grey,10-14,Carnivore,Grasslands,"Lions, Hyenas",25,Worldwide,Least Concern,Canidae,60-90,70,Solitary,1
+African Wild Dog,40-50,40-65,Grey,10-14,Insectivore,Oceans,"Lions, Hyenas",24-30,Africa,Vulnerable,Felidae,90,80,Group-based,2-5
+African Wild Dog,40-50,40-65,Grey,60-70,Carnivore,Grasslands,Sharks,25,Eastern and Southern Africa,Endangered,Canidae,640-660,30,Solitary,10-12
+African Wild Dog,270-310,120-250,White,10-14,Insectivore,Savannas,"Hyenas, Crocodiles",20,North America,Least Concern,Orycteropodidae,90,56,Group-based,1
+Alligator,100-120,40-65,Tan,10-12,Piscivore,Grasslands,"Hyenas, Crocodiles",40,Africa,Least Concern,Hyaenidae,Incubation,30,Herd-based,10-12
+Alligator,40-50,18-36,Tan,35-50,Insectivore,Grasslands,"Lions, Leopards",70,Africa,Least Concern,Alligatoridae,70,80,Solitary,1
+African Lion,100-120,18-36,Grey,10-14,Insectivore,Grasslands,"Lions, Hyenas",25,Worldwide,Near Threatened,Canidae,70,80,Herd-based,2-5
+Albatross,150-200,8-14,Tan,10-14,Carnivore,Grasslands,"Lions, Hyenas",40,Africa,Endangered,Diomedeidae,60-90,70,Group-based,10-20
+Albatross,100-120,40-65,Yellow-brown,35-50,Insectivore,Savannah,"Lions, Leopards",70,North America,Least Concern,Alligatoridae,210-240,40,Solitary,1
+Albatross,100-120,8-14,Grey,10-12,Insectivore,Savannahs,"Lions, Hyenas",70,Worldwide,Least Concern,Elephantidae,90,80,Solitary,10-20
+Aardwolf,40-50,8-14,Grey,35-50,Insectivore,Oceans,"Lions, Hyenas",58,Africa,Endangered,Canidae,640-660,80,Solitary,1
+African Lion,75-80,2700-6000,Grey,30-40,Carnivore,Wetlands,"Lions, Hyenas",20,Africa,Vulnerable,Elephantidae,70,70,Solitary,1
+African Wild Dog,150-200,8-14,Grey,10-14,Insectivore,Grasslands,"Lions, Hyenas",25,Worldwide,Least Concern,Elephantidae,60-90,56,Solitary,1
+African Wild Dog,100-120,8-14,Grey,10-12,Herbivore,Oceans,Sharks,58,Africa,Least Concern,Felidae,Incubation,40,Group-based,2-4 (usually)
+Alligator,40-50,200-450,Dark green,10-12,Carnivore,Grasslands,"Lions, Hyenas",25,Worldwide,Least Concern,Elephantidae,98-105,40,Solitary,10-12
+African Wild Dog,40-50,8-14,Multicolored,30-40,Carnivore,Oceans,"Lions, Hyenas",20,North America,Least Concern,Diomedeidae,70,80,Group-based,1
+Alligator,40-50,120-250,Multicolored,10-12,Insectivore,Grasslands,"Lions, Hyenas",25,Africa,Least Concern,Felidae,60-90,40,Solitary,1
+Aardwolf,100-120,40-65,White,20-30,Insectivore,Savannahs,"Hyenas, Crocodiles",56,Africa,Vulnerable,Alligatoridae,98-105,40,Solitary,10-12
+Aardwolf,75-80,18-36,Yellow-brown,30-40,Insectivore,Oceans,Sharks,70,Africa,Endangered,Alligatoridae,98-105,40,Solitary,10-20
+African Lion,270-310,120-250,Tan,30-40,Herbivore,Wetlands,"Lions, Leopards",40,Africa,Least Concern,Hyaenidae,210-240,30,Solitary,1
+African Lion,100-120,2700-6000,Multicolored,10-12,Herbivore,Savannahs,Humans,20,Africa,Vulnerable,Canidae,98-105,30,Herd-based,10-20
+Aardvark,100-120,2700-6000,Grey,10-14,Insectivore,Savannahs,"Lions, Hyenas",20,North America,Least Concern,Felidae,210-240,40,Solitary,2-5
+Alligator,100-120,8-15,White,10-12,Carnivore,Wetlands,Humans,24-30,Africa,Endangered,Orycteropodidae,Incubation,80,Solitary,10-12
+African Lion,270-310,8-14,Dark green,60-70,Carnivore,Wetlands,"Hyenas, Crocodiles",40,Africa,Near Threatened,Felidae,60-90,56,Herd-based,1
+African Wild Dog,75-80,8-15,Tan,10-14,Insectivore,Grasslands,"Lions, Hyenas",25,Africa,Near Threatened,Canidae,60-90,80,Group-based,2-5
+Aardvark,75-80,200-450,Grey,35-50,Herbivore,Savannas,"Lions, Hyenas",70,Africa,Vulnerable,Diomedeidae,60-90,56,Group-based,2-5
+Albatross,80-110,8-14,Grey,60-70,Herbivore,Savannah,"Lions, Leopards",20,Africa,Least Concern,Canidae,98-105,40,Group-based,10-20
+Aardwolf,105-130,120-250,Dark green,30-40,Insectivore,Grasslands,Humans,24-30,Sub-Saharan Africa,Least Concern,Alligatoridae,60-90,80,Group-based,2-5
+Albatross,40-50,40-65,Grey,60-70,Carnivore,Savannas,"Lions, Hyenas",70,Africa,Near Threatened,Elephantidae,210-240,56,Solitary,10-20
+African Wild Dog,150-200,120-250,Multicolored,10-12,Carnivore,Grasslands,"Lions, Hyenas",58,Africa,Least Concern,Hyaenidae,98-105,40,Herd-based,1
+Aardwolf,150-200,8-14,Yellow-brown,10-12,Herbivore,Grasslands,"Lions, Hyenas",40,Africa,Least Concern,Hyaenidae,640-660,40,Solitary,1
+Albatross,75-80,8-15,Grey,10-12,Insectivore,Savannah,Sharks,20,Africa,Endangered,Elephantidae,60-90,40,Solitary,1
+African Wild Dog,100-120,40-65,Dark green,35-50,Carnivore,Savannahs,Humans,70,Worldwide,Least Concern,Felidae,210-240,40,Herd-based,2-5
+African Lion,105-130,120-250,Grey,10-12,Piscivore,Savannah,"Lions, Hyenas",20,Africa,Vulnerable,Diomedeidae,98-105,70,Herd-based,1
+African Wild Dog,40-50,40-65,White,30-40,Carnivore,Savannahs,"Lions, Hyenas",70,Eastern and Southern Africa,Least Concern,Hyaenidae,70,80,Group-based,2-4 (usually)
+Aardwolf,40-50,18-36,Dark green,35-50,Carnivore,Grasslands,"Hyenas, Crocodiles",24-30,North America,Near Threatened,Diomedeidae,210-240,70,Solitary,10-12
+Aardvark,105-130,8-14,Grey,20-30,Insectivore,Savannas,Humans,58,Africa,Endangered,Orycteropodidae,90,56,Group-based,10-12
+African Elephant,105-130,40-65,Multicolored,30-40,Carnivore,Savannahs,Sharks,56,Sub-Saharan Africa,Near Threatened,Felidae,Incubation,30,Group-based,10-12
+Alligator,270-310,8-14,Grey,10-12,Carnivore,Savannah,"Lions, Hyenas",25,Africa,Near Threatened,Hyaenidae,Incubation,30,Solitary,2-5
+Alligator,105-130,8-14,White,60-70,Carnivore,Savannah,"Hyenas, Crocodiles",25,Africa,Least Concern,Alligatoridae,98-105,70,Solitary,1
+Aardwolf,270-310,120-250,White,20-30,Carnivore,Savannas,"Lions, Hyenas",40,Sub-Saharan Africa,Least Concern,Alligatoridae,98-105,40,Solitary,1
+Aardwolf,40-50,200-450,White,60-70,Insectivore,Grasslands,Humans,24-30,Sub-Saharan Africa,Least Concern,Felidae,210-240,40,Herd-based,1
+African Wild Dog,40-50,200-450,Multicolored,60-70,Carnivore,Savannahs,Humans,56,Africa,Least Concern,Alligatoridae,60-90,70,Group-based,1
+Aardwolf,40-50,2700-6000,Yellow-brown,20-30,Herbivore,Grasslands,"Lions, Hyenas",20,North America,Least Concern,Alligatoridae,90,70,Group-based,2-5
+Aardwolf,270-310,200-450,Tan,35-50,Insectivore,Oceans,"Lions, Leopards",20,Eastern and Southern Africa,Endangered,Felidae,98-105,56,Group-based,2-5
+Aardvark,105-130,8-15,Multicolored,30-40,Herbivore,Oceans,"Lions, Hyenas",25,North America,Near Threatened,Hyaenidae,210-240,80,Solitary,1
+Albatross,75-80,120-250,Tan,20-30,Carnivore,Savannahs,Sharks,24-30,Eastern and Southern Africa,Vulnerable,Canidae,210-240,40,Solitary,1
+African Lion,40-50,200-450,Multicolored,30-40,Insectivore,Savannas,"Lions, Hyenas",70,Africa,Vulnerable,Canidae,210-240,30,Group-based,2-5
+African Elephant,270-310,18-36,White,10-12,Carnivore,Wetlands,Sharks,58,Africa,Least Concern,Diomedeidae,210-240,80,Group-based,1
+Alligator,270-310,2700-6000,Dark green,35-50,Carnivore,Grasslands,"Lions, Hyenas",40,Eastern and Southern Africa,Near Threatened,Diomedeidae,210-240,30,Group-based,1
+Aardvark,100-120,2700-6000,Yellow-brown,10-12,Carnivore,Oceans,"Lions, Hyenas",25,Worldwide,Vulnerable,Felidae,210-240,40,Herd-based,10-20
+African Elephant,40-50,120-250,Multicolored,60-70,Herbivore,Oceans,Sharks,20,Africa,Least Concern,Canidae,98-105,56,Solitary,10-20
+African Elephant,270-310,120-250,Multicolored,35-50,Insectivore,Wetlands,"Lions, Hyenas",20,Africa,Near Threatened,Alligatoridae,640-660,56,Solitary,1
+Alligator,75-80,8-15,Multicolored,20-30,Carnivore,Grasslands,"Hyenas, Crocodiles",25,Africa,Least Concern,Orycteropodidae,98-105,40,Solitary,1
+Aardvark,80-110,2700-6000,Grey,10-12,Carnivore,Savannas,Humans,70,Africa,Least Concern,Hyaenidae,210-240,56,Solitary,2-5
+Aardwolf,75-80,200-450,Grey,30-40,Carnivore,Savannas,Sharks,24-30,Africa,Vulnerable,Elephantidae,60-90,40,Group-based,10-12
+African Elephant,40-50,18-36,Grey,10-12,Piscivore,Savannahs,"Lions, Hyenas",70,Eastern and Southern Africa,Least Concern,Alligatoridae,98-105,40,Solitary,10-20
+Albatross,40-50,18-36,Yellow-brown,30-40,Carnivore,Grasslands,Humans,58,Africa,Least Concern,Alligatoridae,98-105,40,Herd-based,2-4 (usually)
+Aardvark,75-80,8-14,Multicolored,20-30,Carnivore,Savannah,"Lions, Hyenas",20,Eastern and Southern Africa,Vulnerable,Elephantidae,210-240,70,Solitary,1
+Aardvark,100-120,2700-6000,Grey,20-30,Carnivore,Savannahs,"Hyenas, Crocodiles",56,North America,Vulnerable,Orycteropodidae,640-660,80,Group-based,1
+African Lion,270-310,200-450,Dark green,10-14,Carnivore,Savannahs,"Hyenas, Crocodiles",58,Africa,Vulnerable,Orycteropodidae,210-240,40,Solitary,10-12
+Alligator,150-200,120-250,Tan,35-50,Insectivore,Savannah,Humans,40,Africa,Endangered,Alligatoridae,60-90,40,Solitary,1
+Albatross,75-80,2700-6000,Yellow-brown,30-40,Insectivore,Savannas,Humans,20,Sub-Saharan Africa,Vulnerable,Orycteropodidae,98-105,40,Solitary,10-20
+Alligator,270-310,120-250,Dark green,20-30,Carnivore,Wetlands,"Lions, Hyenas",58,Sub-Saharan Africa,Least Concern,Elephantidae,210-240,70,Solitary,1
+Aardvark,105-130,18-36,White,35-50,Carnivore,Grasslands,Humans,40,Africa,Endangered,Orycteropodidae,90,40,Herd-based,10-20
+African Wild Dog,75-80,120-250,White,10-12,Carnivore,Oceans,Sharks,56,North America,Near Threatened,Orycteropodidae,90,40,Group-based,1
+Aardwolf,40-50,8-15,Tan,35-50,Insectivore,Savannahs,Humans,70,Sub-Saharan Africa,Least Concern,Orycteropodidae,210-240,56,Solitary,1
+African Wild Dog,40-50,120-250,Tan,30-40,Carnivore,Savannahs,Sharks,70,Africa,Endangered,Elephantidae,70,80,Group-based,1
+African Elephant,100-120,2700-6000,Dark green,60-70,Insectivore,Savannas,"Hyenas, Crocodiles",40,Africa,Endangered,Felidae,Incubation,70,Solitary,1
+African Wild Dog,75-80,8-15,Grey,10-14,Carnivore,Savannah,"Lions, Hyenas",40,Africa,Near Threatened,Diomedeidae,98-105,70,Solitary,10-20
+African Elephant,75-80,40-65,White,35-50,Insectivore,Wetlands,"Lions, Leopards",40,Africa,Least Concern,Canidae,210-240,40,Herd-based,10-20
+African Wild Dog,150-200,200-450,Tan,30-40,Insectivore,Savannah,"Hyenas, Crocodiles",56,Eastern and Southern Africa,Least Concern,Canidae,640-660,30,Group-based,10-20
+African Lion,80-110,2700-6000,Tan,10-14,Carnivore,Savannahs,"Lions, Leopards",40,Worldwide,Least Concern,Hyaenidae,98-105,40,Group-based,10-20
+African Elephant,150-200,2700-6000,Dark green,20-30,Piscivore,Oceans,Sharks,20,Eastern and Southern Africa,Vulnerable,Felidae,90,80,Solitary,1
+African Wild Dog,150-200,18-36,Grey,10-12,Carnivore,Oceans,"Lions, Hyenas",58,Africa,Near Threatened,Orycteropodidae,210-240,40,Group-based,2-4 (usually)
+African Elephant,40-50,120-250,Grey,35-50,Carnivore,Grasslands,"Lions, Hyenas",20,Eastern and Southern Africa,Least Concern,Diomedeidae,70,70,Herd-based,2-4 (usually)
+Aardvark,105-130,2700-6000,Multicolored,35-50,Insectivore,Grasslands,Sharks,20,Eastern and Southern Africa,Endangered,Hyaenidae,60-90,70,Group-based,2-4 (usually)
+African Wild Dog,105-130,18-36,Tan,30-40,Carnivore,Savannahs,"Lions, Leopards",24-30,North America,Vulnerable,Diomedeidae,60-90,56,Group-based,2-5
+African Elephant,40-50,120-250,White,35-50,Carnivore,Grasslands,Humans,25,Africa,Near Threatened,Canidae,640-660,30,Group-based,2-5
+Aardvark,100-120,8-14,Dark green,35-50,Carnivore,Grasslands,Sharks,58,Africa,Vulnerable,Orycteropodidae,640-660,40,Herd-based,2-4 (usually)
+Albatross,150-200,200-450,Dark green,60-70,Carnivore,Savannah,"Lions, Hyenas",25,Africa,Least Concern,Hyaenidae,210-240,56,Group-based,2-5
+African Wild Dog,40-50,8-14,Multicolored,30-40,Carnivore,Oceans,"Lions, Hyenas",20,North America,Least Concern,Diomedeidae,70,80,Group-based,1
+Aardwolf,80-110,120-250,Grey,20-30,Piscivore,Wetlands,"Lions, Hyenas",70,Sub-Saharan Africa,Least Concern,Diomedeidae,70,40,Solitary,1
+Albatross,105-130,2700-6000,White,35-50,Insectivore,Grasslands,"Hyenas, Crocodiles",20,Sub-Saharan Africa,Near Threatened,Elephantidae,60-90,80,Herd-based,1
+Aardvark,150-200,8-14,Multicolored,35-50,Piscivore,Savannas,"Lions, Hyenas",58,Sub-Saharan Africa,Least Concern,Hyaenidae,Incubation,40,Solitary,10-20
+African Wild Dog,100-120,8-15,White,10-12,Carnivore,Grasslands,"Lions, Leopards",56,Eastern and Southern Africa,Endangered,Canidae,640-660,56,Solitary,2-5
+Albatross,100-120,200-450,White,35-50,Carnivore,Wetlands,"Lions, Hyenas",70,North America,Vulnerable,Felidae,70,70,Solitary,1
+Albatross,105-130,120-250,White,35-50,Carnivore,Grasslands,Sharks,40,Worldwide,Least Concern,Felidae,70,40,Group-based,2-5
+African Elephant,100-120,120-250,Multicolored,10-12,Carnivore,Oceans,"Lions, Leopards",25,Africa,Vulnerable,Elephantidae,98-105,80,Herd-based,2-4 (usually)
+Alligator,270-310,18-36,White,10-12,Piscivore,Wetlands,Sharks,40,Africa,Least Concern,Elephantidae,Incubation,80,Solitary,1
+Albatross,150-200,200-450,Multicolored,10-12,Carnivore,Grasslands,Humans,24-30,Sub-Saharan Africa,Least Concern,Diomedeidae,70,40,Group-based,1
+Aardwolf,105-130,8-15,Dark green,10-12,Insectivore,Wetlands,Humans,20,Africa,Endangered,Alligatoridae,210-240,40,Group-based,1
+Alligator,270-310,40-65,Dark green,30-40,Carnivore,Oceans,"Lions, Hyenas",25,Eastern and Southern Africa,Near Threatened,Alligatoridae,98-105,56,Group-based,10-20
+Aardvark,150-200,8-14,White,60-70,Piscivore,Oceans,"Lions, Hyenas",56,Africa,Least Concern,Orycteropodidae,210-240,40,Solitary,2-4 (usually)
+Albatross,270-310,2700-6000,Tan,60-70,Herbivore,Savannas,"Hyenas, Crocodiles",58,Eastern and Southern Africa,Vulnerable,Felidae,640-660,40,Group-based,2-5
+African Wild Dog,100-120,40-65,Dark green,10-12,Carnivore,Grasslands,"Hyenas, Crocodiles",56,Sub-Saharan Africa,Least Concern,Orycteropodidae,90,56,Group-based,1
+Aardvark,75-80,40-65,Tan,60-70,Carnivore,Savannas,"Lions, Leopards",56,Sub-Saharan Africa,Near Threatened,Alligatoridae,98-105,40,Solitary,1
+African Elephant,105-130,8-15,Tan,30-40,Insectivore,Savannahs,"Lions, Hyenas",24-30,Worldwide,Endangered,Alligatoridae,640-660,40,Solitary,10-20
+Aardwolf,75-80,40-65,Grey,20-30,Carnivore,Savannas,Sharks,24-30,Eastern and Southern Africa,Least Concern,Canidae,90,40,Solitary,2-5
+Aardwolf,100-120,8-14,Multicolored,35-50,Piscivore,Savannahs,Humans,58,Eastern and Southern Africa,Least Concern,Elephantidae,Incubation,40,Solitary,1
+African Wild Dog,75-80,8-14,Grey,20-30,Carnivore,Savannas,"Hyenas, Crocodiles",25,Africa,Vulnerable,Alligatoridae,90,70,Group-based,10-12
+Aardwolf,40-50,120-250,White,10-14,Carnivore,Wetlands,"Hyenas, Crocodiles",24-30,North America,Least Concern,Canidae,Incubation,40,Solitary,1
+Albatross,150-200,2700-6000,White,30-40,Carnivore,Savannas,Sharks,24-30,Africa,Vulnerable,Orycteropodidae,210-240,40,Herd-based,1
+African Elephant,270-310,120-250,Multicolored,35-50,Insectivore,Wetlands,"Lions, Hyenas",20,Africa,Near Threatened,Alligatoridae,640-660,56,Solitary,1
+Albatross,100-120,18-36,Dark green,20-30,Herbivore,Grasslands,"Lions, Hyenas",40,Worldwide,Near Threatened,Elephantidae,70,56,Solitary,10-20
+African Lion,105-130,200-450,White,30-40,Insectivore,Wetlands,Humans,56,Africa,Vulnerable,Diomedeidae,98-105,30,Solitary,1
+Aardwolf,270-310,18-36,Dark green,20-30,Insectivore,Grasslands,"Lions, Leopards",56,North America,Least Concern,Alligatoridae,70,70,Solitary,1
+Aardwolf,80-110,120-250,Grey,60-70,Herbivore,Savannah,"Lions, Hyenas",56,Worldwide,Least Concern,Orycteropodidae,Incubation,56,Solitary,2-4 (usually)
+Aardvark,105-130,8-15,Yellow-brown,20-30,Insectivore,Savannah,Sharks,56,Worldwide,Vulnerable,Elephantidae,90,40,Group-based,1
+African Lion,75-80,40-65,Grey,10-12,Carnivore,Savannas,"Lions, Leopards",40,Africa,Least Concern,Canidae,Incubation,80,Group-based,10-20
+Albatross,80-110,18-36,Multicolored,10-12,Carnivore,Grasslands,Humans,20,Africa,Vulnerable,Felidae,Incubation,56,Solitary,2-5
+African Lion,75-80,40-65,Grey,10-14,Carnivore,Grasslands,"Lions, Hyenas",70,Sub-Saharan Africa,Endangered,Alligatoridae,70,80,Solitary,1
+Aardvark,150-200,40-65,Grey,35-50,Carnivore,Wetlands,"Lions, Hyenas",24-30,Worldwide,Near Threatened,Felidae,90,40,Solitary,1
+Alligator,100-120,8-14,Grey,60-70,Herbivore,Savannahs,Humans,25,Sub-Saharan Africa,Endangered,Hyaenidae,90,70,Group-based,2-4 (usually)
+Albatross,75-80,120-250,Tan,20-30,Carnivore,Savannahs,Sharks,24-30,Eastern and Southern Africa,Vulnerable,Canidae,210-240,40,Solitary,1
+Aardvark,80-110,18-36,Grey,60-70,Carnivore,Savannahs,"Lions, Hyenas",40,Eastern and Southern Africa,Near Threatened,Elephantidae,90,40,Solitary,1
+Aardwolf,80-110,40-65,Multicolored,10-12,Carnivore,Grasslands,"Lions, Hyenas",25,Eastern and Southern Africa,Least Concern,Alligatoridae,98-105,70,Herd-based,1
+Aardwolf,100-120,40-65,Grey,30-40,Herbivore,Savannahs,Humans,25,Sub-Saharan Africa,Vulnerable,Felidae,98-105,70,Herd-based,1
+African Elephant,80-110,40-65,Grey,10-14,Herbivore,Savannahs,Humans,25,Worldwide,Least Concern,Alligatoridae,640-660,70,Group-based,2-4 (usually)
+Alligator,105-130,120-250,Tan,20-30,Carnivore,Grasslands,"Lions, Hyenas",24-30,Africa,Vulnerable,Diomedeidae,70,70,Group-based,1
+Albatross,40-50,8-14,Yellow-brown,10-12,Insectivore,Savannah,"Lions, Hyenas",25,Sub-Saharan Africa,Least Concern,Alligatoridae,Incubation,40,Solitary,1
+African Elephant,270-310,8-15,Grey,10-14,Carnivore,Grasslands,"Lions, Leopards",70,Africa,Least Concern,Felidae,60-90,40,Solitary,10-12
+Albatross,100-120,200-450,Grey,20-30,Carnivore,Grasslands,Humans,40,Africa,Endangered,Alligatoridae,210-240,80,Solitary,1
+African Lion,75-80,40-65,Multicolored,60-70,Herbivore,Savannahs,"Lions, Hyenas",24-30,Eastern and Southern Africa,Least Concern,Hyaenidae,Incubation,56,Solitary,2-5
+African Lion,40-50,8-14,Grey,20-30,Insectivore,Wetlands,"Lions, Hyenas",20,Africa,Vulnerable,Elephantidae,640-660,40,Solitary,10-20
+Alligator,270-310,40-65,Dark green,10-12,Insectivore,Grasslands,"Lions, Hyenas",20,Africa,Near Threatened,Canidae,70,30,Group-based,10-12
+Aardwolf,80-110,2700-6000,Grey,60-70,Herbivore,Wetlands,"Lions, Leopards",20,North America,Near Threatened,Alligatoridae,Incubation,70,Solitary,10-12
+African Lion,100-120,18-36,Grey,35-50,Carnivore,Grasslands,"Lions, Hyenas",24-30,Africa,Least Concern,Canidae,640-660,40,Group-based,2-4 (usually)
+African Elephant,40-50,200-450,Dark green,10-12,Herbivore,Grasslands,Sharks,56,Africa,Vulnerable,Orycteropodidae,70,40,Solitary,10-20
+Aardvark,75-80,8-15,Multicolored,60-70,Piscivore,Oceans,"Hyenas, Crocodiles",25,Africa,Vulnerable,Alligatoridae,90,40,Group-based,2-4 (usually)
+Aardwolf,80-110,40-65,White,10-14,Insectivore,Oceans,"Lions, Hyenas",40,Sub-Saharan Africa,Vulnerable,Alligatoridae,210-240,70,Group-based,2-5
+Alligator,270-310,40-65,Yellow-brown,10-12,Carnivore,Oceans,Humans,58,Sub-Saharan Africa,Least Concern,Alligatoridae,90,40,Group-based,10-20
+African Lion,80-110,120-250,Grey,30-40,Insectivore,Oceans,"Lions, Hyenas",70,Africa,Endangered,Orycteropodidae,60-90,30,Solitary,1
+African Elephant,40-50,200-450,Yellow-brown,10-12,Carnivore,Wetlands,"Lions, Hyenas",25,Africa,Least Concern,Diomedeidae,98-105,30,Herd-based,1
+African Wild Dog,75-80,120-250,White,10-12,Carnivore,Oceans,Sharks,56,North America,Near Threatened,Orycteropodidae,90,40,Group-based,1
+African Lion,80-110,120-250,Grey,30-40,Insectivore,Oceans,"Lions, Hyenas",70,Africa,Endangered,Orycteropodidae,60-90,30,Solitary,1
+Alligator,270-310,40-65,Dark green,30-40,Carnivore,Oceans,"Lions, Hyenas",25,Eastern and Southern Africa,Near Threatened,Alligatoridae,98-105,56,Group-based,10-20
+Alligator,150-200,2700-6000,Dark green,20-30,Carnivore,Savannas,Sharks,20,Eastern and Southern Africa,Near Threatened,Alligatoridae,640-660,40,Solitary,10-20
+Aardwolf,100-120,40-65,Dark green,60-70,Herbivore,Savannas,"Hyenas, Crocodiles",58,Eastern and Southern Africa,Least Concern,Orycteropodidae,90,40,Group-based,1
+African Wild Dog,150-200,8-15,Dark green,20-30,Carnivore,Grasslands,"Lions, Hyenas",58,Worldwide,Endangered,Alligatoridae,640-660,30,Solitary,10-20
+African Lion,100-120,2700-6000,Grey,10-14,Carnivore,Grasslands,Humans,25,Africa,Least Concern,Diomedeidae,640-660,70,Solitary,10-20
+African Wild Dog,40-50,8-15,White,35-50,Carnivore,Grasslands,"Lions, Hyenas",20,Africa,Vulnerable,Alligatoridae,60-90,56,Herd-based,1
+African Elephant,40-50,120-250,White,10-14,Carnivore,Savannahs,"Lions, Hyenas",70,Worldwide,Endangered,Diomedeidae,640-660,40,Solitary,2-4 (usually)
+African Elephant,150-200,2700-6000,Dark green,10-14,Insectivore,Grasslands,"Lions, Hyenas",70,Africa,Vulnerable,Orycteropodidae,60-90,56,Group-based,10-20
+African Elephant,150-200,120-250,Grey,35-50,Piscivore,Savannah,"Lions, Hyenas",58,Africa,Least Concern,Canidae,60-90,40,Solitary,2-5
+African Wild Dog,80-110,8-14,Grey,10-14,Carnivore,Wetlands,"Hyenas, Crocodiles",58,Africa,Vulnerable,Diomedeidae,640-660,40,Solitary,1
+Albatross,40-50,200-450,White,10-12,Carnivore,Wetlands,"Lions, Hyenas",58,Africa,Vulnerable,Canidae,210-240,40,Group-based,10-20
+Alligator,100-120,8-14,Grey,60-70,Carnivore,Savannah,"Hyenas, Crocodiles",40,North America,Endangered,Felidae,60-90,30,Solitary,10-20
+African Elephant,80-110,200-450,Multicolored,35-50,Carnivore,Savannahs,Sharks,20,Sub-Saharan Africa,Least Concern,Elephantidae,70,40,Group-based,1
+Alligator,105-130,8-15,White,10-14,Carnivore,Grasslands,Sharks,24-30,Africa,Least Concern,Elephantidae,70,30,Herd-based,10-20
+African Lion,40-50,18-36,Grey,30-40,Insectivore,Grasslands,"Lions, Hyenas",56,Worldwide,Least Concern,Orycteropodidae,60-90,30,Solitary,1
+African Elephant,75-80,18-36,Tan,10-12,Insectivore,Savannah,"Lions, Hyenas",25,Worldwide,Least Concern,Canidae,210-240,40,Group-based,10-12
+African Elephant,105-130,40-65,Grey,10-12,Carnivore,Savannas,Humans,56,North America,Least Concern,Orycteropodidae,70,80,Group-based,10-20
+Aardwolf,270-310,18-36,Dark green,20-30,Insectivore,Grasslands,"Lions, Leopards",56,North America,Least Concern,Alligatoridae,70,70,Solitary,1
+Aardvark,40-50,120-250,Yellow-brown,20-30,Insectivore,Grasslands,"Lions, Hyenas",20,Africa,Least Concern,Alligatoridae,210-240,40,Solitary,1
+African Elephant,80-110,2700-6000,Yellow-brown,60-70,Insectivore,Wetlands,"Lions, Leopards",20,Africa,Vulnerable,Alligatoridae,90,40,Solitary,2-4 (usually)
+Alligator,270-310,8-14,Multicolored,10-12,Insectivore,Savannah,"Lions, Hyenas",40,Africa,Vulnerable,Orycteropodidae,Incubation,40,Group-based,2-5
+Albatross,40-50,8-14,Multicolored,10-12,Carnivore,Savannah,"Hyenas, Crocodiles",25,Africa,Least Concern,Hyaenidae,90,70,Group-based,2-4 (usually)
+Aardwolf,150-200,8-15,Dark green,10-14,Piscivore,Savannas,Sharks,58,Africa,Least Concern,Orycteropodidae,70,56,Solitary,2-4 (usually)
+Aardvark,40-50,200-450,White,10-12,Insectivore,Oceans,"Lions, Leopards",40,North America,Least Concern,Diomedeidae,210-240,56,Solitary,1
+Albatross,105-130,120-250,Multicolored,20-30,Carnivore,Oceans,"Hyenas, Crocodiles",25,North America,Least Concern,Felidae,Incubation,70,Group-based,1
+African Lion,105-130,8-15,Grey,20-30,Carnivore,Oceans,"Hyenas, Crocodiles",25,Worldwide,Near Threatened,Diomedeidae,60-90,40,Group-based,2-5
+Aardvark,75-80,40-65,Grey,35-50,Piscivore,Savannas,"Hyenas, Crocodiles",24-30,Eastern and Southern Africa,Least Concern,Orycteropodidae,Incubation,70,Herd-based,2-4 (usually)
+Aardvark,150-200,8-15,Tan,35-50,Herbivore,Savannas,Sharks,56,Africa,Endangered,Alligatoridae,90,70,Group-based,2-5
+African Elephant,270-310,40-65,Grey,10-12,Herbivore,Grasslands,"Hyenas, Crocodiles",25,Sub-Saharan Africa,Vulnerable,Hyaenidae,640-660,56,Herd-based,2-5
+Aardvark,150-200,40-65,Grey,35-50,Carnivore,Grasslands,"Lions, Hyenas",40,Sub-Saharan Africa,Least Concern,Orycteropodidae,70,40,Group-based,1
+Aardwolf,150-200,18-36,Dark green,10-12,Herbivore,Wetlands,Sharks,40,Worldwide,Least Concern,Hyaenidae,90,40,Solitary,2-5
+Albatross,75-80,2700-6000,Dark green,60-70,Carnivore,Savannas,"Lions, Leopards",58,Africa,Least Concern,Hyaenidae,90,30,Solitary,2-5
+African Lion,80-110,200-450,Multicolored,10-12,Piscivore,Savannahs,"Lions, Hyenas",70,North America,Least Concern,Felidae,98-105,30,Solitary,2-5
+African Lion,75-80,8-15,Tan,60-70,Insectivore,Grasslands,"Lions, Leopards",70,Sub-Saharan Africa,Vulnerable,Felidae,210-240,56,Group-based,10-12
+African Wild Dog,80-110,2700-6000,Grey,60-70,Piscivore,Grasslands,"Lions, Hyenas",70,Africa,Least Concern,Felidae,210-240,56,Group-based,1
+African Elephant,105-130,2700-6000,Tan,10-14,Piscivore,Oceans,"Lions, Leopards",58,Sub-Saharan Africa,Least Concern,Orycteropodidae,90,40,Solitary,1
+African Elephant,75-80,200-450,Multicolored,60-70,Carnivore,Savannah,"Lions, Leopards",40,Eastern and Southern Africa,Vulnerable,Orycteropodidae,70,40,Herd-based,10-12
+Albatross,40-50,8-14,Multicolored,10-12,Carnivore,Savannah,"Hyenas, Crocodiles",25,Africa,Least Concern,Hyaenidae,90,70,Group-based,2-4 (usually)
+Aardwolf,75-80,18-36,Yellow-brown,60-70,Piscivore,Savannah,Sharks,24-30,Africa,Least Concern,Canidae,70,40,Herd-based,2-4 (usually)
+Alligator,100-120,200-450,Yellow-brown,10-14,Herbivore,Savannahs,"Lions, Hyenas",20,Africa,Least Concern,Orycteropodidae,70,40,Solitary,1
+Alligator,270-310,2700-6000,Tan,10-12,Carnivore,Savannahs,Humans,58,Africa,Least Concern,Canidae,90,56,Group-based,2-4 (usually)
+African Elephant,105-130,18-36,Grey,35-50,Carnivore,Savannah,Humans,25,Sub-Saharan Africa,Endangered,Diomedeidae,640-660,30,Group-based,1
+African Elephant,100-120,18-36,White,60-70,Piscivore,Oceans,"Hyenas, Crocodiles",24-30,North America,Least Concern,Elephantidae,640-660,70,Solitary,1
+Aardwolf,100-120,8-15,Yellow-brown,30-40,Herbivore,Savannahs,"Lions, Hyenas",70,Africa,Near Threatened,Orycteropodidae,210-240,80,Solitary,2-5
+Alligator,80-110,8-14,Yellow-brown,60-70,Insectivore,Savannas,"Lions, Leopards",58,Africa,Least Concern,Canidae,98-105,40,Group-based,2-4 (usually)
+Alligator,105-130,40-65,Grey,35-50,Carnivore,Savannah,"Lions, Hyenas",70,Africa,Vulnerable,Diomedeidae,90,56,Group-based,10-20
+Aardvark,150-200,18-36,Tan,60-70,Piscivore,Savannah,"Hyenas, Crocodiles",25,North America,Least Concern,Canidae,210-240,80,Herd-based,10-12
+African Lion,75-80,120-250,Grey,20-30,Carnivore,Oceans,"Lions, Hyenas",25,Africa,Near Threatened,Elephantidae,98-105,70,Group-based,10-20
+African Wild Dog,150-200,40-65,Dark green,35-50,Carnivore,Savannahs,"Lions, Hyenas",58,Sub-Saharan Africa,Least Concern,Orycteropodidae,98-105,40,Herd-based,1
+Alligator,105-130,8-14,Tan,20-30,Piscivore,Oceans,"Lions, Leopards",20,Africa,Vulnerable,Felidae,70,56,Solitary,1

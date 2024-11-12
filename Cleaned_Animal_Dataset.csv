@@ -1,0 +1,813 @@
+ID,Animal,Weight (kg),Lifespan (years),Diet,Habitat,Conservation Status
+1,Aardvark,11.0,42.5,Herbivore,Grasslands,Vulnerable
+2,Aardwolf,11.0,65.0,Insectivore,Savannas,Vulnerable
+3,Albatross,52.5,65.0,Herbivore,Savannahs,Vulnerable
+4,African Lion,185.0,42.5,Carnivore,Savannas,Least Concern
+5,Alligator,325.0,35.0,Herbivore,Savannahs,Least Concern
+6,Aardvark,185.0,35.0,Carnivore,Grasslands,Vulnerable
+7,Alligator,27.0,25.0,Piscivore,Grasslands,Vulnerable
+8,Aardvark,325.0,11.0,Carnivore,Oceans,Near Threatened
+9,Aardwolf,11.0,12.0,Insectivore,Savannah,Least Concern
+11,African Wild Dog,52.5,65.0,Carnivore,Grasslands,Vulnerable
+12,African Lion,11.5,42.5,Insectivore,Grasslands,Least Concern
+13,African Wild Dog,185.0,12.0,Carnivore,Grasslands,Vulnerable
+14,African Lion,185.0,11.0,Carnivore,Grasslands,Near Threatened
+15,African Elephant,11.0,11.0,Carnivore,Grasslands,Vulnerable
+16,African Elephant,11.5,12.0,Carnivore,Grasslands,Least Concern
+17,African Lion,325.0,35.0,Insectivore,Savannas,Near Threatened
+18,African Lion,325.0,11.0,Herbivore,Grasslands,Least Concern
+19,Alligator,11.5,65.0,Insectivore,Savannah,Least Concern
+20,African Wild Dog,185.0,35.0,Carnivore,Savannas,Least Concern
+21,African Wild Dog,27.0,35.0,Piscivore,Savannah,Near Threatened
+22,Alligator,185.0,11.0,Insectivore,Oceans,Vulnerable
+23,African Wild Dog,185.0,11.0,Carnivore,Savannah,Endangered
+24,African Wild Dog,27.0,35.0,Carnivore,Savannahs,Vulnerable
+25,African Wild Dog,11.5,35.0,Insectivore,Grasslands,Least Concern
+26,Aardvark,11.5,35.0,Carnivore,Savannah,Vulnerable
+27,African Lion,52.5,35.0,Herbivore,Savannahs,Least Concern
+28,Alligator,4350.0,11.0,Carnivore,Savannahs,Least Concern
+29,Aardvark,4350.0,42.5,Piscivore,Grasslands,Least Concern
+30,African Elephant,4350.0,12.0,Carnivore,Oceans,Near Threatened
+31,Aardvark,52.5,11.0,Piscivore,Grasslands,Least Concern
+32,African Elephant,4350.0,42.5,Insectivore,Oceans,Endangered
+33,African Wild Dog,11.0,12.0,Herbivore,Wetlands,Near Threatened
+34,African Lion,185.0,12.0,Piscivore,Savannahs,Endangered
+35,Albatross,4350.0,12.0,Carnivore,Oceans,Vulnerable
+36,Albatross,185.0,65.0,Piscivore,Savannas,Vulnerable
+37,African Wild Dog,325.0,65.0,Carnivore,Oceans,Vulnerable
+38,Alligator,4350.0,65.0,Carnivore,Oceans,Vulnerable
+39,Aardwolf,27.0,11.0,Herbivore,Savannas,Endangered
+40,Alligator,11.0,65.0,Herbivore,Savannahs,Endangered
+41,African Wild Dog,185.0,42.5,Herbivore,Savannahs,Endangered
+42,Aardwolf,4350.0,25.0,Carnivore,Grasslands,Least Concern
+43,African Lion,325.0,65.0,Piscivore,Savannah,Least Concern
+44,Alligator,11.5,25.0,Carnivore,Grasslands,Least Concern
+45,Aardwolf,27.0,12.0,Insectivore,Savannahs,Vulnerable
+46,African Lion,11.0,25.0,Herbivore,Grasslands,Vulnerable
+47,Albatross,11.5,11.0,Carnivore,Savannas,Least Concern
+48,African Wild Dog,185.0,35.0,Piscivore,Wetlands,Near Threatened
+49,Aardvark,11.5,25.0,Insectivore,Savannah,Vulnerable
+50,Aardvark,27.0,42.5,Carnivore,Grasslands,Endangered
+51,African Wild Dog,4350.0,11.0,Insectivore,Savannah,Vulnerable
+52,Albatross,4350.0,11.0,Insectivore,Grasslands,Near Threatened
+53,Albatross,185.0,25.0,Carnivore,Wetlands,Endangered
+54,African Lion,4350.0,12.0,Carnivore,Savannahs,Least Concern
+55,African Lion,11.5,25.0,Herbivore,Savannas,Vulnerable
+56,Alligator,52.5,11.0,Piscivore,Grasslands,Least Concern
+57,Aardvark,27.0,42.5,Insectivore,Grasslands,Least Concern
+58,Alligator,325.0,25.0,Insectivore,Wetlands,Least Concern
+59,African Wild Dog,27.0,25.0,Herbivore,Savannahs,Near Threatened
+60,Aardvark,27.0,11.0,Carnivore,Savannah,Least Concern
+61,African Lion,11.0,35.0,Insectivore,Oceans,Near Threatened
+62,African Wild Dog,52.5,11.0,Carnivore,Grasslands,Least Concern
+63,Aardvark,11.5,25.0,Insectivore,Wetlands,Vulnerable
+64,African Wild Dog,52.5,65.0,Insectivore,Wetlands,Least Concern
+65,Alligator,185.0,35.0,Insectivore,Savannah,Least Concern
+66,African Lion,52.5,11.0,Insectivore,Savannahs,Least Concern
+67,African Elephant,325.0,11.0,Insectivore,Savannah,Least Concern
+68,Aardwolf,325.0,12.0,Carnivore,Wetlands,Near Threatened
+69,Albatross,11.0,11.0,Carnivore,Savannahs,Vulnerable
+70,Aardwolf,11.0,35.0,Piscivore,Savannas,Endangered
+71,African Wild Dog,185.0,25.0,Piscivore,Savannas,Least Concern
+72,African Wild Dog,11.0,35.0,Herbivore,Savannahs,Vulnerable
+73,Aardvark,325.0,12.0,Insectivore,Savannahs,Vulnerable
+74,African Elephant,4350.0,42.5,Insectivore,Savannas,Endangered
+75,African Elephant,325.0,11.0,Carnivore,Savannahs,Near Threatened
+76,African Wild Dog,325.0,65.0,Insectivore,Savannas,Vulnerable
+77,African Wild Dog,4350.0,11.0,Insectivore,Savannah,Least Concern
+78,African Wild Dog,185.0,12.0,Insectivore,Savannas,Least Concern
+79,Albatross,27.0,11.0,Insectivore,Savannah,Least Concern
+80,African Wild Dog,11.5,11.0,Piscivore,Savannas,Least Concern
+81,African Wild Dog,4350.0,65.0,Herbivore,Grasslands,Least Concern
+82,Alligator,27.0,11.0,Piscivore,Savannas,Endangered
+83,Aardvark,27.0,11.0,Insectivore,Grasslands,Vulnerable
+84,African Elephant,11.5,65.0,Insectivore,Grasslands,Endangered
+85,Albatross,11.5,35.0,Carnivore,Wetlands,Vulnerable
+86,African Elephant,4350.0,42.5,Insectivore,Wetlands,Least Concern
+87,African Wild Dog,11.5,42.5,Carnivore,Grasslands,Least Concern
+88,African Wild Dog,52.5,42.5,Insectivore,Savannas,Least Concern
+89,Aardvark,27.0,35.0,Insectivore,Savannahs,Least Concern
+90,Albatross,185.0,12.0,Carnivore,Wetlands,Least Concern
+91,Aardvark,52.5,42.5,Piscivore,Savannas,Least Concern
+92,Aardwolf,27.0,42.5,Insectivore,Grasslands,Endangered
+93,Alligator,325.0,12.0,Herbivore,Grasslands,Endangered
+94,Alligator,52.5,25.0,Herbivore,Oceans,Vulnerable
+95,African Wild Dog,4350.0,11.0,Carnivore,Savannah,Least Concern
+96,African Elephant,185.0,42.5,Carnivore,Grasslands,Least Concern
+97,African Wild Dog,185.0,11.0,Herbivore,Oceans,Vulnerable
+98,Alligator,52.5,11.0,Insectivore,Grasslands,Near Threatened
+99,Albatross,4350.0,65.0,Insectivore,Savannahs,Least Concern
+100,Albatross,52.5,11.0,Piscivore,Savannahs,Least Concern
+101,Alligator,27.0,42.5,Piscivore,Oceans,Least Concern
+102,Aardvark,4350.0,65.0,Insectivore,Wetlands,Vulnerable
+103,Albatross,52.5,12.0,Insectivore,Savannah,Vulnerable
+104,Aardwolf,11.5,42.5,Insectivore,Savannahs,Least Concern
+105,African Lion,4350.0,35.0,Piscivore,Savannas,Least Concern
+106,Aardvark,4350.0,11.0,Carnivore,Savannas,Near Threatened
+107,Alligator,185.0,11.0,Insectivore,Oceans,Least Concern
+108,Aardwolf,11.0,25.0,Piscivore,Grasslands,Vulnerable
+109,Albatross,27.0,25.0,Insectivore,Savannas,Least Concern
+110,Alligator,52.5,12.0,Insectivore,Grasslands,Least Concern
+111,Alligator,11.0,11.0,Carnivore,Grasslands,Least Concern
+112,Albatross,11.5,65.0,Carnivore,Savannah,Endangered
+113,African Wild Dog,325.0,25.0,Insectivore,Grasslands,Endangered
+114,Alligator,11.5,12.0,Carnivore,Grasslands,Least Concern
+115,Alligator,11.0,65.0,Carnivore,Savannahs,Vulnerable
+116,Albatross,185.0,65.0,Piscivore,Savannah,Least Concern
+117,African Elephant,52.5,25.0,Carnivore,Grasslands,Least Concern
+118,Alligator,185.0,25.0,Carnivore,Grasslands,Vulnerable
+119,Aardwolf,325.0,42.5,Piscivore,Savannas,Endangered
+120,Albatross,27.0,42.5,Carnivore,Savannas,Vulnerable
+121,Alligator,11.0,42.5,Insectivore,Savannah,Least Concern
+122,Albatross,27.0,25.0,Carnivore,Savannah,Least Concern
+123,African Lion,4350.0,42.5,Insectivore,Grasslands,Near Threatened
+124,African Lion,4350.0,12.0,Carnivore,Grasslands,Least Concern
+125,Albatross,11.0,65.0,Carnivore,Savannas,Vulnerable
+126,Albatross,52.5,25.0,Carnivore,Grasslands,Vulnerable
+127,Aardvark,4350.0,35.0,Carnivore,Savannas,Least Concern
+128,African Lion,11.0,65.0,Carnivore,Grasslands,Near Threatened
+129,Albatross,11.0,65.0,Insectivore,Grasslands,Least Concern
+130,African Lion,27.0,42.5,Carnivore,Savannah,Least Concern
+131,African Lion,11.0,65.0,Insectivore,Grasslands,Near Threatened
+132,African Wild Dog,27.0,42.5,Herbivore,Savannah,Least Concern
+133,African Elephant,325.0,42.5,Carnivore,Savannah,Least Concern
+134,Alligator,185.0,12.0,Carnivore,Grasslands,Least Concern
+135,Aardvark,4350.0,42.5,Insectivore,Oceans,Vulnerable
+136,Aardwolf,11.5,35.0,Carnivore,Savannahs,Vulnerable
+137,African Elephant,52.5,12.0,Herbivore,Savannahs,Vulnerable
+138,Albatross,185.0,11.0,Carnivore,Grasslands,Vulnerable
+139,Aardvark,325.0,35.0,Piscivore,Savannah,Least Concern
+140,Aardvark,4350.0,12.0,Carnivore,Savannah,Near Threatened
+141,African Lion,185.0,25.0,Carnivore,Oceans,Near Threatened
+142,Aardwolf,4350.0,65.0,Carnivore,Grasslands,Near Threatened
+143,Albatross,11.0,11.0,Insectivore,Savannahs,Least Concern
+144,Albatross,11.0,65.0,Carnivore,Grasslands,Near Threatened
+145,Aardwolf,325.0,65.0,Piscivore,Wetlands,Least Concern
+146,Alligator,11.0,65.0,Carnivore,Savannah,Least Concern
+147,African Elephant,185.0,42.5,Carnivore,Grasslands,Near Threatened
+148,African Wild Dog,11.5,42.5,Carnivore,Grasslands,Vulnerable
+149,Aardwolf,27.0,25.0,Carnivore,Savannahs,Least Concern
+150,African Lion,185.0,11.0,Carnivore,Wetlands,Endangered
+151,African Elephant,11.0,12.0,Piscivore,Savannah,Least Concern
+152,Aardvark,4350.0,35.0,Insectivore,Savannas,Vulnerable
+153,Aardwolf,11.0,35.0,Insectivore,Oceans,Least Concern
+154,Albatross,11.5,42.5,Carnivore,Wetlands,Least Concern
+155,Aardvark,11.0,11.0,Piscivore,Savannahs,Least Concern
+156,African Elephant,52.5,25.0,Insectivore,Grasslands,Least Concern
+157,African Wild Dog,11.0,12.0,Carnivore,Wetlands,Vulnerable
+158,African Lion,27.0,65.0,Carnivore,Savannah,Least Concern
+159,Aardvark,185.0,42.5,Carnivore,Savannah,Endangered
+160,Aardwolf,325.0,25.0,Piscivore,Oceans,Vulnerable
+161,African Elephant,52.5,42.5,Herbivore,Grasslands,Least Concern
+162,African Wild Dog,11.0,12.0,Insectivore,Grasslands,Least Concern
+163,African Wild Dog,4350.0,42.5,Carnivore,Savannah,Near Threatened
+164,African Wild Dog,11.5,11.0,Piscivore,Grasslands,Endangered
+165,African Elephant,11.0,35.0,Piscivore,Savannah,Vulnerable
+166,Alligator,52.5,35.0,Piscivore,Savannas,Vulnerable
+167,Aardvark,325.0,12.0,Piscivore,Grasslands,Least Concern
+168,Aardwolf,11.5,11.0,Carnivore,Savannah,Least Concern
+169,Alligator,11.5,25.0,Carnivore,Wetlands,Least Concern
+170,Alligator,325.0,12.0,Herbivore,Savannahs,Least Concern
+171,Aardwolf,11.5,12.0,Piscivore,Savannas,Least Concern
+172,Albatross,11.0,11.0,Piscivore,Savannah,Least Concern
+173,Aardvark,11.0,42.5,Piscivore,Savannas,Least Concern
+174,Aardvark,27.0,35.0,Piscivore,Savannahs,Least Concern
+175,Alligator,52.5,65.0,Carnivore,Savannas,Endangered
+176,African Lion,52.5,65.0,Herbivore,Savannahs,Vulnerable
+177,Alligator,185.0,35.0,Insectivore,Grasslands,Least Concern
+178,Aardwolf,11.5,25.0,Carnivore,Wetlands,Least Concern
+179,African Elephant,52.5,42.5,Piscivore,Grasslands,Least Concern
+180,Alligator,52.5,12.0,Herbivore,Savannahs,Vulnerable
+181,Albatross,11.5,25.0,Insectivore,Oceans,Vulnerable
+182,Albatross,27.0,11.0,Herbivore,Savannas,Least Concern
+183,African Elephant,27.0,65.0,Carnivore,Savannas,Vulnerable
+184,African Lion,185.0,65.0,Carnivore,Savannahs,Endangered
+185,African Elephant,52.5,42.5,Insectivore,Savannah,Least Concern
+186,Albatross,11.0,42.5,Insectivore,Wetlands,Vulnerable
+187,Alligator,27.0,42.5,Carnivore,Savannas,Least Concern
+188,African Wild Dog,11.5,12.0,Insectivore,Grasslands,Least Concern
+189,African Elephant,27.0,65.0,Carnivore,Savannahs,Least Concern
+190,African Wild Dog,185.0,12.0,Insectivore,Oceans,Vulnerable
+191,Aardwolf,52.5,42.5,Piscivore,Grasslands,Vulnerable
+192,Alligator,325.0,35.0,Carnivore,Savannas,Vulnerable
+193,Aardvark,4350.0,35.0,Herbivore,Savannah,Least Concern
+194,Alligator,27.0,25.0,Carnivore,Oceans,Vulnerable
+195,Aardwolf,52.5,35.0,Piscivore,Oceans,Near Threatened
+196,Aardvark,11.5,12.0,Carnivore,Savannas,Endangered
+197,Alligator,52.5,11.0,Herbivore,Grasslands,Near Threatened
+198,Aardvark,185.0,35.0,Carnivore,Oceans,Endangered
+199,Alligator,185.0,65.0,Piscivore,Wetlands,Near Threatened
+200,Alligator,4350.0,11.0,Insectivore,Grasslands,Endangered
+201,Aardvark,11.0,65.0,Carnivore,Oceans,Near Threatened
+202,Aardwolf,52.5,11.0,Insectivore,Grasslands,Least Concern
+203,African Wild Dog,4350.0,25.0,Insectivore,Grasslands,Vulnerable
+204,Aardwolf,185.0,25.0,Insectivore,Savannahs,Vulnerable
+205,Alligator,11.5,65.0,Insectivore,Savannas,Least Concern
+206,Aardvark,11.0,12.0,Carnivore,Wetlands,Near Threatened
+207,African Lion,325.0,35.0,Insectivore,Savannas,Vulnerable
+208,African Wild Dog,185.0,35.0,Insectivore,Wetlands,Least Concern
+209,Albatross,11.5,25.0,Insectivore,Savannah,Vulnerable
+210,African Elephant,52.5,11.0,Insectivore,Wetlands,Least Concern
+211,African Lion,325.0,11.0,Carnivore,Savannahs,Vulnerable
+212,Alligator,185.0,11.0,Insectivore,Savannas,Vulnerable
+213,Aardvark,27.0,65.0,Carnivore,Savannahs,Near Threatened
+214,Alligator,27.0,11.0,Piscivore,Wetlands,Least Concern
+215,Albatross,325.0,42.5,Carnivore,Savannas,Least Concern
+216,Aardvark,27.0,65.0,Carnivore,Grasslands,Least Concern
+217,African Lion,27.0,42.5,Carnivore,Oceans,Least Concern
+218,Alligator,27.0,12.0,Insectivore,Wetlands,Least Concern
+219,Aardwolf,27.0,11.0,Piscivore,Wetlands,Least Concern
+220,Alligator,52.5,11.0,Insectivore,Oceans,Least Concern
+221,African Elephant,52.5,11.0,Herbivore,Savannahs,Least Concern
+222,African Elephant,52.5,35.0,Carnivore,Savannahs,Near Threatened
+223,Albatross,325.0,11.0,Carnivore,Wetlands,Vulnerable
+224,Albatross,325.0,42.5,Herbivore,Savannahs,Least Concern
+225,Albatross,11.0,42.5,Piscivore,Grasslands,Endangered
+226,Aardwolf,4350.0,65.0,Piscivore,Savannahs,Vulnerable
+227,Aardvark,11.0,42.5,Carnivore,Grasslands,Vulnerable
+228,African Elephant,4350.0,25.0,Carnivore,Grasslands,Least Concern
+229,African Elephant,52.5,42.5,Piscivore,Oceans,Least Concern
+230,Albatross,27.0,11.0,Insectivore,Grasslands,Least Concern
+231,African Lion,11.0,42.5,Carnivore,Wetlands,Vulnerable
+232,Aardwolf,325.0,65.0,Carnivore,Wetlands,Least Concern
+233,African Elephant,11.5,65.0,Carnivore,Wetlands,Least Concern
+234,African Wild Dog,11.0,12.0,Carnivore,Savannas,Least Concern
+235,Alligator,4350.0,65.0,Herbivore,Savannas,Least Concern
+236,African Lion,11.5,65.0,Insectivore,Grasslands,Vulnerable
+237,Albatross,325.0,65.0,Carnivore,Savannah,Least Concern
+238,African Elephant,325.0,12.0,Piscivore,Wetlands,Vulnerable
+239,Albatross,4350.0,65.0,Herbivore,Savannas,Vulnerable
+240,African Elephant,27.0,25.0,Piscivore,Oceans,Endangered
+241,Aardvark,52.5,25.0,Insectivore,Grasslands,Least Concern
+242,African Lion,11.5,11.0,Carnivore,Grasslands,Vulnerable
+243,Albatross,11.5,12.0,Carnivore,Savannas,Vulnerable
+244,African Wild Dog,185.0,42.5,Carnivore,Savannahs,Endangered
+245,African Lion,11.0,11.0,Insectivore,Grasslands,Least Concern
+246,Aardwolf,52.5,11.0,Carnivore,Savannas,Near Threatened
+247,Alligator,11.0,25.0,Piscivore,Oceans,Vulnerable
+248,Albatross,52.5,12.0,Insectivore,Oceans,Vulnerable
+249,African Lion,185.0,65.0,Herbivore,Savannas,Vulnerable
+250,Aardvark,185.0,65.0,Carnivore,Savannahs,Least Concern
+251,Aardvark,52.5,42.5,Herbivore,Grasslands,Least Concern
+252,Aardwolf,11.0,11.0,Herbivore,Savannahs,Vulnerable
+253,Aardwolf,27.0,11.0,Insectivore,Savannas,Least Concern
+254,Alligator,4350.0,25.0,Carnivore,Wetlands,Vulnerable
+255,Aardvark,185.0,11.0,Insectivore,Grasslands,Vulnerable
+256,African Elephant,52.5,25.0,Insectivore,Savannah,Endangered
+257,African Elephant,11.0,11.0,Insectivore,Oceans,Least Concern
+258,African Elephant,52.5,42.5,Insectivore,Savannas,Endangered
+259,Aardwolf,325.0,12.0,Insectivore,Grasslands,Vulnerable
+260,Aardvark,185.0,11.0,Herbivore,Wetlands,Vulnerable
+261,African Wild Dog,11.5,35.0,Insectivore,Savannah,Least Concern
+262,Albatross,11.5,11.0,Insectivore,Oceans,Least Concern
+263,African Elephant,185.0,35.0,Carnivore,Grasslands,Least Concern
+264,Aardwolf,11.0,11.0,Carnivore,Oceans,Vulnerable
+265,African Lion,52.5,11.0,Insectivore,Savannahs,Near Threatened
+266,Aardvark,11.0,35.0,Herbivore,Oceans,Least Concern
+267,Albatross,27.0,25.0,Piscivore,Wetlands,Vulnerable
+268,Alligator,11.0,65.0,Carnivore,Grasslands,Endangered
+269,African Wild Dog,11.0,11.0,Piscivore,Savannas,Least Concern
+270,African Lion,11.0,11.0,Insectivore,Grasslands,Endangered
+271,African Elephant,11.0,11.0,Herbivore,Savannas,Near Threatened
+272,Aardvark,185.0,65.0,Insectivore,Savannah,Least Concern
+273,Aardwolf,11.5,65.0,Carnivore,Savannas,Endangered
+274,African Elephant,325.0,35.0,Carnivore,Grasslands,Least Concern
+275,Alligator,11.0,42.5,Carnivore,Savannahs,Least Concern
+276,Albatross,185.0,65.0,Herbivore,Oceans,Endangered
+277,Alligator,4350.0,65.0,Insectivore,Grasslands,Vulnerable
+278,Albatross,27.0,25.0,Insectivore,Grasslands,Least Concern
+279,African Wild Dog,11.5,11.0,Carnivore,Savannahs,Least Concern
+280,African Lion,11.5,42.5,Insectivore,Savannas,Near Threatened
+281,African Wild Dog,11.0,25.0,Carnivore,Savannah,Endangered
+282,Aardvark,325.0,11.0,Insectivore,Oceans,Least Concern
+283,Alligator,11.5,12.0,Carnivore,Wetlands,Near Threatened
+284,African Elephant,11.5,11.0,Carnivore,Savannahs,Near Threatened
+285,Aardwolf,27.0,42.5,Carnivore,Grasslands,Least Concern
+286,African Lion,325.0,35.0,Insectivore,Wetlands,Vulnerable
+287,African Elephant,52.5,11.0,Piscivore,Savannah,Endangered
+288,African Wild Dog,11.0,35.0,Carnivore,Savannas,Near Threatened
+289,Alligator,11.0,11.0,Carnivore,Savannah,Least Concern
+290,Aardwolf,11.0,11.0,Carnivore,Wetlands,Vulnerable
+291,Aardvark,325.0,11.0,Herbivore,Grasslands,Least Concern
+292,African Wild Dog,11.0,35.0,Insectivore,Oceans,Near Threatened
+293,Aardwolf,52.5,65.0,Herbivore,Savannas,Least Concern
+294,Aardwolf,11.5,35.0,Insectivore,Grasslands,Endangered
+295,African Wild Dog,27.0,42.5,Insectivore,Grasslands,Least Concern
+296,African Wild Dog,11.0,25.0,Insectivore,Wetlands,Endangered
+297,Aardwolf,4350.0,25.0,Herbivore,Grasslands,Vulnerable
+298,Aardwolf,11.5,65.0,Carnivore,Savannahs,Near Threatened
+299,Alligator,52.5,25.0,Herbivore,Oceans,Near Threatened
+300,African Elephant,11.5,65.0,Insectivore,Wetlands,Near Threatened
+301,Aardwolf,52.5,25.0,Piscivore,Oceans,Least Concern
+302,African Lion,11.5,25.0,Carnivore,Savannahs,Near Threatened
+303,African Wild Dog,52.5,11.0,Insectivore,Savannah,Least Concern
+304,African Lion,185.0,42.5,Piscivore,Grasslands,Least Concern
+305,Albatross,52.5,11.0,Piscivore,Grasslands,Vulnerable
+306,Aardwolf,27.0,65.0,Piscivore,Wetlands,Near Threatened
+307,Aardvark,27.0,11.0,Piscivore,Savannah,Endangered
+308,Aardvark,27.0,11.0,Herbivore,Oceans,Endangered
+309,African Lion,4350.0,11.0,Piscivore,Wetlands,Vulnerable
+310,Albatross,185.0,35.0,Herbivore,Savannahs,Least Concern
+311,African Lion,52.5,12.0,Carnivore,Grasslands,Endangered
+312,Aardvark,27.0,12.0,Insectivore,Grasslands,Least Concern
+313,African Lion,185.0,11.0,Insectivore,Savannahs,Least Concern
+314,Aardwolf,11.5,25.0,Carnivore,Savannahs,Least Concern
+315,Aardwolf,11.5,25.0,Carnivore,Oceans,Near Threatened
+316,African Lion,4350.0,35.0,Carnivore,Wetlands,Vulnerable
+317,African Wild Dog,11.0,25.0,Carnivore,Savannas,Vulnerable
+318,Aardvark,325.0,35.0,Carnivore,Savannas,Least Concern
+319,African Wild Dog,52.5,35.0,Carnivore,Wetlands,Vulnerable
+320,Aardvark,325.0,25.0,Insectivore,Savannas,Least Concern
+321,Aardvark,185.0,65.0,Insectivore,Grasslands,Least Concern
+322,Alligator,4350.0,11.0,Insectivore,Wetlands,Least Concern
+323,African Elephant,11.0,35.0,Carnivore,Grasslands,Near Threatened
+324,Albatross,52.5,42.5,Insectivore,Savannahs,Near Threatened
+325,African Wild Dog,27.0,42.5,Herbivore,Wetlands,Least Concern
+326,Alligator,27.0,42.5,Carnivore,Oceans,Least Concern
+327,Alligator,4350.0,11.0,Insectivore,Oceans,Near Threatened
+328,African Elephant,325.0,35.0,Insectivore,Savannas,Least Concern
+329,Albatross,11.5,35.0,Carnivore,Wetlands,Least Concern
+330,African Elephant,185.0,65.0,Carnivore,Savannahs,Near Threatened
+331,Aardvark,325.0,25.0,Piscivore,Savannas,Near Threatened
+332,African Wild Dog,185.0,42.5,Insectivore,Savannah,Least Concern
+333,African Lion,4350.0,11.0,Carnivore,Grasslands,Endangered
+334,Albatross,185.0,65.0,Insectivore,Wetlands,Near Threatened
+335,Albatross,325.0,12.0,Insectivore,Savannah,Vulnerable
+336,Albatross,4350.0,35.0,Carnivore,Savannah,Least Concern
+337,Albatross,27.0,35.0,Piscivore,Oceans,Least Concern
+338,African Elephant,27.0,65.0,Carnivore,Savannas,Least Concern
+339,Aardwolf,11.5,11.0,Insectivore,Grasslands,Near Threatened
+340,Alligator,185.0,65.0,Insectivore,Savannas,Least Concern
+341,Alligator,27.0,25.0,Carnivore,Savannahs,Least Concern
+342,African Elephant,52.5,11.0,Carnivore,Wetlands,Near Threatened
+343,Aardwolf,11.0,11.0,Herbivore,Grasslands,Least Concern
+344,Alligator,11.0,11.0,Piscivore,Wetlands,Vulnerable
+345,Aardvark,4350.0,65.0,Carnivore,Oceans,Least Concern
+346,Alligator,4350.0,12.0,Herbivore,Grasslands,Least Concern
+347,Albatross,325.0,65.0,Carnivore,Oceans,Endangered
+348,Aardvark,52.5,12.0,Insectivore,Grasslands,Near Threatened
+349,Alligator,325.0,25.0,Insectivore,Savannah,Endangered
+350,African Lion,11.0,11.0,Carnivore,Grasslands,Least Concern
+351,African Elephant,52.5,65.0,Carnivore,Oceans,Near Threatened
+352,African Elephant,52.5,65.0,Carnivore,Grasslands,Vulnerable
+353,African Elephant,52.5,35.0,Insectivore,Savannas,Vulnerable
+354,African Wild Dog,52.5,25.0,Herbivore,Oceans,Least Concern
+355,African Wild Dog,52.5,11.0,Herbivore,Savannas,Least Concern
+356,Alligator,11.0,65.0,Carnivore,Savannah,Endangered
+357,Albatross,27.0,25.0,Piscivore,Oceans,Near Threatened
+358,Albatross,4350.0,12.0,Herbivore,Oceans,Least Concern
+359,African Elephant,325.0,65.0,Piscivore,Oceans,Vulnerable
+360,African Wild Dog,11.0,11.0,Piscivore,Grasslands,Least Concern
+361,Alligator,4350.0,11.0,Insectivore,Grasslands,Least Concern
+362,African Wild Dog,11.5,25.0,Carnivore,Oceans,Least Concern
+363,Aardvark,185.0,42.5,Carnivore,Savannas,Near Threatened
+364,African Lion,52.5,11.0,Carnivore,Wetlands,Endangered
+365,Alligator,27.0,25.0,Insectivore,Savannah,Least Concern
+366,African Elephant,27.0,11.0,Carnivore,Wetlands,Least Concern
+367,African Wild Dog,185.0,12.0,Carnivore,Grasslands,Least Concern
+368,African Elephant,11.0,35.0,Insectivore,Grasslands,Least Concern
+369,African Elephant,4350.0,65.0,Carnivore,Grasslands,Least Concern
+370,Alligator,27.0,11.0,Insectivore,Savannah,Endangered
+371,Alligator,11.0,65.0,Carnivore,Savannas,Least Concern
+372,Alligator,52.5,11.0,Piscivore,Savannas,Endangered
+373,Aardwolf,11.0,35.0,Herbivore,Savannas,Least Concern
+374,Aardwolf,27.0,42.5,Carnivore,Grasslands,Near Threatened
+375,African Lion,185.0,42.5,Carnivore,Savannahs,Vulnerable
+376,Albatross,52.5,25.0,Carnivore,Savannah,Vulnerable
+377,African Lion,11.0,11.0,Carnivore,Savannah,Least Concern
+378,Aardvark,27.0,11.0,Piscivore,Savannas,Endangered
+379,Aardwolf,4350.0,65.0,Herbivore,Wetlands,Near Threatened
+380,African Wild Dog,185.0,11.0,Piscivore,Grasslands,Least Concern
+381,African Lion,27.0,11.0,Carnivore,Grasslands,Vulnerable
+382,Alligator,27.0,25.0,Piscivore,Oceans,Least Concern
+383,Aardvark,11.0,12.0,Piscivore,Grasslands,Vulnerable
+384,Albatross,4350.0,12.0,Insectivore,Savannah,Near Threatened
+385,Albatross,11.5,11.0,Carnivore,Savannahs,Near Threatened
+386,Alligator,11.0,11.0,Carnivore,Savannas,Least Concern
+387,Alligator,52.5,11.0,Carnivore,Oceans,Near Threatened
+388,Albatross,325.0,12.0,Carnivore,Oceans,Vulnerable
+389,African Lion,52.5,65.0,Herbivore,Savannahs,Least Concern
+390,African Wild Dog,185.0,25.0,Insectivore,Oceans,Least Concern
+391,Aardwolf,27.0,11.0,Insectivore,Wetlands,Vulnerable
+392,African Elephant,11.5,11.0,Carnivore,Savannas,Least Concern
+393,Alligator,11.5,12.0,Piscivore,Oceans,Least Concern
+394,African Elephant,185.0,25.0,Insectivore,Savannas,Vulnerable
+395,Alligator,27.0,35.0,Insectivore,Savannas,Near Threatened
+396,African Lion,185.0,11.0,Piscivore,Grasslands,Least Concern
+397,African Wild Dog,52.5,42.5,Piscivore,Savannahs,Vulnerable
+398,African Elephant,11.5,42.5,Insectivore,Savannahs,Least Concern
+399,African Elephant,11.5,25.0,Carnivore,Grasslands,Least Concern
+400,African Lion,11.0,35.0,Carnivore,Grasslands,Vulnerable
+401,Aardwolf,325.0,25.0,Herbivore,Savannahs,Least Concern
+402,Alligator,52.5,11.0,Insectivore,Savannah,Least Concern
+403,Alligator,4350.0,35.0,Carnivore,Oceans,Least Concern
+404,Aardvark,11.5,11.0,Insectivore,Grasslands,Endangered
+405,Aardwolf,185.0,35.0,Insectivore,Savannahs,Least Concern
+406,African Wild Dog,52.5,42.5,Herbivore,Oceans,Endangered
+407,Albatross,52.5,65.0,Herbivore,Oceans,Least Concern
+408,Aardvark,52.5,12.0,Carnivore,Grasslands,Vulnerable
+409,Albatross,11.5,11.0,Carnivore,Savannas,Vulnerable
+410,African Lion,4350.0,65.0,Herbivore,Oceans,Least Concern
+411,African Lion,4350.0,35.0,Piscivore,Savannahs,Least Concern
+412,Aardwolf,185.0,25.0,Carnivore,Oceans,Endangered
+413,African Wild Dog,11.0,65.0,Carnivore,Grasslands,Least Concern
+414,Alligator,185.0,11.0,Piscivore,Wetlands,Vulnerable
+415,African Lion,27.0,35.0,Insectivore,Grasslands,Vulnerable
+416,Alligator,185.0,35.0,Piscivore,Grasslands,Vulnerable
+417,Alligator,4350.0,25.0,Insectivore,Oceans,Vulnerable
+418,Aardwolf,185.0,35.0,Insectivore,Wetlands,Endangered
+419,African Elephant,4350.0,65.0,Herbivore,Savannah,Near Threatened
+420,African Elephant,185.0,42.5,Piscivore,Savannahs,Endangered
+421,Aardvark,11.0,65.0,Piscivore,Grasslands,Least Concern
+422,African Elephant,185.0,42.5,Insectivore,Savannas,Near Threatened
+423,Aardvark,11.5,11.0,Herbivore,Grasslands,Least Concern
+424,African Wild Dog,27.0,11.0,Carnivore,Wetlands,Vulnerable
+425,African Elephant,52.5,35.0,Piscivore,Savannas,Near Threatened
+426,Alligator,11.5,12.0,Carnivore,Grasslands,Vulnerable
+427,Albatross,4350.0,11.0,Insectivore,Savannahs,Least Concern
+428,Aardwolf,27.0,25.0,Carnivore,Savannah,Least Concern
+429,Albatross,27.0,11.0,Herbivore,Savannahs,Near Threatened
+430,African Wild Dog,4350.0,11.0,Carnivore,Savannas,Least Concern
+431,Albatross,27.0,11.0,Insectivore,Grasslands,Endangered
+432,Aardvark,11.5,42.5,Insectivore,Savannah,Vulnerable
+433,African Wild Dog,11.0,42.5,Insectivore,Grasslands,Vulnerable
+434,African Elephant,52.5,11.0,Herbivore,Grasslands,Vulnerable
+435,African Elephant,27.0,65.0,Insectivore,Savannas,Vulnerable
+436,Alligator,52.5,25.0,Carnivore,Grasslands,Vulnerable
+437,African Wild Dog,4350.0,11.0,Insectivore,Savannahs,Endangered
+438,African Elephant,185.0,25.0,Herbivore,Oceans,Least Concern
+439,African Lion,11.5,11.0,Carnivore,Wetlands,Least Concern
+440,Aardvark,185.0,25.0,Piscivore,Savannas,Least Concern
+441,Aardvark,11.0,25.0,Carnivore,Savannah,Vulnerable
+442,African Wild Dog,185.0,35.0,Carnivore,Savannah,Least Concern
+443,Aardvark,325.0,12.0,Carnivore,Savannah,Least Concern
+444,African Lion,185.0,35.0,Insectivore,Savannas,Least Concern
+445,Aardwolf,185.0,25.0,Carnivore,Savannas,Least Concern
+446,Aardvark,4350.0,11.0,Piscivore,Oceans,Near Threatened
+447,African Lion,4350.0,11.0,Carnivore,Oceans,Least Concern
+448,African Lion,27.0,35.0,Piscivore,Oceans,Vulnerable
+449,African Wild Dog,27.0,42.5,Carnivore,Wetlands,Vulnerable
+450,Aardvark,52.5,42.5,Carnivore,Grasslands,Least Concern
+451,Aardvark,11.5,11.0,Insectivore,Savannas,Least Concern
+452,Aardwolf,27.0,42.5,Insectivore,Savannas,Vulnerable
+453,Aardwolf,185.0,35.0,Insectivore,Grasslands,Least Concern
+454,African Wild Dog,11.5,25.0,Insectivore,Grasslands,Endangered
+455,African Elephant,11.5,25.0,Herbivore,Wetlands,Vulnerable
+456,Aardvark,11.0,12.0,Piscivore,Wetlands,Vulnerable
+457,Albatross,52.5,12.0,Carnivore,Savannas,Near Threatened
+458,African Lion,185.0,11.0,Herbivore,Savannas,Vulnerable
+459,African Wild Dog,27.0,12.0,Insectivore,Grasslands,Least Concern
+460,African Lion,27.0,35.0,Insectivore,Savannah,Least Concern
+461,Alligator,52.5,25.0,Piscivore,Grasslands,Endangered
+462,African Wild Dog,27.0,11.0,Carnivore,Savannas,Vulnerable
+463,Alligator,11.0,11.0,Piscivore,Grasslands,Near Threatened
+464,African Wild Dog,4350.0,12.0,Carnivore,Grasslands,Least Concern
+465,Aardvark,11.0,12.0,Carnivore,Grasslands,Near Threatened
+466,Albatross,11.0,42.5,Insectivore,Wetlands,Endangered
+467,African Elephant,185.0,11.0,Herbivore,Grasslands,Near Threatened
+468,African Lion,4350.0,11.0,Piscivore,Grasslands,Endangered
+469,African Lion,325.0,12.0,Carnivore,Grasslands,Vulnerable
+470,African Lion,325.0,42.5,Herbivore,Savannah,Vulnerable
+471,African Elephant,185.0,12.0,Carnivore,Grasslands,Least Concern
+472,African Lion,27.0,25.0,Carnivore,Grasslands,Near Threatened
+473,Aardwolf,11.0,42.5,Insectivore,Savannahs,Least Concern
+474,African Wild Dog,325.0,11.0,Piscivore,Wetlands,Vulnerable
+475,African Lion,27.0,11.0,Insectivore,Savannas,Vulnerable
+476,Alligator,185.0,11.0,Insectivore,Grasslands,Least Concern
+477,Albatross,27.0,11.0,Carnivore,Grasslands,Vulnerable
+478,African Wild Dog,325.0,11.0,Insectivore,Wetlands,Least Concern
+479,African Lion,4350.0,12.0,Carnivore,Wetlands,Near Threatened
+480,African Elephant,4350.0,42.5,Insectivore,Oceans,Vulnerable
+481,Albatross,185.0,42.5,Herbivore,Savannah,Least Concern
+482,African Wild Dog,11.5,12.0,Carnivore,Savannah,Near Threatened
+483,African Lion,4350.0,11.0,Carnivore,Grasslands,Vulnerable
+484,African Elephant,325.0,42.5,Insectivore,Grasslands,Least Concern
+485,African Elephant,4350.0,42.5,Herbivore,Wetlands,Least Concern
+486,African Elephant,52.5,12.0,Herbivore,Oceans,Near Threatened
+487,Aardwolf,27.0,65.0,Piscivore,Savannah,Least Concern
+488,Aardvark,27.0,65.0,Herbivore,Savannah,Least Concern
+489,Alligator,185.0,65.0,Piscivore,Savannahs,Near Threatened
+490,Aardwolf,325.0,42.5,Insectivore,Oceans,Endangered
+491,African Lion,52.5,35.0,Carnivore,Oceans,Least Concern
+492,African Elephant,325.0,11.0,Herbivore,Savannah,Vulnerable
+493,African Wild Dog,185.0,11.0,Carnivore,Grasslands,Vulnerable
+494,Albatross,325.0,25.0,Piscivore,Wetlands,Vulnerable
+495,African Elephant,52.5,11.0,Carnivore,Grasslands,Endangered
+496,Aardvark,325.0,11.0,Carnivore,Grasslands,Vulnerable
+497,Aardvark,11.0,35.0,Herbivore,Wetlands,Least Concern
+498,African Elephant,325.0,12.0,Carnivore,Grasslands,Endangered
+499,Alligator,11.0,11.0,Insectivore,Savannah,Vulnerable
+500,African Wild Dog,4350.0,12.0,Insectivore,Savannas,Near Threatened
+501,African Elephant,11.5,11.0,Carnivore,Savannah,Endangered
+502,Aardwolf,185.0,65.0,Piscivore,Wetlands,Vulnerable
+503,African Wild Dog,4350.0,65.0,Herbivore,Oceans,Vulnerable
+504,African Wild Dog,4350.0,65.0,Carnivore,Savannahs,Least Concern
+505,African Elephant,11.0,35.0,Piscivore,Savannas,Endangered
+506,Albatross,185.0,42.5,Carnivore,Grasslands,Least Concern
+507,Aardwolf,52.5,11.0,Carnivore,Grasslands,Endangered
+508,Aardwolf,185.0,25.0,Carnivore,Grasslands,Near Threatened
+509,Alligator,11.0,65.0,Carnivore,Wetlands,Least Concern
+510,African Wild Dog,185.0,11.0,Carnivore,Oceans,Least Concern
+511,African Wild Dog,52.5,25.0,Carnivore,Savannahs,Least Concern
+512,Aardvark,11.0,25.0,Herbivore,Savannahs,Least Concern
+513,Albatross,4350.0,35.0,Insectivore,Grasslands,Vulnerable
+514,African Wild Dog,11.5,42.5,Piscivore,Savannahs,Least Concern
+515,African Wild Dog,4350.0,12.0,Insectivore,Grasslands,Least Concern
+516,African Lion,27.0,12.0,Carnivore,Savannas,Near Threatened
+517,African Wild Dog,11.5,65.0,Carnivore,Grasslands,Vulnerable
+518,Albatross,185.0,42.5,Carnivore,Grasslands,Near Threatened
+519,Aardvark,185.0,12.0,Insectivore,Savannas,Vulnerable
+520,African Lion,4350.0,35.0,Carnivore,Savannas,Vulnerable
+521,Aardvark,52.5,12.0,Carnivore,Grasslands,Least Concern
+522,Alligator,11.5,35.0,Carnivore,Oceans,Least Concern
+523,Aardvark,11.0,11.0,Herbivore,Savannahs,Endangered
+524,Albatross,11.0,65.0,Herbivore,Savannah,Least Concern
+525,Alligator,52.5,35.0,Carnivore,Savannah,Near Threatened
+526,Aardvark,52.5,25.0,Insectivore,Savannah,Vulnerable
+527,African Elephant,11.0,11.0,Carnivore,Savannas,Vulnerable
+528,African Lion,325.0,12.0,Piscivore,Savannas,Least Concern
+529,African Wild Dog,27.0,11.0,Insectivore,Oceans,Near Threatened
+530,African Lion,11.5,11.0,Carnivore,Savannah,Least Concern
+531,African Lion,27.0,65.0,Insectivore,Grasslands,Vulnerable
+532,Aardwolf,325.0,42.5,Insectivore,Grasslands,Endangered
+533,African Wild Dog,52.5,35.0,Carnivore,Savannahs,Least Concern
+534,African Wild Dog,11.5,11.0,Herbivore,Grasslands,Least Concern
+535,Alligator,185.0,42.5,Insectivore,Savannah,Endangered
+536,African Wild Dog,325.0,35.0,Insectivore,Savannah,Least Concern
+537,African Elephant,52.5,11.0,Carnivore,Savannas,Least Concern
+538,Alligator,11.0,65.0,Carnivore,Wetlands,Vulnerable
+539,African Elephant,185.0,12.0,Carnivore,Savannas,Least Concern
+540,African Elephant,4350.0,12.0,Piscivore,Oceans,Least Concern
+541,African Lion,11.5,11.0,Piscivore,Savannahs,Least Concern
+542,Aardvark,52.5,42.5,Carnivore,Wetlands,Near Threatened
+543,African Elephant,185.0,12.0,Insectivore,Savannas,Vulnerable
+544,Aardwolf,325.0,11.0,Carnivore,Savannas,Vulnerable
+545,Aardwolf,52.5,25.0,Herbivore,Savannah,Near Threatened
+546,Aardvark,52.5,35.0,Insectivore,Wetlands,Near Threatened
+547,African Wild Dog,11.5,35.0,Carnivore,Wetlands,Near Threatened
+548,African Elephant,27.0,25.0,Piscivore,Grasslands,Least Concern
+549,African Lion,185.0,11.0,Piscivore,Savannah,Vulnerable
+550,Aardwolf,325.0,11.0,Carnivore,Savannah,Endangered
+551,Albatross,11.5,25.0,Insectivore,Oceans,Near Threatened
+552,African Elephant,4350.0,65.0,Insectivore,Savannas,Endangered
+553,Aardwolf,11.5,35.0,Carnivore,Savannah,Least Concern
+554,Alligator,325.0,11.0,Insectivore,Savannas,Least Concern
+555,Aardwolf,11.0,12.0,Carnivore,Wetlands,Vulnerable
+556,African Wild Dog,11.5,25.0,Carnivore,Grasslands,Endangered
+557,African Wild Dog,185.0,35.0,Carnivore,Savannahs,Least Concern
+558,African Lion,325.0,12.0,Carnivore,Savannahs,Endangered
+559,African Lion,11.0,35.0,Carnivore,Savannahs,Least Concern
+560,African Lion,325.0,25.0,Carnivore,Oceans,Vulnerable
+561,African Wild Dog,11.0,25.0,Carnivore,Wetlands,Least Concern
+562,Aardvark,4350.0,35.0,Piscivore,Grasslands,Least Concern
+563,African Wild Dog,27.0,35.0,Carnivore,Oceans,Least Concern
+564,African Wild Dog,4350.0,11.0,Carnivore,Savannahs,Vulnerable
+565,Albatross,4350.0,35.0,Insectivore,Savannahs,Vulnerable
+566,Aardwolf,4350.0,35.0,Insectivore,Oceans,Least Concern
+567,Aardvark,27.0,65.0,Carnivore,Savannas,Vulnerable
+568,African Wild Dog,11.0,11.0,Herbivore,Oceans,Least Concern
+569,Aardvark,11.5,35.0,Carnivore,Grasslands,Least Concern
+570,Aardwolf,11.0,42.5,Herbivore,Savannahs,Endangered
+571,African Elephant,11.5,25.0,Insectivore,Grasslands,Least Concern
+572,Aardwolf,11.5,11.0,Insectivore,Wetlands,Endangered
+573,African Elephant,185.0,65.0,Carnivore,Grasslands,Near Threatened
+574,African Wild Dog,27.0,42.5,Carnivore,Oceans,Least Concern
+575,Aardwolf,11.0,11.0,Insectivore,Savannah,Least Concern
+576,Aardvark,27.0,25.0,Carnivore,Wetlands,Endangered
+577,African Lion,11.5,65.0,Insectivore,Savannah,Least Concern
+578,African Lion,185.0,11.0,Herbivore,Savannahs,Endangered
+579,African Wild Dog,52.5,12.0,Insectivore,Oceans,Least Concern
+580,African Elephant,11.0,11.0,Carnivore,Oceans,Least Concern
+581,African Wild Dog,27.0,35.0,Insectivore,Savannahs,Least Concern
+582,Aardwolf,52.5,35.0,Carnivore,Savannah,Least Concern
+583,Alligator,52.5,42.5,Piscivore,Wetlands,Least Concern
+584,African Wild Dog,325.0,12.0,Carnivore,Savannah,Least Concern
+585,Aardwolf,4350.0,35.0,Carnivore,Wetlands,Vulnerable
+586,African Wild Dog,185.0,11.0,Carnivore,Grasslands,Least Concern
+587,African Lion,52.5,42.5,Carnivore,Wetlands,Least Concern
+588,African Lion,11.0,35.0,Carnivore,Oceans,Least Concern
+589,Alligator,4350.0,12.0,Carnivore,Oceans,Vulnerable
+590,African Lion,52.5,11.0,Carnivore,Oceans,Vulnerable
+591,Aardwolf,185.0,11.0,Herbivore,Savannas,Endangered
+592,African Lion,185.0,12.0,Herbivore,Oceans,Least Concern
+593,Aardwolf,325.0,65.0,Insectivore,Grasslands,Least Concern
+594,Aardvark,325.0,35.0,Insectivore,Savannas,Endangered
+595,Aardvark,4350.0,12.0,Carnivore,Oceans,Least Concern
+596,Aardwolf,27.0,42.5,Piscivore,Savannah,Near Threatened
+597,Alligator,52.5,42.5,Carnivore,Savannah,Vulnerable
+598,African Elephant,11.0,65.0,Carnivore,Wetlands,Least Concern
+599,Aardwolf,11.0,11.0,Carnivore,Savannas,Least Concern
+600,Albatross,11.5,42.5,Carnivore,Oceans,Vulnerable
+601,African Wild Dog,325.0,12.0,Carnivore,Savannas,Vulnerable
+602,African Wild Dog,185.0,42.5,Carnivore,Grasslands,Vulnerable
+603,African Elephant,4350.0,65.0,Herbivore,Grasslands,Least Concern
+604,African Wild Dog,185.0,25.0,Insectivore,Wetlands,Vulnerable
+605,African Wild Dog,11.5,12.0,Piscivore,Savannah,Vulnerable
+606,African Elephant,185.0,12.0,Insectivore,Oceans,Least Concern
+607,African Wild Dog,11.0,65.0,Herbivore,Wetlands,Vulnerable
+608,Aardwolf,11.5,65.0,Herbivore,Savannahs,Vulnerable
+609,African Elephant,27.0,35.0,Insectivore,Grasslands,Near Threatened
+610,Albatross,4350.0,42.5,Insectivore,Grasslands,Near Threatened
+611,Albatross,11.0,42.5,Carnivore,Savannah,Vulnerable
+612,Aardvark,185.0,25.0,Insectivore,Grasslands,Least Concern
+613,Alligator,52.5,11.0,Carnivore,Oceans,Least Concern
+614,Aardwolf,52.5,35.0,Herbivore,Savannahs,Vulnerable
+615,Alligator,27.0,42.5,Herbivore,Grasslands,Least Concern
+616,African Wild Dog,52.5,11.0,Herbivore,Wetlands,Endangered
+617,African Lion,325.0,35.0,Insectivore,Savannahs,Least Concern
+618,Aardwolf,11.0,65.0,Insectivore,Savannah,Endangered
+619,African Elephant,11.0,11.0,Piscivore,Savannas,Least Concern
+620,Alligator,11.5,42.5,Carnivore,Grasslands,Least Concern
+621,African Elephant,27.0,25.0,Carnivore,Grasslands,Vulnerable
+622,Albatross,52.5,11.0,Carnivore,Savannas,Vulnerable
+623,African Wild Dog,27.0,65.0,Carnivore,Savannas,Endangered
+624,African Elephant,185.0,12.0,Insectivore,Savannah,Least Concern
+625,Aardvark,4350.0,11.0,Herbivore,Oceans,Near Threatened
+626,African Elephant,11.5,25.0,Insectivore,Savannas,Endangered
+627,Alligator,27.0,42.5,Insectivore,Grasslands,Least Concern
+628,Alligator,11.0,25.0,Carnivore,Grasslands,Least Concern
+629,African Lion,11.0,65.0,Insectivore,Savannas,Near Threatened
+630,African Lion,185.0,12.0,Carnivore,Grasslands,Least Concern
+631,Albatross,11.0,11.0,Carnivore,Savannahs,Least Concern
+632,Alligator,185.0,35.0,Piscivore,Grasslands,Near Threatened
+633,Aardvark,52.5,11.0,Carnivore,Grasslands,Vulnerable
+634,African Elephant,11.5,11.0,Herbivore,Oceans,Vulnerable
+635,Aardvark,11.0,35.0,Carnivore,Oceans,Vulnerable
+636,Aardvark,11.0,65.0,Piscivore,Oceans,Least Concern
+637,Alligator,11.0,65.0,Insectivore,Savannah,Vulnerable
+638,Albatross,185.0,11.0,Carnivore,Savannas,Vulnerable
+639,Albatross,11.5,65.0,Carnivore,Savannas,Least Concern
+640,African Elephant,4350.0,12.0,Piscivore,Wetlands,Least Concern
+641,African Wild Dog,185.0,42.5,Carnivore,Savannahs,Least Concern
+642,Aardvark,11.0,11.0,Carnivore,Savannas,Least Concern
+643,Aardvark,11.5,11.0,Carnivore,Wetlands,Vulnerable
+644,Aardvark,27.0,11.0,Herbivore,Grasslands,Near Threatened
+645,African Wild Dog,4350.0,12.0,Piscivore,Oceans,Least Concern
+646,African Elephant,185.0,25.0,Carnivore,Oceans,Least Concern
+647,Aardvark,11.0,35.0,Carnivore,Oceans,Least Concern
+648,African Elephant,11.5,11.0,Herbivore,Savannahs,Vulnerable
+649,Albatross,185.0,35.0,Piscivore,Savannah,Near Threatened
+650,Alligator,11.0,11.0,Piscivore,Grasslands,Least Concern
+651,Aardwolf,11.0,11.0,Insectivore,Grasslands,Least Concern
+652,Aardwolf,325.0,25.0,Carnivore,Grasslands,Least Concern
+653,African Elephant,27.0,25.0,Carnivore,Savannas,Vulnerable
+654,Alligator,27.0,11.0,Carnivore,Grasslands,Least Concern
+655,Alligator,52.5,65.0,Insectivore,Wetlands,Least Concern
+656,African Elephant,4350.0,25.0,Insectivore,Grasslands,Least Concern
+657,Aardwolf,11.5,35.0,Herbivore,Savannahs,Near Threatened
+658,Alligator,27.0,25.0,Carnivore,Wetlands,Endangered
+659,African Elephant,27.0,12.0,Carnivore,Savannah,Least Concern
+660,African Elephant,185.0,11.0,Insectivore,Grasslands,Vulnerable
+661,African Elephant,185.0,35.0,Insectivore,Wetlands,Least Concern
+662,Aardvark,11.5,42.5,Herbivore,Savannas,Endangered
+663,Albatross,52.5,12.0,Herbivore,Wetlands,Vulnerable
+664,Aardvark,11.0,65.0,Insectivore,Savannahs,Least Concern
+665,Albatross,11.0,25.0,Piscivore,Grasslands,Vulnerable
+666,African Wild Dog,27.0,35.0,Herbivore,Wetlands,Near Threatened
+667,Aardvark,11.5,25.0,Herbivore,Savannas,Near Threatened
+668,African Elephant,325.0,65.0,Carnivore,Savannah,Vulnerable
+669,Albatross,11.5,35.0,Carnivore,Oceans,Least Concern
+670,African Wild Dog,325.0,65.0,Carnivore,Savannahs,Least Concern
+671,Alligator,325.0,65.0,Insectivore,Grasslands,Near Threatened
+672,Alligator,11.0,65.0,Piscivore,Savannah,Least Concern
+673,African Lion,11.5,42.5,Insectivore,Savannah,Vulnerable
+674,African Wild Dog,4350.0,35.0,Herbivore,Savannahs,Least Concern
+675,Alligator,4350.0,42.5,Carnivore,Grasslands,Near Threatened
+676,Aardwolf,27.0,11.0,Carnivore,Wetlands,Vulnerable
+677,African Wild Dog,52.5,65.0,Carnivore,Grasslands,Endangered
+678,Albatross,11.0,65.0,Carnivore,Grasslands,Least Concern
+679,Aardwolf,52.5,25.0,Insectivore,Savannahs,Vulnerable
+680,Alligator,52.5,11.0,Insectivore,Savannas,Vulnerable
+681,Aardwolf,4350.0,12.0,Carnivore,Savannahs,Endangered
+682,Aardvark,185.0,12.0,Insectivore,Grasslands,Near Threatened
+683,African Lion,11.5,11.0,Insectivore,Grasslands,Least Concern
+684,Aardvark,11.0,42.5,Herbivore,Savannahs,Least Concern
+685,African Lion,11.5,25.0,Carnivore,Oceans,Near Threatened
+686,Alligator,27.0,65.0,Carnivore,Savannahs,Least Concern
+687,African Wild Dog,11.5,11.0,Piscivore,Grasslands,Least Concern
+688,African Elephant,11.0,11.0,Insectivore,Savannahs,Vulnerable
+689,Aardvark,11.0,35.0,Insectivore,Savannah,Least Concern
+690,Aardwolf,27.0,35.0,Insectivore,Savannah,Vulnerable
+691,African Lion,185.0,12.0,Carnivore,Oceans,Vulnerable
+692,Alligator,11.0,42.5,Carnivore,Savannah,Endangered
+693,African Wild Dog,52.5,11.0,Insectivore,Savannah,Near Threatened
+694,Aardvark,52.5,35.0,Piscivore,Savannah,Vulnerable
+695,African Elephant,185.0,42.5,Carnivore,Savannas,Least Concern
+696,Aardwolf,11.0,11.0,Herbivore,Wetlands,Least Concern
+697,Alligator,11.0,11.0,Carnivore,Wetlands,Vulnerable
+698,Albatross,27.0,42.5,Insectivore,Wetlands,Least Concern
+699,African Lion,52.5,11.0,Carnivore,Grasslands,Least Concern
+700,African Elephant,185.0,11.0,Herbivore,Savannahs,Least Concern
+701,African Elephant,4350.0,12.0,Carnivore,Grasslands,Least Concern
+702,Alligator,11.5,25.0,Carnivore,Grasslands,Endangered
+703,African Wild Dog,27.0,25.0,Insectivore,Wetlands,Vulnerable
+704,Aardvark,4350.0,11.0,Carnivore,Oceans,Endangered
+705,Albatross,11.0,12.0,Carnivore,Grasslands,Endangered
+706,African Lion,52.5,11.0,Piscivore,Grasslands,Near Threatened
+707,Aardvark,11.0,11.0,Carnivore,Savannas,Vulnerable
+708,Aardwolf,4350.0,11.0,Herbivore,Grasslands,Near Threatened
+709,African Lion,11.5,65.0,Carnivore,Savannah,Vulnerable
+710,African Wild Dog,325.0,35.0,Carnivore,Savannah,Vulnerable
+711,Albatross,325.0,12.0,Carnivore,Grasslands,Least Concern
+712,Albatross,185.0,25.0,Carnivore,Oceans,Least Concern
+713,Aardwolf,11.0,12.0,Insectivore,Grasslands,Near Threatened
+714,Aardwolf,52.5,12.0,Insectivore,Oceans,Vulnerable
+715,Aardvark,11.5,65.0,Piscivore,Grasslands,Least Concern
+716,African Wild Dog,4350.0,65.0,Carnivore,Grasslands,Least Concern
+717,African Wild Dog,325.0,65.0,Herbivore,Grasslands,Vulnerable
+718,Aardvark,11.0,42.5,Piscivore,Grasslands,Least Concern
+719,Alligator,11.0,35.0,Carnivore,Savannah,Vulnerable
+720,African Wild Dog,52.5,25.0,Insectivore,Savannas,Least Concern
+721,Alligator,4350.0,42.5,Carnivore,Grasslands,Vulnerable
+722,Alligator,11.5,25.0,Insectivore,Savannahs,Least Concern
+723,African Elephant,52.5,42.5,Piscivore,Grasslands,Vulnerable
+724,African Elephant,4350.0,42.5,Carnivore,Oceans,Near Threatened
+725,Aardwolf,4350.0,11.0,Insectivore,Savannahs,Least Concern
+726,Albatross,11.0,42.5,Carnivore,Savannah,Near Threatened
+727,Alligator,185.0,11.0,Insectivore,Wetlands,Vulnerable
+728,Alligator,27.0,65.0,Carnivore,Wetlands,Least Concern
+729,African Lion,27.0,35.0,Insectivore,Grasslands,Least Concern
+730,African Elephant,325.0,11.0,Insectivore,Savannahs,Near Threatened
+731,Alligator,27.0,11.0,Herbivore,Savannah,Near Threatened
+732,Alligator,27.0,11.0,Carnivore,Savannah,Least Concern
+733,African Wild Dog,52.5,12.0,Insectivore,Oceans,Vulnerable
+734,African Lion,27.0,12.0,Insectivore,Grasslands,Near Threatened
+735,Albatross,52.5,42.5,Insectivore,Savannah,Least Concern
+736,Aardwolf,11.0,42.5,Insectivore,Oceans,Endangered
+737,Alligator,325.0,11.0,Carnivore,Grasslands,Least Concern
+738,African Wild Dog,11.0,35.0,Carnivore,Oceans,Least Concern
+739,Aardwolf,27.0,35.0,Insectivore,Oceans,Endangered
+740,African Lion,185.0,35.0,Herbivore,Wetlands,Least Concern
+741,African Lion,4350.0,11.0,Herbivore,Savannahs,Vulnerable
+742,Aardvark,4350.0,12.0,Insectivore,Savannahs,Least Concern
+743,Alligator,11.5,11.0,Carnivore,Wetlands,Endangered
+744,African Lion,11.0,65.0,Carnivore,Wetlands,Near Threatened
+745,African Wild Dog,11.5,12.0,Insectivore,Grasslands,Near Threatened
+746,Aardvark,325.0,42.5,Herbivore,Savannas,Vulnerable
+747,Albatross,52.5,65.0,Carnivore,Savannas,Near Threatened
+748,Albatross,11.5,11.0,Insectivore,Savannah,Endangered
+749,African Wild Dog,52.5,42.5,Carnivore,Savannahs,Least Concern
+750,Aardvark,11.0,25.0,Insectivore,Savannas,Endangered
+751,Alligator,11.0,11.0,Carnivore,Savannah,Near Threatened
+752,Aardwolf,4350.0,25.0,Herbivore,Grasslands,Least Concern
+753,Aardvark,11.5,35.0,Herbivore,Oceans,Near Threatened
+754,Albatross,185.0,25.0,Carnivore,Savannahs,Vulnerable
+755,Aardvark,4350.0,11.0,Carnivore,Oceans,Vulnerable
+756,African Elephant,185.0,65.0,Herbivore,Oceans,Least Concern
+757,African Elephant,185.0,42.5,Insectivore,Wetlands,Near Threatened
+758,Aardvark,4350.0,11.0,Carnivore,Savannas,Least Concern
+759,Aardwolf,325.0,35.0,Carnivore,Savannas,Vulnerable
+760,African Elephant,27.0,11.0,Piscivore,Savannahs,Least Concern
+761,Albatross,27.0,35.0,Carnivore,Grasslands,Least Concern
+762,Aardvark,4350.0,25.0,Carnivore,Savannahs,Vulnerable
+763,African Lion,325.0,12.0,Carnivore,Savannahs,Vulnerable
+764,Albatross,4350.0,35.0,Insectivore,Savannas,Vulnerable
+765,Alligator,185.0,25.0,Carnivore,Wetlands,Least Concern
+766,African Wild Dog,185.0,11.0,Carnivore,Oceans,Near Threatened
+767,African Wild Dog,185.0,35.0,Carnivore,Savannahs,Endangered
+768,African Elephant,52.5,42.5,Insectivore,Wetlands,Least Concern
+769,African Elephant,4350.0,25.0,Piscivore,Oceans,Vulnerable
+770,African Wild Dog,27.0,11.0,Carnivore,Oceans,Near Threatened
+771,Aardvark,4350.0,42.5,Insectivore,Grasslands,Endangered
+772,Aardwolf,185.0,25.0,Piscivore,Wetlands,Least Concern
+773,African Wild Dog,11.5,11.0,Carnivore,Grasslands,Endangered
+774,Albatross,325.0,42.5,Carnivore,Wetlands,Vulnerable
+775,African Elephant,185.0,11.0,Carnivore,Oceans,Vulnerable
+776,Albatross,325.0,11.0,Carnivore,Grasslands,Least Concern
+777,Alligator,52.5,35.0,Carnivore,Oceans,Near Threatened
+778,Aardvark,52.5,65.0,Carnivore,Savannas,Near Threatened
+779,African Elephant,11.5,35.0,Insectivore,Savannahs,Endangered
+780,Aardwolf,52.5,25.0,Carnivore,Savannas,Least Concern
+781,Aardwolf,11.0,42.5,Piscivore,Savannahs,Least Concern
+782,Aardwolf,185.0,12.0,Carnivore,Wetlands,Least Concern
+783,Albatross,4350.0,35.0,Carnivore,Savannas,Vulnerable
+784,Albatross,27.0,25.0,Herbivore,Grasslands,Near Threatened
+785,Aardwolf,27.0,25.0,Insectivore,Grasslands,Least Concern
+786,Aardwolf,185.0,65.0,Herbivore,Savannah,Least Concern
+787,African Lion,52.5,11.0,Carnivore,Savannas,Least Concern
+788,Aardwolf,52.5,11.0,Carnivore,Grasslands,Least Concern
+789,African Elephant,52.5,12.0,Herbivore,Savannahs,Least Concern
+790,Albatross,11.0,11.0,Insectivore,Savannah,Least Concern
+791,Albatross,325.0,25.0,Carnivore,Grasslands,Endangered
+792,African Lion,11.0,25.0,Insectivore,Wetlands,Vulnerable
+793,African Lion,27.0,42.5,Carnivore,Grasslands,Least Concern
+794,African Elephant,325.0,11.0,Herbivore,Grasslands,Vulnerable
+795,Aardvark,11.5,65.0,Piscivore,Oceans,Vulnerable
+796,African Lion,185.0,35.0,Insectivore,Oceans,Endangered
+797,African Elephant,325.0,11.0,Carnivore,Wetlands,Least Concern
+798,Alligator,4350.0,25.0,Carnivore,Savannas,Near Threatened
+799,African Elephant,185.0,12.0,Carnivore,Savannahs,Endangered
+800,African Elephant,4350.0,12.0,Insectivore,Grasslands,Vulnerable
+801,African Elephant,185.0,42.5,Piscivore,Savannah,Least Concern
+802,African Elephant,325.0,42.5,Carnivore,Savannahs,Least Concern
+803,African Elephant,27.0,11.0,Insectivore,Savannah,Least Concern
+804,African Elephant,4350.0,65.0,Insectivore,Wetlands,Vulnerable
+805,Albatross,11.0,11.0,Carnivore,Savannah,Least Concern
+806,Aardwolf,27.0,11.0,Herbivore,Wetlands,Least Concern
+807,Albatross,4350.0,65.0,Carnivore,Savannas,Least Concern
+808,African Lion,325.0,11.0,Piscivore,Savannahs,Least Concern
+809,African Wild Dog,4350.0,65.0,Piscivore,Grasslands,Least Concern
+810,African Elephant,27.0,42.5,Carnivore,Savannah,Endangered
+811,African Elephant,27.0,65.0,Piscivore,Oceans,Least Concern
+812,Alligator,11.0,65.0,Insectivore,Savannas,Least Concern
+813,Aardvark,27.0,65.0,Piscivore,Savannah,Least Concern
