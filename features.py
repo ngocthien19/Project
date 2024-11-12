@@ -7,24 +7,133 @@ from update import Update
 from delete import Delete
 from button_radius import create_rounded_button
 
-def populate_table(table, filter_value="", sort_by_weight=False):
+# Thêm các biến phân trang
+rows_per_page = 10  # Số dòng hiển thị trên mỗi trang
+current_page = 1  # Trang hiện tại
+total_pages = 1  # Tổng số trang (sẽ được cập nhật dựa trên dữ liệu)
+
+def populate_table(table, filter_value="", sort_by_weight=False, page=None):
+    global current_page, total_pages
+    
     # Đọc dữ liệu từ file CSV
     try:
         data = pd.read_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
     except FileNotFoundError:
         print("File không tồn tại. Vui lòng kiểm tra đường dẫn.")
         return
-    
+
+    # Áp dụng lọc nếu có
+    if filter_value:
+        data = data[data["Animal"].str.contains(filter_value, case=False, na=False)]
+        current_page = 1  # Đặt lại trang hiện tại về trang 1 khi tìm kiếm
+    else:
+        # Chỉ cập nhật total_pages nếu không có filter_value
+        total_pages = max(1, (len(data) + rows_per_page - 1) // rows_per_page)
+
+    # Đặt lại trang hiện tại nếu không có giá trị page được cung cấp
+    if page is not None:
+        current_page = page
+
+    # Chia trang dữ liệu
+    start_row = (current_page - 1) * rows_per_page
+    end_row = min(start_row + rows_per_page, len(data))
+
+    # Lấy dữ liệu cho trang hiện tại
+    page_data = data.iloc[start_row:end_row]
+
+    # Sắp xếp dữ liệu của trang hiện tại nếu có yêu cầu
     if sort_by_weight:
-        data = data.sort_values(by="Weight (kg)", ascending=True)
+        page_data = page_data.sort_values(by="Weight (kg)", ascending=True)
 
     # Xóa dữ liệu cũ trong bảng
     table.delete(*table.get_children())
-    
-    # Điền dữ liệu vào bảng, lọc theo giá trị nếu có
-    for index, row in data.iterrows():
-        if filter_value.lower() in row["Animal"].lower():
-            table.insert("", "end", values=(index + 1, row["Animal"], row["Weight (kg)"], row["Lifespan (years)"], row["Diet"], row["Habitat"], row["Conservation Status"]))
+
+    # Điền dữ liệu cho trang hiện tại
+    for index, row in page_data.iterrows():
+        table.insert("", "end", values=(row["ID"], row["Animal"], row["Weight (kg)"], row["Lifespan (years)"], row["Diet"], row["Habitat"], row["Conservation Status"]))
+
+    # Cập nhật trạng thái nút phân trang
+    update_pagination_buttons()
+
+def update_pagination_buttons():
+    # Xóa các nút cũ nếu có
+    for widget in pagination_frame.winfo_children():
+        widget.destroy()
+
+    # Tạo Canvas cho các nút phân trang
+    pagination_canvas = tk.Canvas(pagination_frame, bg="#FFF", height=50, width=550, highlightthickness=0)
+    pagination_canvas.pack(fill="x", pady=10)
+
+    # Nút "Previous"
+    create_rounded_button(
+        pagination_canvas,
+        x=10,
+        y=10,
+        width=80,
+        height=30,
+        radius=15,
+        text="Previous",
+        command=lambda: change_page(-1),
+        bg_color="#3498db",
+        text_color="#FFF",
+        hover_bg_color="#2980b9",
+        hover_text_color="#CCC"
+    )
+
+    # Các nút số trang
+    max_display_pages = 3  # Số trang hiển thị liền kề
+    if current_page <= max_display_pages:
+        display_pages = list(range(1, max_display_pages + 1)) + ["..."] + [total_pages]
+    elif current_page >= total_pages - max_display_pages + 1:
+        display_pages = [1, "..."] + list(range(total_pages - max_display_pages + 1, total_pages + 1))
+    else:
+        display_pages = [1, "..."] + list(range(current_page - 1, current_page + 2)) + ["..."] + [total_pages]
+
+    # Xếp các nút trang với khoảng cách đều nhau
+    x_offset = 100  # Khoảng cách bắt đầu từ bên phải nút "Previous"
+    for page in display_pages:
+        if page == "...":
+            # Điều chỉnh để dấu "..." không tạo khoảng cách lớn giữa các nút
+            pagination_canvas.create_text(x_offset, 25, text=page, fill="#3498db", font=("Arial", 12, "bold"))
+            x_offset += 40  # Giảm khoảng cách cho "..." để sát vào giữa các nút
+        else:
+            create_rounded_button(
+                pagination_canvas,
+                x=x_offset,
+                y=10,
+                width=40,
+                height=30,
+                radius=15,
+                text=str(page),
+                command=lambda p=page: populate_table(table, page=p),
+                bg_color="#FFF" if page != current_page else "#bdc3c7",
+                text_color="#3498db" if page != current_page else "#000",
+                hover_bg_color="#bdc3c7",
+                hover_text_color="#000"
+            )
+            x_offset += 55  # Khoảng cách giữa các nút trang để tạo sự cân đối
+
+    # Nút "Next"
+    create_rounded_button(
+        pagination_canvas,
+        x=x_offset + 10,
+        y=10,
+        width=80,
+        height=30,
+        radius=15,
+        text="Next",
+        command=lambda: change_page(1),
+        bg_color="#3498db",
+        text_color="#FFF",
+        hover_bg_color="#2980b9",
+        hover_text_color="#CCC"
+    )
+
+def change_page(direction):
+    global current_page
+    new_page = current_page + direction
+    if 1 <= new_page <= total_pages:
+        populate_table(table, page=new_page)
 
 def search_animals(event, entry, table):
     filter_value = entry.get()  # Lấy giá trị từ ô Entry
@@ -36,7 +145,7 @@ def search_animals(event, entry, table):
 
 def sort_by_weight(table):
     # Gọi hàm populate_table với sắp xếp theo cân nặng tăng dần
-    populate_table(table, sort_by_weight=True)
+    populate_table(table, sort_by_weight=True, page=current_page)
 
 def Table():
     return table
@@ -48,7 +157,7 @@ def FeaturesPage(root):
     global featuresPage
     featuresPage = tk.Toplevel()  
     featuresPage.title("Features")
-    featuresPage.geometry("1300x600")
+    featuresPage.geometry("1300x700")
     featuresPage.config(bg="#FFF")
 
     # Fonts
@@ -72,6 +181,11 @@ def FeaturesPage(root):
     global table
     table = ttk.Treeview(frame, columns=("ID", "Animal", "Weight", "Lifespan", "Diet", "Habitat", "Conservation Status"), show="headings", height=10)
 
+    # Thêm frame phân trang vào giao diện
+    global pagination_frame
+    pagination_frame = tk.Frame(featuresPage, bg="#FFF")
+    pagination_frame.pack(pady=5, anchor="center")
+    
     # Khung cho ô tìm kiếm và nút search
     search_frame = tk.Frame(featuresPage, bg="#FFF")
     search_frame.pack(pady=(5, 20), padx=20, anchor="center")    
