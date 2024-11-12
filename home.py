@@ -1,7 +1,8 @@
 import tkinter as tk
+import webbrowser  
 from PIL import Image, ImageTk, ImageDraw, ImageOps
 from tkinter import font
-import webbrowser  
+from button_radius import create_rounded_button
 
 def create_rounded_image(image_path, size, radius):
     img = Image.open(image_path).convert("RGBA")
@@ -18,42 +19,6 @@ def create_rounded_image(image_path, size, radius):
     final_image = Image.alpha_composite(white_background, rounded_image)
 
     return final_image 
-
-def create_rounded_button(canvas, x, y, width, height, radius, text="", command=None):
-    points = [x + radius, y, x + width - radius, y, x + width, y, x + width, y + radius, 
-              x + width, y + height - radius, x + width, y + height, x + width - radius, y + height, 
-              x + radius, y + height, x, y + height, x, y + height - radius, x, y + radius, x, y]
-    
-    button = canvas.create_polygon(points, smooth=True, fill="#FFF", outline="#3498db")
-
-    text_x = x + width / 2
-    text_y = y + height / 2
-    text_button = canvas.create_text(text_x, text_y, text=text, fill="#3498db", font=("Arial", 12, "bold"))
-
-    if command:
-        canvas.tag_bind(button, "<Button-1>", lambda e: command())
-        canvas.tag_bind(text_button, "<Button-1>", lambda e: command())
-
-    return button, text_button 
-
-def animate_button(canvas, button, text_button, original_color="#FFF", hover_color="#3498db",  original_text_color="#3498db", hover_text_color="#FFF"):
-    # Thay đổi màu sắc khi hover vào nút
-    def on_enter(event):
-        canvas.itemconfig(button, fill=hover_color)  # Đổi màu khi di chuột vào
-        canvas.itemconfig(text_button, fill=hover_text_color)  # Đổi màu chữ khi di chuột vào
-        canvas.config(cursor="hand2")  # Đổi con trỏ chuột
-
-    # Trở lại màu sắc gốc khi rời khỏi nút
-    def on_leave(event):
-        canvas.itemconfig(button, fill=original_color)  # Đổi lại màu gốc khi di chuột ra
-        canvas.itemconfig(text_button, fill=original_text_color)  # Đổi lại màu chữ gốc khi di chuột ra
-        canvas.config(cursor="")  # Trở về con trỏ chuột mặc định
-
-    # Gán sự kiện cho nút
-    canvas.tag_bind(button, "<Enter>", on_enter)
-    canvas.tag_bind(button, "<Leave>", on_leave)
-    canvas.tag_bind(text_button, "<Enter>", on_enter)
-    canvas.tag_bind(text_button, "<Leave>", on_leave)
 
 def on_button_click():
     url = "https://vnexpress.net/tag/the-gioi-dong-vat-837998" 
@@ -123,9 +88,7 @@ def HomePage(root):
         radius=15,  
         text="Exploring",  
         command=on_button_click  
-    )  
-
-    animate_button(canvas, button, text_button)  # Thêm hiệu ứng hover cho nút
+    ) 
     
     # Đặt khung nội dung bên phải khung hình ảnh
     frame_content.pack(side="left", padx=10)  # Đặt khung nội dung bên trái với khoảng cách
