@@ -1,24 +1,39 @@
 import csv
 import os
 import tkinter as tk
-from tkinter import font, messagebox 
+from tkinter import font, messagebox, ttk
 from features import Table
 from button_radius import create_rounded_button
 
+def get_unique_values(file_path, column_name):
+    """Hàm để lấy các giá trị duy nhất từ một cột trong file CSV."""
+    values = set()
+    try:
+        with open(file_path, 'r') as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                values.add(row[column_name].strip())
+    except Exception as e:
+        print(f"Không thể đọc dữ liệu từ file CSV: {e}")
+    return sorted(values)  # Sắp xếp giá trị duy nhất để dễ nhìn
 
 def Submit(entries):
     # Đường dẫn đến file CSV
     file_path = r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv"
     file_exists = os.path.isfile(file_path)
-    
-    # Xác định ID mới dựa trên số lượng hàng trong file CSV
+
+    # Tìm ID lớn nhất trong file CSV
     next_id = 1
     if file_exists:
-        with open(file_path, 'r') as file:
-            reader = csv.reader(file)
-            next_id = sum(1 for row in reader)  # Số lượng hàng hiện có sẽ là ID kế tiếp
+        try:
+            with open(file_path, 'r') as file:
+                reader = csv.reader(file)
+                ids = [int(row[0]) for row in reader if row and row[0].isdigit()]  # Kiểm tra xem cột ID có phải là số
+                next_id = max(ids) + 1 if ids else 1  # Tìm ID lớn nhất và cộng thêm 1
+        except Exception as e:
+            print(f"Không thể đọc dữ liệu từ file CSV: {e}")
 
-    # Thu thập dữ liệu từ các `Entry` (bỏ qua ID)
+    # Thu thập dữ liệu từ các `Entry` và `Combobox` (bỏ qua ID)
     data = []
     for i, entry in enumerate(entries):
         value = entry.get().strip()
@@ -64,7 +79,7 @@ def Submit(entries):
 
     try:
         # Ghi dữ liệu vào file CSV bao gồm cả ID
-        with open(file_path, mode='a', newline='') as file:
+        with open(file_path, mode="a", newline="") as file:
             writer = csv.writer(file)
             
             # Chỉ viết tiêu đề nếu file mới
@@ -73,9 +88,13 @@ def Submit(entries):
 
             writer.writerow(data_with_id)  # Ghi dữ liệu với ID vào file CSV
 
-        # Xóa các mục sau khi gửi
+        # Xóa dữ liệu trong các trường Entry và đặt Combobox về trạng thái mặc định
         for entry in entries:
-            entry.delete(0, tk.END)
+            entry_type = type(entry)
+            if entry_type == tk.Entry:
+                entry.delete(0, tk.END)
+            elif entry_type == ttk.Combobox:
+                entry.set("")  # Đặt về trạng thái rỗng
 
         # Thêm dữ liệu vào Treeview
         Table().insert("", "0", values=data_with_id)  # Thêm dữ liệu mới vào Treeview
@@ -84,7 +103,7 @@ def Submit(entries):
         messagebox.showinfo("Success", "✅ Submit Successfully!")
         
     except Exception as e:
-        messagebox.showwarning("Warning", f"Submission failed: {str(e)}")
+        messagebox.showwarning("Warning", f"Submitted successfully. But please open the Feature window for better observation!")
 
 def back_to_home():
     managementPage.destroy()
@@ -110,15 +129,25 @@ def ManagementPage(root):
     frame_add = tk.Frame(managementPage, width=800, height=250, bg="#FFF")
     frame_add.pack(pady=10) 
     
+    # Đường dẫn đến file CSV
+    file_path = r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv"
+
+    # Lấy các giá trị duy nhất cho các combobox
+    diet_options = get_unique_values(file_path, "Diet")
+    habitat_options = get_unique_values(file_path, "Habitat")
+    conservation_options = get_unique_values(file_path, "Conservation Status")
+
     # Các trường nhập liệu
-    fields = [("Animal", ""), 
-              ("Weight (kg)", ""), 
-              ("Lifespan (years)", ""), 
-              ("Diet", ""), 
-              ("Habitat", ""), 
-              ("Conservation Status", "")]
+    fields = [
+        ("Animal", "entry"), 
+        ("Weight (kg)", "entry"), 
+        ("Lifespan (years)", "entry"), 
+        ("Diet", "combobox", diet_options), 
+        ("Habitat", "combobox", habitat_options), 
+        ("Conservation Status", "combobox", conservation_options)
+    ]
     
-    entries = []  # Danh sách để lưu trữ các entry
+    entries = []  # Danh sách để lưu trữ các entry và combobox
     for field in fields:
         # Tạo frame chứa label và entry với chiều cao cố định
         frame_entry = tk.Frame(frame_add, bg="white", height=40)
@@ -127,10 +156,13 @@ def ManagementPage(root):
         label = tk.Label(frame_entry, text=field[0] + ":", bg="white", font=label_font, width=20)
         label.pack(side=tk.LEFT)
 
-        entry = tk.Entry(frame_entry, font=button_font, width=30)  # Đặt width cho entry
-        entry.pack(side=tk.LEFT, padx=(10, 0))
+        if field[1] == "entry":
+            entry = tk.Entry(frame_entry, font=button_font, width=30)  # Đặt width cho entry
+        elif field[1] == "combobox":
+            entry = ttk.Combobox(frame_entry, values=field[2], font=button_font, width=28, state="readonly")
         
-        entries.append(entry)  # Thêm entry vào danh sách
+        entry.pack(side=tk.LEFT, padx=(10, 0))
+        entries.append(entry)  # Thêm entry hoặc combobox vào danh sách
 
     # Thêm nút Add
     canvas_add = tk.Canvas(frame_add, width=100, height=50, bg="#FFF", highlightthickness=0)
