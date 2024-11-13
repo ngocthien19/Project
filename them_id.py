@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Đọc file CSV hiện có
-file_path = r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv"
+file_path = r"C:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv"
 data = pd.read_csv(file_path)
 
 # Thêm cột ID với giá trị từ 1 đến số hàng trong DataFrame

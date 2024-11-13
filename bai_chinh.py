@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-data = pd.read_csv(r"D:\VScode\Python\Project\database\Animal dataset.csv")
+data = pd.read_csv(r"C:\VScode\Python\Project\database\Animal Dataset.csv")
 selected_columns = ['Animal', 'Weight (kg)', 'Lifespan (years)', 'Diet', 'Habitat', 'Conservation Status']
 selected_data = data[selected_columns]
 # 1. loại bỏ các hàng có giá trị trống
@@ -47,7 +47,7 @@ selected_data['Lifespan (years)'] = selected_data['Lifespan (years)'].apply(clea
 #Loại bỏ các hàng trùng lặp (nếu có)
 selected_data = selected_data.drop_duplicates()
 # Lưu dataframe mới vào tệp CSV đã làm sạch
-output_path = './Cleaned_Animal_Dataset.csv'
+output_path = 'C:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv'
 directory = os.path.dirname(output_path)
 # Tạo thư mục nếu nó không tồn tại
 if not os.path.exists(directory):
