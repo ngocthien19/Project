@@ -38,8 +38,8 @@ def populate_table(table, filter_value="", sort_by_weight=False, page=None):
     start_row = (current_page - 1) * rows_per_page
     end_row = min(start_row + rows_per_page, len(data))
 
-    # Lấy dữ liệu cho trang hiện tại
-    page_data = data.iloc[start_row:end_row]
+    # Nếu tìm kiếm, hiển thị toàn bộ kết quả, nếu không, chỉ hiển thị theo trang
+    page_data = data if filter_value else data.iloc[start_row:end_row]
 
     # Sắp xếp dữ liệu của trang hiện tại nếu có yêu cầu
     if sort_by_weight:
@@ -52,8 +52,12 @@ def populate_table(table, filter_value="", sort_by_weight=False, page=None):
     for index, row in page_data.iterrows():
         table.insert("", "end", values=(row["ID"], row["Animal"], row["Weight (kg)"], row["Lifespan (years)"], row["Diet"], row["Habitat"], row["Conservation Status"]))
 
-    # Cập nhật trạng thái nút phân trang
-    update_pagination_buttons()
+    # Nếu có thanh cuộn, cập nhật lại chế độ hiển thị của nó
+    table.yview_moveto(0)  # Đặt lại vị trí thanh cuộn về đầu mỗi khi tìm kiếm
+    
+    # Cập nhật trạng thái nút phân trang chỉ khi không có tìm kiếm
+    if not filter_value:
+        update_pagination_buttons()
 
 def update_pagination_buttons():
     # Xóa các nút cũ nếu có
