@@ -168,9 +168,9 @@ def FeaturesPage(root):
     title_label = tk.Label(featuresPage, text="ANIMAL LIST", bg="#FFF", fg="#2980b9", font=header_font)
     title_label.pack(pady=(5, 20)) 
 
-    # Tạo khung cho bảng và thanh cuộn với grid layout
-    frame = tk.Frame(featuresPage, width=1250, height=300)  # Chiều rộng cố định là 1150 và chiều cao cố định là 300
-    frame.grid_propagate(False)  # Ngăn khung tự động điều chỉnh theo nội dung
+    # Tạo khung cho bảng với grid layout
+    frame = tk.Frame(featuresPage, width=1250, height=300)
+    frame.grid_propagate(False)
     frame.pack(pady=(5, 20), padx=20)
 
     # Cho phép frame hiển thị theo chiều rộng cố định
@@ -185,7 +185,7 @@ def FeaturesPage(root):
     global pagination_frame
     pagination_frame = tk.Frame(featuresPage, bg="#FFF")
     pagination_frame.pack(pady=5, anchor="center")
-    
+
     # Khung cho ô tìm kiếm và nút search
     search_frame = tk.Frame(featuresPage, bg="#FFF")
     search_frame.pack(pady=(5, 20), padx=20, anchor="center")    
@@ -222,16 +222,11 @@ def FeaturesPage(root):
         table.column(column, width=width)
         table.heading(column, text=column, anchor="center")
 
-    # Tạo thanh cuộn
-    scrollbar = ttk.Scrollbar(frame, orient="vertical", command=table.yview)
-    table.configure(yscroll=scrollbar.set)
-
     # Điền dữ liệu vào bảng
     populate_table(table)
 
-    # Đặt bảng và thanh cuộn vào khung
+    # Đặt bảng vào khung
     table.grid(row=0, column=0, sticky="nsew")  # Đặt trong grid và cho phép co giãn
-    scrollbar.grid(row=0, column=1, sticky="ns")  # Thanh cuộn thẳng hàng với Treeview
 
     # Tạo nút CRUD
     button_canvas = tk.Canvas(featuresPage, bg="#FFF", highlightthickness=0, width=540, height=60)
