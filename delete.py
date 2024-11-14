@@ -46,11 +46,13 @@ def Delete(table):
         if not row.empty:
             selected_rows.append(row.index[0])
 
-    # Xóa các hàng đã chọn từ DataFrame
-    data.drop(selected_rows, inplace=True)
-
-    # Lưu dữ liệu đã cập nhật lại vào file CSV
-    data.to_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv", index=False)
+    # xóa các hàng đã chọn từ DataFrame và lưu lại vào CSV
+    try:
+        data.drop(selected_rows, inplace=True)
+        data.to_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv", index=False)
+    except Exception as e:
+        messagebox.showerror("Deletion Failed", f"Delete failed: {str(e)}")
+        return
 
     # Xóa các hàng đã chọn khỏi Treeview sau khi hoàn tất việc cập nhật
     for item in selected_items:
