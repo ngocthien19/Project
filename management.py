@@ -121,7 +121,7 @@ def ManagementPage(root):
     label_font = font.Font(family="Arial", size=14, weight="normal")
     button_font = font.Font(family="Arial", size=14, weight="normal")
 
-    # Tiêu đề của management page
+    # Tiêu đề của management page   
     title_label = tk.Label(managementPage, text="ANIMAL MANAGEMENT", bg="#ECF0F1", fg="#2980b9", font=header_font)
     title_label.pack(pady=(5, 30)) 
 
@@ -180,7 +180,6 @@ def ManagementPage(root):
         command=lambda: Submit(entries)
     )
 
-
     # Tạo canvas và nút "Back Home" 
     canvas_back = tk.Canvas(managementPage, width=150, height=70, bg="white", highlightthickness=0)
     canvas_back.pack(pady=(30, 10))  # Căn chỉnh nút ở giữa
@@ -200,5 +199,6 @@ def ManagementPage(root):
         hover_bg_color="#e74c3c", 
         hover_text_color="black"
     )
+
     # Sự kiện enter để Submit
     managementPage.bind('<Return>', lambda event: Submit(entries))
