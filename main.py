@@ -3,7 +3,7 @@ from tkinter import font
 from home import HomePage
 from management import ManagementPage
 from features import FeaturesPage
-# from chart import ChartPage
+from chart import ChartPage
 
 # Thiết lập các biến cho layout
 window_width = 1200
@@ -36,7 +36,7 @@ def show_frame(frame_name, button_canvas=None):
     # Xóa tam giác active cũ nếu có
     if active_triangle and active_button_canvas:
         active_button_canvas.delete(active_triangle)
-
+    
     # Tạo tam giác mới cho nút đang active
     if button_canvas:
         active_triangle = button_canvas.create_polygon(
@@ -52,8 +52,8 @@ def show_frame(frame_name, button_canvas=None):
         ManagementPage(frames["Management"])        
     elif frame_name == "Feature":
         FeaturesPage(frames["Feature"])
-    # elif frame_name == "Chart":
-    #     ChartPage(frames["Chart"])
+    elif frame_name == "Chart":
+        ChartPage(frames["Chart"])
 
 # Hàm tạo nút bo góc
 def create_rounded_button(canvas, x, y, width, height, radius, text="", command=None):
