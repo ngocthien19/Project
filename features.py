@@ -1,7 +1,6 @@
 import tkinter as tk
 import pandas as pd
-from tkinter import font
-from tkinter import ttk
+from tkinter import font, ttk
 from view import View
 from update import Update
 from delete import Delete
@@ -15,7 +14,7 @@ total_pages = 1  # Tổng số trang (sẽ được cập nhật dựa trên d�
 def populate_table(table, filter_value="", sort_by_weight=False, page=None):
     global current_page, total_pages
     
-    # Đọc dữ liệu từ file CSV
+    # Đọc dữ liệu từ file CSV   
     try:
         data = pd.read_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
     except FileNotFoundError:
@@ -51,9 +50,6 @@ def populate_table(table, filter_value="", sort_by_weight=False, page=None):
     # Điền dữ liệu cho trang hiện tại
     for index, row in page_data.iterrows():
         table.insert("", "end", values=(row["ID"], row["Animal"], row["Weight (kg)"], row["Lifespan (years)"], row["Diet"], row["Habitat"], row["Conservation Status"]))
-
-    # Nếu có thanh cuộn, cập nhật lại chế độ hiển thị của nó
-    table.yview_moveto(0)  # Đặt lại vị trí thanh cuộn về đầu mỗi khi tìm kiếm
     
     # Cập nhật trạng thái nút phân trang chỉ khi không có tìm kiếm
     if not filter_value:
@@ -97,9 +93,9 @@ def update_pagination_buttons():
     x_offset = 100  # Khoảng cách bắt đầu từ bên phải nút "Previous"
     for page in display_pages:
         if page == "...":
-            # Điều chỉnh để dấu "..." không tạo khoảng cách lớn giữa các nút
+            # Điều chỉnh để dấu "..." không tạo khoảng giữa các nút
             pagination_canvas.create_text(x_offset, 25, text=page, fill="#3498db", font=("Arial", 12, "bold"))
-            x_offset += 40  # Giảm khoảng cách cho "..." để sát vào giữa các nút
+            x_offset += 40  # khoảng cách cho "..." để sát vào giữa các nút
         else:
             create_rounded_button(
                 pagination_canvas,
@@ -141,7 +137,7 @@ def change_page(direction):
 
 def search_animals(event, entry, table):
     filter_value = entry.get()  # Lấy giá trị từ ô Entry
-    populate_table(table, filter_value)  # Cập nhật bảng với giá trị tìm kiếm
+    populate_table(table, filter_value=filter_value)  # Cập nhật bảng với giá trị tìm kiếm và giữ nguyên trang hiện tại
 
     # Tự động chọn giá trị đầu tiên trong bảng nếu có
     if table.get_children():
@@ -183,20 +179,21 @@ def FeaturesPage(root):
     
     # Tạo Treeview với số hàng cố định
     global table
-    table = ttk.Treeview(frame, columns=("ID", "Animal", "Weight", "Lifespan", "Diet", "Habitat", "Conservation Status"), show="headings", height=10)
+    table = ttk.Treeview(frame, columns=("ID", "Animal", "Weight", "Lifespan", "Diet", "Habitat", "Conservation Status"), 
+                         show="headings", height=10)
 
     # Thêm frame phân trang vào giao diện
     global pagination_frame
     pagination_frame = tk.Frame(featuresPage, bg="#FFF")
-    pagination_frame.pack(pady=5, anchor="center")
+    pagination_frame.pack(pady=5, anchor="center")  
 
     # Khung cho ô tìm kiếm và nút search
     search_frame = tk.Frame(featuresPage, bg="#FFF")
     search_frame.pack(pady=(5, 20), padx=20, anchor="center")    
 
-    # Sử dụng grid để đặt label, entry và button nằm trên cùng một dòng
+    # Sử dụng pack để đặt label, entry
     search_label = tk.Label(search_frame, text="Search Animal:", bg="#FFF", fg="#2980b9", font=heading_font)
-    search_label.pack(side="left")  # Align to the west (left)
+    search_label.pack(side="left") 
 
     # Ô Entry cho tìm kiếm
     search_entry = tk.Entry(search_frame, width=30, font=heading_font)
@@ -271,4 +268,4 @@ def FeaturesPage(root):
         text_color="#e74c3c", 
         hover_bg_color="#e74c3c", 
         hover_text_color="black"
-    )
+    )   
