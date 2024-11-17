@@ -53,4 +53,4 @@ def View(table):
         item_values = table.item(selected_item)['values']  # Lấy giá trị của hàng đã chọn
         show_item_details(item_values)  # Hiện modal với thông tin chi tiết
     else:
-        messagebox.showwarning("Warning", "Vui lòng chọn một mục từ danh sách.")
+        messagebox.showwarning("Warning", "Please select an item from the list.")
