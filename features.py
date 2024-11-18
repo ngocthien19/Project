@@ -1,9 +1,9 @@
 import tkinter as tk
 import pandas as pd
 from tkinter import font, ttk
-from view import View
-from update import Update
-from delete import Delete
+from chuc_nang.view import View
+from chuc_nang.update import Update
+from chuc_nang.delete import Delete
 from button_radius import create_rounded_button
 
 # Thêm các biến phân trang
