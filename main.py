@@ -99,6 +99,7 @@ def animate_color_and_label(target, start_color, end_color, step=0):
 window = tk.Tk()
 window.title('Animals')
 window.geometry(f"{window_width}x{window_height}")
+window.resizable(False, False)
 window.configure(bg="white")
 
 # Các font chữ
