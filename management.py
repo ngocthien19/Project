@@ -114,7 +114,6 @@ def ManagementPage(root):
     managementPage = tk.Toplevel()
     managementPage.title("Animal Management")
     managementPage.geometry("900x500")
-    managementPage.resizable(False, False)
     managementPage.configure(bg='#ECF0F1')  
 
     # Fonts
