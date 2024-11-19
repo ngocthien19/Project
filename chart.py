@@ -10,8 +10,7 @@ def ChartPage(root):
     global chartPage
     chartPage = tk.Toplevel(root)
     chartPage.title("Chart")
-    chartPage.geometry("650x650")  
-    chartPage.resizable(False, False)
+    chartPage.geometry("650x650") 
     chartPage.config(bg="#FFF")
 
     # Đặt tiêu đề chính
