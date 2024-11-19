@@ -10,8 +10,6 @@ from button_radius import create_rounded_button
 rows_per_page = 10  # Số dòng hiển thị trên mỗi trang
 current_page = 1  # Trang hiện tại
 total_pages = 1  # Tổng số trang (sẽ được cập nhật dựa trên dữ liệu)
-
-# Thêm khai báo biến toàn cục
 sort_ascending = True  # Mặc định sắp xếp tăng dần
 
 def populate_table(table, filter_value="", sort_by_weight=False, page=None):
