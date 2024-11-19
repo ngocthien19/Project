@@ -7,7 +7,6 @@ def show_item_details(item_data):
     modal = tk.Toplevel()
     modal.title("Animal Info")
     modal.geometry("600x400")
-    modal.resizable(False, False)
     modal.config(bg="#FFF")
 
     # Tiêu đề của modal
