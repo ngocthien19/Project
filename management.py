@@ -57,23 +57,6 @@ def Submit(entries):
 
         data.append(value)
 
-    # Kiểm tra trùng lặp trước khi thêm vào file CSV
-    if file_exists:
-        with open(file_path, 'r') as file:
-            reader = csv.reader(file)
-            rows = list(reader)  # Đọc toàn bộ file vào một danh sách
-            
-            # Chuẩn hóa dữ liệu đầu vào để so sánh chính xác hơn
-            normalized_data = [str(value).strip().lower() for value in data]
-            
-            for row in rows[1:]:  # Bỏ qua dòng tiêu đề
-                # Chuẩn hóa hàng dữ liệu từ CSV
-                normalized_row = [str(cell).strip().lower() for cell in row[1:]]  # Bỏ qua ID
-                
-                if normalized_row == normalized_data:
-                    messagebox.showwarning("Warning", "⚠️ Entry already exists. Please enter different information.")
-                    return
-
     # Thêm ID vào đầu danh sách dữ liệu trước khi ghi vào CSV
     data_with_id = [next_id] + data
 
