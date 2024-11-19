@@ -1,6 +1,6 @@
 import tkinter as tk
 import pandas as pd
-from tkinter import font, ttk
+from tkinter import font, ttk, messagebox
 from chuc_nang.view import View
 from chuc_nang.update import Update
 from chuc_nang.delete import Delete
@@ -19,7 +19,7 @@ def populate_table(table, filter_value="", sort_by_weight=False, page=None):
     try:
         data = pd.read_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
     except FileNotFoundError:
-        print("File không tồn tại. Vui lòng kiểm tra đường dẫn.")
+        messagebox.showwarning("Exist File", "File not found")
         return
 
     # Áp dụng lọc nếu có
