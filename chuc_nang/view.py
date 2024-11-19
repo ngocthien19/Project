@@ -27,7 +27,7 @@ def show_item_details(item_data):
 
         entry_widget = tk.Entry(frame, width=30, font=("Arial", 14, "normal"))
         entry_widget.pack(side=tk.LEFT)
-        entry_widget.insert(1, item_data[i + 1])  # Điền dữ liệu vào entry
+        entry_widget.insert(0, item_data[i + 1])  # Điền dữ liệu vào entry
         entry_widget.config(state=tk.DISABLED)  # Vô hiệu hóa entry để không cho phép chỉnh sửa
         entries.append(entry_widget)
 
