@@ -8,7 +8,6 @@ def show_update_item_details(item_data, table):
     modal = tk.Toplevel()
     modal.title("Update Animal Info")
     modal.geometry("600x400")
-    modal.resizable(False, False)
     modal.config(bg="#FFF")
 
     # Tiêu đề của modal
