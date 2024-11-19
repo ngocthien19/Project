@@ -48,20 +48,34 @@ def show_update_item_details(item_data, table):
             messagebox.showerror("Error", "Weight and Lifespan must be numbers.")
             return
 
-        # Cập nhật dữ liệu trong CSV
+        # Đọc dữ liệu từ tệp CSV
         try:
             data = pd.read_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
-
-            # Lấy chỉ số của dòng trong Treeview để cập nhật DataFrame
-            row_index = int(table.index(selected_item[0]))
 
             # Lấy `ID` của hàng đang cập nhật
             current_id = item_data[0]  # Giữ ID từ dữ liệu đã chọn
 
-            # Cập nhật dữ liệu cho hàng tương ứng trong DataFrame
+            # Chuẩn bị bộ lọc để kiểm tra trùng lặp toàn bộ thông tin (ngoại trừ ID)
+            duplicate = data[
+                (data["ID"] != current_id) &  # Loại bỏ hàng hiện tại
+                (data["Animal"] == updated_data[0]) &
+                (data["Weight (kg)"] == updated_data[1]) &
+                (data["Lifespan (years)"] == updated_data[2]) &
+                (data["Diet"] == updated_data[3]) &
+                (data["Habitat"] == updated_data[4]) &
+                (data["Conservation Status"] == updated_data[5])
+            ]
+
+            # Nếu tìm thấy hàng trùng lặp, hiển thị cảnh báo và dừng cập nhật
+            if not duplicate.empty:
+                messagebox.showwarning("Warning", "An item with the same information already exists.")
+                return
+
+            # Cập nhật dữ liệu trong DataFrame
+            row_index = data.index[data["ID"] == current_id].tolist()[0]  # Tìm chỉ số của hàng theo ID
             data.iloc[row_index, 1:] = updated_data  # Cập nhật tất cả các cột trừ ID
 
-            # Ghi lại DataFrame vào file CSV
+            # Ghi lại DataFrame vào tệp CSV
             data.to_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv", index=False)
 
             # Thêm ID vào đầu danh sách `updated_data` để hiển thị đầy đủ trong Treeview
