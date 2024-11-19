@@ -27,7 +27,7 @@ def Delete(table):
     for item in selected_items:
         # Kiểm tra xem mục có tồn tại trong Treeview
         if not table.exists(item):
-            print(f"Mục {item} không tồn tại trong Treeview.")
+            messagebox.showwarning("Item exist", f"Mục {item} không tồn tại trong Treeview.")
             continue
         
         # Lấy giá trị ID từ cột đầu tiên
@@ -35,7 +35,7 @@ def Delete(table):
         try:
             selected_ids.append(int(values[0]))  # Giả định ID nằm ở cột đầu tiên và là số nguyên
         except ValueError:
-            print(f"Không thể chuyển đổi giá trị ID {values[0]} thành số nguyên.")
+            messagebox.showwarning("Change ID", f"Không thể chuyển đổi giá trị ID {values[0]} thành số nguyên.")
 
     # Xóa các hàng dựa vào ID trong DataFrame
     try:
