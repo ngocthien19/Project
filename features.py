@@ -11,6 +11,9 @@ rows_per_page = 10  # Số dòng hiển thị trên mỗi trang
 current_page = 1  # Trang hiện tại
 total_pages = 1  # Tổng số trang (sẽ được cập nhật dựa trên dữ liệu)
 
+# Thêm khai báo biến toàn cục
+sort_ascending = True  # Mặc định sắp xếp tăng dần
+
 def populate_table(table, filter_value="", sort_by_weight=False, page=None):
     global current_page, total_pages
     
@@ -42,7 +45,7 @@ def populate_table(table, filter_value="", sort_by_weight=False, page=None):
 
     # Sắp xếp dữ liệu của trang hiện tại nếu có yêu cầu
     if sort_by_weight:
-        page_data = page_data.sort_values(by="Weight (kg)", ascending=True)
+        page_data = page_data.sort_values(by="Weight (kg)", ascending=sort_ascending)
 
     # Xóa dữ liệu cũ trong bảng
     table.delete(*table.get_children())
@@ -144,8 +147,10 @@ def search_animals(event, entry, table):
         table.selection_set(table.get_children()[0])  # Chọn giá trị đầu tiên
 
 def sort_by_weight(table):
+    global sort_ascending
     # Gọi hàm populate_table với sắp xếp theo cân nặng tăng dần
     populate_table(table, sort_by_weight=True, page=current_page)
+    sort_ascending = not sort_ascending
 
 def Table():
     return table
