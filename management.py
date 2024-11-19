@@ -14,7 +14,7 @@ def get_unique_values(file_path, column_name):
             for row in reader:
                 values.add(row[column_name].strip())
     except Exception as e:
-        print(f"Không thể đọc dữ liệu từ file CSV: {e}")
+        messagebox.showwarning("Exist File", "File not found")
     return sorted(values)  # Sắp xếp giá trị duy nhất để dễ nhìn
 
 def Submit(entries):
@@ -31,7 +31,7 @@ def Submit(entries):
                 ids = [int(row[0]) for row in reader if row and row[0].isdigit()]  # Kiểm tra xem cột ID có phải là số
                 next_id = max(ids) + 1 if ids else 1  # Tìm ID lớn nhất và cộng thêm 1
         except Exception as e:
-            print(f"Không thể đọc dữ liệu từ file CSV: {e}")
+            messagebox.showwarning("Exist File", "File not found")
 
     # Thu thập dữ liệu từ các `Entry` và `Combobox` (bỏ qua ID)
     data = []
