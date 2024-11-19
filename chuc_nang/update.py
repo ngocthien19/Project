@@ -28,7 +28,7 @@ def show_update_item_details(item_data, table):
 
         entry_widget = tk.Entry(frame, width=30, font=("Arial", 14, "normal"))
         entry_widget.pack(side=tk.LEFT)
-        entry_widget.insert(1, item_data[i + 1])  # Điền dữ liệu vào entry, bỏ qua ID
+        entry_widget.insert(0, item_data[i + 1])  # Điền dữ liệu vào entry, bỏ qua ID
         
         # Disable các trường ngoài Weight và Lifespan
         if i != 1 and i != 2:  # Chỉ cho phép chỉnh sửa Weight và Lifespan
