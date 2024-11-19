@@ -161,7 +161,6 @@ def FeaturesPage(root):
     featuresPage = tk.Toplevel()  
     featuresPage.title("Features")
     featuresPage.geometry("1300x700")
-    featuresPage.resizable(False, False)
     featuresPage.config(bg="#FFF")
 
     # Fonts
