@@ -1,4 +1,5 @@
 from tkinter import *
+from tkinter import messagebox
 from PIL import ImageTk, Image
 import main
 
@@ -88,11 +89,17 @@ error_label.place(x=550, y=300)
 def attempt_login():
     username = username_entry.get()
     password = password_entry.get()
+
+    if username == "" or password == "":
+        messagebox.showerror("Error", "Please enter both username and password!")
+        return  # Không thực hiện đăng nhập nếu chưa điền đầy đủ thông tin
+
     if username == "admin" and password == "123456":  # Tài khoản mặc định
+        messagebox.showinfo("Success", "Login successful!")
         window.destroy()  # Đóng cửa sổ đăng nhập
         main.run_main()  # Chạy trang chính
     else:
-        error_label.config(text="Invalid username or password")  # Hiển thị lỗi nếu sai thông tin
+        messagebox.showerror("Error", "Invalid username or password!")
         password_entry.delete(0, END)
 
 # Gắn sự kiện Enter để thực hiện hàm attempt_login
