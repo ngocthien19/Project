@@ -110,6 +110,9 @@ def show_update_item_details(item_data, table):
         bg_color="#e74c3c", text_color="#FFF", hover_bg_color="#c0392b", hover_text_color="#CCC"
     )
 
+    # Gắn sự kiện Enter để thực hiện cập nhật
+    modal.bind('<Return>', lambda event: update_item())
+
 def Update(table):
     # Lấy mục được chọn từ Treeview
     global selected_item
