@@ -8,7 +8,7 @@ window.geometry('1100x700')  # Đặt kích thước cố định cho cửa sổ
 window.resizable(False, False)  
 window.title('Login Page')
 
-# background image
+# background image  
 bg_frame = Image.open('D:/VScode/Python/Project/images/background1.png')
 photo = ImageTk.PhotoImage(bg_frame)
 bg_panel = Label(window, image=photo)
@@ -47,9 +47,9 @@ sign_in_label.place(x=650, y=240)
 # username
 username_label = Label(lgn_frame, text="Username", bg="#040405", fg="#4f4e4d",
                     font=("yu gothic ui", 13, "bold"))
-username_label.place(x=550, y=300)
+username_label.place(x=552, y=300)
 
-username_entry = Entry(lgn_frame, highlightthickness=0, relief=FLAT, bg="#040405", fg="#6b6a69",
+username_entry = Entry(lgn_frame, highlightthickness=0, relief=FLAT, bg="#040405", fg="#FFF",
                 font=("yu gothic ui", 12, "bold"), insertbackground='#6b6a69')
 username_entry.place(x=580, y=335, width=270)
 
@@ -67,7 +67,7 @@ password_label = Label(lgn_frame, text="Password", bg="#040405", fg="#4f4e4d",
                     font=("yu gothic ui", 13, "bold"))
 password_label.place(x=550, y=380)
 
-password_entry = Entry(lgn_frame, highlightthickness=0, relief=FLAT, bg="#040405", fg="#6b6a69",
+password_entry = Entry(lgn_frame, highlightthickness=0, relief=FLAT, bg="#040405", fg="#FFF",
                     font=("yu gothic ui", 12, "bold"), show="*", insertbackground='#6b6a69')
 password_entry.place(x=580, y=416, width=244)
 
@@ -84,7 +84,7 @@ password_icon_label.place(x=550, y=414)
 error_label = Label(lgn_frame, text="", bg="#040405", fg="red", font=("yu gothic ui", 11, "bold"))
 error_label.place(x=550, y=300)
 
-    # Hàm kiểm tra đăng nhập
+# Hàm kiểm tra đăng nhập
 def attempt_login():
     username = username_entry.get()
     password = password_entry.get()
@@ -93,8 +93,12 @@ def attempt_login():
         main.run_main()  # Chạy trang chính
     else:
         error_label.config(text="Invalid username or password")  # Hiển thị lỗi nếu sai thông tin
+        password_entry.delete(0, END)
 
-    # show hide password
+# Gắn sự kiện Enter để thực hiện hàm attempt_login
+window.bind('<Return>', lambda event: attempt_login())
+
+# show hide password
 def show_password():
     show_button.config(image=hide_image)
     password_entry.config(show='')
