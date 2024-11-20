@@ -81,10 +81,6 @@ password_icon_label = Label(lgn_frame, image=password_icon_photo, bg='#040405')
 password_icon_label.image = password_icon_photo
 password_icon_label.place(x=550, y=414)
 
-# Error label
-error_label = Label(lgn_frame, text="", bg="#040405", fg="red", font=("yu gothic ui", 11, "bold"))
-error_label.place(x=550, y=300)
-
 # Hàm kiểm tra đăng nhập
 def attempt_login():
     username = username_entry.get()
