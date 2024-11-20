@@ -95,94 +95,96 @@ def animate_color_and_label(target, start_color, end_color, step=0):
     if step < 10:
         target.after(7, animate_color_and_label, target, start_color, end_color, step + 1)
 
-# Tạo cửa sổ chính
-window = tk.Tk()
-window.title('Animals')
-window.geometry(f"{window_width}x{window_height}")
-window.configure(bg="white")
+def run_main():
+    # Tạo cửa sổ chính
+    window = tk.Tk()
+    window.title('Animals')
+    window.geometry(f"{window_width}x{window_height}")
+    window.configure(bg="white")
 
-# Các font chữ
-title_font = font.Font(family="Arial", size=14, weight="bold")
-button_font = font.Font(family="Arial", size=12, weight="normal")
-header_font = font.Font(family="Arial", size=18, weight="bold")
+    # Các font chữ
+    title_font = font.Font(family="Arial", size=14, weight="bold")
+    button_font = font.Font(family="Arial", size=12, weight="normal")
+    header_font = font.Font(family="Arial", size=18, weight="bold")
 
-# Khung sidebar
-sidebar = tk.Frame(window, bg="#3498db", width=sidebar_width)
-sidebar.pack(side="left", fill="y")
+    # Khung sidebar
+    sidebar = tk.Frame(window, bg="#3498db", width=sidebar_width)
+    sidebar.pack(side="left", fill="y")
 
-# Tiêu đề của sidebar
-title_label = tk.Label(sidebar, text="ANIMALS", bg="#2980b9", fg="white", font=header_font)
-title_label.pack(pady=(0, 20), ipady=title_padding, ipadx=(70))
+    # Tiêu đề của sidebar
+    title_label = tk.Label(sidebar, text="ANIMALS", bg="#2980b9", fg="white", font=header_font)
+    title_label.pack(pady=(0, 20), ipady=title_padding, ipadx=(70))
 
-# Danh sách các nút bên sidebar
-buttons = [
-    ("Home", "🏠", "#3498db"),
-    ("Management", "🐾", "#3498db"),
-    ("Feature", "🔄", "#3498db"),
-    ("Chart", "📊", "#3498db"),
-]
+    # Danh sách các nút bên sidebar
+    buttons = [
+        ("Home", "🏠", "#3498db"),
+        ("Management", "🐾", "#3498db"),
+        ("Feature", "🔄", "#3498db"),
+        ("Chart", "📊", "#3498db"),
+    ]
 
-# Tạo các trang nội dung
-frames = {}
-for page in ["Home", "Management", "Feature", "Chart"]:
-    frame = tk.Frame(window, bg="white")
-    frame.pack(fill=tk.BOTH, expand=True)
-    frames[page] = frame
+    # Tạo các trang nội dung
+    global frames
+    frames = {}
+    for page in ["Home", "Management", "Feature", "Chart"]:
+        frame = tk.Frame(window, bg="white")
+        frame.pack(fill=tk.BOTH, expand=True)
+        frames[page] = frame
 
-# Tạo trang Home và thêm vào frames
-home_frame = HomePage(frames["Home"])
+    # Tạo trang Home và thêm vào frames
+    home_frame = HomePage(frames["Home"])
 
-# Tạo các nút trên sidebar
-for text, icon, color in buttons:
-    # Canvas cho nút bo góc
-    canvas = tk.Canvas(sidebar, width=canvas_width, height=canvas_height, bg="#3498db", highlightthickness=0)
-    canvas.pack(pady=sidebar_padding)
+    # Tạo các nút trên sidebar
+    for text, icon, color in buttons:
+        # Canvas cho nút bo góc
+        canvas = tk.Canvas(sidebar, width=canvas_width, height=canvas_height, bg="#3498db", highlightthickness=0)
+        canvas.pack(pady=sidebar_padding)
 
-    # Tạo nút bo góc
-    button_id = create_rounded_button(
-        canvas, 
-        x=30, 
-        y=5, 
-        width=button_width, 
-        height=button_height, 
-        radius=button_radius, 
-        text="",
-        command=lambda t=text, c=canvas: show_frame(t, c)  # Truyền tên trang vào show_frame
-    )
-    
-    # Lưu id của nút vào canvas
-    canvas.button_id = button_id
+        # Tạo nút bo góc
+        button_id = create_rounded_button(
+            canvas, 
+            x=30, 
+            y=5, 
+            width=button_width, 
+            height=button_height, 
+            radius=button_radius, 
+            text="",
+            command=lambda t=text, c=canvas: show_frame(t, c)  # Truyền tên trang vào show_frame
+        )
+        
+        # Lưu id của nút vào canvas
+        canvas.button_id = button_id
 
-    # Tạo nhãn chứa biểu tượng và văn bản
-    button_label = tk.Label(canvas, text=f"{icon} {text}", bg="#FFF", fg=color, font=button_font)
-    button_label.place(x=35, y=12)
+        # Tạo nhãn chứa biểu tượng và văn bản
+        button_label = tk.Label(canvas, text=f"{icon} {text}", bg="#FFF", fg=color, font=button_font)
+        button_label.place(x=35, y=12)
 
-    # Sự kiện click vào button_label để kích hoạt trang và hiệu ứng active
-    button_label.bind("<Button-1>", lambda e, t=text, c=canvas: show_frame(t, c))
+        # Sự kiện click vào button_label để kích hoạt trang và hiệu ứng active
+        button_label.bind("<Button-1>", lambda e, t=text, c=canvas: show_frame(t, c))
 
-    # Hiệu ứng hover cho nút
-    def on_enter(e, button_label=button_label, canvas=canvas):
-        animate_color_and_label(canvas, "#ECF0F1", "#2980b9")
-        animate_color_and_label(button_label, "#ECF0F1", "#2980b9")
-        button_label.config(cursor="hand2")
-        canvas.config(cursor="hand2")
-        button_label.place(x=45, y=10)
+        # Hiệu ứng hover cho nút
+        def on_enter(e, button_label=button_label, canvas=canvas):
+            animate_color_and_label(canvas, "#ECF0F1", "#2980b9")
+            animate_color_and_label(button_label, "#ECF0F1", "#2980b9")
+            button_label.config(cursor="hand2")
+            canvas.config(cursor="hand2")
+            button_label.place(x=45, y=10)
 
-    def on_leave(e, button_label=button_label, canvas=canvas):
-        animate_color_and_label(canvas, "#2980b9", "#ECF0F1")
-        animate_color_and_label(button_label, "#2980b9", "#ECF0F1")
-        button_label.config(cursor="")
-        canvas.config(cursor="")
-        button_label.place(x=35, y=10)
+        def on_leave(e, button_label=button_label, canvas=canvas):
+            animate_color_and_label(canvas, "#2980b9", "#ECF0F1")
+            animate_color_and_label(button_label, "#2980b9", "#ECF0F1")
+            button_label.config(cursor="")
+            canvas.config(cursor="")
+            button_label.place(x=35, y=10)
 
-    # Gán sự kiện hover cho nhãn
-    button_label.bind("<Enter>", on_enter)
-    button_label.bind("<Leave>", on_leave)
-    canvas.tag_bind(button_id, "<Enter>", on_enter)
-    canvas.tag_bind(button_id, "<Leave>", on_leave)
+        # Gán sự kiện hover cho nhãn
+        button_label.bind("<Enter>", on_enter)
+        button_label.bind("<Leave>", on_leave)
+        canvas.tag_bind(button_id, "<Enter>", on_enter)
+        canvas.tag_bind(button_id, "<Leave>", on_leave)
 
-# Hiển thị trang đầu tiên (Home)
-show_frame("Home", button_canvas=sidebar.winfo_children()[1])
+    # Hiển thị trang đầu tiên (Home)
+    show_frame("Home", button_canvas=sidebar.winfo_children()[1])
 
-# Chạy ứng dụng
-window.mainloop()
+    # Chạy ứng dụng
+    window.mainloop()
