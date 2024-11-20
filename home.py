@@ -42,7 +42,7 @@ def HomePage(root):
     frame_image = tk.Frame(bg='white')
 
     # Đường dẫn đến hình ảnh
-    image_path = "D:/VScode/Python/Project/image/home.jpg"
+    image_path = "D:/VScode/Python/Project/images/home.jpg"
     size = (400, 400)  # Kích thước hình ảnh
     radius = 50  # Bán kính bo góc
 
