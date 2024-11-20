@@ -33,6 +33,17 @@ def show_frame(frame_name, button_canvas=None):
     frames[frame_name].pack(fill=tk.BOTH, expand=True)
     frames[frame_name].tkraise()  # Đưa khung cần hiển thị lên trên cùng
 
+    # Nếu là các trang khác, tạo và hiển thị
+    if frame_name == "Management":
+        ManagementPage(frames["Management"]) 
+        show_frame("Home", button_canvas=sidebar.winfo_children()[1])    
+    elif frame_name == "Feature":
+        FeaturesPage(frames["Feature"])
+        show_frame("Home", button_canvas=sidebar.winfo_children()[1])    
+    elif frame_name == "Chart":
+        ChartPage(frames["Chart"])
+        show_frame("Home", button_canvas=sidebar.winfo_children()[1])    
+
     # Xóa tam giác active cũ nếu có
     if active_triangle and active_button_canvas:
         active_button_canvas.delete(active_triangle)
@@ -46,14 +57,6 @@ def show_frame(frame_name, button_canvas=None):
             fill="#2980b9", outline=""
         )
         active_button_canvas = button_canvas  # Cập nhật nút active mới
-
-    # Nếu trang là Management, khởi tạo trang Management
-    if frame_name == "Management":
-        ManagementPage(frames["Management"])        
-    elif frame_name == "Feature":
-        FeaturesPage(frames["Feature"])
-    elif frame_name == "Chart":
-        ChartPage(frames["Chart"])
 
 # Hàm tạo nút bo góc
 def create_rounded_button(canvas, x, y, width, height, radius, text="", command=None):
@@ -108,6 +111,7 @@ def run_main():
     header_font = font.Font(family="Arial", size=18, weight="bold")
 
     # Khung sidebar
+    global sidebar
     sidebar = tk.Frame(window, bg="#3498db", width=sidebar_width)
     sidebar.pack(side="left", fill="y")
 
@@ -132,7 +136,7 @@ def run_main():
         frames[page] = frame
 
     # Tạo trang Home và thêm vào frames
-    home_frame = HomePage(frames["Home"])
+    HomePage(frames["Home"])
 
     # Tạo các nút trên sidebar
     for text, icon, color in buttons:
