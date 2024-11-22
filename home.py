@@ -51,7 +51,7 @@ def HomePage(root):
 
     # Đường dẫn hình ảnh góc phải trên cùng
     sign_in_image_path = "D:/VScode/Python/Project/images/admin.png"
-    size = (40, 40)  # Kích thước hình ảnh tròn
+    size = (20, 20)  # Kích thước hình ảnh tròn
 
     # Tạo ảnh tròn
     circle_image = create_rounded_or_circle_image(sign_in_image_path, size)  # Gọi hàm để tạo ảnh tròn
