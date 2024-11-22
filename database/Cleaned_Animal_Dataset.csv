@@ -1,0 +1,1313 @@
+ID,Animal,Weight (kg),Lifespan (years),Diet,Habitat,Conservation Status
+1,Aardvark,52.5,25.0,Insectivore,"Savannas, Grasslands",Least Concern
+2,Aardwolf,11.0,11.0,Insectivore,"Grasslands, Savannas",Least Concern
+3,Chó,34.0,4.0,Herbivore,"Arctic, North America",Extinct
+4,Heo,45.0,13.0,Carnivore,Americas,Critically Endangered
+5,African Wild Dog,27.0,12.0,Carnivore,Savannahs,Endangered
+6,Cheetah,1738.0,72.0,Herbivore,Tropical Rainforest,Critically Endangered
+7,Cheetah,1738.0,73.0,Herbivore,Tropical Rainforest,Critically Endangered
+8,Anteater,31.5,18.5,Insectivore,"Grasslands, Forests",Least Concern
+9,Dhole,16.5,12.8,Carnivore,"Forests, Grasslands",Endangered
+10,Arabian Oryx,78.5,15.0,Herbivore,Desert,Vulnerable
+11,Arctic Fox,5.75,4.5,Omnivore,Tundra,Least Concern
+12,Asian Elephant,3500.0,70.0,Herbivore,"Grasslands, Forests",Endangered
+13,Atlantic Puffin,560.0,22.5,"Carnivore, Piscivore","North Atlantic, Arctic",Vulnerable
+14,Atlantic Spotted Dolphin,130.0,22.5,Carnivore,"Oceans, Coastal Areas",Least Concern
+15,Australian Fur Seal,29.0,15.5,Carnivore,Coastal Waters,Least Concern
+16,Aye-Aye,2.45,21.5,"Omnivore, Insectivore",Rainforests,Endangered
+17,Baird's Tapir,275.0,27.5,Herbivore,"Rainforests, Grasslands",Endangered
+18,Bald Eagle,4.5,25.0,Carnivore,"Forests, Lakes, Coasts",Least Concern
+19,Banded Palm Civet,3.5,8.5,Omnivore,Forests,Least Concern
+20,Basking Shark,550.0,22.5,Carnivore,Oceans,Vulnerable
+21,Bengal Fox,3.25,7.0,Omnivore,Grasslands,Least Concern
+22,Bengal Tiger,240.0,12.5,Carnivore,"Grasslands, Mangroves",Endangered
+23,Black Rhinoceros,1100.0,42.5,Herbivore,"Grasslands, Forests",Critically Endangered
+24,Blue Jay,0.095,10.5,Omnivore,"Forests, Urban Areas",Least Concern
+25,Blue-Footed Booby,2.25,14.5,Piscivore,Coastal Areas,Least Concern
+26,Bonobo,35.0,50.0,Omnivore,Rainforests,Endangered
+27,Bornean Orangutan,56.0,40.0,Omnivore,Rainforests,Critically Endangered
+28,Bottlenose Dolphin,400.0,35.0,Carnivore,Oceans,Least Concern
+29,Boxer Dog,28.5,11.0,Omnivore,Human Dwellings,Not Applicable
+30,Brown Bear,425.0,25.0,Omnivore,"Forests, Mountains",Least Concern
+31,Capybara,50.5,9.0,Herbivore,"Grasslands, Swamps",Least Concern
+32,Cheetah,46.0,11.0,Carnivore,"Grasslands, Savannas",Vulnerable
+33,Chimpanzee,48.0,45.0,Omnivore,"Rainforests, Grasslands",Endangered
+34,Clownfish,175.0,8.0,Omnivore,Coral Reefs,Not Evaluated
+35,Common Dolphin,117.5,22.5,Carnivore,"Oceans, Coastal Areas",Least Concern
+36,Common Snapping Turtle,10.25,40.0,Omnivore,Freshwater,Least Concern
+37,Coquerel's Sifaka,4.5,16.5,Herbivore,"Rainforests, Madagascar",Endangered
+38,Dalmatian Dog,27.5,11.5,Omnivore,Worldwide,Not Applicable
+39,Dhole,16.5,12.5,Carnivore,"Forests, Grasslands",Endangered
+40,Dingo,16.5,12.5,Carnivore,"Grasslands, Forests",Least Concern
+41,Eastern Gorilla,138.5,45.0,Herbivore,Rainforests,Endangered
+42,Echidna,4.5,17.5,Insectivore,"Forests, Grasslands",Least Concern
+43,Emperor Penguin,33.5,17.5,Carnivore,Antarctic,Near Threatened
+44,Emperor Tamarin,350.0,12.5,Omnivore,Rainforests,Least Concern
+45,European Hedgehog,0.8999999999999999,3.5,Omnivore,"Gardens, Grasslands",Least Concern
+46,Fennec Fox,1.2000000000000002,12.0,Omnivore,Sahara Desert,Least Concern
+47,Fossa,6.5,17.5,Carnivore,"Rainforests, Madagascar",Vulnerable
+48,Galápagos Penguin,2.15,17.5,"Carnivore, Piscivore",Galápagos Islands,Endangered
+49,Gaur,950.0,22.5,Herbivore,"Grasslands, Forests",Vulnerable
+50,Gerenuk,40.0,9.0,Herbivore,"Savannas, Scrublands",Near Threatened
+51,Giant Panda,97.5,25.0,Herbivore,Temperate Broadleaf Forests,Endangered
+52,Green Sea Turtle,129.0,80.0,Herbivore,Oceans,Endangered
+53,Grevy's Zebra,400.0,25.0,Herbivore,Grasslands,Endangered
+54,Harpy Eagle,6.75,30.0,Carnivore,Rainforests,Near Threatened
+55,Hippopotamus,2250.0,45.0,Herbivore,"Rivers, Lakes",Vulnerable
+56,Hummingbird,11.0,4.0,"Nectar, Insects",Americas,Least Concern
+57,Iberian Lynx,11.5,11.5,Carnivore,Mediterranean Scrublands,Endangered
+58,Japanese Macaque,12.0,25.0,Omnivore,"Forests, Mountains",Least Concern
+59,Kangaroo Rat,0.0925,3.5,Herbivore,Deserts,Least Concern
+60,Kiwi,2.15,37.5,Omnivore,Forests,Vulnerable
+61,Lemur,2.05,20.0,Omnivore,"Rainforests, Madagascar",Vulnerable
+62,Lemur,2.55,20.0,Herbivore,Forests,Critically Endangered
+63,Lion-tailed Macaque,6.25,25.0,"Omnivore, Herbivore","Western Ghats, India",Endangered
+64,Lyrebird,1.05,17.5,Omnivore,Rainforests,Least Concern
+65,Manatee,495.0,50.0,Herbivore,"Rivers, Coastal Areas",Vulnerable
+66,Maned Wolf,22.5,7.0,Omnivore,"Grasslands, Forests",Near Threatened
+67,Meerkat,0.8,13.0,"Omnivore, Insectivore",Arid regions,Least Concern
+68,Mountain Gorilla,135.0,37.5,Herbivore,"Rainforests, Mountains",Endangered
+69,Okapi,275.0,25.0,Herbivore,Central Africa,Endangered
+70,Okapi,275.0,25.0,Herbivore,Rainforests,Endangered
+71,Orangutan,56.0,37.5,Omnivore,Rainforests,Critically Endangered
+72,Pangolin,21.0,15.0,Insectivore,"Grasslands, Forests",Critically Endangered
+73,Patagonian Mara,10.75,7.5,Herbivore,Grasslands,Least Concern
+74,Platypus,1.5499999999999998,13.5,"Carnivore, Insectivore",Eastern Australia,Near Threatened
+75,Potoo,0.6,12.5,"Carnivore, Insectivore","Forests, Woodlands",Least Concern
+76,Praying Mantis,0.26,9.0,Carnivore,Worldwide,Not Evaluated
+77,Pronghorn,55.0,12.5,Herbivore,Grasslands,Least Concern
+78,Quokka,3.75,7.5,Herbivore,"Scrublands, Forests",Vulnerable
+79,Red Fox,5.0,4.0,Omnivore,"Forests, Grasslands",Least Concern
+80,Red Panda,4.5,10.0,Herbivore,Himalayan Foothills,Endangered
+81,Rottweiler,48.0,9.0,Carnivore,Worldwide,Not Applicable
+82,Secretary Bird,3.4,12.5,Carnivore,"Grasslands, Savannas",Least Concern
+83,Serval,13.0,11.0,Carnivore,"Grasslands, Wetlands",Least Concern
+84,Shoebill,5.0,32.5,Carnivore,"Swamps, Marshes",Vulnerable
+85,Siberian Husky,21.5,13.0,Carnivore,Cold Regions,Not Applicable
+86,Sloth,6.3,13.0,Herbivore,Rainforests,Least Concern
+87,Slow Loris,0.95,22.0,Omnivore,Forests,Vulnerable
+88,Snow Leopard,48.5,12.5,Carnivore,"Mountains, Steppes",Vulnerable
+89,Snowy Owl,2.45,12.5,Carnivore,"Arctic, North America",Least Concern
+90,Spectacled Bear,56.0,17.5,Omnivore,Forests,Vulnerable
+91,Spider Monkey,7.5,30.5,Omnivore,Rainforests,Vulnerable
+92,Spotted Hyena,54.0,18.5,"Carnivore, Scavenger","Grasslands, Savannahs",Least Concern
+93,Sumatran Orangutan,39.5,40.0,Omnivore,Rainforests,Critically Endangered
+94,Sumatran Rhino,850.0,37.5,Herbivore,Rainforests,Critically Endangered
+95,Sumatran Rhinoceros,725.0,37.5,Herbivore,Rainforests,Critically Endangered
+96,Sumatran Tiger,84.0,17.5,Carnivore,Rainforests,Critically Endangered
+97,Sun Bear,53.5,27.5,Omnivore,Tropical Forests,Vulnerable
+98,Tapir,275.0,27.5,Herbivore,"Rainforests, Grasslands",Vulnerable
+99,Tasmanian Devil,9.0,6.5,"Carnivore, Scavenger","Forests, Grasslands",Endangered
+100,Tasmanian Tiger,25.0,5.5,Carnivore,Australia,Extinct
+101,Tibetan Mastiff,69.0,11.0,Omnivore,Human Dwellings,Not Applicable
+102,Tiger,245.0,12.5,Carnivore,Rainforests,Endangered
+103,Toco Toucan,620.0,8.0,Omnivore,Rainforests,Least Concern
+104,Tree Kangaroo,6.0,17.5,Herbivore,Rainforests,Endangered
+105,Uakari,2.5,12.5,Omnivore,Rainforests,Vulnerable
+106,Warthog,105.0,17.5,Omnivore,"Savannahs, Grasslands",Least Concern
+107,Water Buffalo,750.0,22.5,Herbivore,"Grasslands, Wetlands",Least Concern
+108,Western Gorilla,125.0,35.0,Herbivore,Rainforests,Critically Endangered
+109,Western Lowland Gorilla,124.5,35.0,Herbivore,Rainforests,Critically Endangered
+110,White Rhinoceros,2150.0,45.0,Herbivore,Grasslands,Near Threatened
+111,White Tiger,200.0,12.5,Carnivore,Rainforests,Critically Endangered
+112,Wild Boar,75.0,17.5,Omnivore,"Forests, Grasslands",Least Concern
+113,Wildebeest,295.0,22.5,Herbivore,Grasslands,Least Concern
+114,Wolf,51.5,10.5,Carnivore,"Forests, Grasslands",Least Concern
+115,Wolverine,17.0,9.5,"Carnivore, Scavenger","Boreal Forests, Tundra",Least Concern
+116,Wombat,27.5,7.5,Herbivore,"Forests, Grasslands",Least Concern
+117,Yak,850.0,22.5,Herbivore,Mountains,Least Concern
+118,Zebra,650.0,22.5,Herbivore,Grasslands,Least Concern
+119,Jaguar,1760.0,26.0,Herbivore,Rivers,Endangered
+120,Gazelle,2144.0,70.0,Insectivore,Forests,Endangered
+121,Hammerhead Shark,1938.0,35.0,Herbivore,Arctic,Least Concern
+122,Armadillo,2405.0,92.0,Omnivore,Ocean,Least Concern
+123,Armadillo,2713.0,58.0,Herbivore,Ocean,Critically Endangered
+124,Baboon,1589.0,86.0,Carnivore,Forests,Vulnerable
+125,Kangaroo,681.0,72.0,Insectivore,Rivers,Least Concern
+126,Parrot,1904.0,20.0,Carnivore,Ocean,Critically Endangered
+127,Hippopotamus,2580.0,34.0,Insectivore,Forests,Least Concern
+128,Toucan,2278.0,15.0,Omnivore,Grasslands,Critically Endangered
+129,Koala,2920.0,33.0,Insectivore,Tropical Rainforest,Endangered
+130,Python,628.0,63.0,Carnivore,Savannas,Endangered
+131,Hippopotamus,3092.0,64.0,Omnivore,Tropical Rainforest,Critically Endangered
+132,Toucan,750.0,52.0,Omnivore,Ocean,Critically Endangered
+133,Dolphin,1143.0,19.0,Carnivore,Mountains,Critically Endangered
+134,Gazelle,2591.0,80.0,Carnivore,Savannas,Vulnerable
+135,Moose,2137.0,96.0,Omnivore,Rivers,Critically Endangered
+136,Wombat,156.0,39.0,Insectivore,Mountains,Endangered
+137,Porcupine,3094.0,37.0,Insectivore,Grasslands,Endangered
+138,Wombat,952.0,46.0,Herbivore,Tropical Rainforest,Vulnerable
+139,Lynx,2296.0,70.0,Insectivore,Rivers,Critically Endangered
+140,Puffin,1228.0,91.0,Carnivore,Ocean,Endangered
+141,Walrus,2083.0,49.0,Insectivore,Grasslands,Least Concern
+142,Gazelle,3366.0,69.0,Carnivore,Rivers,Least Concern
+143,Parrot,1078.0,21.0,Insectivore,Ocean,Vulnerable
+144,Chimpanzee,1717.0,48.0,Herbivore,Tropical Rainforest,Least Concern
+145,Hammerhead Shark,1432.0,37.0,Herbivore,Rivers,Critically Endangered
+146,Manta Ray,3368.0,69.0,Herbivore,Forests,Critically Endangered
+147,Koala,3454.0,100.0,Herbivore,Forests,Vulnerable
+148,Giraffe,269.0,87.0,Omnivore,Tropical Rainforest,Endangered
+149,Rhino,1027.0,51.0,Herbivore,Grasslands,Least Concern
+150,Orangutan,2604.0,45.0,Herbivore,Forests,Critically Endangered
+151,Tiger,926.0,95.0,Carnivore,Ocean,Vulnerable
+152,Narwhal,2405.0,55.0,Insectivore,Grasslands,Endangered
+153,Iguana,3.0,42.0,Carnivore,Ocean,Endangered
+154,Armadillo,2664.0,10.0,Insectivore,Mountains,Critically Endangered
+155,Albatross,525.0,71.0,Carnivore,Forests,Least Concern
+156,Jaguar,1442.0,55.0,Carnivore,Grasslands,Endangered
+157,Sea Turtle,3258.0,84.0,Omnivore,Arctic,Endangered
+158,Leopard Seal,992.0,5.0,Carnivore,Grasslands,Vulnerable
+159,Panda,1685.0,73.0,Insectivore,Ocean,Least Concern
+160,Sea Turtle,2166.0,96.0,Herbivore,Grasslands,Least Concern
+161,Wolf,2196.0,16.0,Omnivore,Grasslands,Least Concern
+162,Arctic Fox,3444.0,65.0,Insectivore,Grasslands,Endangered
+163,Mountain Goat,3246.0,66.0,Herbivore,Rivers,Vulnerable
+164,Giraffe,1.0,66.0,Herbivore,Forests,Critically Endangered
+165,Porcupine,2393.0,33.0,Insectivore,Mountains,Vulnerable
+166,Cheetah,1426.0,31.0,Insectivore,Ocean,Endangered
+167,Manatee,2761.0,52.0,Herbivore,Grasslands,Least Concern
+168,Moose,2473.0,97.0,Omnivore,Rivers,Least Concern
+169,Otter,3325.0,47.0,Carnivore,Forests,Vulnerable
+170,Sloth,3309.0,6.0,Carnivore,Tropical Rainforest,Vulnerable
+171,Orangutan,3015.0,97.0,Carnivore,Mountains,Least Concern
+172,Hippopotamus,621.0,80.0,Omnivore,Rivers,Endangered
+173,Tiger,594.0,25.0,Herbivore,Tropical Rainforest,Least Concern
+174,Baboon,1161.0,22.0,Carnivore,Mountains,Vulnerable
+175,Giraffe,431.0,33.0,Insectivore,Forests,Critically Endangered
+176,Giraffe,2864.0,23.0,Herbivore,Savannas,Least Concern
+177,Orangutan,1049.0,61.0,Carnivore,Forests,Endangered
+178,Toucan,2175.0,53.0,Carnivore,Tropical Rainforest,Least Concern
+179,Otter,2520.0,12.0,Insectivore,Rivers,Vulnerable
+180,Lynx,374.0,81.0,Herbivore,Mountains,Critically Endangered
+181,Red Panda,1833.0,75.0,Herbivore,Mountains,Least Concern
+182,Anteater,1699.0,9.0,Herbivore,Grasslands,Vulnerable
+183,Tiger,2248.0,75.0,Omnivore,Forests,Vulnerable
+184,Parrot,779.0,13.0,Herbivore,Ocean,Endangered
+185,Cheetah,1738.0,69.0,Herbivore,Tropical Rainforest,Critically Endangered
+186,Narwhal,3027.0,69.0,Omnivore,Forests,Critically Endangered
+187,Armadillo,1284.0,71.0,Omnivore,Arctic,Vulnerable
+188,Leopard Seal,2728.0,26.0,Herbivore,Savannas,Critically Endangered
+189,Armadillo,328.0,31.0,Insectivore,Arctic,Endangered
+190,Ocelot,464.0,26.0,Herbivore,Rivers,Vulnerable
+191,Manta Ray,1831.0,86.0,Omnivore,Mountains,Endangered
+192,Narwhal,2367.0,90.0,Carnivore,Rivers,Critically Endangered
+193,Gazelle,1260.0,82.0,Omnivore,Mountains,Vulnerable
+194,Narwhal,2413.0,74.0,Carnivore,Savannas,Critically Endangered
+195,Kangaroo,2648.0,33.0,Herbivore,Forests,Endangered
+196,Rhino,2156.0,28.0,Omnivore,Forests,Critically Endangered
+197,Anteater,3309.0,98.0,Omnivore,Rivers,Vulnerable
+198,Lynx,3463.0,89.0,Insectivore,Mountains,Critically Endangered
+199,Cheetah,2989.0,44.0,Omnivore,Forests,Critically Endangered
+200,Armadillo,788.0,92.0,Insectivore,Forests,Vulnerable
+201,Narwhal,2976.0,26.0,Insectivore,Savannas,Critically Endangered
+202,Polar Bear,2040.0,55.0,Omnivore,Tropical Rainforest,Vulnerable
+203,Dolphin,1431.0,64.0,Herbivore,Grasslands,Critically Endangered
+204,Porcupine,1301.0,19.0,Omnivore,Tropical Rainforest,Critically Endangered
+205,Puffin,928.0,52.0,Herbivore,Forests,Vulnerable
+206,Penguin,1430.0,16.0,Carnivore,Mountains,Critically Endangered
+207,Manatee,3362.0,37.0,Omnivore,Tropical Rainforest,Critically Endangered
+208,Gazelle,2716.0,73.0,Insectivore,Grasslands,Vulnerable
+209,Moose,2426.0,80.0,Carnivore,Grasslands,Endangered
+210,Hammerhead Shark,2217.0,67.0,Insectivore,Ocean,Endangered
+211,Bison,2265.0,91.0,Carnivore,Savannas,Vulnerable
+212,Bison,1118.0,56.0,Herbivore,Savannas,Vulnerable
+213,Porcupine,3277.0,32.0,Insectivore,Grasslands,Endangered
+214,Flamingo,3015.0,83.0,Insectivore,Savannas,Vulnerable
+215,Black Widow Spider,1412.0,98.0,Herbivore,Tropical Rainforest,Vulnerable
+216,Zebra,1231.0,7.0,Omnivore,Mountains,Critically Endangered
+217,Kangaroo,82.0,81.0,Omnivore,Grasslands,Least Concern
+218,Leopard Seal,1427.0,16.0,Herbivore,Tropical Rainforest,Vulnerable
+219,Ocelot,64.0,83.0,Carnivore,Forests,Vulnerable
+220,Albatross,356.0,81.0,Insectivore,Tropical Rainforest,Critically Endangered
+221,Walrus,2708.0,11.0,Omnivore,Mountains,Vulnerable
+222,Otter,1829.0,84.0,Carnivore,Mountains,Vulnerable
+223,Toucan,2229.0,87.0,Herbivore,Rivers,Critically Endangered
+224,Armadillo,2755.0,89.0,Herbivore,Arctic,Vulnerable
+225,Chimpanzee,783.0,84.0,Carnivore,Ocean,Least Concern
+226,Alligator,1421.0,93.0,Herbivore,Ocean,Vulnerable
+227,Giraffe,669.0,33.0,Carnivore,Grasslands,Critically Endangered
+228,Hammerhead Shark,1373.0,80.0,Herbivore,Grasslands,Least Concern
+229,Emperor Penguin,3118.0,51.0,Carnivore,Grasslands,Least Concern
+230,Alligator,251.0,71.0,Herbivore,Rivers,Endangered
+231,Moose,2486.0,43.0,Insectivore,Savannas,Critically Endangered
+232,Cheetah,3080.0,34.0,Insectivore,Ocean,Endangered
+233,Baboon,3093.0,50.0,Herbivore,Grasslands,Least Concern
+234,Manta Ray,3244.0,35.0,Omnivore,Savannas,Least Concern
+235,Armadillo,1007.0,73.0,Herbivore,Savannas,Critically Endangered
+236,Gazelle,455.0,47.0,Carnivore,Ocean,Vulnerable
+237,Orangutan,2079.0,100.0,Herbivore,Arctic,Endangered
+238,Otter,2543.0,40.0,Herbivore,Forests,Endangered
+239,Orangutan,2259.0,41.0,Insectivore,Ocean,Endangered
+240,Dolphin,2890.0,95.0,Omnivore,Forests,Endangered
+241,Giraffe,277.0,18.0,Insectivore,Arctic,Critically Endangered
+242,Rhino,1785.0,72.0,Herbivore,Savannas,Least Concern
+243,Hippopotamus,683.0,7.0,Insectivore,Grasslands,Endangered
+244,Lynx,133.0,67.0,Omnivore,Savannas,Least Concern
+245,Emperor Penguin,30.0,88.0,Herbivore,Grasslands,Vulnerable
+246,Albatross,726.0,35.0,Herbivore,Forests,Least Concern
+247,Polar Bear,2391.0,6.0,Omnivore,Ocean,Least Concern
+248,Dolphin,1214.0,80.0,Insectivore,Arctic,Least Concern
+249,Koala,2438.0,93.0,Insectivore,Savannas,Vulnerable
+250,Bison,1003.0,55.0,Insectivore,Savannas,Vulnerable
+251,Otter,11.0,78.0,Carnivore,Mountains,Least Concern
+252,Iguana,2584.0,14.0,Herbivore,Tropical Rainforest,Endangered
+253,Ocelot,161.0,49.0,Herbivore,Tropical Rainforest,Least Concern
+254,Baboon,3277.0,66.0,Carnivore,Tropical Rainforest,Least Concern
+255,Wolf,1925.0,17.0,Carnivore,Rivers,Least Concern
+256,Anteater,2971.0,65.0,Omnivore,Grasslands,Endangered
+257,Parrot,693.0,48.0,Carnivore,Mountains,Critically Endangered
+258,Chimpanzee,2540.0,65.0,Carnivore,Tropical Rainforest,Vulnerable
+259,Manatee,3228.0,42.0,Omnivore,Ocean,Endangered
+260,Sloth,467.0,53.0,Insectivore,Mountains,Endangered
+261,Ocelot,1608.0,11.0,Herbivore,Rivers,Vulnerable
+262,Komodo Dragon,2991.0,70.0,Carnivore,Arctic,Endangered
+263,Puffin,1239.0,28.0,Carnivore,Arctic,Critically Endangered
+264,Golden Eagle,208.0,81.0,Insectivore,Forests,Vulnerable
+265,Koala,618.0,19.0,Insectivore,Ocean,Endangered
+266,Porcupine,1071.0,51.0,Insectivore,Ocean,Least Concern
+267,Baboon,614.0,84.0,Herbivore,Rivers,Vulnerable
+268,Cheetah,2802.0,52.0,Insectivore,Rivers,Vulnerable
+269,Red Panda,2418.0,21.0,Herbivore,Savannas,Critically Endangered
+270,Kangaroo,1941.0,6.0,Carnivore,Grasslands,Critically Endangered
+271,Toucan,919.0,90.0,Carnivore,Arctic,Least Concern
+272,Manatee,2461.0,65.0,Omnivore,Rivers,Endangered
+273,Arctic Fox,2466.0,27.0,Omnivore,Forests,Critically Endangered
+274,Kangaroo,3057.0,87.0,Herbivore,Rivers,Vulnerable
+275,Komodo Dragon,2701.0,84.0,Insectivore,Ocean,Least Concern
+276,Hammerhead Shark,974.0,36.0,Omnivore,Mountains,Critically Endangered
+277,Leopard Seal,2986.0,81.0,Carnivore,Mountains,Endangered
+278,Ocelot,2443.0,37.0,Carnivore,Tropical Rainforest,Least Concern
+279,Snow Leopard,2264.0,33.0,Omnivore,Ocean,Least Concern
+280,Tiger,367.0,28.0,Herbivore,Grasslands,Endangered
+281,Alligator,271.0,60.0,Omnivore,Arctic,Critically Endangered
+282,Giraffe,1452.0,39.0,Omnivore,Rivers,Endangered
+283,Ocelot,710.0,95.0,Insectivore,Tropical Rainforest,Endangered
+284,Hippopotamus,572.0,67.0,Carnivore,Tropical Rainforest,Critically Endangered
+285,Flamingo,2428.0,64.0,Insectivore,Tropical Rainforest,Endangered
+286,Wombat,2467.0,55.0,Herbivore,Savannas,Vulnerable
+287,Python,416.0,15.0,Omnivore,Arctic,Endangered
+288,Alligator,2307.0,74.0,Carnivore,Forests,Endangered
+289,Emperor Penguin,2274.0,38.0,Insectivore,Grasslands,Least Concern
+290,Otter,2166.0,91.0,Herbivore,Ocean,Critically Endangered
+291,Golden Eagle,743.0,48.0,Insectivore,Grasslands,Critically Endangered
+292,Leopard Seal,2603.0,99.0,Carnivore,Mountains,Vulnerable
+293,Kangaroo,2053.0,53.0,Omnivore,Arctic,Vulnerable
+294,Walrus,590.0,100.0,Carnivore,Tropical Rainforest,Endangered
+295,Otter,2350.0,40.0,Omnivore,Ocean,Vulnerable
+296,Rhino,812.0,61.0,Herbivore,Mountains,Critically Endangered
+297,Narwhal,672.0,58.0,Carnivore,Mountains,Endangered
+298,Albatross,1622.0,44.0,Carnivore,Savannas,Least Concern
+299,Sea Turtle,2406.0,64.0,Omnivore,Savannas,Critically Endangered
+300,Hippopotamus,1186.0,13.0,Herbivore,Mountains,Endangered
+301,Giraffe,476.0,19.0,Insectivore,Ocean,Critically Endangered
+302,Manatee,62.0,82.0,Insectivore,Savannas,Critically Endangered
+303,Manta Ray,977.0,6.0,Omnivore,Tropical Rainforest,Critically Endangered
+304,Moose,2582.0,77.0,Herbivore,Grasslands,Critically Endangered
+305,Baboon,2261.0,40.0,Carnivore,Forests,Critically Endangered
+306,Albatross,3343.0,23.0,Insectivore,Mountains,Vulnerable
+307,Zebra,450.0,40.0,Insectivore,Mountains,Endangered
+308,Tiger,1816.0,87.0,Herbivore,Ocean,Critically Endangered
+309,Porcupine,3477.0,64.0,Herbivore,Grasslands,Least Concern
+310,Iguana,3166.0,53.0,Insectivore,Savannas,Endangered
+311,Albatross,1587.0,9.0,Omnivore,Savannas,Endangered
+312,Bison,2711.0,12.0,Insectivore,Rivers,Endangered
+313,Giraffe,871.0,18.0,Carnivore,Tropical Rainforest,Vulnerable
+314,Sloth,1487.0,47.0,Carnivore,Ocean,Critically Endangered
+315,Eagle,660.0,59.0,Herbivore,Savannas,Endangered
+316,Koala,852.0,41.0,Herbivore,Grasslands,Vulnerable
+317,Emperor Penguin,932.0,30.0,Omnivore,Forests,Least Concern
+318,Manatee,2561.0,77.0,Insectivore,Ocean,Vulnerable
+319,Sea Turtle,2925.0,39.0,Omnivore,Arctic,Vulnerable
+320,Black Widow Spider,3210.0,82.0,Carnivore,Grasslands,Endangered
+321,Zebra,5.0,11.0,Omnivore,Mountains,Vulnerable
+322,Anteater,3396.0,51.0,Herbivore,Savannas,Critically Endangered
+323,Rhino,1004.0,8.0,Insectivore,Mountains,Critically Endangered
+324,Narwhal,2025.0,89.0,Herbivore,Ocean,Endangered
+325,Dolphin,734.0,68.0,Carnivore,Rivers,Endangered
+326,Puffin,2770.0,90.0,Omnivore,Forests,Vulnerable
+327,Porcupine,2383.0,95.0,Insectivore,Forests,Endangered
+328,Cheetah,3256.0,99.0,Carnivore,Grasslands,Vulnerable
+329,Manatee,1760.0,83.0,Carnivore,Grasslands,Least Concern
+330,Giraffe,2329.0,80.0,Carnivore,Savannas,Critically Endangered
+331,Orangutan,1117.0,79.0,Carnivore,Ocean,Endangered
+332,Dolphin,1735.0,99.0,Insectivore,Forests,Critically Endangered
+333,Emperor Penguin,743.0,80.0,Herbivore,Savannas,Critically Endangered
+334,Hammerhead Shark,1111.0,19.0,Carnivore,Savannas,Endangered
+335,Dolphin,1260.0,75.0,Omnivore,Mountains,Least Concern
+336,Red Panda,688.0,54.0,Omnivore,Savannas,Endangered
+337,Manatee,1408.0,79.0,Herbivore,Tropical Rainforest,Least Concern
+338,Flamingo,2007.0,9.0,Herbivore,Savannas,Endangered
+339,Leopard Seal,164.0,53.0,Herbivore,Mountains,Least Concern
+340,Albatross,1774.0,75.0,Herbivore,Mountains,Least Concern
+341,Narwhal,1229.0,32.0,Herbivore,Ocean,Endangered
+342,Mountain Goat,2813.0,79.0,Herbivore,Ocean,Vulnerable
+343,Manatee,44.0,96.0,Herbivore,Rivers,Endangered
+344,Ocelot,1435.0,37.0,Carnivore,Ocean,Vulnerable
+345,Snow Leopard,1543.0,86.0,Omnivore,Forests,Vulnerable
+346,Baboon,2559.0,14.0,Herbivore,Tropical Rainforest,Least Concern
+347,Arctic Fox,3268.0,12.0,Carnivore,Savannas,Endangered
+348,Panda,2437.0,93.0,Carnivore,Arctic,Endangered
+349,Penguin,2996.0,35.0,Omnivore,Savannas,Endangered
+350,Hippopotamus,3450.0,27.0,Omnivore,Arctic,Vulnerable
+351,Leopard Seal,1210.0,69.0,Carnivore,Rivers,Critically Endangered
+352,Hammerhead Shark,2892.0,80.0,Herbivore,Mountains,Endangered
+353,Sea Turtle,1962.0,71.0,Herbivore,Tropical Rainforest,Critically Endangered
+354,Moose,1906.0,84.0,Carnivore,Rivers,Endangered
+355,Emperor Penguin,1385.0,57.0,Carnivore,Savannas,Least Concern
+356,Chimpanzee,2411.0,9.0,Omnivore,Arctic,Critically Endangered
+357,Chimpanzee,2065.0,31.0,Herbivore,Arctic,Vulnerable
+358,Anteater,3391.0,8.0,Insectivore,Savannas,Critically Endangered
+359,Jaguar,1056.0,47.0,Carnivore,Tropical Rainforest,Endangered
+360,Narwhal,2498.0,8.0,Herbivore,Rivers,Vulnerable
+361,Giraffe,1476.0,50.0,Herbivore,Savannas,Endangered
+362,Cheetah,1693.0,76.0,Insectivore,Forests,Endangered
+363,Arctic Fox,601.0,68.0,Omnivore,Arctic,Vulnerable
+364,Iguana,2334.0,61.0,Herbivore,Tropical Rainforest,Least Concern
+365,Iguana,290.0,68.0,Omnivore,Rivers,Vulnerable
+366,Emperor Penguin,1471.0,93.0,Herbivore,Mountains,Critically Endangered
+367,Polar Bear,2803.0,74.0,Insectivore,Forests,Critically Endangered
+368,Puffin,1301.0,5.0,Carnivore,Arctic,Critically Endangered
+369,Baboon,2793.0,52.0,Herbivore,Rivers,Least Concern
+370,Anteater,1249.0,88.0,Herbivore,Rivers,Vulnerable
+371,Black Widow Spider,1334.0,99.0,Carnivore,Ocean,Critically Endangered
+372,Sloth,1768.0,60.0,Insectivore,Mountains,Endangered
+373,Golden Eagle,1819.0,69.0,Insectivore,Mountains,Critically Endangered
+374,Komodo Dragon,2000.0,33.0,Herbivore,Rivers,Vulnerable
+375,Emperor Penguin,851.0,96.0,Insectivore,Rivers,Vulnerable
+376,Wombat,776.0,80.0,Omnivore,Mountains,Critically Endangered
+377,Otter,3338.0,79.0,Herbivore,Arctic,Least Concern
+378,Armadillo,479.0,70.0,Insectivore,Mountains,Least Concern
+379,Leopard Seal,1865.0,25.0,Insectivore,Ocean,Vulnerable
+380,Zebra,321.0,32.0,Omnivore,Rivers,Least Concern
+381,Rhino,1637.0,31.0,Insectivore,Mountains,Vulnerable
+382,Hammerhead Shark,1452.0,83.0,Insectivore,Ocean,Vulnerable
+383,Sloth,998.0,21.0,Herbivore,Ocean,Vulnerable
+384,Tiger,834.0,81.0,Insectivore,Ocean,Vulnerable
+385,Flamingo,1619.0,64.0,Omnivore,Rivers,Vulnerable
+386,Leopard Seal,1888.0,48.0,Insectivore,Rivers,Critically Endangered
+387,Wolf,914.0,63.0,Carnivore,Rivers,Endangered
+388,Zebra,2169.0,95.0,Carnivore,Savannas,Endangered
+389,Red Panda,3066.0,59.0,Insectivore,Tropical Rainforest,Least Concern
+390,Otter,3456.0,38.0,Insectivore,Forests,Endangered
+391,Anteater,3041.0,41.0,Carnivore,Grasslands,Vulnerable
+392,Iguana,1385.0,92.0,Herbivore,Rivers,Critically Endangered
+393,Wombat,3012.0,10.0,Herbivore,Tropical Rainforest,Critically Endangered
+394,Hippopotamus,1803.0,70.0,Omnivore,Mountains,Least Concern
+395,Narwhal,927.0,93.0,Carnivore,Savannas,Endangered
+396,Iguana,1911.0,33.0,Carnivore,Arctic,Endangered
+397,Panda,643.0,92.0,Herbivore,Rivers,Least Concern
+398,Emperor Penguin,1328.0,6.0,Carnivore,Grasslands,Endangered
+399,Eagle,1345.0,59.0,Carnivore,Grasslands,Critically Endangered
+400,Giraffe,1220.0,86.0,Omnivore,Mountains,Least Concern
+401,Snow Leopard,136.0,59.0,Insectivore,Tropical Rainforest,Endangered
+402,Baboon,2463.0,37.0,Herbivore,Tropical Rainforest,Endangered
+403,Baboon,485.0,80.0,Omnivore,Grasslands,Least Concern
+404,Walrus,1297.0,88.0,Herbivore,Forests,Least Concern
+405,Red Panda,3387.0,67.0,Insectivore,Tropical Rainforest,Critically Endangered
+406,Penguin,2976.0,20.0,Omnivore,Savannas,Vulnerable
+407,Python,2115.0,24.0,Insectivore,Arctic,Vulnerable
+408,Eagle,2533.0,40.0,Carnivore,Savannas,Least Concern
+409,Armadillo,2085.0,76.0,Insectivore,Tropical Rainforest,Least Concern
+410,Hammerhead Shark,3243.0,78.0,Insectivore,Tropical Rainforest,Endangered
+411,Orangutan,2470.0,82.0,Omnivore,Mountains,Vulnerable
+412,Puffin,2244.0,65.0,Herbivore,Forests,Least Concern
+413,Giraffe,2148.0,78.0,Herbivore,Tropical Rainforest,Critically Endangered
+414,Sloth,589.0,48.0,Omnivore,Rivers,Critically Endangered
+415,Giraffe,2104.0,96.0,Herbivore,Tropical Rainforest,Least Concern
+416,Rhino,457.0,50.0,Carnivore,Forests,Least Concern
+417,Flamingo,146.0,48.0,Omnivore,Arctic,Vulnerable
+418,Walrus,186.0,31.0,Carnivore,Mountains,Vulnerable
+419,Panda,1014.0,38.0,Insectivore,Forests,Vulnerable
+420,Baboon,2127.0,5.0,Carnivore,Grasslands,Vulnerable
+421,Moose,3474.0,66.0,Insectivore,Arctic,Vulnerable
+422,Flamingo,1164.0,36.0,Carnivore,Rivers,Critically Endangered
+423,Emperor Penguin,319.0,81.0,Insectivore,Arctic,Critically Endangered
+424,Sea Turtle,3010.0,30.0,Herbivore,Savannas,Vulnerable
+425,Leopard Seal,2034.0,30.0,Herbivore,Forests,Critically Endangered
+426,Zebra,1550.0,37.0,Carnivore,Ocean,Least Concern
+427,Penguin,2813.0,13.0,Herbivore,Grasslands,Critically Endangered
+428,Giraffe,164.0,43.0,Insectivore,Tropical Rainforest,Endangered
+429,Orangutan,1836.0,49.0,Carnivore,Ocean,Vulnerable
+430,Tiger,2274.0,60.0,Omnivore,Forests,Endangered
+431,Arctic Fox,1214.0,19.0,Omnivore,Tropical Rainforest,Least Concern
+432,Penguin,602.0,88.0,Carnivore,Mountains,Vulnerable
+433,Lynx,329.0,20.0,Carnivore,Forests,Endangered
+434,Puffin,1419.0,56.0,Carnivore,Forests,Vulnerable
+435,Polar Bear,1155.0,6.0,Insectivore,Tropical Rainforest,Critically Endangered
+436,Koala,3312.0,10.0,Insectivore,Rivers,Endangered
+437,Rhino,199.0,86.0,Omnivore,Grasslands,Critically Endangered
+438,Giraffe,434.0,18.0,Carnivore,Grasslands,Endangered
+439,Leopard Seal,2472.0,45.0,Carnivore,Savannas,Endangered
+440,Narwhal,3133.0,58.0,Omnivore,Savannas,Endangered
+441,Leopard Seal,1244.0,53.0,Herbivore,Ocean,Vulnerable
+442,Black Widow Spider,641.0,6.0,Carnivore,Arctic,Least Concern
+443,Orangutan,425.0,89.0,Carnivore,Ocean,Vulnerable
+444,Mountain Goat,2422.0,61.0,Carnivore,Grasslands,Critically Endangered
+445,Eagle,1550.0,50.0,Insectivore,Mountains,Critically Endangered
+446,Manta Ray,797.0,20.0,Insectivore,Rivers,Vulnerable
+447,Chimpanzee,527.0,5.0,Insectivore,Rivers,Least Concern
+448,Armadillo,1516.0,10.0,Herbivore,Rivers,Vulnerable
+449,Manta Ray,1297.0,89.0,Carnivore,Ocean,Vulnerable
+450,Flamingo,2891.0,10.0,Insectivore,Grasslands,Endangered
+451,Kangaroo,1448.0,54.0,Insectivore,Savannas,Endangered
+452,Arctic Fox,1155.0,52.0,Herbivore,Mountains,Vulnerable
+453,Dolphin,935.0,67.0,Omnivore,Forests,Vulnerable
+454,Manta Ray,423.0,44.0,Herbivore,Ocean,Vulnerable
+455,Otter,429.0,66.0,Herbivore,Forests,Least Concern
+456,Gazelle,1465.0,35.0,Omnivore,Grasslands,Endangered
+457,Albatross,2316.0,70.0,Insectivore,Tropical Rainforest,Endangered
+458,Rhino,2415.0,25.0,Insectivore,Rivers,Least Concern
+459,Python,866.0,89.0,Carnivore,Savannas,Vulnerable
+460,Snow Leopard,2752.0,58.0,Insectivore,Tropical Rainforest,Endangered
+461,Komodo Dragon,2081.0,52.0,Herbivore,Savannas,Vulnerable
+462,Snow Leopard,2361.0,69.0,Carnivore,Grasslands,Least Concern
+463,Sloth,1037.0,33.0,Omnivore,Grasslands,Endangered
+464,Narwhal,716.0,50.0,Omnivore,Tropical Rainforest,Critically Endangered
+465,Anteater,222.0,43.0,Herbivore,Grasslands,Critically Endangered
+466,Eagle,2473.0,88.0,Omnivore,Grasslands,Vulnerable
+467,Cheetah,2117.0,83.0,Omnivore,Rivers,Critically Endangered
+468,Snow Leopard,2091.0,41.0,Carnivore,Grasslands,Vulnerable
+469,Dolphin,323.0,55.0,Carnivore,Tropical Rainforest,Critically Endangered
+470,Flamingo,788.0,64.0,Carnivore,Arctic,Endangered
+471,Armadillo,3248.0,80.0,Carnivore,Ocean,Least Concern
+472,Polar Bear,1285.0,66.0,Carnivore,Mountains,Endangered
+473,Golden Eagle,3186.0,65.0,Herbivore,Grasslands,Critically Endangered
+474,Zebra,2633.0,62.0,Herbivore,Savannas,Critically Endangered
+475,Porcupine,1284.0,9.0,Omnivore,Arctic,Vulnerable
+476,Giraffe,2472.0,98.0,Insectivore,Tropical Rainforest,Endangered
+477,Otter,3271.0,40.0,Insectivore,Mountains,Critically Endangered
+478,Cheetah,286.0,45.0,Omnivore,Mountains,Least Concern
+479,Black Widow Spider,973.0,41.0,Carnivore,Arctic,Endangered
+480,Golden Eagle,1251.0,13.0,Insectivore,Mountains,Critically Endangered
+481,Snow Leopard,1367.0,39.0,Carnivore,Mountains,Critically Endangered
+482,Hammerhead Shark,2838.0,38.0,Omnivore,Ocean,Critically Endangered
+483,Sloth,3058.0,87.0,Omnivore,Mountains,Vulnerable
+484,Moose,232.0,56.0,Omnivore,Tropical Rainforest,Endangered
+485,Manatee,3083.0,49.0,Herbivore,Forests,Critically Endangered
+486,Bison,752.0,78.0,Insectivore,Savannas,Endangered
+487,Iguana,45.0,47.0,Omnivore,Grasslands,Critically Endangered
+488,Giraffe,3002.0,16.0,Herbivore,Mountains,Critically Endangered
+489,Orangutan,2529.0,97.0,Herbivore,Rivers,Critically Endangered
+490,Black Widow Spider,519.0,21.0,Omnivore,Tropical Rainforest,Vulnerable
+491,Arctic Fox,47.0,83.0,Carnivore,Mountains,Vulnerable
+492,Manatee,689.0,29.0,Herbivore,Grasslands,Least Concern
+493,Wombat,1549.0,90.0,Omnivore,Mountains,Least Concern
+494,Puffin,62.0,24.0,Insectivore,Savannas,Critically Endangered
+495,Panda,3182.0,71.0,Carnivore,Forests,Endangered
+496,Arctic Fox,1154.0,57.0,Herbivore,Ocean,Endangered
+497,Golden Eagle,3378.0,21.0,Herbivore,Savannas,Least Concern
+498,Koala,341.0,78.0,Omnivore,Forests,Least Concern
+499,Chimpanzee,225.0,88.0,Insectivore,Ocean,Critically Endangered
+500,Porcupine,2271.0,76.0,Insectivore,Grasslands,Least Concern
+501,Armadillo,117.0,80.0,Omnivore,Rivers,Least Concern
+502,Wolf,1424.0,98.0,Carnivore,Forests,Critically Endangered
+503,Armadillo,1291.0,77.0,Omnivore,Savannas,Critically Endangered
+504,Narwhal,2012.0,52.0,Herbivore,Arctic,Vulnerable
+505,Emperor Penguin,1597.0,92.0,Omnivore,Grasslands,Vulnerable
+506,Walrus,1655.0,11.0,Herbivore,Grasslands,Least Concern
+507,Zebra,1636.0,34.0,Herbivore,Arctic,Critically Endangered
+508,Anteater,2256.0,79.0,Insectivore,Tropical Rainforest,Vulnerable
+509,Komodo Dragon,3199.0,83.0,Herbivore,Ocean,Vulnerable
+510,Kangaroo,2854.0,34.0,Carnivore,Tropical Rainforest,Vulnerable
+511,Bison,1279.0,14.0,Omnivore,Tropical Rainforest,Least Concern
+512,Penguin,678.0,69.0,Herbivore,Forests,Least Concern
+513,Armadillo,8.0,39.0,Omnivore,Tropical Rainforest,Vulnerable
+514,Hippopotamus,619.0,5.0,Carnivore,Rivers,Vulnerable
+515,Walrus,1078.0,64.0,Carnivore,Savannas,Vulnerable
+516,Iguana,552.0,19.0,Herbivore,Grasslands,Least Concern
+517,Red Panda,336.0,58.0,Carnivore,Rivers,Critically Endangered
+518,Arctic Fox,1349.0,88.0,Insectivore,Ocean,Vulnerable
+519,Moose,3134.0,43.0,Carnivore,Grasslands,Vulnerable
+520,Gazelle,2626.0,19.0,Herbivore,Savannas,Least Concern
+521,Koala,3052.0,81.0,Carnivore,Grasslands,Critically Endangered
+522,Penguin,2797.0,80.0,Carnivore,Savannas,Vulnerable
+523,Baboon,2212.0,51.0,Herbivore,Arctic,Least Concern
+524,Komodo Dragon,447.0,19.0,Carnivore,Mountains,Vulnerable
+525,Manatee,1087.0,46.0,Insectivore,Ocean,Vulnerable
+526,Komodo Dragon,2455.0,99.0,Omnivore,Ocean,Least Concern
+527,Snow Leopard,396.0,92.0,Carnivore,Grasslands,Least Concern
+528,Alligator,2127.0,30.0,Omnivore,Forests,Vulnerable
+529,Cheetah,2992.0,11.0,Omnivore,Arctic,Least Concern
+530,Sloth,2513.0,14.0,Omnivore,Rivers,Critically Endangered
+531,Zebra,1925.0,76.0,Omnivore,Savannas,Least Concern
+532,Komodo Dragon,1459.0,86.0,Carnivore,Grasslands,Least Concern
+533,Hippopotamus,669.0,7.0,Insectivore,Tropical Rainforest,Critically Endangered
+534,Puffin,3084.0,80.0,Omnivore,Arctic,Endangered
+535,Ocelot,3215.0,44.0,Insectivore,Tropical Rainforest,Least Concern
+536,Ocelot,1244.0,6.0,Omnivore,Savannas,Critically Endangered
+537,Puffin,3334.0,38.0,Carnivore,Mountains,Vulnerable
+538,Parrot,1758.0,33.0,Carnivore,Grasslands,Least Concern
+539,Manta Ray,2606.0,66.0,Carnivore,Arctic,Least Concern
+540,Manta Ray,2485.0,94.0,Omnivore,Savannas,Endangered
+541,Jaguar,2444.0,18.0,Omnivore,Mountains,Least Concern
+542,Snow Leopard,564.0,42.0,Herbivore,Arctic,Vulnerable
+543,Flamingo,1775.0,89.0,Carnivore,Mountains,Endangered
+544,Arctic Fox,2999.0,44.0,Insectivore,Grasslands,Vulnerable
+545,Chimpanzee,1513.0,76.0,Omnivore,Ocean,Endangered
+546,Leopard Seal,1086.0,64.0,Herbivore,Rivers,Critically Endangered
+547,Snow Leopard,2348.0,32.0,Carnivore,Rivers,Critically Endangered
+548,Giraffe,391.0,56.0,Omnivore,Ocean,Least Concern
+549,Parrot,1738.0,98.0,Insectivore,Mountains,Least Concern
+550,Anteater,1434.0,32.0,Herbivore,Arctic,Least Concern
+551,Anteater,2216.0,46.0,Herbivore,Rivers,Least Concern
+552,Narwhal,1510.0,44.0,Herbivore,Forests,Least Concern
+553,Golden Eagle,1169.0,75.0,Herbivore,Savannas,Vulnerable
+554,Eagle,1633.0,89.0,Insectivore,Mountains,Critically Endangered
+555,Chimpanzee,1218.0,47.0,Omnivore,Tropical Rainforest,Critically Endangered
+556,Chimpanzee,2559.0,21.0,Omnivore,Grasslands,Least Concern
+557,Moose,1832.0,11.0,Herbivore,Mountains,Endangered
+558,Narwhal,2285.0,37.0,Insectivore,Grasslands,Critically Endangered
+559,Sloth,1814.0,46.0,Herbivore,Savannas,Critically Endangered
+560,Eagle,1131.0,23.0,Insectivore,Arctic,Least Concern
+561,Sloth,2741.0,22.0,Carnivore,Savannas,Least Concern
+562,Flamingo,2950.0,64.0,Omnivore,Tropical Rainforest,Endangered
+563,Gazelle,1981.0,29.0,Carnivore,Rivers,Endangered
+564,Chimpanzee,1920.0,31.0,Carnivore,Ocean,Endangered
+565,Parrot,2809.0,33.0,Herbivore,Mountains,Vulnerable
+566,Manatee,32.0,41.0,Insectivore,Arctic,Least Concern
+567,Sea Turtle,1491.0,37.0,Herbivore,Tropical Rainforest,Vulnerable
+568,Golden Eagle,1610.0,72.0,Carnivore,Ocean,Critically Endangered
+569,Hippopotamus,1798.0,32.0,Carnivore,Mountains,Vulnerable
+570,Emperor Penguin,1436.0,46.0,Carnivore,Mountains,Endangered
+571,Emperor Penguin,2358.0,22.0,Herbivore,Grasslands,Least Concern
+572,Parrot,692.0,91.0,Insectivore,Mountains,Endangered
+573,Chimpanzee,753.0,33.0,Carnivore,Mountains,Critically Endangered
+574,Hammerhead Shark,878.0,85.0,Herbivore,Savannas,Critically Endangered
+575,Mountain Goat,709.0,70.0,Herbivore,Grasslands,Least Concern
+576,Snow Leopard,1897.0,68.0,Omnivore,Savannas,Endangered
+577,Penguin,1603.0,80.0,Insectivore,Grasslands,Endangered
+578,Flamingo,469.0,69.0,Carnivore,Tropical Rainforest,Vulnerable
+579,Narwhal,3264.0,57.0,Herbivore,Grasslands,Vulnerable
+580,Parrot,2682.0,47.0,Herbivore,Mountains,Endangered
+581,Moose,3299.0,79.0,Omnivore,Tropical Rainforest,Endangered
+582,Black Widow Spider,1083.0,64.0,Herbivore,Tropical Rainforest,Vulnerable
+583,Flamingo,1.0,97.0,Insectivore,Rivers,Vulnerable
+584,Baboon,1367.0,84.0,Herbivore,Ocean,Vulnerable
+585,Wombat,690.0,100.0,Herbivore,Rivers,Vulnerable
+586,Ocelot,1216.0,91.0,Herbivore,Tropical Rainforest,Least Concern
+587,Wolf,3019.0,36.0,Omnivore,Mountains,Least Concern
+588,Anteater,1515.0,89.0,Herbivore,Arctic,Vulnerable
+589,Sloth,855.0,100.0,Insectivore,Savannas,Least Concern
+590,Panda,1638.0,12.0,Carnivore,Arctic,Endangered
+591,Narwhal,2728.0,65.0,Insectivore,Arctic,Vulnerable
+592,Golden Eagle,1976.0,51.0,Carnivore,Grasslands,Critically Endangered
+593,Sea Turtle,1546.0,25.0,Omnivore,Mountains,Least Concern
+594,Otter,903.0,98.0,Herbivore,Rivers,Critically Endangered
+595,Polar Bear,2466.0,98.0,Omnivore,Grasslands,Vulnerable
+596,Eagle,1460.0,51.0,Insectivore,Ocean,Critically Endangered
+597,Cheetah,3046.0,14.0,Herbivore,Ocean,Vulnerable
+598,Rhino,2705.0,15.0,Omnivore,Rivers,Least Concern
+599,Ocelot,2952.0,53.0,Herbivore,Forests,Critically Endangered
+600,Toucan,2010.0,27.0,Herbivore,Arctic,Endangered
+601,Wolf,2971.0,89.0,Omnivore,Ocean,Vulnerable
+602,Jaguar,1206.0,66.0,Insectivore,Ocean,Vulnerable
+603,Sloth,2425.0,49.0,Carnivore,Rivers,Least Concern
+604,Moose,1180.0,52.0,Carnivore,Grasslands,Vulnerable
+605,Bison,2389.0,9.0,Herbivore,Tropical Rainforest,Endangered
+606,Penguin,108.0,52.0,Herbivore,Tropical Rainforest,Vulnerable
+607,Koala,2231.0,10.0,Herbivore,Grasslands,Least Concern
+608,Albatross,929.0,64.0,Omnivore,Savannas,Endangered
+609,Porcupine,566.0,47.0,Herbivore,Rivers,Endangered
+610,Walrus,576.0,66.0,Carnivore,Rivers,Endangered
+611,Orangutan,337.0,89.0,Omnivore,Arctic,Vulnerable
+612,Zebra,2411.0,53.0,Insectivore,Ocean,Critically Endangered
+613,Toucan,1896.0,47.0,Carnivore,Forests,Vulnerable
+614,Moose,266.0,82.0,Carnivore,Mountains,Least Concern
+615,Cheetah,2861.0,20.0,Carnivore,Arctic,Vulnerable
+616,Alligator,722.0,5.0,Herbivore,Savannas,Least Concern
+617,Black Widow Spider,2428.0,51.0,Omnivore,Rivers,Vulnerable
+618,Baboon,1263.0,29.0,Herbivore,Ocean,Vulnerable
+619,Bison,1511.0,47.0,Herbivore,Savannas,Endangered
+620,Penguin,2042.0,86.0,Insectivore,Savannas,Critically Endangered
+621,Red Panda,186.0,71.0,Carnivore,Rivers,Critically Endangered
+622,Narwhal,1153.0,71.0,Omnivore,Forests,Critically Endangered
+623,Koala,407.0,100.0,Insectivore,Forests,Critically Endangered
+624,Iguana,3328.0,63.0,Omnivore,Grasslands,Vulnerable
+625,Otter,2058.0,99.0,Omnivore,Mountains,Least Concern
+626,Ocelot,1340.0,17.0,Insectivore,Savannas,Endangered
+627,Toucan,1274.0,45.0,Omnivore,Arctic,Vulnerable
+628,Penguin,1172.0,46.0,Carnivore,Mountains,Critically Endangered
+629,Porcupine,1597.0,73.0,Insectivore,Ocean,Endangered
+630,Dolphin,2146.0,37.0,Omnivore,Forests,Critically Endangered
+631,Lynx,1353.0,82.0,Insectivore,Tropical Rainforest,Critically Endangered
+632,Hammerhead Shark,2768.0,46.0,Herbivore,Savannas,Vulnerable
+633,Narwhal,2656.0,23.0,Omnivore,Rivers,Least Concern
+634,Koala,1360.0,49.0,Insectivore,Tropical Rainforest,Least Concern
+635,Porcupine,234.0,54.0,Omnivore,Ocean,Endangered
+636,Flamingo,479.0,50.0,Carnivore,Ocean,Critically Endangered
+637,Toucan,2136.0,38.0,Carnivore,Forests,Vulnerable
+638,Leopard Seal,867.0,23.0,Carnivore,Grasslands,Least Concern
+639,Mountain Goat,632.0,90.0,Herbivore,Savannas,Least Concern
+640,Bison,259.0,43.0,Carnivore,Rivers,Endangered
+641,Armadillo,1705.0,53.0,Insectivore,Forests,Critically Endangered
+642,Ocelot,2104.0,33.0,Omnivore,Rivers,Critically Endangered
+643,Zebra,2667.0,54.0,Carnivore,Mountains,Endangered
+644,Puffin,3421.0,50.0,Carnivore,Savannas,Critically Endangered
+645,Wolf,3181.0,35.0,Omnivore,Grasslands,Critically Endangered
+646,Komodo Dragon,3486.0,12.0,Omnivore,Mountains,Critically Endangered
+647,Tiger,3410.0,10.0,Omnivore,Savannas,Endangered
+648,Manatee,1325.0,16.0,Carnivore,Mountains,Endangered
+649,Gazelle,2686.0,50.0,Omnivore,Arctic,Vulnerable
+650,Penguin,2356.0,21.0,Carnivore,Ocean,Endangered
+651,Ocelot,1633.0,77.0,Herbivore,Forests,Least Concern
+652,Parrot,2436.0,41.0,Omnivore,Tropical Rainforest,Critically Endangered
+653,Snow Leopard,1867.0,43.0,Insectivore,Mountains,Vulnerable
+654,Black Widow Spider,3029.0,43.0,Herbivore,Tropical Rainforest,Vulnerable
+655,Iguana,521.0,96.0,Herbivore,Rivers,Least Concern
+656,Emperor Penguin,2780.0,85.0,Omnivore,Savannas,Least Concern
+657,Ocelot,2900.0,90.0,Herbivore,Rivers,Endangered
+658,Giraffe,361.0,16.0,Carnivore,Grasslands,Least Concern
+659,Iguana,2240.0,79.0,Carnivore,Forests,Vulnerable
+660,Toucan,2051.0,83.0,Herbivore,Rivers,Critically Endangered
+661,Armadillo,229.0,55.0,Herbivore,Savannas,Endangered
+662,Penguin,2108.0,97.0,Insectivore,Mountains,Critically Endangered
+663,Anteater,844.0,91.0,Herbivore,Savannas,Critically Endangered
+664,Python,2387.0,57.0,Omnivore,Forests,Endangered
+665,Puffin,1769.0,35.0,Herbivore,Forests,Endangered
+666,Walrus,926.0,66.0,Omnivore,Savannas,Least Concern
+667,Anteater,2467.0,85.0,Carnivore,Ocean,Critically Endangered
+668,Albatross,3076.0,51.0,Insectivore,Grasslands,Critically Endangered
+669,Flamingo,421.0,78.0,Omnivore,Mountains,Critically Endangered
+670,Iguana,934.0,73.0,Insectivore,Rivers,Critically Endangered
+671,Anteater,2648.0,20.0,Omnivore,Rivers,Vulnerable
+672,Hippopotamus,157.0,23.0,Omnivore,Ocean,Endangered
+673,Ocelot,397.0,49.0,Omnivore,Tropical Rainforest,Endangered
+674,Python,616.0,59.0,Herbivore,Mountains,Vulnerable
+675,Puffin,833.0,44.0,Omnivore,Savannas,Endangered
+676,Moose,2066.0,90.0,Herbivore,Grasslands,Vulnerable
+677,Porcupine,3232.0,21.0,Omnivore,Rivers,Critically Endangered
+678,Orangutan,506.0,51.0,Carnivore,Grasslands,Endangered
+679,Penguin,3166.0,61.0,Omnivore,Ocean,Vulnerable
+680,Hippopotamus,1038.0,37.0,Omnivore,Forests,Critically Endangered
+681,Black Widow Spider,2683.0,5.0,Omnivore,Forests,Endangered
+682,Hippopotamus,504.0,54.0,Insectivore,Ocean,Vulnerable
+683,Moose,1403.0,60.0,Omnivore,Savannas,Vulnerable
+684,Python,1634.0,19.0,Insectivore,Rivers,Critically Endangered
+685,Koala,3131.0,79.0,Omnivore,Savannas,Vulnerable
+686,Mountain Goat,399.0,74.0,Carnivore,Tropical Rainforest,Critically Endangered
+687,Chimpanzee,2193.0,74.0,Omnivore,Ocean,Vulnerable
+688,Manatee,1251.0,30.0,Omnivore,Tropical Rainforest,Vulnerable
+689,Emperor Penguin,3047.0,45.0,Carnivore,Forests,Least Concern
+690,Otter,1605.0,100.0,Omnivore,Rivers,Critically Endangered
+691,Moose,626.0,39.0,Insectivore,Grasslands,Least Concern
+692,Tiger,674.0,29.0,Omnivore,Mountains,Endangered
+693,Hippopotamus,2184.0,7.0,Omnivore,Arctic,Critically Endangered
+694,Panda,1493.0,38.0,Insectivore,Forests,Least Concern
+695,Mountain Goat,1910.0,29.0,Omnivore,Mountains,Endangered
+696,Panda,2363.0,56.0,Carnivore,Mountains,Least Concern
+697,Armadillo,1131.0,17.0,Carnivore,Savannas,Vulnerable
+698,Hammerhead Shark,1787.0,75.0,Carnivore,Mountains,Endangered
+699,Cheetah,1593.0,97.0,Insectivore,Rivers,Endangered
+700,Manatee,815.0,33.0,Insectivore,Savannas,Least Concern
+701,Manta Ray,1867.0,6.0,Omnivore,Grasslands,Vulnerable
+702,Wolf,2470.0,87.0,Carnivore,Rivers,Least Concern
+703,Sloth,1115.0,48.0,Omnivore,Arctic,Endangered
+704,Porcupine,3431.0,20.0,Herbivore,Tropical Rainforest,Critically Endangered
+705,Wombat,180.0,88.0,Omnivore,Grasslands,Least Concern
+706,Snow Leopard,2961.0,95.0,Insectivore,Forests,Endangered
+707,Hammerhead Shark,2139.0,72.0,Herbivore,Mountains,Least Concern
+708,Cheetah,464.0,28.0,Insectivore,Tropical Rainforest,Vulnerable
+709,Armadillo,464.0,98.0,Omnivore,Forests,Vulnerable
+710,Orangutan,1104.0,12.0,Omnivore,Rivers,Endangered
+711,Manta Ray,3064.0,9.0,Insectivore,Savannas,Critically Endangered
+712,Armadillo,2943.0,25.0,Herbivore,Forests,Critically Endangered
+713,Leopard Seal,300.0,74.0,Herbivore,Grasslands,Critically Endangered
+714,Black Widow Spider,1147.0,25.0,Carnivore,Ocean,Critically Endangered
+715,Snow Leopard,43.0,91.0,Insectivore,Mountains,Endangered
+716,Baboon,2750.0,62.0,Herbivore,Mountains,Least Concern
+717,Kangaroo,1594.0,59.0,Carnivore,Savannas,Least Concern
+718,Python,3132.0,33.0,Carnivore,Tropical Rainforest,Vulnerable
+719,Leopard Seal,3439.0,98.0,Carnivore,Savannas,Endangered
+720,Flamingo,847.0,53.0,Insectivore,Arctic,Endangered
+721,Wolf,672.0,52.0,Herbivore,Grasslands,Least Concern
+722,Armadillo,2154.0,65.0,Omnivore,Rivers,Endangered
+723,Golden Eagle,1417.0,68.0,Insectivore,Arctic,Endangered
+724,Puffin,716.0,19.0,Herbivore,Tropical Rainforest,Vulnerable
+725,Walrus,2934.0,72.0,Carnivore,Tropical Rainforest,Least Concern
+726,Jaguar,3183.0,77.0,Omnivore,Grasslands,Vulnerable
+727,Mountain Goat,2163.0,100.0,Carnivore,Forests,Vulnerable
+728,Rhino,1762.0,22.0,Carnivore,Ocean,Vulnerable
+729,Penguin,325.0,100.0,Herbivore,Rivers,Least Concern
+730,Chimpanzee,2480.0,11.0,Herbivore,Mountains,Critically Endangered
+731,Alligator,1835.0,36.0,Herbivore,Rivers,Critically Endangered
+732,Narwhal,2262.0,79.0,Omnivore,Grasslands,Vulnerable
+733,Anteater,293.0,25.0,Herbivore,Grasslands,Least Concern
+734,Koala,1606.0,23.0,Omnivore,Ocean,Endangered
+735,Emperor Penguin,285.0,75.0,Carnivore,Grasslands,Vulnerable
+736,Ocelot,1185.0,73.0,Insectivore,Savannas,Critically Endangered
+737,Python,3055.0,54.0,Carnivore,Ocean,Vulnerable
+738,Hammerhead Shark,2865.0,55.0,Carnivore,Ocean,Critically Endangered
+739,Lynx,3470.0,34.0,Herbivore,Ocean,Endangered
+740,Iguana,492.0,100.0,Insectivore,Rivers,Critically Endangered
+741,Iguana,1960.0,65.0,Insectivore,Rivers,Endangered
+742,Leopard Seal,2962.0,87.0,Insectivore,Grasslands,Endangered
+743,Giraffe,1719.0,96.0,Carnivore,Grasslands,Vulnerable
+744,Kangaroo,2794.0,75.0,Herbivore,Mountains,Endangered
+745,Eagle,2815.0,54.0,Herbivore,Ocean,Critically Endangered
+746,Mountain Goat,868.0,27.0,Insectivore,Tropical Rainforest,Critically Endangered
+747,Zebra,2850.0,61.0,Herbivore,Mountains,Least Concern
+748,Otter,1732.0,27.0,Insectivore,Mountains,Critically Endangered
+749,Leopard Seal,2625.0,49.0,Insectivore,Grasslands,Least Concern
+750,Otter,3291.0,90.0,Insectivore,Grasslands,Critically Endangered
+751,Cheetah,1256.0,97.0,Insectivore,Savannas,Vulnerable
+752,Snow Leopard,1219.0,14.0,Herbivore,Rivers,Vulnerable
+753,Manta Ray,3291.0,15.0,Omnivore,Rivers,Critically Endangered
+754,Golden Eagle,118.0,72.0,Omnivore,Savannas,Endangered
+755,Iguana,1977.0,90.0,Omnivore,Ocean,Vulnerable
+756,Wombat,27.0,83.0,Carnivore,Tropical Rainforest,Critically Endangered
+757,Lynx,1551.0,94.0,Herbivore,Savannas,Critically Endangered
+758,Emperor Penguin,985.0,74.0,Omnivore,Grasslands,Endangered
+759,Panda,1049.0,49.0,Insectivore,Rivers,Endangered
+760,Polar Bear,295.0,94.0,Omnivore,Grasslands,Vulnerable
+761,Snow Leopard,1134.0,89.0,Omnivore,Arctic,Critically Endangered
+762,Arctic Fox,2132.0,22.0,Herbivore,Forests,Least Concern
+763,Komodo Dragon,1294.0,43.0,Omnivore,Grasslands,Vulnerable
+764,Bison,812.0,20.0,Herbivore,Forests,Critically Endangered
+765,Wombat,2522.0,59.0,Herbivore,Ocean,Least Concern
+766,Penguin,1875.0,80.0,Insectivore,Forests,Least Concern
+767,Narwhal,3084.0,72.0,Omnivore,Ocean,Endangered
+768,Dolphin,1864.0,23.0,Herbivore,Forests,Critically Endangered
+769,Jaguar,1437.0,100.0,Herbivore,Forests,Endangered
+770,Zebra,1087.0,85.0,Omnivore,Savannas,Endangered
+771,Dolphin,3471.0,60.0,Carnivore,Grasslands,Critically Endangered
+772,Toucan,1581.0,15.0,Omnivore,Grasslands,Vulnerable
+773,Chimpanzee,971.0,76.0,Carnivore,Tropical Rainforest,Critically Endangered
+774,Bison,2947.0,55.0,Herbivore,Savannas,Vulnerable
+775,Flamingo,3039.0,92.0,Carnivore,Savannas,Least Concern
+776,Dolphin,2769.0,76.0,Insectivore,Rivers,Critically Endangered
+777,Toucan,2011.0,37.0,Herbivore,Savannas,Vulnerable
+778,Panda,1961.0,67.0,Omnivore,Arctic,Least Concern
+779,Otter,968.0,56.0,Carnivore,Rivers,Vulnerable
+780,Armadillo,3069.0,32.0,Herbivore,Ocean,Least Concern
+781,Koala,3291.0,52.0,Omnivore,Forests,Endangered
+782,Penguin,1469.0,11.0,Omnivore,Ocean,Critically Endangered
+783,Manatee,2431.0,60.0,Herbivore,Rivers,Critically Endangered
+784,Eagle,3066.0,75.0,Insectivore,Arctic,Vulnerable
+785,Walrus,2122.0,66.0,Omnivore,Tropical Rainforest,Least Concern
+786,Puffin,3132.0,91.0,Omnivore,Mountains,Least Concern
+787,Penguin,14.0,59.0,Omnivore,Forests,Endangered
+788,Tiger,410.0,59.0,Carnivore,Forests,Least Concern
+789,Armadillo,2488.0,19.0,Carnivore,Grasslands,Least Concern
+790,Manta Ray,302.0,58.0,Omnivore,Ocean,Vulnerable
+791,Ocelot,2751.0,60.0,Omnivore,Savannas,Endangered
+792,Giraffe,1077.0,81.0,Insectivore,Forests,Critically Endangered
+793,Otter,2573.0,42.0,Carnivore,Forests,Vulnerable
+794,Komodo Dragon,1741.0,43.0,Herbivore,Savannas,Vulnerable
+795,Sloth,126.0,71.0,Insectivore,Rivers,Least Concern
+796,Albatross,613.0,87.0,Herbivore,Mountains,Vulnerable
+797,Eagle,666.0,39.0,Insectivore,Tropical Rainforest,Least Concern
+798,Koala,3276.0,100.0,Insectivore,Tropical Rainforest,Endangered
+799,Otter,2378.0,77.0,Insectivore,Savannas,Least Concern
+800,Chimpanzee,1276.0,41.0,Herbivore,Savannas,Endangered
+801,Leopard Seal,505.0,71.0,Insectivore,Grasslands,Vulnerable
+802,Ocelot,1556.0,95.0,Insectivore,Grasslands,Endangered
+803,Otter,120.0,95.0,Omnivore,Ocean,Endangered
+804,Alligator,2420.0,38.0,Herbivore,Rivers,Endangered
+805,Baboon,2832.0,62.0,Carnivore,Grasslands,Least Concern
+806,Arctic Fox,357.0,28.0,Insectivore,Arctic,Vulnerable
+807,Cheetah,284.0,92.0,Carnivore,Forests,Critically Endangered
+808,Emperor Penguin,620.0,44.0,Insectivore,Savannas,Least Concern
+809,Hammerhead Shark,1840.0,34.0,Carnivore,Forests,Critically Endangered
+810,Chimpanzee,1550.0,43.0,Carnivore,Mountains,Least Concern
+811,Rhino,129.0,78.0,Insectivore,Tropical Rainforest,Critically Endangered
+812,Cheetah,907.0,76.0,Omnivore,Grasslands,Vulnerable
+813,Komodo Dragon,1876.0,58.0,Herbivore,Rivers,Critically Endangered
+814,Eagle,2247.0,23.0,Carnivore,Mountains,Critically Endangered
+815,Walrus,2645.0,25.0,Carnivore,Ocean,Endangered
+816,Koala,107.0,56.0,Carnivore,Mountains,Endangered
+817,Manta Ray,1414.0,58.0,Insectivore,Arctic,Least Concern
+818,Komodo Dragon,2697.0,86.0,Carnivore,Mountains,Critically Endangered
+819,Sea Turtle,2530.0,53.0,Carnivore,Tropical Rainforest,Endangered
+820,Zebra,1939.0,73.0,Omnivore,Grasslands,Endangered
+821,Rhino,155.0,16.0,Herbivore,Mountains,Vulnerable
+822,Leopard Seal,2850.0,45.0,Insectivore,Tropical Rainforest,Critically Endangered
+823,Armadillo,2598.0,55.0,Carnivore,Forests,Critically Endangered
+824,Emperor Penguin,391.0,41.0,Omnivore,Mountains,Endangered
+825,Sloth,140.0,76.0,Omnivore,Tropical Rainforest,Endangered
+826,Otter,1501.0,57.0,Omnivore,Grasslands,Least Concern
+827,Wombat,241.0,93.0,Insectivore,Arctic,Endangered
+828,Python,1308.0,97.0,Insectivore,Ocean,Critically Endangered
+829,Jaguar,2197.0,54.0,Omnivore,Mountains,Critically Endangered
+830,Sloth,735.0,48.0,Herbivore,Savannas,Least Concern
+831,Puffin,1086.0,43.0,Omnivore,Rivers,Endangered
+832,Armadillo,206.0,86.0,Insectivore,Savannas,Critically Endangered
+833,Penguin,1568.0,32.0,Insectivore,Arctic,Least Concern
+834,Parrot,55.0,10.0,Herbivore,Forests,Least Concern
+835,Otter,1647.0,26.0,Omnivore,Tropical Rainforest,Critically Endangered
+836,Eagle,884.0,6.0,Herbivore,Grasslands,Critically Endangered
+837,Porcupine,2575.0,59.0,Carnivore,Grasslands,Least Concern
+838,Polar Bear,1109.0,10.0,Herbivore,Rivers,Least Concern
+839,Otter,2449.0,14.0,Omnivore,Savannas,Endangered
+840,Anteater,1661.0,65.0,Carnivore,Grasslands,Vulnerable
+841,Anteater,3332.0,73.0,Insectivore,Tropical Rainforest,Critically Endangered
+842,Red Panda,2615.0,18.0,Omnivore,Tropical Rainforest,Vulnerable
+843,Porcupine,1884.0,43.0,Insectivore,Mountains,Vulnerable
+844,Emperor Penguin,1871.0,96.0,Herbivore,Mountains,Endangered
+845,Sea Turtle,3398.0,22.0,Herbivore,Mountains,Least Concern
+846,Sea Turtle,465.0,22.0,Herbivore,Arctic,Critically Endangered
+847,Wombat,3294.0,76.0,Carnivore,Rivers,Least Concern
+848,Penguin,17.0,89.0,Herbivore,Savannas,Least Concern
+849,Emperor Penguin,260.0,11.0,Omnivore,Tropical Rainforest,Least Concern
+850,Snow Leopard,1088.0,30.0,Insectivore,Grasslands,Critically Endangered
+851,Sloth,1876.0,60.0,Carnivore,Mountains,Endangered
+852,Python,579.0,18.0,Omnivore,Forests,Critically Endangered
+853,Jaguar,3141.0,47.0,Carnivore,Arctic,Least Concern
+854,Moose,1353.0,77.0,Omnivore,Grasslands,Least Concern
+855,Red Panda,1430.0,94.0,Omnivore,Savannas,Critically Endangered
+856,Rhino,2491.0,70.0,Herbivore,Ocean,Endangered
+857,Polar Bear,632.0,37.0,Omnivore,Grasslands,Critically Endangered
+858,Mountain Goat,1830.0,81.0,Herbivore,Rivers,Vulnerable
+859,Rhino,2297.0,67.0,Insectivore,Rivers,Critically Endangered
+860,Albatross,1629.0,62.0,Insectivore,Tropical Rainforest,Endangered
+861,Jaguar,1204.0,90.0,Insectivore,Ocean,Endangered
+862,Arctic Fox,2298.0,30.0,Carnivore,Savannas,Critically Endangered
+863,Penguin,3238.0,31.0,Omnivore,Arctic,Least Concern
+864,Arctic Fox,1094.0,31.0,Insectivore,Grasslands,Critically Endangered
+865,Dolphin,2635.0,99.0,Insectivore,Tropical Rainforest,Vulnerable
+866,Zebra,3303.0,97.0,Carnivore,Mountains,Least Concern
+867,Otter,1323.0,58.0,Insectivore,Forests,Endangered
+868,Ocelot,2950.0,89.0,Herbivore,Arctic,Critically Endangered
+869,Tiger,2134.0,40.0,Carnivore,Grasslands,Least Concern
+870,Gazelle,3121.0,27.0,Herbivore,Rivers,Endangered
+871,Polar Bear,1984.0,46.0,Insectivore,Tropical Rainforest,Least Concern
+872,Panda,1297.0,28.0,Carnivore,Tropical Rainforest,Endangered
+873,Baboon,2997.0,8.0,Carnivore,Mountains,Vulnerable
+874,Eagle,3126.0,28.0,Carnivore,Arctic,Least Concern
+875,Parrot,1840.0,94.0,Insectivore,Arctic,Critically Endangered
+876,Baboon,846.0,80.0,Insectivore,Tropical Rainforest,Endangered
+877,Manatee,2203.0,99.0,Herbivore,Mountains,Endangered
+878,Toucan,1974.0,31.0,Carnivore,Mountains,Critically Endangered
+879,Puffin,2638.0,61.0,Herbivore,Ocean,Least Concern
+880,Mountain Goat,1793.0,28.0,Insectivore,Rivers,Least Concern
+881,Komodo Dragon,2314.0,27.0,Herbivore,Ocean,Vulnerable
+882,Alligator,2551.0,90.0,Carnivore,Rivers,Endangered
+883,Narwhal,859.0,46.0,Insectivore,Ocean,Vulnerable
+884,Gazelle,3214.0,27.0,Herbivore,Mountains,Vulnerable
+885,Narwhal,2583.0,30.0,Omnivore,Forests,Vulnerable
+886,Snow Leopard,1655.0,16.0,Herbivore,Rivers,Critically Endangered
+887,Golden Eagle,1676.0,37.0,Omnivore,Savannas,Vulnerable
+888,Flamingo,3391.0,49.0,Insectivore,Forests,Least Concern
+889,Dolphin,673.0,81.0,Omnivore,Ocean,Critically Endangered
+890,Koala,67.0,42.0,Insectivore,Grasslands,Vulnerable
+891,Narwhal,296.0,38.0,Omnivore,Arctic,Endangered
+892,Anteater,3456.0,55.0,Omnivore,Arctic,Least Concern
+893,Parrot,2478.0,70.0,Herbivore,Ocean,Least Concern
+894,Golden Eagle,283.0,13.0,Carnivore,Tropical Rainforest,Vulnerable
+895,Koala,1480.0,76.0,Insectivore,Tropical Rainforest,Endangered
+896,Rhino,3039.0,43.0,Carnivore,Tropical Rainforest,Least Concern
+897,Cheetah,1504.0,58.0,Omnivore,Mountains,Endangered
+898,Baboon,466.0,68.0,Insectivore,Grasslands,Least Concern
+899,Chimpanzee,3002.0,78.0,Insectivore,Rivers,Least Concern
+900,Flamingo,450.0,25.0,Omnivore,Ocean,Vulnerable
+901,Giraffe,1098.0,34.0,Omnivore,Ocean,Least Concern
+902,Eagle,2034.0,83.0,Carnivore,Savannas,Endangered
+903,Orangutan,1856.0,43.0,Omnivore,Forests,Endangered
+904,Emperor Penguin,2277.0,26.0,Insectivore,Ocean,Vulnerable
+905,Cheetah,104.0,57.0,Insectivore,Ocean,Critically Endangered
+906,Python,3098.0,83.0,Insectivore,Rivers,Least Concern
+907,Bison,249.0,98.0,Carnivore,Rivers,Vulnerable
+908,Anteater,1798.0,50.0,Insectivore,Ocean,Critically Endangered
+909,Python,1152.0,69.0,Omnivore,Ocean,Endangered
+910,Bison,1346.0,89.0,Insectivore,Savannas,Least Concern
+911,Bison,2988.0,12.0,Carnivore,Grasslands,Critically Endangered
+912,Python,37.0,95.0,Insectivore,Savannas,Endangered
+913,Jaguar,60.0,16.0,Insectivore,Grasslands,Least Concern
+914,Manta Ray,3239.0,96.0,Omnivore,Rivers,Least Concern
+915,Wombat,2461.0,42.0,Herbivore,Arctic,Least Concern
+916,Ocelot,1587.0,39.0,Omnivore,Rivers,Endangered
+917,Jaguar,453.0,59.0,Insectivore,Tropical Rainforest,Critically Endangered
+918,Kangaroo,167.0,21.0,Insectivore,Ocean,Critically Endangered
+919,Bison,2051.0,12.0,Carnivore,Grasslands,Critically Endangered
+920,Giraffe,1545.0,95.0,Herbivore,Tropical Rainforest,Least Concern
+921,Eagle,2804.0,53.0,Herbivore,Grasslands,Endangered
+922,Chimpanzee,2443.0,73.0,Insectivore,Arctic,Vulnerable
+923,Hippopotamus,1556.0,82.0,Omnivore,Grasslands,Least Concern
+924,Manatee,1891.0,15.0,Insectivore,Forests,Least Concern
+925,Penguin,870.0,10.0,Carnivore,Grasslands,Critically Endangered
+926,Wolf,2387.0,14.0,Omnivore,Mountains,Vulnerable
+927,Orangutan,1649.0,40.0,Herbivore,Rivers,Least Concern
+928,Python,961.0,54.0,Insectivore,Forests,Least Concern
+929,Iguana,1279.0,55.0,Carnivore,Ocean,Endangered
+930,Iguana,2872.0,23.0,Carnivore,Forests,Critically Endangered
+931,Red Panda,3402.0,38.0,Insectivore,Savannas,Critically Endangered
+932,Hammerhead Shark,2589.0,62.0,Herbivore,Forests,Least Concern
+933,Mountain Goat,491.0,48.0,Insectivore,Tropical Rainforest,Least Concern
+934,Bison,1185.0,86.0,Insectivore,Tropical Rainforest,Vulnerable
+935,Orangutan,2646.0,21.0,Carnivore,Ocean,Least Concern
+936,Tiger,3169.0,61.0,Insectivore,Grasslands,Critically Endangered
+937,Dolphin,1899.0,72.0,Insectivore,Grasslands,Endangered
+938,Manta Ray,891.0,95.0,Herbivore,Grasslands,Critically Endangered
+939,Red Panda,3414.0,26.0,Carnivore,Savannas,Critically Endangered
+940,Ocelot,3446.0,37.0,Insectivore,Arctic,Endangered
+941,Alligator,540.0,38.0,Herbivore,Arctic,Least Concern
+942,Red Panda,1290.0,64.0,Insectivore,Rivers,Vulnerable
+943,Giraffe,2112.0,90.0,Herbivore,Arctic,Least Concern
+944,Gazelle,1262.0,62.0,Herbivore,Ocean,Critically Endangered
+945,Polar Bear,269.0,86.0,Insectivore,Arctic,Least Concern
+946,Albatross,486.0,43.0,Insectivore,Ocean,Least Concern
+947,Sloth,2545.0,30.0,Insectivore,Forests,Vulnerable
+948,Toucan,2061.0,76.0,Herbivore,Ocean,Vulnerable
+949,Golden Eagle,520.0,29.0,Carnivore,Forests,Endangered
+950,Arctic Fox,1909.0,11.0,Omnivore,Rivers,Least Concern
+951,Parrot,976.0,59.0,Omnivore,Grasslands,Endangered
+952,Dolphin,1421.0,84.0,Insectivore,Tropical Rainforest,Critically Endangered
+953,Iguana,2254.0,39.0,Omnivore,Grasslands,Vulnerable
+954,Armadillo,2481.0,62.0,Omnivore,Tropical Rainforest,Least Concern
+955,Wombat,3106.0,33.0,Carnivore,Forests,Least Concern
+956,Anteater,1088.0,39.0,Insectivore,Rivers,Vulnerable
+957,Panda,1637.0,42.0,Insectivore,Grasslands,Endangered
+958,Koala,3189.0,47.0,Herbivore,Tropical Rainforest,Vulnerable
+959,Jaguar,1744.0,93.0,Omnivore,Forests,Least Concern
+960,Python,2796.0,20.0,Insectivore,Rivers,Endangered
+961,Leopard Seal,1302.0,97.0,Insectivore,Ocean,Endangered
+962,Jaguar,918.0,80.0,Insectivore,Forests,Endangered
+963,Mountain Goat,1713.0,60.0,Carnivore,Arctic,Critically Endangered
+964,Albatross,1969.0,17.0,Insectivore,Ocean,Endangered
+965,Cheetah,1741.0,69.0,Omnivore,Grasslands,Critically Endangered
+966,Parrot,2654.0,75.0,Omnivore,Mountains,Least Concern
+967,Parrot,948.0,46.0,Insectivore,Mountains,Vulnerable
+968,Sloth,2276.0,33.0,Carnivore,Arctic,Critically Endangered
+969,Arctic Fox,1476.0,53.0,Omnivore,Rivers,Endangered
+970,Leopard Seal,1084.0,61.0,Omnivore,Tropical Rainforest,Least Concern
+971,Zebra,2247.0,86.0,Carnivore,Arctic,Critically Endangered
+972,Chimpanzee,2820.0,98.0,Herbivore,Rivers,Least Concern
+973,Golden Eagle,1902.0,95.0,Herbivore,Tropical Rainforest,Endangered
+974,Wolf,3216.0,35.0,Insectivore,Forests,Critically Endangered
+975,Narwhal,2011.0,93.0,Herbivore,Ocean,Vulnerable
+976,Gazelle,1426.0,31.0,Insectivore,Grasslands,Vulnerable
+977,Sea Turtle,1011.0,44.0,Carnivore,Mountains,Endangered
+978,Snow Leopard,770.0,83.0,Herbivore,Arctic,Critically Endangered
+979,Komodo Dragon,3253.0,70.0,Herbivore,Mountains,Vulnerable
+980,Arctic Fox,1751.0,43.0,Carnivore,Savannas,Least Concern
+981,Albatross,2764.0,39.0,Insectivore,Ocean,Critically Endangered
+982,Toucan,1061.0,54.0,Carnivore,Savannas,Endangered
+983,Eagle,3343.0,40.0,Insectivore,Savannas,Critically Endangered
+984,Baboon,1913.0,19.0,Insectivore,Forests,Critically Endangered
+985,Armadillo,15.0,7.0,Carnivore,Forests,Endangered
+986,Snow Leopard,478.0,99.0,Herbivore,Grasslands,Least Concern
+987,Dolphin,2556.0,6.0,Insectivore,Mountains,Vulnerable
+988,Giraffe,1177.0,88.0,Herbivore,Savannas,Endangered
+989,Red Panda,2273.0,53.0,Omnivore,Grasslands,Endangered
+990,Hippopotamus,2385.0,70.0,Omnivore,Savannas,Vulnerable
+991,Sea Turtle,1808.0,91.0,Omnivore,Ocean,Vulnerable
+992,Manatee,3111.0,65.0,Insectivore,Grasslands,Endangered
+993,Porcupine,1159.0,97.0,Omnivore,Arctic,Endangered
+994,Bison,1381.0,79.0,Herbivore,Tropical Rainforest,Vulnerable
+995,Leopard Seal,969.0,84.0,Omnivore,Savannas,Least Concern
+996,Orangutan,2320.0,96.0,Omnivore,Arctic,Vulnerable
+997,Sloth,2582.0,18.0,Insectivore,Ocean,Endangered
+998,Eagle,24.0,6.0,Insectivore,Arctic,Least Concern
+999,Puffin,1992.0,63.0,Herbivore,Forests,Least Concern
+1000,Puffin,1777.0,43.0,Omnivore,Mountains,Vulnerable
+1001,Dolphin,922.0,55.0,Herbivore,Tropical Rainforest,Critically Endangered
+1002,Albatross,1617.0,27.0,Herbivore,Savannas,Vulnerable
+1003,Albatross,1957.0,33.0,Carnivore,Tropical Rainforest,Endangered
+1004,Toucan,1023.0,73.0,Insectivore,Grasslands,Vulnerable
+1005,Orangutan,2977.0,92.0,Herbivore,Rivers,Critically Endangered
+1006,Kangaroo,575.0,23.0,Insectivore,Rivers,Vulnerable
+1007,Emperor Penguin,2350.0,40.0,Insectivore,Grasslands,Critically Endangered
+1008,Sloth,1369.0,16.0,Insectivore,Arctic,Endangered
+1009,Hippopotamus,827.0,52.0,Insectivore,Rivers,Least Concern
+1010,Emperor Penguin,1602.0,53.0,Carnivore,Tropical Rainforest,Least Concern
+1011,Komodo Dragon,154.0,71.0,Omnivore,Tropical Rainforest,Vulnerable
+1012,Zebra,3172.0,41.0,Carnivore,Ocean,Least Concern
+1013,Moose,1467.0,99.0,Herbivore,Tropical Rainforest,Endangered
+1014,Bison,1589.0,41.0,Omnivore,Grasslands,Least Concern
+1015,Flamingo,771.0,89.0,Omnivore,Tropical Rainforest,Critically Endangered
+1016,Chimpanzee,661.0,5.0,Herbivore,Tropical Rainforest,Vulnerable
+1017,Puffin,1999.0,36.0,Carnivore,Arctic,Critically Endangered
+1018,Polar Bear,675.0,44.0,Omnivore,Savannas,Critically Endangered
+1019,Wombat,1282.0,60.0,Insectivore,Grasslands,Critically Endangered
+1020,Tiger,2631.0,72.0,Omnivore,Arctic,Vulnerable
+1021,Narwhal,701.0,52.0,Insectivore,Rivers,Least Concern
+1022,Anteater,579.0,85.0,Insectivore,Ocean,Endangered
+1023,Alligator,1828.0,79.0,Herbivore,Arctic,Least Concern
+1024,Golden Eagle,1046.0,89.0,Herbivore,Mountains,Least Concern
+1025,Emperor Penguin,1244.0,61.0,Carnivore,Tropical Rainforest,Endangered
+1026,Sloth,2708.0,6.0,Carnivore,Forests,Endangered
+1027,Albatross,712.0,29.0,Omnivore,Arctic,Vulnerable
+1028,Emperor Penguin,2257.0,18.0,Omnivore,Savannas,Endangered
+1029,Koala,2991.0,42.0,Herbivore,Arctic,Least Concern
+1030,Cheetah,859.0,80.0,Omnivore,Grasslands,Critically Endangered
+1031,Komodo Dragon,2705.0,67.0,Herbivore,Forests,Vulnerable
+1032,Emperor Penguin,216.0,92.0,Insectivore,Forests,Critically Endangered
+1033,Flamingo,804.0,86.0,Carnivore,Rivers,Vulnerable
+1034,Porcupine,2349.0,98.0,Insectivore,Rivers,Vulnerable
+1035,Hammerhead Shark,2646.0,77.0,Herbivore,Forests,Vulnerable
+1036,Baboon,1696.0,20.0,Carnivore,Rivers,Critically Endangered
+1037,Kangaroo,1624.0,17.0,Insectivore,Ocean,Vulnerable
+1038,Black Widow Spider,2911.0,55.0,Insectivore,Ocean,Critically Endangered
+1039,Bison,753.0,38.0,Herbivore,Arctic,Least Concern
+1040,Python,2612.0,12.0,Herbivore,Rivers,Vulnerable
+1041,Albatross,374.0,88.0,Herbivore,Tropical Rainforest,Vulnerable
+1042,Mountain Goat,1222.0,88.0,Herbivore,Arctic,Critically Endangered
+1043,Otter,851.0,93.0,Insectivore,Arctic,Critically Endangered
+1044,Hammerhead Shark,677.0,11.0,Herbivore,Savannas,Critically Endangered
+1045,Komodo Dragon,1938.0,13.0,Herbivore,Ocean,Least Concern
+1046,Emperor Penguin,782.0,41.0,Carnivore,Ocean,Critically Endangered
+1047,Snow Leopard,3450.0,89.0,Herbivore,Arctic,Critically Endangered
+1048,Ocelot,220.0,16.0,Carnivore,Rivers,Endangered
+1049,Iguana,715.0,44.0,Carnivore,Arctic,Critically Endangered
+1050,Bison,1346.0,35.0,Herbivore,Forests,Critically Endangered
+1051,Flamingo,2461.0,9.0,Herbivore,Savannas,Critically Endangered
+1052,Dolphin,1695.0,76.0,Insectivore,Mountains,Vulnerable
+1053,Gazelle,643.0,91.0,Insectivore,Savannas,Vulnerable
+1054,Bison,2428.0,61.0,Herbivore,Ocean,Least Concern
+1055,Giraffe,3253.0,26.0,Herbivore,Rivers,Endangered
+1056,Rhino,1938.0,21.0,Herbivore,Ocean,Endangered
+1057,Penguin,95.0,36.0,Omnivore,Ocean,Least Concern
+1058,Sea Turtle,432.0,33.0,Insectivore,Ocean,Vulnerable
+1059,Anteater,1592.0,53.0,Insectivore,Mountains,Endangered
+1060,Panda,2871.0,75.0,Herbivore,Arctic,Least Concern
+1061,Koala,405.0,60.0,Carnivore,Tropical Rainforest,Critically Endangered
+1062,Lynx,1619.0,68.0,Omnivore,Forests,Least Concern
+1063,Armadillo,809.0,46.0,Carnivore,Forests,Least Concern
+1064,Hippopotamus,700.0,83.0,Omnivore,Ocean,Least Concern
+1065,Cheetah,1764.0,26.0,Carnivore,Ocean,Least Concern
+1066,Lynx,3439.0,85.0,Omnivore,Forests,Vulnerable
+1067,Manta Ray,34.0,51.0,Herbivore,Rivers,Endangered
+1068,Python,846.0,61.0,Carnivore,Forests,Vulnerable
+1069,Giraffe,348.0,68.0,Omnivore,Rivers,Least Concern
+1070,Chimpanzee,2411.0,57.0,Herbivore,Arctic,Least Concern
+1071,Manta Ray,2353.0,32.0,Omnivore,Mountains,Least Concern
+1072,Anteater,364.0,50.0,Herbivore,Savannas,Vulnerable
+1073,Sloth,1253.0,37.0,Herbivore,Mountains,Endangered
+1074,Kangaroo,2352.0,70.0,Omnivore,Arctic,Critically Endangered
+1075,Orangutan,2999.0,52.0,Insectivore,Arctic,Critically Endangered
+1076,Wombat,121.0,86.0,Omnivore,Tropical Rainforest,Least Concern
+1077,Rhino,594.0,37.0,Insectivore,Tropical Rainforest,Endangered
+1078,Eagle,579.0,73.0,Carnivore,Savannas,Least Concern
+1079,Walrus,3477.0,9.0,Insectivore,Ocean,Endangered
+1080,Tiger,1426.0,29.0,Insectivore,Forests,Least Concern
+1081,Chimpanzee,69.0,68.0,Omnivore,Arctic,Critically Endangered
+1082,Penguin,1156.0,82.0,Insectivore,Mountains,Least Concern
+1083,Moose,1444.0,47.0,Omnivore,Mountains,Endangered
+1084,Jaguar,3242.0,32.0,Carnivore,Tropical Rainforest,Endangered
+1085,Manatee,1820.0,69.0,Insectivore,Forests,Vulnerable
+1086,Bison,2549.0,20.0,Carnivore,Forests,Critically Endangered
+1087,Iguana,2994.0,99.0,Insectivore,Forests,Vulnerable
+1088,Puffin,425.0,9.0,Insectivore,Grasslands,Vulnerable
+1089,Flamingo,936.0,86.0,Herbivore,Ocean,Least Concern
+1090,Manta Ray,1725.0,34.0,Herbivore,Savannas,Critically Endangered
+1091,Wombat,437.0,30.0,Omnivore,Tropical Rainforest,Critically Endangered
+1092,Orangutan,1490.0,39.0,Carnivore,Tropical Rainforest,Endangered
+1093,Moose,1869.0,61.0,Herbivore,Tropical Rainforest,Vulnerable
+1094,Leopard Seal,2341.0,64.0,Insectivore,Grasslands,Vulnerable
+1095,Kangaroo,2699.0,20.0,Omnivore,Savannas,Critically Endangered
+1096,Alligator,1949.0,17.0,Carnivore,Forests,Least Concern
+1097,Flamingo,2737.0,75.0,Herbivore,Savannas,Critically Endangered
+1098,Hippopotamus,1563.0,72.0,Omnivore,Savannas,Vulnerable
+1099,Puffin,1028.0,59.0,Carnivore,Rivers,Vulnerable
+1100,Manta Ray,2435.0,78.0,Omnivore,Forests,Least Concern
+1101,Rhino,488.0,66.0,Carnivore,Forests,Critically Endangered
+1102,Manta Ray,1623.0,56.0,Insectivore,Forests,Vulnerable
+1103,Wombat,1171.0,94.0,Herbivore,Ocean,Vulnerable
+1104,Albatross,2646.0,80.0,Omnivore,Grasslands,Endangered
+1105,Anteater,2504.0,39.0,Carnivore,Ocean,Vulnerable
+1106,Ocelot,2140.0,93.0,Insectivore,Savannas,Least Concern
+1107,Mountain Goat,48.0,70.0,Omnivore,Savannas,Least Concern
+1108,Zebra,1724.0,44.0,Carnivore,Mountains,Least Concern
+1109,Kangaroo,1540.0,41.0,Herbivore,Forests,Vulnerable
+1110,Black Widow Spider,3005.0,74.0,Carnivore,Ocean,Vulnerable
+1111,Polar Bear,1702.0,7.0,Omnivore,Forests,Endangered
+1112,Manatee,998.0,70.0,Carnivore,Rivers,Endangered
+1113,Wolf,2531.0,40.0,Omnivore,Tropical Rainforest,Critically Endangered
+1114,Manta Ray,1036.0,66.0,Omnivore,Tropical Rainforest,Endangered
+1115,Ocelot,900.0,93.0,Omnivore,Mountains,Least Concern
+1116,Kangaroo,2496.0,43.0,Insectivore,Grasslands,Critically Endangered
+1117,Otter,2866.0,24.0,Carnivore,Grasslands,Critically Endangered
+1118,Hippopotamus,2908.0,9.0,Insectivore,Forests,Critically Endangered
+1119,Puffin,3001.0,13.0,Omnivore,Grasslands,Vulnerable
+1120,Armadillo,2712.0,14.0,Insectivore,Tropical Rainforest,Endangered
+1121,Porcupine,2231.0,98.0,Carnivore,Ocean,Least Concern
+1122,Ocelot,1307.0,23.0,Omnivore,Ocean,Critically Endangered
+1123,Albatross,160.0,54.0,Insectivore,Tropical Rainforest,Critically Endangered
+1124,Python,1372.0,24.0,Insectivore,Forests,Endangered
+1125,Zebra,2254.0,45.0,Insectivore,Grasslands,Endangered
+1126,Walrus,3452.0,68.0,Omnivore,Tropical Rainforest,Vulnerable
+1127,Dolphin,117.0,56.0,Herbivore,Tropical Rainforest,Least Concern
+1128,Tiger,696.0,65.0,Carnivore,Ocean,Critically Endangered
+1129,Kangaroo,1483.0,34.0,Omnivore,Rivers,Vulnerable
+1130,Panda,2096.0,57.0,Carnivore,Ocean,Least Concern
+1131,Zebra,7.0,62.0,Herbivore,Grasslands,Endangered
+1132,Ocelot,2477.0,56.0,Herbivore,Mountains,Vulnerable
+1133,Mountain Goat,1350.0,63.0,Herbivore,Rivers,Vulnerable
+1134,Alligator,3296.0,19.0,Herbivore,Forests,Critically Endangered
+1135,Penguin,1050.0,67.0,Carnivore,Savannas,Least Concern
+1136,Manta Ray,2065.0,35.0,Omnivore,Ocean,Least Concern
+1137,Arctic Fox,1390.0,16.0,Herbivore,Savannas,Vulnerable
+1138,Koala,3459.0,23.0,Omnivore,Ocean,Endangered
+1139,Wolf,462.0,54.0,Insectivore,Arctic,Least Concern
+1140,Snow Leopard,3057.0,61.0,Carnivore,Arctic,Critically Endangered
+1141,Koala,266.0,18.0,Omnivore,Tropical Rainforest,Endangered
+1142,Manta Ray,1639.0,76.0,Herbivore,Ocean,Critically Endangered
+1143,Zebra,2265.0,90.0,Herbivore,Tropical Rainforest,Endangered
+1144,Gazelle,1242.0,36.0,Carnivore,Arctic,Vulnerable
+1145,Albatross,3068.0,54.0,Carnivore,Arctic,Vulnerable
+1146,Orangutan,285.0,58.0,Herbivore,Forests,Endangered
+1147,Orangutan,1002.0,20.0,Herbivore,Forests,Critically Endangered
+1148,Bison,2216.0,86.0,Omnivore,Mountains,Critically Endangered
+1149,Panda,1817.0,10.0,Carnivore,Rivers,Vulnerable
+1150,Gazelle,2185.0,90.0,Insectivore,Ocean,Vulnerable
+1151,Jaguar,3319.0,80.0,Herbivore,Rivers,Vulnerable
+1152,Moose,1328.0,28.0,Omnivore,Grasslands,Endangered
+1153,Baboon,2535.0,39.0,Carnivore,Ocean,Endangered
+1154,Flamingo,3043.0,74.0,Carnivore,Rivers,Least Concern
+1155,Penguin,52.0,68.0,Carnivore,Grasslands,Vulnerable
+1156,Panda,3214.0,63.0,Carnivore,Savannas,Endangered
+1157,Golden Eagle,91.0,10.0,Insectivore,Savannas,Least Concern
+1158,Tiger,1864.0,63.0,Herbivore,Ocean,Critically Endangered
+1159,Arctic Fox,2044.0,61.0,Insectivore,Tropical Rainforest,Vulnerable
+1160,Bison,1736.0,32.0,Herbivore,Arctic,Endangered
+1161,Golden Eagle,465.0,60.0,Insectivore,Arctic,Least Concern
+1162,Porcupine,1658.0,10.0,Omnivore,Tropical Rainforest,Endangered
+1163,Polar Bear,3290.0,62.0,Insectivore,Ocean,Least Concern
+1164,Manta Ray,1871.0,43.0,Omnivore,Grasslands,Vulnerable
+1165,Anteater,2412.0,43.0,Herbivore,Grasslands,Critically Endangered
+1166,Panda,3149.0,88.0,Carnivore,Tropical Rainforest,Least Concern
+1167,Mountain Goat,1919.0,18.0,Herbivore,Mountains,Endangered
+1168,Penguin,1774.0,17.0,Omnivore,Grasslands,Endangered
+1169,Dolphin,3127.0,95.0,Carnivore,Rivers,Critically Endangered
+1170,Dolphin,2394.0,52.0,Herbivore,Grasslands,Critically Endangered
+1171,Leopard Seal,1165.0,83.0,Carnivore,Arctic,Critically Endangered
+1172,Tiger,2680.0,53.0,Omnivore,Grasslands,Least Concern
+1173,Puffin,270.0,29.0,Herbivore,Ocean,Least Concern
+1174,Chimpanzee,1253.0,10.0,Insectivore,Mountains,Endangered
+1175,Orangutan,2668.0,81.0,Insectivore,Arctic,Vulnerable
+1176,Manatee,601.0,9.0,Omnivore,Forests,Endangered
+1177,Bison,66.0,16.0,Omnivore,Savannas,Least Concern
+1178,Bison,1145.0,13.0,Herbivore,Forests,Least Concern
+1179,Dolphin,595.0,33.0,Herbivore,Rivers,Critically Endangered
+1180,Anteater,2094.0,24.0,Insectivore,Mountains,Endangered
+1181,Baboon,2634.0,96.0,Herbivore,Grasslands,Vulnerable
+1182,Hammerhead Shark,1118.0,44.0,Insectivore,Arctic,Vulnerable
+1183,Polar Bear,927.0,92.0,Carnivore,Tropical Rainforest,Least Concern
+1184,Jaguar,1547.0,94.0,Carnivore,Tropical Rainforest,Endangered
+1185,Wolf,205.0,67.0,Omnivore,Forests,Least Concern
+1186,Wombat,1538.0,86.0,Omnivore,Tropical Rainforest,Critically Endangered
+1187,Komodo Dragon,458.0,99.0,Insectivore,Forests,Vulnerable
+1188,Wolf,77.0,28.0,Omnivore,Rivers,Vulnerable
+1189,Wolf,961.0,97.0,Herbivore,Rivers,Endangered
+1190,Gazelle,28.0,32.0,Herbivore,Rivers,Critically Endangered
+1191,Hippopotamus,475.0,49.0,Herbivore,Forests,Least Concern
+1192,Giraffe,2009.0,60.0,Carnivore,Rivers,Vulnerable
+1193,Lynx,1575.0,90.0,Carnivore,Forests,Vulnerable
+1194,Orangutan,2254.0,75.0,Carnivore,Ocean,Vulnerable
+1195,Cheetah,2866.0,28.0,Carnivore,Mountains,Critically Endangered
+1196,Parrot,2880.0,89.0,Herbivore,Forests,Critically Endangered
+1197,Komodo Dragon,1291.0,59.0,Carnivore,Forests,Least Concern
+1198,Narwhal,1201.0,26.0,Carnivore,Rivers,Vulnerable
+1199,Anteater,2369.0,70.0,Carnivore,Ocean,Least Concern
+1200,Gazelle,345.0,33.0,Insectivore,Mountains,Critically Endangered
+1201,Red Panda,1483.0,25.0,Insectivore,Rivers,Vulnerable
+1202,Parrot,825.0,83.0,Omnivore,Mountains,Critically Endangered
+1203,Narwhal,620.0,7.0,Carnivore,Ocean,Endangered
+1204,Emperor Penguin,1680.0,22.0,Insectivore,Grasslands,Endangered
+1205,Zebra,88.0,29.0,Omnivore,Forests,Least Concern
+1206,Emperor Penguin,1945.0,6.0,Herbivore,Forests,Endangered
+1207,Manatee,54.0,31.0,Insectivore,Forests,Vulnerable
+1208,Chimpanzee,2220.0,76.0,Herbivore,Savannas,Endangered
+1209,Red Panda,2289.0,75.0,Omnivore,Rivers,Endangered
+1210,Parrot,3490.0,13.0,Insectivore,Arctic,Vulnerable
+1211,Polar Bear,65.0,37.0,Omnivore,Grasslands,Critically Endangered
+1212,Flamingo,3147.0,23.0,Herbivore,Grasslands,Endangered
+1213,Black Widow Spider,3352.0,39.0,Herbivore,Forests,Critically Endangered
+1214,Tiger,1030.0,9.0,Omnivore,Ocean,Least Concern
+1215,Sea Turtle,207.0,27.0,Insectivore,Mountains,Endangered
+1216,Cheetah,2161.0,89.0,Insectivore,Rivers,Critically Endangered
+1217,Toucan,2648.0,75.0,Herbivore,Rivers,Vulnerable
+1218,Armadillo,988.0,38.0,Omnivore,Forests,Critically Endangered
+1219,Walrus,3336.0,72.0,Carnivore,Arctic,Least Concern
+1220,Hippopotamus,3207.0,63.0,Omnivore,Rivers,Critically Endangered
+1221,Alligator,2054.0,52.0,Insectivore,Tropical Rainforest,Endangered
+1222,Porcupine,1025.0,94.0,Herbivore,Forests,Vulnerable
+1223,Sloth,986.0,29.0,Carnivore,Mountains,Least Concern
+1224,Rhino,64.0,64.0,Carnivore,Arctic,Vulnerable
+1225,Arctic Fox,3063.0,96.0,Insectivore,Rivers,Least Concern
+1226,Chimpanzee,2035.0,84.0,Carnivore,Mountains,Vulnerable
+1227,Leopard Seal,3124.0,9.0,Insectivore,Arctic,Critically Endangered
+1228,Puffin,2967.0,59.0,Omnivore,Tropical Rainforest,Critically Endangered
+1229,Wombat,28.0,64.0,Carnivore,Forests,Least Concern
+1230,Koala,210.0,35.0,Insectivore,Tropical Rainforest,Endangered
+1231,Penguin,313.0,60.0,Insectivore,Mountains,Least Concern
+1232,Flamingo,1869.0,88.0,Omnivore,Arctic,Vulnerable
+1233,Anteater,48.0,88.0,Omnivore,Grasslands,Least Concern
+1234,Komodo Dragon,2808.0,96.0,Insectivore,Forests,Endangered
+1235,Red Panda,1370.0,73.0,Insectivore,Ocean,Critically Endangered
+1236,Flamingo,2813.0,31.0,Carnivore,Forests,Critically Endangered
+1237,Python,2175.0,99.0,Omnivore,Savannas,Critically Endangered
+1238,Gazelle,2202.0,47.0,Omnivore,Rivers,Vulnerable
+1239,Wolf,2947.0,51.0,Carnivore,Arctic,Endangered
+1240,Hammerhead Shark,2297.0,21.0,Herbivore,Mountains,Least Concern
+1241,Jaguar,3146.0,64.0,Herbivore,Rivers,Critically Endangered
+1242,Giraffe,1027.0,12.0,Carnivore,Tropical Rainforest,Vulnerable
+1243,Flamingo,206.0,8.0,Herbivore,Arctic,Vulnerable
+1244,Eagle,1729.0,37.0,Insectivore,Tropical Rainforest,Critically Endangered
+1245,Rhino,1760.0,7.0,Insectivore,Mountains,Endangered
+1246,Toucan,1727.0,77.0,Herbivore,Savannas,Least Concern
+1247,Parrot,3228.0,82.0,Carnivore,Tropical Rainforest,Least Concern
+1248,Anteater,2709.0,91.0,Carnivore,Forests,Least Concern
+1249,Manatee,1192.0,81.0,Carnivore,Mountains,Critically Endangered
+1250,Iguana,719.0,5.0,Insectivore,Mountains,Least Concern
+1251,Arctic Fox,3140.0,23.0,Insectivore,Arctic,Endangered
+1252,Walrus,1461.0,74.0,Carnivore,Rivers,Vulnerable
+1253,Manatee,2974.0,99.0,Insectivore,Mountains,Endangered
+1254,Iguana,2038.0,6.0,Omnivore,Rivers,Endangered
+1255,Toucan,356.0,31.0,Herbivore,Arctic,Endangered
+1256,Albatross,233.0,42.0,Insectivore,Arctic,Critically Endangered
+1257,Penguin,2849.0,92.0,Carnivore,Arctic,Endangered
+1258,Manatee,563.0,98.0,Carnivore,Arctic,Least Concern
+1259,Porcupine,223.0,40.0,Herbivore,Ocean,Critically Endangered
+1260,Parrot,2585.0,99.0,Herbivore,Grasslands,Critically Endangered
+1261,Snow Leopard,876.0,77.0,Insectivore,Savannas,Least Concern
+1262,Toucan,99.0,45.0,Omnivore,Savannas,Least Concern
+1263,Black Widow Spider,1820.0,62.0,Carnivore,Savannas,Critically Endangered
+1264,Kangaroo,1623.0,48.0,Insectivore,Forests,Least Concern
+1265,Moose,1684.0,68.0,Insectivore,Forests,Critically Endangered
+1266,Manta Ray,2954.0,62.0,Insectivore,Savannas,Least Concern
+1267,Toucan,1066.0,60.0,Herbivore,Tropical Rainforest,Vulnerable
+1268,Hammerhead Shark,3232.0,97.0,Omnivore,Ocean,Vulnerable
+1269,Wolf,2568.0,72.0,Omnivore,Grasslands,Critically Endangered
+1270,Narwhal,3256.0,29.0,Omnivore,Mountains,Critically Endangered
+1271,Gazelle,1560.0,20.0,Omnivore,Grasslands,Critically Endangered
+1272,Moose,2304.0,40.0,Herbivore,Mountains,Least Concern
+1273,Red Panda,1720.0,5.0,Carnivore,Ocean,Critically Endangered
+1274,Jaguar,1148.0,54.0,Insectivore,Ocean,Least Concern
+1275,Tiger,2890.0,8.0,Herbivore,Tropical Rainforest,Critically Endangered
+1276,Toucan,1063.0,39.0,Herbivore,Rivers,Critically Endangered
+1277,Snow Leopard,2963.0,32.0,Insectivore,Grasslands,Least Concern
+1278,Bison,2502.0,9.0,Insectivore,Forests,Critically Endangered
+1279,Wombat,1170.0,17.0,Herbivore,Grasslands,Endangered
+1280,Black Widow Spider,2871.0,80.0,Insectivore,Mountains,Least Concern
+1281,Polar Bear,783.0,45.0,Carnivore,Arctic,Least Concern
+1282,Hippopotamus,1919.0,25.0,Carnivore,Grasslands,Least Concern
+1283,Albatross,296.0,15.0,Herbivore,Savannas,Least Concern
+1284,Orangutan,2588.0,6.0,Insectivore,Mountains,Least Concern
+1285,Hammerhead Shark,921.0,100.0,Carnivore,Ocean,Endangered
+1286,Mountain Goat,487.0,61.0,Herbivore,Savannas,Least Concern
+1287,Black Widow Spider,731.0,7.0,Herbivore,Forests,Least Concern
+1288,Wolf,2394.0,68.0,Carnivore,Rivers,Least Concern
+1289,Giraffe,2602.0,41.0,Carnivore,Ocean,Least Concern
+1290,Armadillo,1316.0,14.0,Omnivore,Arctic,Critically Endangered
+1291,Lynx,635.0,28.0,Insectivore,Rivers,Endangered
+1292,Lynx,2379.0,75.0,Insectivore,Arctic,Critically Endangered
+1293,Zebra,1393.0,52.0,Carnivore,Tropical Rainforest,Critically Endangered
+1294,Red Panda,2687.0,8.0,Carnivore,Savannas,Least Concern
+1295,Emperor Penguin,3327.0,93.0,Herbivore,Forests,Critically Endangered
+1296,Sea Turtle,2815.0,88.0,Carnivore,Grasslands,Endangered
+1297,Komodo Dragon,2189.0,46.0,Insectivore,Ocean,Least Concern
+1298,Manta Ray,594.0,10.0,Herbivore,Tropical Rainforest,Critically Endangered
+1299,Anteater,3201.0,92.0,Herbivore,Ocean,Vulnerable
+1300,Wombat,736.0,91.0,Insectivore,Tropical Rainforest,Endangered
+1301,Sloth,2835.0,43.0,Insectivore,Forests,Critically Endangered
+1302,Black Widow Spider,563.0,31.0,Insectivore,Tropical Rainforest,Least Concern
+1303,Wolf,3107.0,62.0,Herbivore,Arctic,Vulnerable
+1304,Sloth,620.0,51.0,Herbivore,Arctic,Endangered
+1305,Hammerhead Shark,2829.0,92.0,Carnivore,Savannas,Least Concern
+1306,Moose,2415.0,98.0,Insectivore,Rivers,Endangered
+1307,Hippopotamus,2906.0,43.0,Omnivore,Forests,Least Concern
+1308,Chimpanzee,919.0,48.0,Carnivore,Forests,Endangered
+1309,Parrot,2742.0,26.0,Carnivore,Savannas,Vulnerable
+1310,Snow Leopard,17.0,100.0,Carnivore,Arctic,Endangered
+1311,Koala,1656.0,27.0,Carnivore,Grasslands,Critically Endangered
+1312,Mountain Goat,596.0,45.0,Omnivore,Rivers,Least Concern

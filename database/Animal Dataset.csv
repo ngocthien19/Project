@@ -1,0 +1,1406 @@
+Animal,Height (cm),Weight (kg),Color,Lifespan (years),Diet,Habitat,Predators,Average Speed (km/h),Countries Found,Conservation Status,Family,Gestation Period (days),Top Speed (km/h),Social Structure,Offspring per Birth
+Aardvark,105-130,40-65,Grey,20-30,Insectivore,"Savannas, Grasslands","Lions, Hyenas",40,Africa,Least Concern,Orycteropodidae,210-240,40,Solitary,1
+Aardwolf,40-50,8-14,Yellow-brown,10-12,Insectivore,"Grasslands, Savannas","Lions, Leopards",24-30,Eastern and Southern Africa,Least Concern,Hyaenidae,90,40,Solitary,2-5
+African Elephant,270-310,2700-6000,Grey,60-70,Herbivore,"Savannah, Forest","Lions, Hyenas",25,Africa,Vulnerable,Elephantidae,640-660,40,Herd-based,1
+African Lion,80-110,120-250,Tan,10-14,Carnivore,"Grasslands, Savannas","Hyenas, Crocodiles",58,Africa,Vulnerable,Felidae,98-105,80,Group-based,2-4 (usually)
+African Wild Dog,75-80,18-36,Multicolored,10-12,Carnivore,Savannahs,"Lions, Hyenas",56,Sub-Saharan Africa,Endangered,Canidae,70,56,Group-based,10-12
+Alpine Ibex,67-101,19-120,Brown,15-20,Herbivore,"Mountains, Alpine","Wolves, Golden Eagles",56-64,European Alps,Least Concern,Bovidae,150,56-64,Group-based,1
+Amazon Rainforest Frog,2-13,Up to 0.5,Various,4-17,Insectivore,Amazon Rainforest,"Birds, Snakes",0.1-1,Amazon Rainforest,Not Evaluated,Dendrobatidae,10-15,0.8,Solitary,Up to 40
+American Bison,152-186,"318-1,000",Brown,15-20,Herbivore,"Grasslands, Plains","Wolves, Grizzly Bears",40-56,North America,Near Threatened,Bovidae,270-290,56,Group-based,1
+Anteater,52-91,22-41,"Brown, White",15-20,Insectivore,"Grasslands, Forests","Jaguars, Pumas",24,Central and South America,Least Concern,Myrmecophagidae,190-210,24,Solitary,1
+Arabian Horse,140-160,380-1000,Various,25-30,Herbivore,"Middle East, North Africa","Humans, Predators",65,"Middle East, North Africa",Not Applicable,Equidae,330-342,65,Herd-based,1
+Arabian Oryx,70-90,65-90,White,10-20,Herbivore,Desert,"Lions, Leopards",55,Middle East,Vulnerable,Bovidae,210-240,55,Herd-based,1
+Arctic Fox,25-30,2.5-9,White,3-6,Omnivore,Tundra,Polar Bears,60,Arctic regions,Least Concern,Canidae,52-60,60,Solitary,4-11
+Arowana,Up to 120,Up to 6.7,"Silver, Gold, Green",10-20,"Carnivore, Piscivore","Freshwater Rivers, Lakes","Birds, Larger Fish",16-32,"South America, Asia",Not Evaluated,Osteoglossidae,Not Applicable,32,Solitary,Not Applicable
+Asian Elephant,200-300,2000-5000,Grey,60-80,Herbivore,"Grasslands, Forests","Tigers, Leopards",40,Asia (Southeast),Endangered,Elephantidae,640-660,40,Herd-based,1
+Atlantic Puffin,25-30,500-620,"Black, White",20-25,"Carnivore, Piscivore","North Atlantic, Arctic","Gulls, Birds of Prey",30-50,"North Atlantic, Arctic",Vulnerable,Alcidae,40,80,Colony-based,1
+Atlantic Spotted Dolphin,200-250,120-140,"Gray, White",20-25,Carnivore,"Oceans, Coastal Areas","Sharks, Orcas",40-64,Worldwide,Least Concern,Delphinidae,360-380,40-64,Group-based,1
+Australian Fur Seal,112-160,18-40,"Brown, Gray",14-17,Carnivore,Coastal Waters,"Sharks, Orcas",24-40,"Australia, New Zealand",Least Concern,Otariidae,300-350,24-40,Group-based,1
+Axolotl,Up to 30,Up to 300,Various,10-15,Carnivore,"Lakes, Canals","Fish, Birds",0.8,Mexico,Critically Endangered,Ambystomatidae,14-21,0.2-0.3,Solitary,100-300
+Aye-Aye,35-37,2.2-2.7,"Black, Brown",20-23,"Omnivore, Insectivore",Rainforests,Birds of Prey,32,Madagascar,Endangered,Daubentoniidae,160-170,32,Solitary,1
+Baird's Tapir,76-107,150-400,"Brown, Black",25-30,Herbivore,"Rainforests, Grasslands","Jaguars, Crocodiles",48,Central and South America,Endangered,Tapiridae,390-395,48,Solitary,1
+Bald Eagle,70-102,3-6,"Brown, White",20-30,Carnivore,"Forests, Lakes, Coasts","Wolves, Raccoons",120,North America,Least Concern,Accipitridae,34-36,120,Solitary,1-3
+Banded Palm Civet,41-71,2-5,"Brown, Black, White",7-10,Omnivore,Forests,Birds of Prey,16,"Southeast Asia, South Asia",Least Concern,Viverridae,60-64,16,Solitary,2-5
+Barbary Macaque,Up to 75,5-13,"Brown, Gray",Up to 30,"Herbivore, Omnivore","Forests, Mountains","Leopards, Eagles",30,"Gibraltar, North Africa, Middle East",Endangered,Cercopithecidae,165-200,30,Group-based,1
+Basking Shark,Up to 1100,400-700,"Gray, Brown",20-25,Carnivore,Oceans,"Orcas, Great White Sharks",14-28,Worldwide,Vulnerable,Cetorhinidae,36-42 months,14-28,Solitary,2-4
+Bearded Dragon,Up to 60,Up to 600,Various,6-15,Omnivore,"Deserts, Woodlands","Birds, Snakes",40-64,Australia,Not Evaluated,Agamidae,40-70,40-64,Solitary,Up to 24
+Bengal Fox,35-40,2.5-4,Yellowish-gray,6-8,Omnivore,Grasslands,"Wolves, Birds of Prey",40,"India, Nepal, Bhutan",Least Concern,Canidae,50-60,40,Solitary,2-5
+Bengal Tiger,90-110,220-260,"Orange, Black",10-15,Carnivore,"Grasslands, Mangroves","Humans, Crocodiles",65,"India, Bangladesh, Nepal",Endangered,Felidae,104-106,65,Solitary,2-4 (usually)
+Black Rhinoceros,132-180,"800-1,400","Gray, Black",35-50,Herbivore,"Grasslands, Forests","Lions, Hyenas",56,Eastern and Southern Africa,Critically Endangered,Rhinocerotidae,450-480,56,Solitary,1
+Blobfish,Up to 30,Up to 10,Pinkish-gray,Up to 100,Carnivore,Deep-sea,Not Applicable,Not Applicable,"Australia, New Zealand, Tasmania",Vulnerable,Psychrolutidae,Not Applicable,Not Applicable,Solitary,Not Applicable
+Blobfish,Not Applicable,Not Applicable,Pinkish-gray,Up to 130,Carnivore,Deep-sea,Not Applicable,Not Applicable,Deep-sea regions,Vulnerable,Psychrolutidae,Not Applicable,Not Applicable,Solitary,Not Applicable
+Blue Jay,22-30,0.07-0.12,"Blue, White",6-15,Omnivore,"Forests, Urban Areas","Birds of Prey, Snakes",32,North America,Least Concern,Corvidae,17-18,32,Flocks,2-6
+Blue Morpho Butterfly,Up to 15,Up to 0.028,Blue,1-2 weeks,Herbivore,Rainforests,"Birds, Bats",Not Applicable,Central and South America,Not Evaluated,Nymphalidae,Not Applicable,Not Applicable,Solitary,Not Applicable
+Blue Whale,Up to 33.5m,Up to 200 tons,Blue-grey,70-90,Filter Feeder,Oceans,Orcas,40,Oceans worldwide,Endangered,Balaenopteridae,10-12 months,39,Solitary,1 (rarely 2)
+Blue-Footed Booby,81-85,1.5-3,"Blue, White",12-17,Piscivore,Coastal Areas,"Orcas, Sharks",25-35,Eastern Pacific (GalÃ¡pagos Islands),Least Concern,Sulidae,41-45,25-35,Group-based,1
+Blue-Ringed Octopus,Up to 20,Up to 0.3,"Blue, Brown",6-8 months,Carnivore,"Coral Reefs, Tide Pools",Larger Fish,Not Applicable,Indo-Pacific region,Near Threatened,Octopodidae,50-70,Not Applicable,Solitary,Up to 100
+Bonobo,Up to 150,30-40,Black,40-60,Omnivore,Rainforests,"Leopards, Humans",40-60,Democratic Republic of Congo,Endangered,Hominidae,220-230,40-60,Social groups,1
+Bornean Orangutan,96-150,30-82,Reddish-brown,35-45,Omnivore,Rainforests,"Tigers, Humans",40-64,Borneo,Critically Endangered,Hominidae,230-270,40-64,Solitary,1
+Bottlenose Dolphin,200-400,150-650,Grey,20-50,Carnivore,Oceans,"Sharks, Orcas",37,Oceans worldwide,Least Concern,Delphinidae,12 months,64,Social pods,1
+Boxer Dog,53-63,25-32,"Fawn, Brindle",10-12,Omnivore,Human Dwellings,Not Applicable,64,Worldwide,Not Applicable,Canidae,63,64,Social groups,3-8
+Brazilian Wandering Spider,Up to 5,Up to 0.006,Brown,1-2,Carnivore,Forests,"Birds, Mammals",Not Applicable,South and Central America,Not Evaluated,Ctenidae,21-35,Not Applicable,Solitary,"Up to 1,000"
+Brown Bear,70-120,70-780,Brown,20-30,Omnivore,"Forests, Mountains","Wolves, Tigers",48,"North America, Europe, Asia",Least Concern,Ursidae,180-250,48,Solitary,1-4
+Burmese Python,Up to 460,Up to 90,"Brown, Black",20-25,Carnivore,"Grasslands, Forests","Leopards, Hawksbills",1.6-2.4,"Southeast Asia, South Asia, Indonesia",Least Concern,Pythonidae,88-100,1.6-2.4,Solitary,30-80
+Capybara,50-62,35-66,Brown,8-10,Herbivore,"Grasslands, Swamps","Jaguars, Anacondas",30-35,South America,Least Concern,Caviidae,150,35,Group-based,2-8
+Cheetah,70-90,20-72,Tan with Black Spots,10-12,Carnivore,"Grasslands, Savannas","Lions, Hyenas",112,"Africa, Iran, India",Vulnerable,Felidae,90-98,112,Solitary,3-5
+Chimpanzee,Up to 160,26-70,Black,40-50,Omnivore,"Rainforests, Grasslands","Leopards, Humans",40,Central and West Africa,Endangered,Hominidae,230-240,40,Social groups,1
+Chinese Giant Salamander,Up to 180,Up to 65,Dark Brown,Up to 70,Carnivore,Freshwater,"Fish, Crustaceans",Not Applicable,China,Critically Endangered,Cryptobranchidae,50-60,Not Applicable,Solitary,Not Applicable
+Clownfish,7-10,50-300,Orange,6-10,Omnivore,Coral Reefs,"Larger Fish, Anemones",8,"Indian, Pacific Oceans",Not Evaluated,Pomacentridae,6-10,1.6,Group-based,"Up to 1,000"
+Coelacanth,Up to 200,Up to 90,"Brown, Grey",Up to 60,Carnivore,"Deep-sea, Caves","Sharks, Humans",1.6,Western Indian Ocean,Not Evaluated,Latimeriidae,260-330 million years,Not Applicable,Solitary,Not Applicable
+Common Dolphin,200-250,100-135,"Gray, Yellow",20-25,Carnivore,"Oceans, Coastal Areas","Sharks, Orcas",60,Worldwide,Least Concern,Delphinidae,360-380,60,Group-based,1
+Common Snapping Turtle,20-36,4.5-16,"Brown, Gray",30-50,Omnivore,Freshwater,"Birds, Raccoons",Not Applicable,North America,Least Concern,Chelydridae,40-80,Not Applicable,Solitary,20-30
+Coquerel's Sifaka,40-50,3-6,"White, Black",15-18,Herbivore,"Rainforests, Madagascar","Fossa, Hawks",30-45,Madagascar,Endangered,Indriidae,140-160,30,Group-based,1
+Dalmatian Dog,50-61,23-32,"White, Black",10-13,Omnivore,Worldwide,"Wolves, Birds of Prey",40-45,Worldwide,Not Applicable,Canidae,63,37,Pack-based,6-9
+Dhole,50-55,12-21,"Red, Brown",10-15,Carnivore,"Forests, Grasslands","Tigers, Leopards",56,Asia,Endangered,Canidae,60-63,56,Pack-based,4-8
+Dingo,48-58,13-20,"Tan, Brown",10-15,Carnivore,"Grasslands, Forests","Humans, Dingoes",48-64,Australia,Least Concern,Canidae,63,48-64,Group-based,1-10
+Dugong,Up to 300,Up to 420,Gray,70-80,Herbivore,"Coastal Waters, Seagrass","Sharks, Orcas",10-15,"Indian Ocean, Western Pacific",Vulnerable,Dugongidae,13-14 months,27,Solitary,1
+Eastern Gorilla,140-188,73-204,Black,40-50,Herbivore,Rainforests,"Leopards, Humans",40,Democratic Republic of Congo,Endangered,Hominidae,255-270,40,Social groups,1
+Echidna,30-45,2.5-6.5,"Brown, Tan",15-20,Insectivore,"Forests, Grasslands","Dingoes, Eagles",16-56,"Australia, New Guinea",Least Concern,Tachyglossidae,22-28,16-56,Solitary,1
+Electric Eel,Up to 270,Up to 20,Grayish-brown,10-15,Carnivore,Amazon Basin,"Crocodiles, Jaguars",Not Applicable,Amazon Basin,Least Concern,Gymnotidae,10 weeks,4.8,Solitary,Thousands
+Emperor Penguin,100,22-45,"Black, White",15-20,Carnivore,Antarctic,Leopard Seals,2-2.5,Antarctica,Near Threatened,Spheniscidae,62-66,9,Colony-based,1
+Emperor Tamarin,23-26,300-400,"Black, White",10-15,Omnivore,Rainforests,"Snakes, Hawks",32,Amazon Rainforest,Least Concern,Callitrichidae,140-145,32,Group-based,1-2
+European Hedgehog,14-30,0.6-1.2,"Brown, Spiny",2-5,Omnivore,"Gardens, Grasslands","Foxes, Badgers",4-6,"Europe, Asia",Least Concern,Erinaceidae,35,4-6,Solitary,3-7
+Fennec Fox,20-40,0.8-1.6,Cream,10-14,Omnivore,Sahara Desert,"Eagles, Jackals",32,North Africa,Least Concern,Canidae,50-52,32,Solitary,2-5
+Fire Salamander,15-25,Up to 55,"Black, Yellow",10-15,Carnivore,"Forests, Caves","Birds, Foxes",0.8,Europe,Near Threatened,Salamandridae,30-60,0.8,Solitary,10-60
+Flying Fox,Up to 40,Up to 1.1,"Brown, Gray",15-23,Herbivore,Forests,Birds of Prey,40-50,"Asia, Australia",Least Concern,Pteropodidae,140-150,40-50,Group-based,1
+Fossa,70-90,5-8,"Brown, Reddish-brown",15-20,Carnivore,"Rainforests, Madagascar","Humans, Larger Predators",45-48,Madagascar,Vulnerable,Eupleridae,90,45-48,Solitary,2-4
+Frilled Lizard,Up to 90,Up to 0.5,"Brown, Grey",10-15,"Insectivore, Herbivore",Northern Australia,"Birds, Dingoes",29,Northern Australia,Least Concern,Agamidae,43-49,29,Solitary,6-25
+GalÃ¡pagos Penguin,49-53,1.5-2.5,"Black, White",Up to 15,Carnivore,Coastal Areas,"Orcas, Sharks",24-35,GalÃ¡pagos Islands,Endangered,Spheniscidae,40,24-35,Solitary,1
+Galápagos Penguin,48-53,1.7-2.6,"Black, White",15-20,"Carnivore, Piscivore",Galápagos Islands,"Sharks, Birds",6-7,Galápagos Islands,Endangered,Spheniscidae,38-40,35,Colony-based,1
+Galápagos Tortoise,Up to 183,Up to 417,"Brown, Grey",100-150,Herbivore,Galápagos Islands,"Humans, Rats",0.3-0.5,Galápagos Islands,Vulnerable,Testudinidae,135,0.3,Solitary,Up to 16
+Galliformes,Varies,Varies,Varies,Varies,Omnivore,Varies,Varies,Varies,Worldwide,Varies,Phasianidae,Varies,Varies,Varies,Varies
+Gaur,180-300,600-1300,"Dark Brown, Black",20-25,Herbivore,"Grasslands, Forests","Tigers, Leopards",30-40,"Southeast Asia, South Asia",Vulnerable,Bovidae,275-280,30-40,Herd-based,1
+Gerenuk,80-105,28-52,"Brown, White",8-10,Herbivore,"Savannas, Scrublands","Lions, Leopards",55,"Eastern Africa, Horn of Africa",Near Threatened,Bovidae,170-215,95,Solitary,1
+Gharial,Up to 600,Up to 1500,Brownish-gray,40-60,Carnivore,"Rivers, Lakes","Crocodiles, Tigers",32,Indian subcontinent,Critically Endangered,Gavialidae,94-123,32,Solitary,20-95
+Giant Pacific Octopus,Up to 5,Up to 25,"Red, Brown",3-5,Carnivore,Ocean Floor,"Fish, Sharks",24,Pacific Ocean,Data Deficient,Enteroctopodidae,50-70,24,Solitary,"Up to 200,000"
+Giant Panda,70-90,70-125,"Black, White",20-30,Herbivore,Temperate Broadleaf Forests,Snow Leopards,32,China,Endangered,Ursidae,95-160,32,Solitary,1
+Gila Monster,Up to 60,Up to 2.3,"Black, Orange",Up to 20,Carnivore,"Deserts, Scrubland","Birds of Prey, Coyotes",1-2,"Southwestern United States, Mexico",Least Concern,Helodermatidae,120-150,Not Applicable,Solitary,Not Applicable
+Glass Frog,2.2-7.7,Up to 0.03,"Green, Transparent",10-14 days,Insectivore,Rainforests,"Birds, Snakes",0.8,Central and South America,Least Concern,Centrolenidae,10-20,Not Applicable,Solitary,Up to 30
+Goblin Shark,Up to 320,Up to 210,Pinkish-gray,30-35,Carnivore,Deep-sea,"Larger Fish, Other Sharks",1.6-3,Worldwide,Data Deficient,Mitsukurinidae,Not Applicable,Not Applicable,Solitary,Not Applicable
+Goblin Shark,Up to 366,Up to 210,Pinkish-gray,30-35,Carnivore,Deep-sea,Not Applicable,Not Applicable,Worldwide,Data Deficient,Mitsukurinidae,Not Applicable,Not Applicable,Solitary,Not Applicable
+Golden Lion Tamarin,Up to 35,Up to 0.7,"Golden, Reddish-brown",10-15,Omnivore,Tropical Rainforests,"Birds, Snakes",8-13,"Brazil, Southeastern Bahia",Endangered,Callitrichidae,125-130,8-13,Social groups,1-3
+Golden Poison Dart Frog,3-6,Up to 2.4,Various,10-17,Insectivore,Rainforests,Snakes,0.3,Western Colombia,Near Threatened,Dendrobatidae,14,0.3,Solitary,Up to 40
+Great White Shark,Up to 610,Up to 2268,Grey,30-40,Carnivore,Oceans,Orcas,56,Oceans worldwide,Vulnerable,Lamnidae,12-18 months,56,Solitary,2-14 (approx.)
+Great White Shark,Up to 670,Up to 2268,"Gray, White",70,Carnivore,Oceans,Orcas,56,Worldwide,Vulnerable,Lamnidae,12-18,56,Solitary,2-17
+Green Anaconda,Up to 550,Up to 97.5,Olive-green,10-15,Carnivore,"Swamps, Marshes","Jaguars, Caymans",16-24 (in water),South America,Least Concern,Boidae,150-160,24,Solitary,Up to 80
+Green Sea Turtle,Up to 120,Up to 200,Greenish-brown,80-100,Herbivore,"Oceans, Coastal Areas",Predatory Fish,1.6-3.2,Oceans worldwide,Endangered,Cheloniidae,45-70,35,Solitary,Varies
+Green Sea Turtle,70-120,68-190,Green,80,Herbivore,Oceans,"Sharks, Orcas",35,Worldwide,Endangered,Cheloniidae,45-75,35,Solitary,Not Applicable
+Grevy's Zebra,130-160,350-450,"White, Black",20-30,Herbivore,Grasslands,"Lions, Hyenas",64,Eastern Africa,Endangered,Equidae,390-396,64,Herd-based,1
+Hagfish,Up to 127,Up to 0.7,"Pink, Gray",Up to 300,Scavenger,"Ocean Floor, Deep-sea",Various Predators,0.8,Oceans worldwide,Least Concern,Myxinidae,Not Applicable,Not Applicable,Solitary,Not Applicable
+Hagfish,Up to 127,Up to 0.6,Pinkish-gray,Up to 30,Carnivore,Deep-sea,Not Applicable,Not Applicable,Worldwide,Data Deficient,Myxinidae,Not Applicable,Not Applicable,Solitary,Not Applicable
+Harp Seal,Up to 180,Up to 160,"Silver, Gray",20-35,Carnivore,"Arctic, Atlantic Ocean","Polar Bears, Orcas",19-22,"Arctic, Atlantic Ocean",Least Concern,Phocidae,335,28,Group-based,1
+Harpy Eagle,86-107,4.5-9,"Black, White",25-35,Carnivore,Rainforests,"Jaguars, Snakes",50,Central and South America,Near Threatened,Accipitridae,56-58,50,Solitary,1
+Hippopotamus,120-160,1300-3200,Grey,40-50,Herbivore,"Rivers, Lakes","Lions, Crocodiles",25,Sub-Saharan Africa,Vulnerable,Hippopotamidae,230-250,30,Group-based,1
+Horseshoe Crab,Up to 56,Up to 2.3,Brownish-gray,Up to 20 years,"Carnivore, Scavenger","Ocean Floor, Coastal Areas","Birds, Predatory Fish",0.8-1.6,"Atlantic Ocean, Gulf of Mexico",Vulnerable,Limulidae,2 weeks,Not Applicable,Solitary,Thousands
+Hummingbird,7.5-13,2-20,Various,3-5,"Nectar, Insects",Americas,"Birds of Prey, Snakes",40-80,Americas,Least Concern,Trochilidae,13-22,80,Solitary,1-3
+Humpback Whale,Up to 1700,Up to 30000,"Black, White",45-50,Omnivore,Oceans,Orcas,24-27,Worldwide,Least Concern,Balaenopteridae,365,24-27,Solitary,1
+Iberian Lynx,60-70,9-14,Yellowish-brown,10-13,Carnivore,Mediterranean Scrublands,"Humans, Wildcats",70-80,"Spain, Portugal",Endangered,Felidae,63-67,70-80,Solitary,1-4
+Indri,Up to 70,Up to 6,"Black, White",15-18,Herbivore,Rainforests,"Fossa, Birds of Prey",24-27,Madagascar,Critically Endangered,Indridae,120-140,24-27,Solitary,1
+Japanese Giant Hornet,35-55,Up to 6,"Yellow, Black",3-6,"Carnivore, Insectivore","Forests, Mountains","Birds, Bees",40-58,"Japan, China, Southeast Asia",Not Evaluated,Vespidae,1 week,Not Applicable,Colony-based,Thousands
+Japanese Macaque,50-60,10-14,Brown,20-30,Omnivore,"Forests, Mountains","Humans, Leopards",30,"Japan, China, North Korea",Least Concern,Cercopithecidae,173-194,30,Social groups,1
+Kakapo,Up to 60,Up to 4,Green,60+,Herbivore,"Forests, Islands","Rats, Cats",2.5,New Zealand,Critically Endangered,Strigopidae,21-24,2.4,Solitary,1-4 (usually 1)
+Kangaroo Rat,7-15,0.035-0.15,"Brown, Gray",2-5,Herbivore,Deserts,"Snakes, Birds of Prey",16,North America,Least Concern,Heteromyidae,22-24,16,Solitary,2-5
+King Cobra,Up to 550,Up to 9,Olive-green,20-30,Carnivore,"Grasslands, Forests","Birds, Snakes",20,"Southeast Asia, South Asia",Vulnerable,Elapidae,90-113,20,Solitary,20-40
+Kiwi,25-46,1.0-3.3,Brown,25-50,Omnivore,Forests,"Stoats, Cats",6.4-9.6,New Zealand,Vulnerable,Apterygidae,63-92,9,Solitary,1
+Komodo Dragon,Up to 300,Up to 90,Grey,20-30,Carnivore,"Islands, Grasslands","Humans, Larger Predators",20,Indonesia,Vulnerable,Varanidae,7-8 months,20,Solitary,20-25
+Leaf-tailed Gecko,Up to 25,Up to 250,Various,10-15,Insectivore,"Rainforests, Madagascar","Birds, Snakes",0.8-1,Madagascar,Not Evaluated,Gekkonidae,45-60,Not Applicable,Solitary,1-2
+Leafy Sea Dragon,Up to 35,Up to 0.5,"Brown, Green",Up to 10,Carnivore,Seaweed Beds,"Fish, Octopuses",Not Applicable,Southern Australia,Near Threatened,Syngnathidae,30-40,Not Applicable,Solitary,Up to 300
+Lemur,30-50,0.6-3.5,Various,15-25,Omnivore,"Rainforests, Madagascar","Fossa, Hawks",24-29,Madagascar,Vulnerable,Lemuridae,134-138,29,Group-based,1-2
+Lemur,30-65,0.6-4.5,Varies,15-25,Herbivore,Forests,Fossa,29,Madagascar,Critically Endangered,Lemuridae,120-135,29,Group-based,1
+Lion-tailed Macaque,45-60,2.5-10,Black,20-30,"Omnivore, Herbivore","Western Ghats, India","Tigers, Leopards",30-40,India,Endangered,Cercopithecidae,150-170,35,Social groups,1
+Lyrebird,80-100,0.9-1.2,"Brown, Black",15-20,Omnivore,Rainforests,"Birds of Prey, Dingoes",0.02-0.03,Australia,Least Concern,Menuridae,50-55,Not Applicable,Solitary,1
+Lyrebird,77-100,0.85-1.1,"Brown, Grey",Up to 20,Omnivore,Forests,Birds of Prey,Not Applicable,Australia,Least Concern,Menuridae,50-55,Not Applicable,Solitary,1
+Malayan Krait,Up to 150,Up to 2.2,"Black, Yellow",10-15,Carnivore,"Forests, Grasslands","Mongooses, Birds",Not Applicable,Southeast Asia,Least Concern,Elapidae,180-270,Not Applicable,Solitary,8-16
+Manatee,300-400,400-590,"Gray, Brown",40-60,Herbivore,"Rivers, Coastal Areas","Alligators, Sharks",8,"North, Central, and South America",Vulnerable,Trichechidae,365-450,8,Solitary,1
+Mandrill,Up to 75,Up to 55,"Brown, Green",20-40,Omnivore,Rainforests,"Leopards, Humans",30,Central Africa,Vulnerable,Cercopithecidae,175-190,30,Social groups,1
+Maned Wolf,67-107,20-25,Reddish-Brown,6-8,Omnivore,"Grasslands, Forests","Jaguars, Pumas",56,South America,Near Threatened,Canidae,65-70,56,Solitary,2-6
+Mantis Shrimp,Up to 30,Up to 2.7,Various,Up to 20,Carnivore,Coral Reefs,Larger Fish,30-50,Oceans worldwide,Not Evaluated,Stomatopoda,20-30,30-50,Solitary,Hundreds
+Markhor,Up to 115,Up to 110,"Brown, Gray",10-13,Herbivore,Mountains,"Wolves, Snow Leopards",40-64,"Central Asia, South Asia, Middle East",Near Threatened,Bovidae,135-170,40-64,Solitary,1-2
+Meerkat,25-35,0.6-1,"Brown, Tan",12-14,"Omnivore, Insectivore",Arid regions,"Eagles, Jackals",32,"Kalahari Desert, Africa",Least Concern,Herpestidae,70-73,32,Social groups,2-5
+Monitor Lizard,Up to 244,Up to 166,Varies,Varies,Carnivore,Various,"Birds, Snakes",Varies,"Africa, Asia, Australia, Oceania",Varies,Varanidae,Varies,Varies,Solitary,Varies
+Mountain Gorilla,120-200,70-200,"Black, Brown",35-40,Herbivore,"Rainforests, Mountains","Leopards, Humans",40,"Democratic Republic of Congo, Uganda",Endangered,Hominidae,255-270,40,Group-based,1
+Naked Mole Rat,Up to 9,Up to 80,"Pink, Wrinkled",Up to 32,"Herbivore, Insectivore",Underground Tunnels,"Snakes, Humans",0.03-0.08,East Africa,Least Concern,Heterocephalidae,70,Not Applicable,Eusocial,Up to 28
+Narwhal,Up to 500,Up to 1600,"Gray, Mottled White",50-60,Carnivore,Arctic Waters,"Polar Bears, Orcas",45,Arctic,Near Threatened,Monodontidae,14-16 months,45,Solitary,1
+Nudibranch,Up to 30,Up to 1,Various,Up to 10,Carnivore,"Oceans, Coral Reefs","Sea Anemones, Predatory Fish",Not Applicable,Oceans worldwide,Not Evaluated,Nudibranchia,Not Applicable,Not Applicable,Solitary,Not Applicable
+Numbat,35-45,0.32-1,"Red, White",Up to 5,Insectivore,Eucalyptus Forests,"Foxes, Cats",8,Western Australia,Endangered,Myrmecobiidae,14,8,Solitary,4-6
+Okapi,200-250,200-350,"Brown, White",20-30,Herbivore,Central Africa,"Leopards, Lions",56,Democratic Republic of Congo,Endangered,Giraffidae,440-450,58,Solitary,1
+Okapi,200-250,200-350,"Dark Brown, White",20-30,Herbivore,Rainforests,"Leopards, Humans",58,Democratic Republic of Congo,Endangered,Giraffidae,420-450,58,Solitary,1
+Orangutan,Up to 160,30-82,Reddish-brown,30-45,Omnivore,Rainforests,"Tigers, Humans",6-12,"Indonesia, Malaysia",Critically Endangered,Hominidae,230-250,40,Solitary,1
+Pangolin,30-100,2-40,"Brown, Yellowish",10-20,Insectivore,"Grasslands, Forests","Lions, Tigers",32,"Asia, Africa",Critically Endangered,Manidae,240-260,32,Solitary,1
+Patagonian Mara,45-75,5.5-16,"Brown, Gray",5-10,Herbivore,Grasslands,"Foxes, Birds of Prey",30,"Argentina, Chile",Least Concern,Caviidae,75-80,30,Group-based,1-3
+Peacock Mantis Shrimp,Up to 18,Up to 0.4,Various,Up to 20,Carnivore,Coral Reefs,"Fish, Crustaceans",72,Indo-Pacific region,Not Evaluated,Gonodactylidae,6-9 weeks,72,Solitary,"Up to 10,000"
+Pink Fairy Armadillo,9-15,Up to 120,Pink,4-8,Insectivore,Grasslands,"Foxes, Birds of Prey",Not Applicable,Argentina,Near Threatened,Chlamyphoridae,60-64,Not Applicable,Solitary,1
+Pink Fairy Armadillo,12-15,Up to 0.1,Pinkish,4,Insectivore,Grasslands,"Birds, Canids",0.8,Argentina,Near Threatened,Dasypodidae,60-64,0.8,Solitary,1
+Platypus,10-15,0.7-2.4,Brown,10-17,"Carnivore, Insectivore",Eastern Australia,"Foxes, Birds of Prey",3-7,Australia,Near Threatened,Ornithorhynchidae,10 days (in burrow),9,Solitary,1-3 (rarely 5)
+Polar Bear,Up to 160,Up to 700,White,25-30,Carnivore,Arctic,Orcas,40,Arctic,Vulnerable,Ursidae,195-265,40,Solitary,1-2
+Potoo,21-58,0.2-1,"Gray, Brown",10-15,"Carnivore, Insectivore","Forests, Woodlands",Birds of Prey,16-24,Central and South America,Least Concern,Nyctibiidae,20-30,16-24,Solitary,1
+Praying Mantis,Up to 15,0.02-0.5,Various,6-12,Carnivore,Worldwide,"Birds, Spiders",0.5-0.7,Worldwide,Not Evaluated,Mantidae,10-60,Not Applicable,Solitary,Up to 400
+Proboscis Monkey,45-75,14-24,"Orange, Brown",Up to 15,Herbivore,"Mangroves, Rainforests",Clouded Leopards,24-32,"Borneo, Malaysia",Endangered,Cercopithecidae,166-200,24-32,Social groups,1
+Pronghorn,81-104,40-70,"Brown, White",10-15,Herbivore,Grasslands,"Coyotes, Bobcats",88.5,North America,Least Concern,Antilocapridae,240,88.5,Group-based,1
+Pufferfish,Up to 60,Up to 0.8,Various,3-10,Carnivore,Tropical and Subtropical,"Sharks, Humans",8,Oceans worldwide,Not Evaluated,Tetraodontidae,Not Applicable,8,Solitary,Not Applicable
+Quokka,40-54,2.5-5,"Brown, Gray",5-10,Herbivore,"Scrublands, Forests","Foxes, Cats",24,Australia,Vulnerable,Macropodidae,25-30,24,Solitary,1
+Red Fox,35-50,3-7,Reddish-brown,3-5,Omnivore,"Forests, Grasslands","Wolves, Eagles",48,"North America, Europe, Asia",Least Concern,Canidae,52,48,Solitary,4-6
+Red Kangaroo,140-180,18-95,"Brown, Red",Up to 23,Herbivore,Grasslands,"Dingoes, Eagles",56,Australia,Least Concern,Macropodidae,30-34,56,Group-based,1
+Red Panda,50-65,3-6,Reddish-brown,8-12,Herbivore,Himalayan Foothills,"Snow Leopards, Martens",0.2-0.4,"China, Nepal, Bhutan, India",Endangered,Ailuridae,112-158,0.2-0.4,Solitary,1-4
+Red-Eyed Tree Frog,5.1-7.5,Up to 0.1,"Green, Red",Up to 5,Insectivore,Rainforests,"Snakes, Birds",Not Applicable,Central America,Least Concern,Hylidae,5-7,Not Applicable,Solitary,Up to 100
+Rottweiler,56-69,36-60,"Black, Tan",8-10,Carnivore,Worldwide,"Wolves, Coyotes",35,Worldwide,Not Applicable,Canidae,61-65,32,Pack-based,6-12
+Saola,Up to 90,Up to 100,"Brown, White",Up to 21,Herbivore,Forests,"Tigers, Leopards",26,"Vietnam, Laos",Critically Endangered,Bovidae,240,26,Solitary,1
+Secretary Bird,100-150,2.3-4.5,"Black, Grey",10-15,Carnivore,"Grasslands, Savannas","Snakes, Lizards",24,Africa,Least Concern,Sagittariidae,42-46,32,Solitary,2
+Serval,54-62,8-18,"Yellowish-Tan, Black",10-12,Carnivore,"Grasslands, Wetlands","Leopards, Hyenas",44,Africa,Least Concern,Felidae,54-72,44,Solitary,1
+Shoebill,110-140,4-6,Grayish-brown,30-35,Carnivore,"Swamps, Marshes","Crocodiles, Snakes",14-16,Tropical Central Tropical Africa,Vulnerable,Balaenicipitidae,30-35,14-16,Solitary,1-3
+Shortfin Mako Shark,Up to 394,Up to 800,Metallic Blue,28-35,Carnivore,Oceans,Larger Sharks,45,Worldwide,Vulnerable,Lamnidae,20-24,45,Solitary,1
+Siberian Husky,50-60,16-27,Various,12-14,Carnivore,Cold Regions,"Wolves, Bears",50-65,"Siberia, Alaska",Not Applicable,Canidae,60-63,48,Pack-based,4-6
+Sloth,50-60,3.6-9,"Brown, Gray",10-16,Herbivore,Rainforests,"Jaguars, Harpy Eagles",0.03-0.24,Central and South America,Least Concern,Bradypodidae,120-180,0.03-0.24,Solitary,1
+Slow Loris,20-38,0.3-1.6,Yellowish-Brown,20-24,Omnivore,Forests,"Birds, Snakes",Not Applicable,Southeast Asia,Vulnerable,Lorisidae,23-26,Not Applicable,Solitary,Up to 10
+Snow Leopard,50-70,22-75,"Grayish-yellow, Black",10-15,Carnivore,"Mountains, Steppes","Humans, Wolves",40-60,Central and South Asia,Vulnerable,Felidae,90-100,40-60,Solitary,1-5
+Snowy Owl,52-71,1.6-3.3,White,10-15,Carnivore,"Arctic, North America","Foxes, Wolves",80,"Arctic, North America",Least Concern,Strigidae,32-34,80,Solitary,3-11
+Spectacled Bear,120-200,35-77,"Black, Tan",10-25,Omnivore,Forests,"Jaguars, Pumas",45,South America,Vulnerable,Ursidae,200-294,45,Solitary,1
+Sperm Whale,Up to 2056,Up to 57000,Gray,50-60,Carnivore,Oceans,Orcas,60,Worldwide,Vulnerable,Physeteridae,50-60,60,Solitary,1
+Spider Monkey,35-64,6-9,"Brown, Black",25-36,Omnivore,Rainforests,"Jaguars, Pumas",45,Central and South America,Vulnerable,Atelidae,110-160,45,Group-based,1
+Spotted Hyena,70-92,44-64,Yellowish-brown,12-25,"Carnivore, Scavenger","Grasslands, Savannahs","Lions, Leopards",56-64,Sub-Saharan Africa,Least Concern,Hyaenidae,90-110,56,Group-based,1-4
+Squirrel Monkey,25-35,0.5-1,"Yellowish-Orange, Black",Up to 20,Omnivore,Rainforests,"Snakes, Hawks",30,Central and South America,Least Concern,Cebidae,15-20,30,Group-based,40-50
+Star-Nosed Mole,12-20,Up to 0.06,"Black, Pink",Up to 4,Insectivore,"Wetlands, Forests",Not Applicable,1.2,North America,Least Concern,Talpidae,16-22,1.2,Solitary,2-10
+Sumatran Orangutan,66-100,23-56,Reddish-Brown,30-50,Omnivore,Rainforests,"Tigers, Humans",35,Sumatra,Critically Endangered,Hominidae,90-100,35,Solitary,1
+Sumatran Rhino,100-145,750-950,Reddish-Brown,30-45,Herbivore,Rainforests,"Tigers, Humans",40,Southeast Asia,Critically Endangered,Rhinocerotidae,430-640,40,Solitary,1
+Sumatran Rhinoceros,112-145,500-950,Brown,35-40,Herbivore,Rainforests,"Tigers, Humans",40-64,Southeast Asia,Critically Endangered,Rhinocerotidae,425-475,40,Solitary,1
+Sumatran Tiger,70-87,47-121,"Orange, Black Stripes",15-20,Carnivore,Rainforests,"Leopards, Humans",24,Sumatra,Critically Endangered,Felidae,140-230,24,Solitary,1-5
+Sun Bear,120-150,27-80,Black,25-30,Omnivore,Tropical Forests,"Tigers, Leopards",32-56,Southeast Asia,Vulnerable,Ursidae,90-150,32-56,Solitary,1-2
+Tapir,70-120,150-400,"Brown, Black",25-30,Herbivore,"Rainforests, Grasslands","Jaguars, Crocodiles",48,South and Central America,Vulnerable,Tapiridae,390-395,48,Solitary,1
+Tarsier,Up to 16,Up to 0.2,"Gray, Brown",12-20,Insectivore,Rainforests,"Birds, Snakes",40-50,"Southeast Asia, Philippines",Vulnerable,Tarsiidae,180-210,40-50,Solitary,1
+Tasmanian Devil,30-76,4-14,"Black, White",5-8,"Carnivore, Scavenger","Forests, Grasslands",Tasmanian Tigers,16,"Tasmania, Australia",Endangered,Dasyuridae,21-28,16,Solitary,20-30
+Tasmanian Tiger,100-130,20-30,Yellow-brown,4-7,Carnivore,Australia,"Humans, Dingoes",40-72,Australia,Extinct,Thylacinidae,121-128,40-72,Solitary,1-4 (usually 2-3)
+Termite,Up to 0.5,Up to 0.02,Varies,Varies,Herbivore,"Forests, Grasslands",Not Applicable,Varies,Worldwide,Not Applicable,Termitoidae,Varies,Varies,Social groups,Varies
+Thorny Devil,Up to 20,Up to 85,"Brown, Tan",5-20,Insectivore,"Desert, Scrublands","Birds, Snakes",0.16-0.32,Australia,Least Concern,Agamidae,Not Applicable,Not Applicable,Solitary,Not Applicable
+Three-Toed Sloth,46-58,Up to 8,"Brown, Gray",10,Herbivore,Rainforests,Harpy Eagles,20,Central and South America,Least Concern,Bradypodidae,30-40,20,Solitary,1-2
+Tibetan Mastiff,61-78,63-75,"Black, Brown, Gray",10-12,Omnivore,Human Dwellings,Not Applicable,45,"Asia, Tibet",Not Applicable,Canidae,58-82,45,Social groups,1-10
+Tiger,108-133,100-390,"Orange, Black Stripes",10-15,Carnivore,Rainforests,"Humans, Leopards",28,"Asia, Russia",Endangered,Felidae,280-310,28,Solitary,1-4
+Titanoboa,Up to 1440,Up to 24950,Dark Brown,10-15,Carnivore,Wetlands,"Fish, Crocodiles",27,South America,Extinct (around 58 million years ago),Boidae,420-470,27,Solitary,Not Applicable
+Toco Toucan,55-65,540-700,"Black, Orange, Yellow",6-10,Omnivore,Rainforests,"Birds of Prey, Jaguars",29-42,South America,Least Concern,Ramphastidae,17-20,56-64,Flocks,2-4
+Tree Kangaroo,51-79,4-8,"Brown, Red",15-20,Herbivore,Rainforests,"Quolls, Pythons",30,"Papua New Guinea, Indonesia",Endangered,Macropodidae,126-130,30,Solitary,1
+Tsetse Fly,Up to 0.7,Up to 0.03,"Brown, Gray",Up to 28,Carnivore,Savannahs,Not Applicable,Not Applicable,Africa,Not Applicable,Glossinidae,Varies,Varies,Solitary,Varies
+Tuatara,Up to 80,Up to 1.5,Grayish-brown,Up to 100,"Carnivore, Insectivore","Islands, Coastal Areas","Rats, Cats",0.03,New Zealand,Vulnerable,Rhynchocephalia,12-15,Not Applicable,Solitary,Up to 16
+Tufted Puffin,35-41,0.4-1,"Black, White",Up to 20,Carnivore,Coastal Areas,"Eagles, Falcons",17,North Pacific,Least Concern,Alcidae,122-130,17,Social groups,1
+Uakari,46-56,2-3,"Bald, Red",10-15,Omnivore,Rainforests,"Jaguars, Snakes",20,Amazon Basin,Vulnerable,Pitheciidae,120-130,20,Group-based,1-6
+Vampire Bat,Up to 9,Up to 0.05,Brown,8-12,Carnivore,"Caves, Forests","Hawks, Owls",24-40,Americas,Least Concern,Phyllostomidae,50-70,24-40,Colony-based,1
+Vaquita,Up to 150,Up to 55,"Grey, White",20-21,Carnivore,Gulf of California,"Nets, Sharks",Not Applicable,"Gulf of California, Mexico",Critically Endangered,Phocoenidae,10-11 months,Not Applicable,Solitary,1
+Vulture,Varies,Varies,"Black, Brown",Varies,Carnivore,Various,Not Applicable,Varies,"Africa, Asia, Americas",Varies,Accipitridae,Varies,Varies,Social groups,Varies
+Walrus,Up to 3200,Up to 1200,Brown,40-50,Carnivore,"Arctic, Coastal Areas","Polar Bears, Orcas",40,"Arctic, Subarctic",Least Concern,Odobenidae,20-25,40,Group-based,Up to 200
+Warthog,85-150,60-150,"Brown, Black",15-20,Omnivore,"Savannahs, Grasslands","Lions, Leopards",20,Sub-Saharan Africa,Least Concern,Suidae,160-220,20,Group-based,4-32
+Water Buffalo,200-300,300-1200,Dark Gray,20-25,Herbivore,"Grasslands, Wetlands","Tigers, Crocodiles",40,"Asia, Africa",Least Concern,Bovidae,240-270,40,Group-based,30-500
+Western Gorilla,140-200,68-182,Black,30-40,Herbivore,Rainforests,"Leopards, Humans",40,Central Africa,Critically Endangered,Hominidae,220-270,40,Social groups,1
+Western Lowland Gorilla,140-200,68-181,Black,30-40,Herbivore,Rainforests,"Leopards, Humans",40,Central Africa,Critically Endangered,Hominidae,220-270,40,Social groups,1
+Whale Shark,Up to 1800,Up to 1500,"Gray, White",70-100,Filter Feeder,Oceans,Not Applicable,70,Worldwide,Endangered,Rhincodontidae,100-150,70,Solitary,1
+White Rhinoceros,1400-2300,1800-2500,Gray,40-50,Herbivore,Grasslands,"Lions, Hyenas",45,Eastern and Southern Africa,Near Threatened,Rhinocerotidae,240-300,45,Group-based,1-14
+White Tiger,240-260,100-300,"White, Black Stripes",10-15,Carnivore,Rainforests,"Humans, Leopards",22,"India, Southeast Asia",Critically Endangered,Felidae,230-260,22,Solitary,1
+Wild Boar,65-100,30-120,"Brown, Black",10-25,Omnivore,"Forests, Grasslands","Tigers, Leopards",20,"Eurasia, North Africa, Americas",Least Concern,Suidae,160-190,20,Group-based,6-30
+Wildebeest,170-250,200-390,"Gray, Black",20-25,Herbivore,Grasslands,"Lions, Crocodiles",47,Eastern and Southern Africa,Least Concern,Bovidae,240-270,47,Group-based,1-1000
+Wolf,66-81,23-80,"Gray, White",8-13,Carnivore,"Forests, Grasslands","Bears, Humans",45,"Eurasia, North America, North Africa",Least Concern,Canidae,90-160,45,Group-based,2-20
+Wolverine,30-45,9-25,Dark Brown,7-12,"Carnivore, Scavenger","Boreal Forests, Tundra","Bears, Wolves",56-70,"North America, Europe, Asia",Least Concern,Mustelidae,40-45,56-70,Solitary,2-3
+Wombat,84-118,20-35,"Brown, Gray",5-10,Herbivore,"Forests, Grasslands","Dingoes, Tasmanian Devils",20,Australia,Least Concern,Vombatidae,126-138,20,Solitary,1
+Woodpecker,6.7-18,0.02-0.07,Varies,Varies,Insectivore,Forests,"Birds, Snakes",Not Applicable,Worldwide,Not Applicable,Picidae,Varies,Varies,Solitary,Varies
+Woolly Mammoth,Up to 4200,Up to 12000,"Brown, Shaggy",Varies,Herbivore,Tundra,Not Applicable,Varies,Northern Hemisphere,"Extinct (around 4,000 years ago)",Elephantidae,Varies,Varies,Social groups,Varies
+Yak,140-160,500-1200,"Brown, Black",20-25,Herbivore,Mountains,"Snow Leopards, Wolves",24,"Himalayas, Central Asia",Least Concern,Bovidae,215-280,24,Group-based,10-50
+Yellow-Eyed Penguin,60-65,1-3,"Yellow, White",Up to 20,Carnivore,Coastal Areas,"Seals, Orcas",25,New Zealand,Endangered,Spheniscidae,80-90,25,Solitary,1
+Yeti Crab,Up to 15,Up to 0.5,"White, Hairy",Up to 20,Omnivore,Hydrothermal Vents,Not Applicable,Not Applicable,Pacific Ocean,Not Evaluated,Kiwaidae,Not Applicable,Not Applicable,Solitary,Not Applicable
+Zebra,220-340,400-900,"Black, White",20-25,Herbivore,Grasslands,"Lions, Hyenas",25,Africa,Least Concern,Equidae,180-365,25,Group-based,5-20
+Zebra Shark,Up to 330,Up to 32,"Brown, Yellowish",25-30,Carnivore,Coral Reefs,Larger Fish,20,Indo-Pacific region,Endangered,Stegostomatidae,10-25,20,Solitary,Up to 25
+Jaguar,395,1760,Grey,26,Herbivore,Rivers,Lions,20,South America,Endangered,Various,260,34,Pack-based,12
+Gazelle,207,2144,Black,70,Insectivore,Forests,Leopards,27,Africa,Endangered,Various,163,84,Group-based,11
+Hammerhead Shark,140,1938,Black,35,Herbivore,Arctic,Hyenas,24,North America,Least Concern,Various,280,72,Group-based,7
+Armadillo,434,2405,Black and White,92,Omnivore,Ocean,None (apex predator),68,Asia,Least Concern,Various,157,95,Solitary,3
+Armadillo,241,2713,Black,58,Herbivore,Ocean,Leopards,31,Australia,Critically Endangered,Various,113,32,Group-based,8
+Baboon,153,1589,Black and White,86,Carnivore,Forests,Humans,89,Antarctica,Vulnerable,Various,72,26,Group-based,9
+Kangaroo,144,681,Grey,72,Insectivore,Rivers,Eagles,59,Arctic,Least Concern,Various,195,98,Pack-based,6
+Parrot,480,1904,Yellow-brown,20,Carnivore,Ocean,Hyenas,91,Antarctica,Critically Endangered,Various,265,85,Group-based,8
+Hippopotamus,266,2580,Multicolored,34,Insectivore,Forests,Eagles,84,North America,Least Concern,Various,131,10,Herd-based,2
+Toucan,427,2278,Black,15,Omnivore,Grasslands,Hyenas,93,Arctic,Critically Endangered,Various,287,90,Herd-based,3
+Koala,94,2920,Brown,33,Insectivore,Tropical Rainforest,Hyenas,5,Australia,Endangered,Various,147,56,Solitary,3
+Python,270,628,Multicolored,63,Carnivore,Savannas,Eagles,33,Europe,Endangered,Various,322,97,Pack-based,3
+Hippopotamus,59,3092,White,64,Omnivore,Tropical Rainforest,Hyenas,41,Arctic,Critically Endangered,Various,155,12,Solitary,4
+Toucan,42,750,Golden,52,Omnivore,Ocean,None (apex predator),19,Europe,Critically Endangered,Various,112,49,Group-based,5
+Dolphin,202,1143,Golden,19,Carnivore,Mountains,None (apex predator),100,Europe,Critically Endangered,Various,256,30,Group-based,11
+Gazelle,344,2591,Multicolored,80,Carnivore,Savannas,Humans,16,Arctic,Vulnerable,Various,259,86,Herd-based,10
+Moose,138,2137,White,96,Omnivore,Rivers,Lions,70,Europe,Critically Endangered,Various,210,71,Pack-based,7
+Wombat,469,156,Yellow-brown,39,Insectivore,Mountains,Eagles,69,South America,Endangered,Various,240,77,Group-based,8
+Porcupine,84,3094,Multicolored,37,Insectivore,Grasslands,Hyenas,69,Antarctica,Endangered,Various,226,16,Pack-based,5
+Wombat,120,952,White,46,Herbivore,Tropical Rainforest,Eagles,22,North America,Vulnerable,Various,122,55,Group-based,8
+Lynx,311,2296,Golden,70,Insectivore,Rivers,Hyenas,62,Africa,Critically Endangered,Various,246,12,Group-based,9
+Puffin,401,1228,Golden,91,Carnivore,Ocean,Leopards,9,Asia,Endangered,Various,65,88,Group-based,2
+Walrus,269,2083,Brown,49,Insectivore,Grasslands,Lions,52,Europe,Least Concern,Various,337,25,Herd-based,4
+Gazelle,132,3366,Black and White,69,Carnivore,Rivers,Humans,49,Arctic,Least Concern,Various,278,93,Group-based,4
+Parrot,410,1078,Black and White,21,Insectivore,Ocean,Humans,89,Europe,Vulnerable,Various,340,65,Solitary,5
+Chimpanzee,246,1717,Black,48,Herbivore,Tropical Rainforest,Leopards,7,Antarctica,Least Concern,Various,295,31,Herd-based,12
+Hammerhead Shark,250,1432,Black,37,Herbivore,Rivers,None (apex predator),76,Australia,Critically Endangered,Various,125,54,Solitary,9
+Manta Ray,231,3368,Grey,69,Herbivore,Forests,None (apex predator),29,North America,Critically Endangered,Various,222,67,Group-based,9
+Koala,320,3454,Black and White,100,Herbivore,Forests,Leopards,20,North America,Vulnerable,Various,74,43,Group-based,2
+Giraffe,312,269,Yellow-brown,87,Omnivore,Tropical Rainforest,Humans,18,Australia,Endangered,Various,102,69,Pack-based,4
+Rhino,399,1027,Black,51,Herbivore,Grasslands,Hyenas,30,Europe,Least Concern,Various,97,94,Herd-based,11
+Orangutan,281,2604,Black,45,Herbivore,Forests,Humans,91,Asia,Critically Endangered,Various,97,11,Herd-based,8
+Tiger,364,926,Black,95,Carnivore,Ocean,Eagles,42,Australia,Vulnerable,Various,291,33,Herd-based,1
+Narwhal,500,2405,Yellow-brown,55,Insectivore,Grasslands,Humans,57,North America,Endangered,Various,343,26,Solitary,7
+Iguana,412,3,Brown,42,Carnivore,Ocean,Leopards,30,Arctic,Endangered,Various,290,67,Pack-based,2
+Armadillo,44,2664,Black,10,Insectivore,Mountains,Hyenas,78,Africa,Critically Endangered,Various,171,99,Herd-based,6
+Albatross,297,525,Yellow-brown,71,Carnivore,Forests,Humans,22,Antarctica,Least Concern,Various,96,82,Herd-based,10
+Jaguar,91,1442,Multicolored,55,Carnivore,Grasslands,Hyenas,16,South America,Endangered,Various,345,67,Pack-based,4
+Sea Turtle,133,3258,Golden,84,Omnivore,Arctic,Leopards,34,South America,Endangered,Various,123,73,Pack-based,3
+Leopard Seal,290,992,White,5,Carnivore,Grasslands,Leopards,94,Australia,Vulnerable,Various,283,75,Solitary,3
+Panda,145,1685,White,73,Insectivore,Ocean,Leopards,68,South America,Least Concern,Various,292,51,Pack-based,3
+Sea Turtle,367,2166,White,96,Herbivore,Grasslands,Eagles,39,Asia,Least Concern,Various,251,62,Group-based,7
+Wolf,436,2196,Golden,16,Omnivore,Grasslands,Humans,58,South America,Least Concern,Various,57,97,Solitary,3
+Arctic Fox,465,3444,Grey,65,Insectivore,Grasslands,None (apex predator),57,South America,Endangered,Various,343,94,Pack-based,11
+Mountain Goat,483,3246,Black and White,66,Herbivore,Rivers,Humans,73,North America,Vulnerable,Various,68,23,Solitary,12
+Giraffe,300,1,Multicolored,66,Herbivore,Forests,None (apex predator),68,North America,Critically Endangered,Various,107,92,Group-based,11
+Porcupine,349,2393,Brown,33,Insectivore,Mountains,Lions,68,Australia,Vulnerable,Various,286,56,Group-based,5
+Cheetah,118,1426,Golden,31,Insectivore,Ocean,Eagles,17,North America,Endangered,Various,352,37,Group-based,9
+Manatee,469,2761,Grey,52,Herbivore,Grasslands,Lions,97,Australia,Least Concern,Various,89,12,Group-based,2
+Moose,480,2473,Black and White,97,Omnivore,Rivers,Eagles,60,Antarctica,Least Concern,Various,344,63,Pack-based,11
+Otter,416,3325,Brown,47,Carnivore,Forests,Eagles,94,North America,Vulnerable,Various,62,70,Group-based,2
+Sloth,192,3309,Black,6,Carnivore,Tropical Rainforest,Humans,30,Arctic,Vulnerable,Various,53,86,Solitary,9
+Orangutan,291,3015,Golden,97,Carnivore,Mountains,Humans,71,Antarctica,Least Concern,Various,277,37,Solitary,6
+Hippopotamus,256,621,Grey,80,Omnivore,Rivers,Hyenas,43,Arctic,Endangered,Various,174,38,Herd-based,1
+Tiger,267,594,Black,25,Herbivore,Tropical Rainforest,Lions,62,Antarctica,Least Concern,Various,230,62,Pack-based,10
+Baboon,369,1161,Multicolored,22,Carnivore,Mountains,None (apex predator),32,Europe,Vulnerable,Various,333,13,Pack-based,1
+Giraffe,149,431,Black,33,Insectivore,Forests,Lions,35,Asia,Critically Endangered,Various,291,16,Pack-based,4
+Giraffe,442,2864,Golden,23,Herbivore,Savannas,Leopards,22,Arctic,Least Concern,Various,140,91,Pack-based,10
+Orangutan,167,1049,Black,61,Carnivore,Forests,Eagles,45,Australia,Endangered,Various,256,87,Solitary,6
+Toucan,455,2175,Black and White,53,Carnivore,Tropical Rainforest,Humans,92,Africa,Least Concern,Various,214,56,Solitary,6
+Otter,494,2520,Black,12,Insectivore,Rivers,Eagles,24,Arctic,Vulnerable,Various,292,19,Herd-based,3
+Lynx,286,374,Grey,81,Herbivore,Mountains,Hyenas,87,South America,Critically Endangered,Various,170,78,Herd-based,7
+Red Panda,470,1833,Black and White,75,Herbivore,Mountains,Lions,65,Arctic,Least Concern,Various,230,82,Solitary,4
+Anteater,282,1699,Yellow-brown,9,Herbivore,Grasslands,Hyenas,11,Africa,Vulnerable,Various,103,56,Solitary,2
+Tiger,204,2248,White,75,Omnivore,Forests,None (apex predator),33,Africa,Vulnerable,Various,156,11,Herd-based,5
+Parrot,46,779,White,13,Herbivore,Ocean,Lions,70,Antarctica,Endangered,Various,351,96,Group-based,12
+Cheetah,303,1738,White,69,Herbivore,Tropical Rainforest,Humans,98,Africa,Critically Endangered,Various,296,65,Solitary,2
+Narwhal,71,3027,Black,69,Omnivore,Forests,Leopards,15,South America,Critically Endangered,Various,232,93,Pack-based,6
+Armadillo,105,1284,Black and White,71,Omnivore,Arctic,Leopards,10,South America,Vulnerable,Various,337,69,Herd-based,7
+Leopard Seal,113,2728,Black and White,26,Herbivore,Savannas,Eagles,89,North America,Critically Endangered,Various,61,43,Solitary,1
+Armadillo,290,328,Brown,31,Insectivore,Arctic,None (apex predator),48,Antarctica,Endangered,Various,66,87,Herd-based,8
+Ocelot,234,464,Black and White,26,Herbivore,Rivers,Lions,34,North America,Vulnerable,Various,107,26,Pack-based,1
+Manta Ray,368,1831,Multicolored,86,Omnivore,Mountains,Humans,47,Australia,Endangered,Various,331,66,Herd-based,2
+Narwhal,439,2367,Black and White,90,Carnivore,Rivers,Lions,7,Arctic,Critically Endangered,Various,287,47,Pack-based,11
+Gazelle,138,1260,Brown,82,Omnivore,Mountains,None (apex predator),94,Europe,Vulnerable,Various,229,70,Group-based,11
+Narwhal,188,2413,Brown,74,Carnivore,Savannas,None (apex predator),78,Asia,Critically Endangered,Various,90,21,Solitary,9
+Kangaroo,401,2648,Yellow-brown,33,Herbivore,Forests,Hyenas,59,North America,Endangered,Various,178,97,Herd-based,2
+Rhino,55,2156,Black,28,Omnivore,Forests,Eagles,82,South America,Critically Endangered,Various,58,85,Herd-based,11
+Anteater,364,3309,Grey,98,Omnivore,Rivers,Lions,98,Arctic,Vulnerable,Various,333,45,Pack-based,9
+Lynx,162,3463,Golden,89,Insectivore,Mountains,None (apex predator),34,Europe,Critically Endangered,Various,329,85,Group-based,8
+Cheetah,62,2989,Black,44,Omnivore,Forests,Eagles,87,Australia,Critically Endangered,Various,54,52,Pack-based,8
+Armadillo,344,788,Black,92,Insectivore,Forests,Leopards,76,Asia,Vulnerable,Various,106,26,Herd-based,9
+Narwhal,43,2976,Yellow-brown,26,Insectivore,Savannas,Hyenas,80,Asia,Critically Endangered,Various,156,83,Pack-based,2
+Polar Bear,434,2040,Black and White,55,Omnivore,Tropical Rainforest,Leopards,22,Arctic,Vulnerable,Various,197,80,Pack-based,2
+Dolphin,272,1431,Multicolored,64,Herbivore,Grasslands,Hyenas,54,Africa,Critically Endangered,Various,313,93,Herd-based,8
+Porcupine,268,1301,Grey,19,Omnivore,Tropical Rainforest,Leopards,78,North America,Critically Endangered,Various,189,91,Group-based,6
+Puffin,253,928,Brown,52,Herbivore,Forests,Lions,25,Europe,Vulnerable,Various,102,32,Group-based,5
+Penguin,185,1430,White,16,Carnivore,Mountains,None (apex predator),46,North America,Critically Endangered,Various,364,47,Group-based,9
+Manatee,130,3362,Golden,37,Omnivore,Tropical Rainforest,Hyenas,73,North America,Critically Endangered,Various,76,51,Solitary,1
+Gazelle,320,2716,Golden,73,Insectivore,Grasslands,Leopards,23,Africa,Vulnerable,Various,333,96,Pack-based,3
+Moose,281,2426,Black and White,80,Carnivore,Grasslands,Humans,17,Asia,Endangered,Various,217,98,Pack-based,5
+Hammerhead Shark,103,2217,Golden,67,Insectivore,Ocean,Eagles,60,Europe,Endangered,Various,218,87,Solitary,11
+Bison,77,2265,Yellow-brown,91,Carnivore,Savannas,Lions,68,North America,Vulnerable,Various,305,42,Solitary,4
+Bison,431,1118,Black and White,56,Herbivore,Savannas,Hyenas,7,Africa,Vulnerable,Various,345,27,Group-based,1
+Porcupine,450,3277,Grey,32,Insectivore,Grasslands,Humans,77,South America,Endangered,Various,250,79,Herd-based,1
+Flamingo,106,3015,Yellow-brown,83,Insectivore,Savannas,None (apex predator),41,Europe,Vulnerable,Various,289,78,Group-based,5
+Black Widow Spider,499,1412,Black and White,98,Herbivore,Tropical Rainforest,Leopards,94,North America,Vulnerable,Various,50,72,Pack-based,8
+Zebra,156,1231,Black,7,Omnivore,Mountains,Leopards,82,Antarctica,Critically Endangered,Various,267,84,Pack-based,12
+Kangaroo,241,82,Brown,81,Omnivore,Grasslands,Humans,7,Africa,Least Concern,Various,296,37,Herd-based,12
+Leopard Seal,30,1427,Black and White,16,Herbivore,Tropical Rainforest,Lions,84,Australia,Vulnerable,Various,236,39,Solitary,8
+Ocelot,380,64,Yellow-brown,83,Carnivore,Forests,Eagles,49,Arctic,Vulnerable,Various,59,32,Solitary,10
+Albatross,258,356,Multicolored,81,Insectivore,Tropical Rainforest,Hyenas,90,Europe,Critically Endangered,Various,358,93,Pack-based,10
+Walrus,139,2708,Yellow-brown,11,Omnivore,Mountains,Humans,75,Africa,Vulnerable,Various,175,19,Pack-based,5
+Otter,265,1829,Multicolored,84,Carnivore,Mountains,Hyenas,15,Africa,Vulnerable,Various,241,43,Herd-based,8
+Toucan,178,2229,Black and White,87,Herbivore,Rivers,Humans,65,Australia,Critically Endangered,Various,202,64,Solitary,9
+Armadillo,308,2755,Golden,89,Herbivore,Arctic,Humans,94,Antarctica,Vulnerable,Various,180,100,Herd-based,4
+Chimpanzee,380,783,Grey,84,Carnivore,Ocean,Humans,85,Arctic,Least Concern,Various,83,61,Pack-based,12
+Alligator,241,1421,Yellow-brown,93,Herbivore,Ocean,Humans,59,Australia,Vulnerable,Various,342,11,Group-based,1
+Giraffe,168,669,Yellow-brown,33,Carnivore,Grasslands,Lions,44,Africa,Critically Endangered,Various,285,48,Solitary,7
+Hammerhead Shark,222,1373,Yellow-brown,80,Herbivore,Grasslands,None (apex predator),22,South America,Least Concern,Various,346,24,Solitary,5
+Emperor Penguin,494,3118,Multicolored,51,Carnivore,Grasslands,Eagles,87,Australia,Least Concern,Various,144,42,Herd-based,2
+Alligator,136,251,Multicolored,71,Herbivore,Rivers,Hyenas,96,Antarctica,Endangered,Various,260,93,Pack-based,2
+Moose,206,2486,Yellow-brown,43,Insectivore,Savannas,None (apex predator),31,Arctic,Critically Endangered,Various,360,26,Solitary,12
+Cheetah,427,3080,Yellow-brown,34,Insectivore,Ocean,Leopards,18,North America,Endangered,Various,256,14,Herd-based,7
+Baboon,43,3093,Grey,50,Herbivore,Grasslands,Leopards,86,South America,Least Concern,Various,234,35,Herd-based,9
+Manta Ray,491,3244,Golden,35,Omnivore,Savannas,None (apex predator),34,Arctic,Least Concern,Various,357,31,Pack-based,6
+Armadillo,158,1007,Yellow-brown,73,Herbivore,Savannas,Leopards,9,North America,Critically Endangered,Various,245,77,Solitary,8
+Gazelle,269,455,Brown,47,Carnivore,Ocean,Lions,74,Africa,Vulnerable,Various,266,28,Solitary,5
+Orangutan,181,2079,Brown,100,Herbivore,Arctic,Lions,56,Asia,Endangered,Various,158,65,Pack-based,12
+Otter,380,2543,Yellow-brown,40,Herbivore,Forests,Humans,54,Australia,Endangered,Various,58,57,Solitary,5
+Orangutan,293,2259,Golden,41,Insectivore,Ocean,Eagles,95,Arctic,Endangered,Various,81,19,Herd-based,7
+Dolphin,223,2890,Golden,95,Omnivore,Forests,None (apex predator),6,North America,Endangered,Various,94,14,Pack-based,11
+Giraffe,89,277,Yellow-brown,18,Insectivore,Arctic,Lions,43,Antarctica,Critically Endangered,Various,87,48,Herd-based,11
+Rhino,408,1785,Golden,72,Herbivore,Savannas,Humans,70,North America,Least Concern,Various,226,17,Solitary,9
+Hippopotamus,359,683,White,7,Insectivore,Grasslands,Leopards,65,South America,Endangered,Various,320,35,Pack-based,2
+Lynx,55,133,Grey,67,Omnivore,Savannas,Hyenas,11,Europe,Least Concern,Various,50,14,Solitary,4
+Emperor Penguin,73,30,Multicolored,88,Herbivore,Grasslands,None (apex predator),74,Africa,Vulnerable,Various,293,32,Group-based,3
+Albatross,434,726,Grey,35,Herbivore,Forests,Lions,25,Asia,Least Concern,Various,224,95,Solitary,9
+Polar Bear,358,2391,Multicolored,6,Omnivore,Ocean,Eagles,28,South America,Least Concern,Various,156,22,Herd-based,7
+Dolphin,106,1214,Yellow-brown,80,Insectivore,Arctic,Leopards,83,North America,Least Concern,Various,104,26,Group-based,7
+Koala,137,2438,Brown,93,Insectivore,Savannas,Humans,67,South America,Vulnerable,Various,180,47,Herd-based,1
+Bison,445,1003,Black,55,Insectivore,Savannas,Eagles,93,North America,Vulnerable,Various,183,79,Pack-based,6
+Otter,170,11,Black and White,78,Carnivore,Mountains,Eagles,82,Asia,Least Concern,Various,152,100,Pack-based,7
+Iguana,404,2584,Black,14,Herbivore,Tropical Rainforest,Hyenas,36,North America,Endangered,Various,180,100,Group-based,10
+Ocelot,386,161,Black and White,49,Herbivore,Tropical Rainforest,Lions,70,North America,Least Concern,Various,94,22,Group-based,11
+Baboon,356,3277,Black and White,66,Carnivore,Tropical Rainforest,Lions,93,North America,Least Concern,Various,181,85,Herd-based,12
+Wolf,267,1925,Golden,17,Carnivore,Rivers,Leopards,68,Africa,Least Concern,Various,330,21,Pack-based,11
+Anteater,328,2971,Golden,65,Omnivore,Grasslands,Leopards,87,Africa,Endangered,Various,80,70,Herd-based,8
+Parrot,275,693,White,48,Carnivore,Mountains,Humans,99,Arctic,Critically Endangered,Various,270,53,Pack-based,8
+Chimpanzee,196,2540,Brown,65,Carnivore,Tropical Rainforest,Hyenas,37,Arctic,Vulnerable,Various,319,30,Herd-based,3
+Manatee,228,3228,Yellow-brown,42,Omnivore,Ocean,Lions,77,North America,Endangered,Various,305,36,Group-based,9
+Sloth,480,467,Yellow-brown,53,Insectivore,Mountains,Lions,71,Antarctica,Endangered,Various,354,18,Pack-based,1
+Ocelot,242,1608,Black and White,11,Herbivore,Rivers,Lions,14,Europe,Vulnerable,Various,334,97,Group-based,5
+Komodo Dragon,469,2991,White,70,Carnivore,Arctic,Leopards,65,Antarctica,Endangered,Various,327,17,Solitary,11
+Puffin,109,1239,Yellow-brown,28,Carnivore,Arctic,Hyenas,82,Arctic,Critically Endangered,Various,246,53,Group-based,10
+Golden Eagle,471,208,Yellow-brown,81,Insectivore,Forests,Lions,46,Asia,Vulnerable,Various,167,97,Solitary,11
+Koala,200,618,White,19,Insectivore,Ocean,Eagles,90,Africa,Endangered,Various,279,82,Solitary,3
+Porcupine,41,1071,Multicolored,51,Insectivore,Ocean,Eagles,29,Europe,Least Concern,Various,273,33,Pack-based,1
+Baboon,81,614,Golden,84,Herbivore,Rivers,Hyenas,30,South America,Vulnerable,Various,323,69,Herd-based,5
+Cheetah,482,2802,Yellow-brown,52,Insectivore,Rivers,Eagles,63,Arctic,Vulnerable,Various,293,59,Solitary,8
+Red Panda,342,2418,White,21,Herbivore,Savannas,Leopards,12,North America,Critically Endangered,Various,310,61,Solitary,7
+Kangaroo,419,1941,Black,6,Carnivore,Grasslands,Hyenas,26,Africa,Critically Endangered,Various,189,20,Group-based,8
+Toucan,266,919,Brown,90,Carnivore,Arctic,None (apex predator),45,Europe,Least Concern,Various,204,87,Herd-based,10
+Manatee,149,2461,Golden,65,Omnivore,Rivers,Hyenas,52,Africa,Endangered,Various,317,62,Herd-based,3
+Arctic Fox,486,2466,Grey,27,Omnivore,Forests,Leopards,27,Australia,Critically Endangered,Various,332,98,Herd-based,4
+Kangaroo,277,3057,Black and White,87,Herbivore,Rivers,Leopards,97,Asia,Vulnerable,Various,344,49,Group-based,4
+Komodo Dragon,429,2701,Multicolored,84,Insectivore,Ocean,Hyenas,35,Asia,Least Concern,Various,288,82,Solitary,7
+Hammerhead Shark,389,974,Multicolored,36,Omnivore,Mountains,Eagles,61,South America,Critically Endangered,Various,161,55,Herd-based,10
+Leopard Seal,121,2986,Golden,81,Carnivore,Mountains,Eagles,10,Africa,Endangered,Various,80,68,Solitary,7
+Ocelot,63,2443,Multicolored,37,Carnivore,Tropical Rainforest,Hyenas,77,Africa,Least Concern,Various,317,30,Herd-based,1
+Snow Leopard,329,2264,White,33,Omnivore,Ocean,None (apex predator),29,North America,Least Concern,Various,74,66,Solitary,8
+Tiger,57,367,Grey,28,Herbivore,Grasslands,None (apex predator),26,North America,Endangered,Various,64,41,Herd-based,8
+Alligator,265,271,Golden,60,Omnivore,Arctic,Lions,67,Asia,Critically Endangered,Various,341,73,Solitary,3
+Giraffe,382,1452,Grey,39,Omnivore,Rivers,None (apex predator),94,Europe,Endangered,Various,347,56,Solitary,11
+Ocelot,481,710,Brown,95,Insectivore,Tropical Rainforest,Leopards,56,Europe,Endangered,Various,50,12,Group-based,5
+Hippopotamus,121,572,Black,67,Carnivore,Tropical Rainforest,Hyenas,29,Europe,Critically Endangered,Various,262,23,Group-based,7
+Flamingo,223,2428,Black and White,64,Insectivore,Tropical Rainforest,Humans,48,North America,Endangered,Various,361,27,Solitary,3
+Wombat,413,2467,Brown,55,Herbivore,Savannas,Eagles,47,Africa,Vulnerable,Various,268,60,Solitary,5
+Python,267,416,Black,15,Omnivore,Arctic,None (apex predator),89,South America,Endangered,Various,99,11,Group-based,3
+Alligator,387,2307,Black,74,Carnivore,Forests,Humans,22,Antarctica,Endangered,Various,130,66,Group-based,1
+Emperor Penguin,78,2274,Multicolored,38,Insectivore,Grasslands,Hyenas,94,Asia,Least Concern,Various,163,21,Pack-based,6
+Otter,90,2166,Black and White,91,Herbivore,Ocean,None (apex predator),68,South America,Critically Endangered,Various,317,78,Solitary,3
+Golden Eagle,156,743,Grey,48,Insectivore,Grasslands,Lions,88,Europe,Critically Endangered,Various,132,20,Solitary,1
+Leopard Seal,249,2603,Black and White,99,Carnivore,Mountains,None (apex predator),10,South America,Vulnerable,Various,304,99,Group-based,6
+Kangaroo,419,2053,Golden,53,Omnivore,Arctic,None (apex predator),58,South America,Vulnerable,Various,339,100,Solitary,12
+Walrus,72,590,Golden,100,Carnivore,Tropical Rainforest,Leopards,91,Australia,Endangered,Various,98,46,Pack-based,4
+Otter,418,2350,Brown,40,Omnivore,Ocean,Eagles,9,Europe,Vulnerable,Various,143,42,Herd-based,1
+Rhino,459,812,Grey,61,Herbivore,Mountains,Leopards,29,North America,Critically Endangered,Various,365,59,Solitary,4
+Narwhal,357,672,Yellow-brown,58,Carnivore,Mountains,Lions,90,Africa,Endangered,Various,283,20,Pack-based,2
+Albatross,31,1622,Yellow-brown,44,Carnivore,Savannas,Eagles,43,Europe,Least Concern,Various,236,33,Group-based,8
+Sea Turtle,402,2406,Multicolored,64,Omnivore,Savannas,Lions,30,Asia,Critically Endangered,Various,223,63,Group-based,6
+Hippopotamus,119,1186,Yellow-brown,13,Herbivore,Mountains,Leopards,78,Africa,Endangered,Various,113,92,Herd-based,12
+Giraffe,486,476,Multicolored,19,Insectivore,Ocean,Hyenas,14,South America,Critically Endangered,Various,208,12,Pack-based,3
+Manatee,419,62,Brown,82,Insectivore,Savannas,Lions,39,South America,Critically Endangered,Various,76,33,Herd-based,7
+Manta Ray,344,977,Yellow-brown,6,Omnivore,Tropical Rainforest,Leopards,63,Europe,Critically Endangered,Various,209,21,Herd-based,10
+Moose,400,2582,Golden,77,Herbivore,Grasslands,Leopards,18,Asia,Critically Endangered,Various,307,50,Group-based,11
+Baboon,40,2261,Brown,40,Carnivore,Forests,None (apex predator),68,North America,Critically Endangered,Various,189,52,Pack-based,12
+Albatross,463,3343,Black and White,23,Insectivore,Mountains,Humans,76,Europe,Vulnerable,Various,159,92,Group-based,1
+Zebra,39,450,Golden,40,Insectivore,Mountains,Eagles,33,North America,Endangered,Various,67,41,Solitary,5
+Tiger,356,1816,Multicolored,87,Herbivore,Ocean,Humans,97,Arctic,Critically Endangered,Various,231,16,Herd-based,12
+Porcupine,76,3477,Multicolored,64,Herbivore,Grasslands,Hyenas,52,South America,Least Concern,Various,289,76,Group-based,12
+Iguana,33,3166,Brown,53,Insectivore,Savannas,Leopards,46,Asia,Endangered,Various,275,21,Solitary,5
+Albatross,485,1587,Grey,9,Omnivore,Savannas,Eagles,55,Arctic,Endangered,Various,230,82,Group-based,7
+Bison,191,2711,Golden,12,Insectivore,Rivers,Lions,74,Antarctica,Endangered,Various,73,50,Group-based,11
+Giraffe,254,871,Black and White,18,Carnivore,Tropical Rainforest,Lions,64,Arctic,Vulnerable,Various,308,83,Solitary,4
+Sloth,49,1487,Grey,47,Carnivore,Ocean,Leopards,98,North America,Critically Endangered,Various,334,95,Group-based,6
+Eagle,266,660,White,59,Herbivore,Savannas,Lions,51,Africa,Endangered,Various,156,43,Group-based,12
+Koala,203,852,Black and White,41,Herbivore,Grasslands,Lions,77,Africa,Vulnerable,Various,191,35,Pack-based,4
+Emperor Penguin,164,932,Grey,30,Omnivore,Forests,Lions,17,North America,Least Concern,Various,225,30,Group-based,7
+Manatee,401,2561,Golden,77,Insectivore,Ocean,Humans,59,Antarctica,Vulnerable,Various,205,78,Group-based,12
+Sea Turtle,183,2925,White,39,Omnivore,Arctic,Humans,46,Asia,Vulnerable,Various,256,91,Herd-based,3
+Black Widow Spider,377,3210,Yellow-brown,82,Carnivore,Grasslands,Lions,13,North America,Endangered,Various,131,56,Herd-based,11
+Zebra,134,5,Grey,11,Omnivore,Mountains,None (apex predator),92,Asia,Vulnerable,Various,79,86,Solitary,10
+Anteater,309,3396,Brown,51,Herbivore,Savannas,None (apex predator),43,Antarctica,Critically Endangered,Various,315,51,Pack-based,7
+Rhino,148,1004,Grey,8,Insectivore,Mountains,Eagles,93,Arctic,Critically Endangered,Various,292,78,Solitary,4
+Narwhal,180,2025,Brown,89,Herbivore,Ocean,None (apex predator),71,Australia,Endangered,Various,233,32,Group-based,9
+Dolphin,391,734,Brown,68,Carnivore,Rivers,Humans,66,Antarctica,Endangered,Various,52,11,Solitary,3
+Puffin,239,2770,Grey,90,Omnivore,Forests,Lions,70,Australia,Vulnerable,Various,198,35,Pack-based,3
+Porcupine,129,2383,Black and White,95,Insectivore,Forests,Hyenas,67,Arctic,Endangered,Various,162,69,Pack-based,12
+Cheetah,115,3256,Black,99,Carnivore,Grasslands,Leopards,91,South America,Vulnerable,Various,213,46,Herd-based,7
+Manatee,127,1760,Brown,83,Carnivore,Grasslands,Humans,32,Arctic,Least Concern,Various,222,37,Group-based,3
+Giraffe,191,2329,Brown,80,Carnivore,Savannas,Eagles,51,Europe,Critically Endangered,Various,195,19,Solitary,10
+Orangutan,68,1117,Grey,79,Carnivore,Ocean,None (apex predator),7,Europe,Endangered,Various,143,51,Solitary,7
+Dolphin,39,1735,Black,99,Insectivore,Forests,Humans,6,South America,Critically Endangered,Various,358,40,Pack-based,11
+Emperor Penguin,118,743,Grey,80,Herbivore,Savannas,Humans,37,Europe,Critically Endangered,Various,179,95,Group-based,8
+Hammerhead Shark,203,1111,Brown,19,Carnivore,Savannas,Lions,91,Australia,Endangered,Various,204,38,Pack-based,11
+Dolphin,118,1260,Brown,75,Omnivore,Mountains,Humans,36,Europe,Least Concern,Various,183,92,Pack-based,10
+Red Panda,372,688,Golden,54,Omnivore,Savannas,Leopards,21,South America,Endangered,Various,71,70,Pack-based,12
+Manatee,38,1408,Golden,79,Herbivore,Tropical Rainforest,Humans,17,Australia,Least Concern,Various,54,82,Herd-based,12
+Flamingo,395,2007,Brown,9,Herbivore,Savannas,None (apex predator),16,Europe,Endangered,Various,271,99,Group-based,2
+Leopard Seal,413,164,Golden,53,Herbivore,Mountains,Lions,31,Australia,Least Concern,Various,76,62,Solitary,4
+Albatross,353,1774,Black and White,75,Herbivore,Mountains,Leopards,37,Antarctica,Least Concern,Various,353,23,Herd-based,4
+Narwhal,461,1229,Grey,32,Herbivore,Ocean,Lions,93,Antarctica,Endangered,Various,331,45,Herd-based,6
+Mountain Goat,54,2813,White,79,Herbivore,Ocean,None (apex predator),7,South America,Vulnerable,Various,86,70,Pack-based,12
+Manatee,231,44,Black,96,Herbivore,Rivers,Humans,48,Asia,Endangered,Various,276,81,Solitary,4
+Ocelot,409,1435,Brown,37,Carnivore,Ocean,Hyenas,53,Australia,Vulnerable,Various,342,11,Group-based,1
+Snow Leopard,498,1543,Black and White,86,Omnivore,Forests,Leopards,67,Antarctica,Vulnerable,Various,187,43,Pack-based,4
+Baboon,353,2559,Grey,14,Herbivore,Tropical Rainforest,Humans,82,Arctic,Least Concern,Various,141,19,Herd-based,5
+Arctic Fox,384,3268,White,12,Carnivore,Savannas,Leopards,46,Antarctica,Endangered,Various,188,71,Herd-based,4
+Panda,438,2437,Grey,93,Carnivore,Arctic,Hyenas,29,Antarctica,Endangered,Various,268,40,Pack-based,2
+Penguin,117,2996,Grey,35,Omnivore,Savannas,None (apex predator),6,Europe,Endangered,Various,214,72,Pack-based,6
+Hippopotamus,393,3450,Brown,27,Omnivore,Arctic,Leopards,81,Asia,Vulnerable,Various,246,45,Group-based,2
+Leopard Seal,59,1210,Golden,69,Carnivore,Rivers,Leopards,31,Arctic,Critically Endangered,Various,259,31,Group-based,5
+Hammerhead Shark,96,2892,Brown,80,Herbivore,Mountains,Lions,69,South America,Endangered,Various,290,95,Group-based,7
+Sea Turtle,321,1962,Grey,71,Herbivore,Tropical Rainforest,None (apex predator),69,Africa,Critically Endangered,Various,265,18,Herd-based,4
+Moose,399,1906,Black and White,84,Carnivore,Rivers,Hyenas,16,Africa,Endangered,Various,132,82,Solitary,12
+Emperor Penguin,207,1385,Black and White,57,Carnivore,Savannas,Hyenas,63,Antarctica,Least Concern,Various,217,40,Pack-based,12
+Chimpanzee,424,2411,Black and White,9,Omnivore,Arctic,Leopards,71,Asia,Critically Endangered,Various,282,99,Solitary,2
+Chimpanzee,112,2065,Grey,31,Herbivore,Arctic,Hyenas,8,South America,Vulnerable,Various,75,26,Herd-based,4
+Anteater,348,3391,White,8,Insectivore,Savannas,Eagles,96,Arctic,Critically Endangered,Various,73,28,Herd-based,4
+Jaguar,205,1056,Brown,47,Carnivore,Tropical Rainforest,None (apex predator),16,Europe,Endangered,Various,306,61,Pack-based,2
+Narwhal,282,2498,Grey,8,Herbivore,Rivers,None (apex predator),63,Asia,Vulnerable,Various,93,49,Group-based,3
+Giraffe,355,1476,Multicolored,50,Herbivore,Savannas,None (apex predator),46,North America,Endangered,Various,234,67,Herd-based,8
+Cheetah,379,1693,Black,76,Insectivore,Forests,Leopards,58,South America,Endangered,Various,318,47,Pack-based,6
+Arctic Fox,339,601,Golden,68,Omnivore,Arctic,Leopards,5,South America,Vulnerable,Various,83,42,Pack-based,11
+Iguana,464,2334,Black,61,Herbivore,Tropical Rainforest,Humans,9,Antarctica,Least Concern,Various,119,12,Herd-based,7
+Iguana,270,290,Golden,68,Omnivore,Rivers,Leopards,21,North America,Vulnerable,Various,335,56,Solitary,9
+Emperor Penguin,52,1471,Black and White,93,Herbivore,Mountains,None (apex predator),86,Africa,Critically Endangered,Various,258,96,Pack-based,3
+Polar Bear,383,2803,Brown,74,Insectivore,Forests,Lions,93,Arctic,Critically Endangered,Various,319,45,Group-based,6
+Puffin,333,1301,Multicolored,5,Carnivore,Arctic,None (apex predator),76,Australia,Critically Endangered,Various,327,86,Group-based,8
+Baboon,451,2793,Black and White,52,Herbivore,Rivers,None (apex predator),43,North America,Least Concern,Various,178,29,Solitary,11
+Anteater,272,1249,Black and White,88,Herbivore,Rivers,Lions,58,Africa,Vulnerable,Various,250,44,Herd-based,11
+Black Widow Spider,452,1334,Black and White,99,Carnivore,Ocean,Lions,77,Asia,Critically Endangered,Various,182,91,Herd-based,5
+Sloth,199,1768,Yellow-brown,60,Insectivore,Mountains,Humans,29,South America,Endangered,Various,132,39,Herd-based,1
+Golden Eagle,309,1819,Black and White,69,Insectivore,Mountains,None (apex predator),24,Africa,Critically Endangered,Various,344,76,Pack-based,7
+Komodo Dragon,243,2000,Grey,33,Herbivore,Rivers,None (apex predator),47,South America,Vulnerable,Various,95,43,Pack-based,10
+Emperor Penguin,259,851,Grey,96,Insectivore,Rivers,Hyenas,50,Africa,Vulnerable,Various,89,39,Solitary,10
+Wombat,138,776,Brown,80,Omnivore,Mountains,Leopards,75,Antarctica,Critically Endangered,Various,300,27,Herd-based,1
+Otter,380,3338,Multicolored,79,Herbivore,Arctic,Humans,39,North America,Least Concern,Various,251,72,Herd-based,2
+Armadillo,350,479,Black,70,Insectivore,Mountains,Lions,18,Africa,Least Concern,Various,266,11,Pack-based,5
+Leopard Seal,483,1865,Multicolored,25,Insectivore,Ocean,None (apex predator),82,Africa,Vulnerable,Various,60,75,Pack-based,8
+Zebra,396,321,Black and White,32,Omnivore,Rivers,None (apex predator),56,Asia,Least Concern,Various,232,39,Pack-based,10
+Rhino,220,1637,Black and White,31,Insectivore,Mountains,Leopards,38,Antarctica,Vulnerable,Various,202,16,Pack-based,4
+Hammerhead Shark,325,1452,Golden,83,Insectivore,Ocean,Lions,14,South America,Vulnerable,Various,83,29,Herd-based,12
+Sloth,493,998,Brown,21,Herbivore,Ocean,Hyenas,11,Arctic,Vulnerable,Various,158,23,Herd-based,11
+Tiger,164,834,White,81,Insectivore,Ocean,Eagles,11,Asia,Vulnerable,Various,50,71,Group-based,7
+Flamingo,142,1619,Golden,64,Omnivore,Rivers,Eagles,62,Antarctica,Vulnerable,Various,130,99,Pack-based,5
+Leopard Seal,165,1888,Black and White,48,Insectivore,Rivers,None (apex predator),34,North America,Critically Endangered,Various,177,17,Solitary,3
+Wolf,106,914,Multicolored,63,Carnivore,Rivers,None (apex predator),95,North America,Endangered,Various,157,76,Pack-based,6
+Zebra,381,2169,Black,95,Carnivore,Savannas,None (apex predator),39,Europe,Endangered,Various,115,42,Group-based,3
+Red Panda,248,3066,Multicolored,59,Insectivore,Tropical Rainforest,Hyenas,100,Asia,Least Concern,Various,312,49,Group-based,10
+Otter,79,3456,Brown,38,Insectivore,Forests,Hyenas,93,Africa,Endangered,Various,182,31,Pack-based,9
+Anteater,213,3041,Grey,41,Carnivore,Grasslands,Eagles,8,Australia,Vulnerable,Various,57,27,Herd-based,11
+Iguana,61,1385,Yellow-brown,92,Herbivore,Rivers,Lions,72,Australia,Critically Endangered,Various,287,84,Pack-based,5
+Wombat,111,3012,Brown,10,Herbivore,Tropical Rainforest,Humans,37,Australia,Critically Endangered,Various,294,96,Group-based,1
+Hippopotamus,484,1803,White,70,Omnivore,Mountains,Lions,99,Australia,Least Concern,Various,94,16,Pack-based,11
+Narwhal,487,927,Brown,93,Carnivore,Savannas,None (apex predator),69,North America,Endangered,Various,111,93,Solitary,11
+Iguana,233,1911,Brown,33,Carnivore,Arctic,Humans,86,Europe,Endangered,Various,213,39,Pack-based,2
+Panda,267,643,White,92,Herbivore,Rivers,Hyenas,54,Europe,Least Concern,Various,233,76,Group-based,10
+Emperor Penguin,471,1328,Black and White,6,Carnivore,Grasslands,Lions,56,Asia,Endangered,Various,301,90,Group-based,1
+Eagle,270,1345,Yellow-brown,59,Carnivore,Grasslands,Leopards,31,Antarctica,Critically Endangered,Various,213,51,Herd-based,1
+Giraffe,267,1220,Golden,86,Omnivore,Mountains,Humans,47,Asia,Least Concern,Various,271,95,Group-based,8
+Snow Leopard,44,136,Black,59,Insectivore,Tropical Rainforest,None (apex predator),14,South America,Endangered,Various,339,95,Group-based,8
+Baboon,455,2463,Black and White,37,Herbivore,Tropical Rainforest,Lions,40,Asia,Endangered,Various,199,98,Herd-based,10
+Baboon,392,485,Golden,80,Omnivore,Grasslands,Hyenas,14,South America,Least Concern,Various,50,21,Solitary,5
+Walrus,336,1297,Brown,88,Herbivore,Forests,Hyenas,19,South America,Least Concern,Various,121,16,Pack-based,5
+Red Panda,111,3387,Brown,67,Insectivore,Tropical Rainforest,Lions,82,Asia,Critically Endangered,Various,219,49,Herd-based,10
+Penguin,214,2976,Multicolored,20,Omnivore,Savannas,Eagles,41,Asia,Vulnerable,Various,120,92,Pack-based,10
+Python,447,2115,Black and White,24,Insectivore,Arctic,Lions,48,Africa,Vulnerable,Various,316,36,Group-based,1
+Eagle,288,2533,Grey,40,Carnivore,Savannas,Lions,77,Australia,Least Concern,Various,101,29,Solitary,1
+Armadillo,182,2085,Black and White,76,Insectivore,Tropical Rainforest,Lions,69,South America,Least Concern,Various,147,70,Solitary,11
+Hammerhead Shark,385,3243,Brown,78,Insectivore,Tropical Rainforest,Hyenas,37,Europe,Endangered,Various,357,76,Herd-based,10
+Orangutan,408,2470,Multicolored,82,Omnivore,Mountains,Eagles,54,Asia,Vulnerable,Various,296,86,Herd-based,10
+Puffin,80,2244,Multicolored,65,Herbivore,Forests,Hyenas,28,North America,Least Concern,Various,338,47,Herd-based,8
+Giraffe,295,2148,Grey,78,Herbivore,Tropical Rainforest,None (apex predator),49,South America,Critically Endangered,Various,346,24,Group-based,12
+Sloth,126,589,Brown,48,Omnivore,Rivers,None (apex predator),32,Australia,Critically Endangered,Various,80,37,Solitary,6
+Giraffe,278,2104,Grey,96,Herbivore,Tropical Rainforest,Leopards,9,Arctic,Least Concern,Various,329,77,Herd-based,1
+Rhino,237,457,Black,50,Carnivore,Forests,Leopards,78,Asia,Least Concern,Various,213,45,Herd-based,11
+Flamingo,86,146,Black,48,Omnivore,Arctic,Hyenas,83,Australia,Vulnerable,Various,175,85,Solitary,1
+Walrus,227,186,Black,31,Carnivore,Mountains,Hyenas,86,Africa,Vulnerable,Various,50,56,Group-based,7
+Panda,199,1014,Grey,38,Insectivore,Forests,Lions,92,Antarctica,Vulnerable,Various,200,97,Solitary,11
+Baboon,215,2127,Brown,5,Carnivore,Grasslands,Hyenas,44,Africa,Vulnerable,Various,352,42,Herd-based,9
+Moose,344,3474,White,66,Insectivore,Arctic,Lions,14,Arctic,Vulnerable,Various,68,22,Group-based,7
+Flamingo,205,1164,Grey,36,Carnivore,Rivers,Eagles,20,North America,Critically Endangered,Various,155,65,Group-based,3
+Emperor Penguin,59,319,Black,81,Insectivore,Arctic,Eagles,70,Asia,Critically Endangered,Various,78,66,Solitary,12
+Sea Turtle,53,3010,Grey,30,Herbivore,Savannas,Humans,76,Asia,Vulnerable,Various,91,88,Solitary,11
+Leopard Seal,112,2034,Grey,30,Herbivore,Forests,Hyenas,83,Australia,Critically Endangered,Various,102,11,Pack-based,11
+Zebra,233,1550,Black and White,37,Carnivore,Ocean,None (apex predator),20,South America,Least Concern,Various,191,98,Group-based,9
+Penguin,228,2813,Golden,13,Herbivore,Grasslands,Lions,35,Europe,Critically Endangered,Various,243,51,Pack-based,5
+Giraffe,496,164,Yellow-brown,43,Insectivore,Tropical Rainforest,Leopards,68,North America,Endangered,Various,126,99,Solitary,6
+Orangutan,334,1836,Yellow-brown,49,Carnivore,Ocean,Leopards,72,South America,Vulnerable,Various,276,51,Group-based,1
+Tiger,199,2274,Multicolored,60,Omnivore,Forests,Lions,40,Africa,Endangered,Various,329,91,Group-based,7
+Arctic Fox,40,1214,Multicolored,19,Omnivore,Tropical Rainforest,Humans,91,Australia,Least Concern,Various,77,69,Herd-based,6
+Penguin,418,602,Golden,88,Carnivore,Mountains,Eagles,67,Europe,Vulnerable,Various,233,98,Group-based,5
+Lynx,403,329,Yellow-brown,20,Carnivore,Forests,Leopards,95,Asia,Endangered,Various,98,67,Pack-based,8
+Puffin,207,1419,Golden,56,Carnivore,Forests,None (apex predator),60,South America,Vulnerable,Various,254,75,Group-based,3
+Polar Bear,244,1155,Yellow-brown,6,Insectivore,Tropical Rainforest,Humans,55,North America,Critically Endangered,Various,325,95,Solitary,5
+Koala,60,3312,Brown,10,Insectivore,Rivers,None (apex predator),31,Europe,Endangered,Various,92,28,Solitary,7
+Rhino,74,199,White,86,Omnivore,Grasslands,Humans,15,Arctic,Critically Endangered,Various,208,17,Herd-based,6
+Giraffe,49,434,Black and White,18,Carnivore,Grasslands,Humans,23,Australia,Endangered,Various,65,29,Pack-based,3
+Leopard Seal,403,2472,Grey,45,Carnivore,Savannas,Lions,79,Africa,Endangered,Various,229,14,Herd-based,6
+Narwhal,58,3133,Black and White,58,Omnivore,Savannas,Lions,10,Europe,Endangered,Various,65,86,Solitary,2
+Leopard Seal,31,1244,White,53,Herbivore,Ocean,None (apex predator),95,North America,Vulnerable,Various,250,13,Herd-based,8
+Black Widow Spider,217,641,White,6,Carnivore,Arctic,None (apex predator),11,North America,Least Concern,Various,63,13,Solitary,3
+Orangutan,259,425,Brown,89,Carnivore,Ocean,Humans,33,Antarctica,Vulnerable,Various,345,40,Herd-based,11
+Mountain Goat,276,2422,Multicolored,61,Carnivore,Grasslands,Eagles,86,Australia,Critically Endangered,Various,227,63,Herd-based,9
+Eagle,103,1550,Golden,50,Insectivore,Mountains,Leopards,13,South America,Critically Endangered,Various,344,80,Group-based,3
+Manta Ray,370,797,Grey,20,Insectivore,Rivers,Leopards,54,Australia,Vulnerable,Various,159,46,Pack-based,8
+Chimpanzee,455,527,Yellow-brown,5,Insectivore,Rivers,None (apex predator),17,Asia,Least Concern,Various,56,89,Solitary,10
+Armadillo,97,1516,Black,10,Herbivore,Rivers,Lions,35,Asia,Vulnerable,Various,77,64,Pack-based,4
+Manta Ray,294,1297,Yellow-brown,89,Carnivore,Ocean,None (apex predator),49,Arctic,Vulnerable,Various,161,95,Group-based,7
+Flamingo,114,2891,Golden,10,Insectivore,Grasslands,Eagles,14,South America,Endangered,Various,183,10,Group-based,12
+Kangaroo,411,1448,Golden,54,Insectivore,Savannas,Hyenas,73,South America,Endangered,Various,274,21,Solitary,3
+Arctic Fox,142,1155,Yellow-brown,52,Herbivore,Mountains,Eagles,37,Europe,Vulnerable,Various,364,63,Herd-based,11
+Dolphin,375,935,Black and White,67,Omnivore,Forests,Lions,58,South America,Vulnerable,Various,253,80,Pack-based,4
+Manta Ray,473,423,Black and White,44,Herbivore,Ocean,None (apex predator),76,Africa,Vulnerable,Various,53,19,Herd-based,7
+Otter,33,429,Golden,66,Herbivore,Forests,Leopards,44,South America,Least Concern,Various,217,25,Solitary,3
+Gazelle,73,1465,Golden,35,Omnivore,Grasslands,Humans,59,North America,Endangered,Various,184,97,Pack-based,3
+Albatross,83,2316,Grey,70,Insectivore,Tropical Rainforest,Humans,58,Australia,Endangered,Various,79,52,Herd-based,7
+Rhino,460,2415,Yellow-brown,25,Insectivore,Rivers,None (apex predator),14,North America,Least Concern,Various,296,69,Herd-based,1
+Python,479,866,Black and White,89,Carnivore,Savannas,Hyenas,46,Australia,Vulnerable,Various,233,31,Pack-based,12
+Snow Leopard,237,2752,Black and White,58,Insectivore,Tropical Rainforest,Eagles,71,Europe,Endangered,Various,222,14,Pack-based,8
+Komodo Dragon,339,2081,White,52,Herbivore,Savannas,Hyenas,28,Australia,Vulnerable,Various,198,32,Pack-based,5
+Snow Leopard,292,2361,Black,69,Carnivore,Grasslands,None (apex predator),7,Africa,Least Concern,Various,240,18,Group-based,5
+Sloth,151,1037,Black and White,33,Omnivore,Grasslands,Eagles,23,Europe,Endangered,Various,256,93,Solitary,2
+Narwhal,464,716,Golden,50,Omnivore,Tropical Rainforest,None (apex predator),98,Africa,Critically Endangered,Various,147,58,Pack-based,10
+Anteater,162,222,Black,43,Herbivore,Grasslands,Humans,80,Antarctica,Critically Endangered,Various,87,20,Group-based,3
+Eagle,291,2473,Golden,88,Omnivore,Grasslands,Humans,86,Asia,Vulnerable,Various,202,99,Pack-based,12
+Cheetah,330,2117,Multicolored,83,Omnivore,Rivers,Leopards,88,Europe,Critically Endangered,Various,172,88,Herd-based,5
+Snow Leopard,113,2091,Black and White,41,Carnivore,Grasslands,None (apex predator),94,Europe,Vulnerable,Various,275,87,Pack-based,3
+Dolphin,211,323,Grey,55,Carnivore,Tropical Rainforest,Humans,16,Australia,Critically Endangered,Various,113,62,Pack-based,12
+Flamingo,340,788,Yellow-brown,64,Carnivore,Arctic,Leopards,18,North America,Endangered,Various,343,93,Solitary,3
+Armadillo,137,3248,White,80,Carnivore,Ocean,Hyenas,10,Asia,Least Concern,Various,149,51,Group-based,4
+Polar Bear,136,1285,Brown,66,Carnivore,Mountains,Humans,11,North America,Endangered,Various,266,20,Pack-based,12
+Golden Eagle,60,3186,Black and White,65,Herbivore,Grasslands,Eagles,72,Africa,Critically Endangered,Various,216,72,Solitary,11
+Zebra,218,2633,White,62,Herbivore,Savannas,Leopards,38,South America,Critically Endangered,Various,67,85,Group-based,1
+Porcupine,439,1284,Golden,9,Omnivore,Arctic,Eagles,74,Europe,Vulnerable,Various,240,100,Group-based,4
+Giraffe,365,2472,Golden,98,Insectivore,Tropical Rainforest,None (apex predator),64,Africa,Endangered,Various,352,53,Herd-based,8
+Otter,253,3271,Yellow-brown,40,Insectivore,Mountains,Humans,12,North America,Critically Endangered,Various,334,15,Pack-based,12
+Cheetah,175,286,Black,45,Omnivore,Mountains,Hyenas,34,Antarctica,Least Concern,Various,282,23,Herd-based,3
+Black Widow Spider,468,973,White,41,Carnivore,Arctic,Leopards,28,South America,Endangered,Various,139,43,Group-based,2
+Golden Eagle,288,1251,Black and White,13,Insectivore,Mountains,Humans,78,Asia,Critically Endangered,Various,208,46,Solitary,10
+Snow Leopard,477,1367,Brown,39,Carnivore,Mountains,Lions,93,Africa,Critically Endangered,Various,285,47,Solitary,11
+Hammerhead Shark,129,2838,Golden,38,Omnivore,Ocean,Leopards,29,Australia,Critically Endangered,Various,316,61,Pack-based,4
+Sloth,339,3058,Grey,87,Omnivore,Mountains,Leopards,75,North America,Vulnerable,Various,161,84,Pack-based,4
+Moose,116,232,Brown,56,Omnivore,Tropical Rainforest,Humans,60,Australia,Endangered,Various,88,91,Group-based,3
+Manatee,310,3083,Brown,49,Herbivore,Forests,None (apex predator),43,Arctic,Critically Endangered,Various,346,44,Herd-based,1
+Bison,182,752,Brown,78,Insectivore,Savannas,Eagles,90,Arctic,Endangered,Various,98,45,Pack-based,7
+Iguana,385,45,Brown,47,Omnivore,Grasslands,Hyenas,15,Arctic,Critically Endangered,Various,342,92,Herd-based,12
+Giraffe,384,3002,White,16,Herbivore,Mountains,Lions,71,South America,Critically Endangered,Various,220,92,Group-based,10
+Orangutan,56,2529,Yellow-brown,97,Herbivore,Rivers,Hyenas,54,South America,Critically Endangered,Various,336,85,Solitary,11
+Black Widow Spider,299,519,Black and White,21,Omnivore,Tropical Rainforest,Humans,29,Arctic,Vulnerable,Various,328,17,Pack-based,10
+Arctic Fox,88,47,Yellow-brown,83,Carnivore,Mountains,Humans,11,Arctic,Vulnerable,Various,306,67,Group-based,5
+Manatee,174,689,Black,29,Herbivore,Grasslands,Lions,58,South America,Least Concern,Various,161,98,Pack-based,4
+Wombat,375,1549,Brown,90,Omnivore,Mountains,Eagles,7,Antarctica,Least Concern,Various,245,35,Group-based,7
+Puffin,496,62,Golden,24,Insectivore,Savannas,None (apex predator),81,North America,Critically Endangered,Various,176,82,Group-based,5
+Panda,102,3182,Golden,71,Carnivore,Forests,Hyenas,35,Africa,Endangered,Various,106,54,Pack-based,11
+Arctic Fox,75,1154,Yellow-brown,57,Herbivore,Ocean,None (apex predator),92,South America,Endangered,Various,328,84,Pack-based,11
+Golden Eagle,265,3378,Multicolored,21,Herbivore,Savannas,Eagles,29,Asia,Least Concern,Various,356,46,Pack-based,4
+Koala,121,341,Black and White,78,Omnivore,Forests,Humans,24,Antarctica,Least Concern,Various,318,29,Herd-based,3
+Chimpanzee,52,225,Golden,88,Insectivore,Ocean,Lions,20,Asia,Critically Endangered,Various,138,100,Group-based,7
+Porcupine,344,2271,Multicolored,76,Insectivore,Grasslands,Hyenas,39,Africa,Least Concern,Various,263,98,Group-based,6
+Armadillo,53,117,Grey,80,Omnivore,Rivers,Humans,70,South America,Least Concern,Various,198,78,Pack-based,9
+Wolf,434,1424,Brown,98,Carnivore,Forests,Lions,13,Africa,Critically Endangered,Various,151,47,Group-based,9
+Armadillo,369,1291,Golden,77,Omnivore,Savannas,Lions,25,North America,Critically Endangered,Various,144,35,Pack-based,5
+Narwhal,36,2012,Golden,52,Herbivore,Arctic,Lions,13,Europe,Vulnerable,Various,362,47,Pack-based,2
+Emperor Penguin,86,1597,Golden,92,Omnivore,Grasslands,Hyenas,100,Antarctica,Vulnerable,Various,232,51,Pack-based,6
+Walrus,324,1655,Black and White,11,Herbivore,Grasslands,Leopards,6,Europe,Least Concern,Various,62,41,Group-based,11
+Zebra,464,1636,Grey,34,Herbivore,Arctic,Hyenas,48,Arctic,Critically Endangered,Various,364,44,Herd-based,4
+Anteater,314,2256,Brown,79,Insectivore,Tropical Rainforest,Humans,99,Europe,Vulnerable,Various,194,92,Group-based,11
+Komodo Dragon,267,3199,Brown,83,Herbivore,Ocean,Leopards,76,Antarctica,Vulnerable,Various,278,58,Group-based,9
+Kangaroo,85,2854,Grey,34,Carnivore,Tropical Rainforest,Lions,73,Antarctica,Vulnerable,Various,217,46,Pack-based,8
+Bison,390,1279,White,14,Omnivore,Tropical Rainforest,Hyenas,8,Antarctica,Least Concern,Various,107,20,Group-based,9
+Penguin,361,678,White,69,Herbivore,Forests,Eagles,7,Africa,Least Concern,Various,221,70,Solitary,10
+Armadillo,404,8,White,39,Omnivore,Tropical Rainforest,Leopards,56,North America,Vulnerable,Various,187,63,Group-based,5
+Hippopotamus,490,619,Brown,5,Carnivore,Rivers,None (apex predator),85,North America,Vulnerable,Various,128,43,Group-based,12
+Walrus,462,1078,Black,64,Carnivore,Savannas,Hyenas,75,Asia,Vulnerable,Various,130,95,Pack-based,12
+Iguana,148,552,Brown,19,Herbivore,Grasslands,Humans,42,South America,Least Concern,Various,114,41,Solitary,2
+Red Panda,427,336,Brown,58,Carnivore,Rivers,Leopards,75,Asia,Critically Endangered,Various,331,56,Pack-based,4
+Arctic Fox,241,1349,White,88,Insectivore,Ocean,Leopards,69,Asia,Vulnerable,Various,325,67,Solitary,1
+Moose,381,3134,Grey,43,Carnivore,Grasslands,Eagles,80,Arctic,Vulnerable,Various,223,29,Solitary,2
+Gazelle,197,2626,Black and White,19,Herbivore,Savannas,Leopards,96,South America,Least Concern,Various,223,24,Herd-based,10
+Koala,320,3052,Multicolored,81,Carnivore,Grasslands,Leopards,69,Europe,Critically Endangered,Various,149,31,Solitary,10
+Penguin,492,2797,Grey,80,Carnivore,Savannas,Hyenas,39,Antarctica,Vulnerable,Various,363,86,Group-based,7
+Baboon,152,2212,Grey,51,Herbivore,Arctic,Leopards,71,Europe,Least Concern,Various,60,86,Group-based,10
+Komodo Dragon,413,447,Grey,19,Carnivore,Mountains,None (apex predator),58,Antarctica,Vulnerable,Various,200,78,Herd-based,6
+Manatee,283,1087,Golden,46,Insectivore,Ocean,None (apex predator),26,South America,Vulnerable,Various,364,94,Herd-based,12
+Komodo Dragon,41,2455,Multicolored,99,Omnivore,Ocean,Humans,76,Asia,Least Concern,Various,315,62,Group-based,6
+Snow Leopard,46,396,Grey,92,Carnivore,Grasslands,Eagles,17,Asia,Least Concern,Various,355,79,Herd-based,9
+Alligator,247,2127,Golden,30,Omnivore,Forests,Leopards,53,Asia,Vulnerable,Various,201,20,Solitary,10
+Cheetah,302,2992,Grey,11,Omnivore,Arctic,None (apex predator),94,South America,Least Concern,Various,50,39,Pack-based,5
+Sloth,291,2513,Black and White,14,Omnivore,Rivers,Eagles,81,Africa,Critically Endangered,Various,224,29,Group-based,4
+Zebra,449,1925,Black and White,76,Omnivore,Savannas,Eagles,17,South America,Least Concern,Various,120,74,Pack-based,11
+Komodo Dragon,471,1459,Grey,86,Carnivore,Grasslands,Humans,65,Arctic,Least Concern,Various,187,75,Group-based,6
+Hippopotamus,87,669,White,7,Insectivore,Tropical Rainforest,Humans,21,Antarctica,Critically Endangered,Various,224,86,Pack-based,5
+Puffin,204,3084,Black,80,Omnivore,Arctic,Lions,73,Europe,Endangered,Various,232,94,Group-based,3
+Ocelot,151,3215,Brown,44,Insectivore,Tropical Rainforest,None (apex predator),84,North America,Least Concern,Various,243,16,Pack-based,11
+Ocelot,388,1244,Black,6,Omnivore,Savannas,Leopards,58,Arctic,Critically Endangered,Various,211,25,Herd-based,10
+Puffin,400,3334,Yellow-brown,38,Carnivore,Mountains,Lions,36,Europe,Vulnerable,Various,286,60,Group-based,3
+Parrot,459,1758,Grey,33,Carnivore,Grasslands,Lions,67,Europe,Least Concern,Various,206,91,Group-based,5
+Manta Ray,241,2606,Black and White,66,Carnivore,Arctic,None (apex predator),18,Arctic,Least Concern,Various,88,76,Pack-based,2
+Manta Ray,440,2485,Brown,94,Omnivore,Savannas,Lions,6,South America,Endangered,Various,101,88,Group-based,9
+Jaguar,235,2444,Golden,18,Omnivore,Mountains,Hyenas,61,Arctic,Least Concern,Various,298,72,Herd-based,11
+Snow Leopard,110,564,Black,42,Herbivore,Arctic,None (apex predator),87,Antarctica,Vulnerable,Various,149,35,Solitary,12
+Flamingo,129,1775,White,89,Carnivore,Mountains,Lions,62,Asia,Endangered,Various,109,26,Herd-based,11
+Arctic Fox,328,2999,Black and White,44,Insectivore,Grasslands,Lions,17,Antarctica,Vulnerable,Various,100,68,Solitary,1
+Chimpanzee,389,1513,Black and White,76,Omnivore,Ocean,None (apex predator),20,Antarctica,Endangered,Various,116,41,Pack-based,8
+Leopard Seal,228,1086,White,64,Herbivore,Rivers,None (apex predator),60,Antarctica,Critically Endangered,Various,199,60,Group-based,9
+Snow Leopard,152,2348,Yellow-brown,32,Carnivore,Rivers,None (apex predator),65,Antarctica,Critically Endangered,Various,271,61,Solitary,4
+Giraffe,116,391,Black,56,Omnivore,Ocean,Leopards,18,Asia,Least Concern,Various,355,10,Herd-based,11
+Parrot,81,1738,White,98,Insectivore,Mountains,Lions,33,Europe,Least Concern,Various,124,42,Group-based,3
+Anteater,377,1434,Grey,32,Herbivore,Arctic,Eagles,67,Europe,Least Concern,Various,287,45,Solitary,10
+Anteater,116,2216,Brown,46,Herbivore,Rivers,Hyenas,73,Arctic,Least Concern,Various,289,47,Solitary,10
+Narwhal,382,1510,Golden,44,Herbivore,Forests,Leopards,87,Antarctica,Least Concern,Various,305,21,Herd-based,8
+Golden Eagle,112,1169,Black,75,Herbivore,Savannas,Eagles,8,Antarctica,Vulnerable,Various,363,40,Pack-based,11
+Eagle,295,1633,Golden,89,Insectivore,Mountains,Eagles,36,Antarctica,Critically Endangered,Various,184,47,Group-based,4
+Chimpanzee,287,1218,Yellow-brown,47,Omnivore,Tropical Rainforest,Humans,83,Europe,Critically Endangered,Various,282,40,Solitary,2
+Chimpanzee,363,2559,Black,21,Omnivore,Grasslands,Humans,81,South America,Least Concern,Various,216,41,Pack-based,12
+Moose,68,1832,Black and White,11,Herbivore,Mountains,None (apex predator),41,North America,Endangered,Various,218,66,Pack-based,2
+Narwhal,49,2285,Black and White,37,Insectivore,Grasslands,Leopards,87,Africa,Critically Endangered,Various,84,49,Herd-based,3
+Sloth,125,1814,Black,46,Herbivore,Savannas,Humans,90,Europe,Critically Endangered,Various,81,29,Pack-based,5
+Eagle,272,1131,Black,23,Insectivore,Arctic,Hyenas,19,Antarctica,Least Concern,Various,275,88,Herd-based,6
+Sloth,86,2741,White,22,Carnivore,Savannas,Humans,80,Asia,Least Concern,Various,196,71,Solitary,7
+Flamingo,189,2950,Multicolored,64,Omnivore,Tropical Rainforest,Lions,63,Antarctica,Endangered,Various,109,65,Solitary,11
+Gazelle,405,1981,Brown,29,Carnivore,Rivers,Humans,35,Australia,Endangered,Various,107,21,Solitary,8
+Chimpanzee,384,1920,Multicolored,31,Carnivore,Ocean,Lions,82,Antarctica,Endangered,Various,73,79,Group-based,6
+Parrot,262,2809,Black,33,Herbivore,Mountains,Humans,57,Europe,Vulnerable,Various,221,70,Solitary,8
+Manatee,150,32,Black,41,Insectivore,Arctic,Eagles,91,Australia,Least Concern,Various,344,62,Pack-based,8
+Sea Turtle,351,1491,White,37,Herbivore,Tropical Rainforest,Lions,84,South America,Vulnerable,Various,234,61,Herd-based,11
+Golden Eagle,392,1610,Brown,72,Carnivore,Ocean,Hyenas,18,Europe,Critically Endangered,Various,120,58,Pack-based,6
+Hippopotamus,313,1798,White,32,Carnivore,Mountains,Lions,32,North America,Vulnerable,Various,145,55,Group-based,7
+Emperor Penguin,64,1436,Grey,46,Carnivore,Mountains,Hyenas,75,Arctic,Endangered,Various,132,19,Solitary,5
+Emperor Penguin,494,2358,White,22,Herbivore,Grasslands,Hyenas,39,Africa,Least Concern,Various,358,27,Pack-based,6
+Parrot,39,692,Grey,91,Insectivore,Mountains,Hyenas,23,North America,Endangered,Various,113,50,Pack-based,4
+Chimpanzee,408,753,White,33,Carnivore,Mountains,Hyenas,12,South America,Critically Endangered,Various,274,77,Pack-based,11
+Hammerhead Shark,479,878,Multicolored,85,Herbivore,Savannas,Leopards,67,Asia,Critically Endangered,Various,332,58,Group-based,10
+Mountain Goat,154,709,Yellow-brown,70,Herbivore,Grasslands,Eagles,31,Europe,Least Concern,Various,317,48,Group-based,5
+Snow Leopard,63,1897,Black,68,Omnivore,Savannas,None (apex predator),48,Arctic,Endangered,Various,250,54,Solitary,9
+Penguin,139,1603,Black,80,Insectivore,Grasslands,Eagles,7,North America,Endangered,Various,193,99,Pack-based,1
+Flamingo,366,469,White,69,Carnivore,Tropical Rainforest,Hyenas,96,North America,Vulnerable,Various,188,58,Herd-based,5
+Narwhal,228,3264,Multicolored,57,Herbivore,Grasslands,Lions,61,Antarctica,Vulnerable,Various,148,43,Pack-based,1
+Parrot,57,2682,White,47,Herbivore,Mountains,Eagles,86,Africa,Endangered,Various,149,61,Group-based,12
+Moose,124,3299,Brown,79,Omnivore,Tropical Rainforest,Hyenas,37,South America,Endangered,Various,270,75,Pack-based,1
+Black Widow Spider,404,1083,White,64,Herbivore,Tropical Rainforest,Lions,77,Arctic,Vulnerable,Various,257,100,Group-based,4
+Flamingo,48,1,Multicolored,97,Insectivore,Rivers,Lions,63,Europe,Vulnerable,Various,132,95,Solitary,5
+Baboon,433,1367,Yellow-brown,84,Herbivore,Ocean,Eagles,9,Antarctica,Vulnerable,Various,164,32,Group-based,12
+Wombat,307,690,Grey,100,Herbivore,Rivers,Eagles,40,Europe,Vulnerable,Various,79,42,Herd-based,8
+Ocelot,290,1216,Black and White,91,Herbivore,Tropical Rainforest,Lions,5,North America,Least Concern,Various,102,61,Group-based,12
+Wolf,272,3019,Grey,36,Omnivore,Mountains,Lions,32,Asia,Least Concern,Various,68,40,Solitary,11
+Anteater,408,1515,Brown,89,Herbivore,Arctic,None (apex predator),9,Antarctica,Vulnerable,Various,101,69,Pack-based,6
+Sloth,490,855,Grey,100,Insectivore,Savannas,None (apex predator),77,North America,Least Concern,Various,248,83,Herd-based,1
+Panda,266,1638,White,12,Carnivore,Arctic,None (apex predator),50,Africa,Endangered,Various,131,94,Pack-based,10
+Narwhal,106,2728,Grey,65,Insectivore,Arctic,Lions,75,Africa,Vulnerable,Various,231,95,Pack-based,10
+Golden Eagle,308,1976,Multicolored,51,Carnivore,Grasslands,Lions,62,Asia,Critically Endangered,Various,55,87,Solitary,10
+Sea Turtle,140,1546,Yellow-brown,25,Omnivore,Mountains,Humans,28,Antarctica,Least Concern,Various,52,39,Solitary,12
+Otter,160,903,Grey,98,Herbivore,Rivers,Lions,20,Australia,Critically Endangered,Various,173,25,Solitary,10
+Polar Bear,108,2466,Brown,98,Omnivore,Grasslands,None (apex predator),56,Arctic,Vulnerable,Various,250,70,Solitary,11
+Eagle,199,1460,Black and White,51,Insectivore,Ocean,Lions,42,South America,Critically Endangered,Various,342,62,Pack-based,1
+Cheetah,265,3046,Yellow-brown,14,Herbivore,Ocean,Humans,73,Asia,Vulnerable,Various,224,24,Solitary,1
+Rhino,87,2705,Black,15,Omnivore,Rivers,Leopards,26,Europe,Least Concern,Various,101,52,Pack-based,3
+Ocelot,366,2952,Black,53,Herbivore,Forests,None (apex predator),78,North America,Critically Endangered,Various,51,70,Solitary,4
+Toucan,406,2010,Grey,27,Herbivore,Arctic,Humans,24,South America,Endangered,Various,87,89,Group-based,6
+Wolf,237,2971,Multicolored,89,Omnivore,Ocean,Humans,18,Australia,Vulnerable,Various,314,81,Herd-based,4
+Jaguar,117,1206,Yellow-brown,66,Insectivore,Ocean,Eagles,77,Europe,Vulnerable,Various,97,25,Pack-based,6
+Sloth,459,2425,Black and White,49,Carnivore,Rivers,Hyenas,75,North America,Least Concern,Various,165,59,Herd-based,8
+Moose,264,1180,Black,52,Carnivore,Grasslands,None (apex predator),19,Arctic,Vulnerable,Various,214,24,Pack-based,12
+Bison,184,2389,Black and White,9,Herbivore,Tropical Rainforest,None (apex predator),55,Australia,Endangered,Various,278,41,Group-based,11
+Penguin,33,108,Yellow-brown,52,Herbivore,Tropical Rainforest,Lions,42,Antarctica,Vulnerable,Various,200,15,Group-based,5
+Koala,345,2231,Black,10,Herbivore,Grasslands,None (apex predator),55,Antarctica,Least Concern,Various,355,51,Group-based,5
+Albatross,367,929,Yellow-brown,64,Omnivore,Savannas,Leopards,12,South America,Endangered,Various,52,30,Pack-based,4
+Porcupine,331,566,Black,47,Herbivore,Rivers,Lions,87,South America,Endangered,Various,328,73,Solitary,6
+Walrus,137,576,Black,66,Carnivore,Rivers,Eagles,5,Europe,Endangered,Various,338,16,Group-based,2
+Orangutan,261,337,Multicolored,89,Omnivore,Arctic,Hyenas,27,Antarctica,Vulnerable,Various,164,30,Solitary,10
+Zebra,308,2411,Black and White,53,Insectivore,Ocean,Eagles,68,Australia,Critically Endangered,Various,229,11,Herd-based,5
+Toucan,464,1896,White,47,Carnivore,Forests,Leopards,15,Europe,Vulnerable,Various,332,35,Pack-based,9
+Moose,219,266,Black and White,82,Carnivore,Mountains,Hyenas,66,Arctic,Least Concern,Various,296,95,Solitary,6
+Cheetah,201,2861,Golden,20,Carnivore,Arctic,Humans,23,Europe,Vulnerable,Various,351,23,Pack-based,5
+Alligator,404,722,Grey,5,Herbivore,Savannas,None (apex predator),44,Arctic,Least Concern,Various,328,27,Solitary,10
+Black Widow Spider,147,2428,Black and White,51,Omnivore,Rivers,Hyenas,6,Australia,Vulnerable,Various,208,66,Herd-based,2
+Baboon,266,1263,Brown,29,Herbivore,Ocean,Hyenas,16,Europe,Vulnerable,Various,245,72,Herd-based,10
+Bison,405,1511,Brown,47,Herbivore,Savannas,Hyenas,25,Europe,Endangered,Various,263,70,Solitary,11
+Penguin,350,2042,Black,86,Insectivore,Savannas,None (apex predator),27,Antarctica,Critically Endangered,Various,167,98,Group-based,4
+Red Panda,398,186,White,71,Carnivore,Rivers,Lions,65,Asia,Critically Endangered,Various,98,84,Pack-based,3
+Narwhal,492,1153,White,71,Omnivore,Forests,Lions,84,Australia,Critically Endangered,Various,229,55,Pack-based,11
+Koala,101,407,Black and White,100,Insectivore,Forests,Leopards,92,Africa,Critically Endangered,Various,229,42,Group-based,7
+Iguana,389,3328,Grey,63,Omnivore,Grasslands,Leopards,63,South America,Vulnerable,Various,342,11,Group-based,2
+Otter,130,2058,Golden,99,Omnivore,Mountains,Eagles,96,Antarctica,Least Concern,Various,286,13,Group-based,1
+Ocelot,327,1340,Black,17,Insectivore,Savannas,Leopards,97,Antarctica,Endangered,Various,353,37,Pack-based,5
+Toucan,122,1274,Yellow-brown,45,Omnivore,Arctic,None (apex predator),64,Antarctica,Vulnerable,Various,101,100,Solitary,2
+Penguin,60,1172,Brown,46,Carnivore,Mountains,Hyenas,12,Africa,Critically Endangered,Various,51,21,Solitary,10
+Porcupine,269,1597,Brown,73,Insectivore,Ocean,None (apex predator),6,North America,Endangered,Various,297,57,Solitary,1
+Dolphin,231,2146,Golden,37,Omnivore,Forests,Lions,57,South America,Critically Endangered,Various,356,28,Pack-based,9
+Lynx,226,1353,Black and White,82,Insectivore,Tropical Rainforest,Lions,39,South America,Critically Endangered,Various,54,74,Group-based,9
+Hammerhead Shark,461,2768,Black and White,46,Herbivore,Savannas,None (apex predator),53,Antarctica,Vulnerable,Various,165,32,Group-based,7
+Narwhal,470,2656,Black,23,Omnivore,Rivers,Humans,6,South America,Least Concern,Various,355,66,Herd-based,5
+Koala,319,1360,Brown,49,Insectivore,Tropical Rainforest,Humans,55,Asia,Least Concern,Various,200,78,Group-based,6
+Porcupine,394,234,Black and White,54,Omnivore,Ocean,None (apex predator),31,Asia,Endangered,Various,110,57,Herd-based,4
+Flamingo,254,479,Grey,50,Carnivore,Ocean,None (apex predator),70,North America,Critically Endangered,Various,122,33,Solitary,4
+Toucan,126,2136,Golden,38,Carnivore,Forests,Lions,65,Africa,Vulnerable,Various,157,21,Solitary,9
+Leopard Seal,68,867,Multicolored,23,Carnivore,Grasslands,Hyenas,54,North America,Least Concern,Various,166,96,Pack-based,8
+Mountain Goat,446,632,Multicolored,90,Herbivore,Savannas,Humans,36,North America,Least Concern,Various,352,40,Group-based,8
+Bison,463,259,Grey,43,Carnivore,Rivers,Leopards,84,Europe,Endangered,Various,241,77,Group-based,2
+Armadillo,200,1705,Grey,53,Insectivore,Forests,Hyenas,64,Europe,Critically Endangered,Various,177,48,Group-based,3
+Ocelot,424,2104,Yellow-brown,33,Omnivore,Rivers,Lions,51,Antarctica,Critically Endangered,Various,307,84,Herd-based,3
+Zebra,174,2667,Grey,54,Carnivore,Mountains,Humans,73,South America,Endangered,Various,174,13,Group-based,1
+Puffin,342,3421,White,50,Carnivore,Savannas,Lions,72,Antarctica,Critically Endangered,Various,346,10,Solitary,7
+Wolf,219,3181,White,35,Omnivore,Grasslands,Lions,58,Arctic,Critically Endangered,Various,312,74,Solitary,1
+Komodo Dragon,104,3486,Golden,12,Omnivore,Mountains,Leopards,58,North America,Critically Endangered,Various,137,52,Pack-based,9
+Tiger,246,3410,Yellow-brown,10,Omnivore,Savannas,Leopards,34,Asia,Endangered,Various,99,92,Pack-based,3
+Manatee,101,1325,Yellow-brown,16,Carnivore,Mountains,Humans,37,Africa,Endangered,Various,328,55,Group-based,5
+Gazelle,170,2686,Black,50,Omnivore,Arctic,Lions,56,Arctic,Vulnerable,Various,173,49,Pack-based,9
+Penguin,495,2356,Grey,21,Carnivore,Ocean,Hyenas,91,Australia,Endangered,Various,151,61,Group-based,1
+Ocelot,391,1633,Grey,77,Herbivore,Forests,Leopards,44,Asia,Least Concern,Various,265,100,Solitary,10
+Parrot,317,2436,Black and White,41,Omnivore,Tropical Rainforest,None (apex predator),67,Antarctica,Critically Endangered,Various,57,75,Solitary,10
+Snow Leopard,463,1867,White,43,Insectivore,Mountains,Lions,21,North America,Vulnerable,Various,63,13,Herd-based,11
+Black Widow Spider,364,3029,Golden,43,Herbivore,Tropical Rainforest,Lions,48,Antarctica,Vulnerable,Various,67,94,Pack-based,6
+Iguana,286,521,Golden,96,Herbivore,Rivers,None (apex predator),37,Asia,Least Concern,Various,349,81,Pack-based,5
+Emperor Penguin,153,2780,Golden,85,Omnivore,Savannas,Hyenas,87,South America,Least Concern,Various,74,90,Group-based,1
+Ocelot,59,2900,Multicolored,90,Herbivore,Rivers,Leopards,80,Australia,Endangered,Various,58,90,Group-based,8
+Giraffe,47,361,Grey,16,Carnivore,Grasslands,Eagles,31,South America,Least Concern,Various,135,58,Solitary,8
+Iguana,481,2240,Grey,79,Carnivore,Forests,Lions,27,Europe,Vulnerable,Various,262,39,Group-based,12
+Toucan,59,2051,Golden,83,Herbivore,Rivers,Eagles,61,North America,Critically Endangered,Various,162,55,Pack-based,3
+Armadillo,335,229,Brown,55,Herbivore,Savannas,Eagles,85,Arctic,Endangered,Various,177,23,Herd-based,9
+Penguin,32,2108,Multicolored,97,Insectivore,Mountains,Humans,50,Arctic,Critically Endangered,Various,85,48,Group-based,1
+Anteater,450,844,Golden,91,Herbivore,Savannas,Lions,22,Europe,Critically Endangered,Various,363,100,Group-based,4
+Python,153,2387,Black,57,Omnivore,Forests,Humans,50,Antarctica,Endangered,Various,62,60,Solitary,2
+Puffin,190,1769,Grey,35,Herbivore,Forests,Eagles,77,Antarctica,Endangered,Various,91,10,Pack-based,1
+Walrus,441,926,Brown,66,Omnivore,Savannas,Humans,99,Arctic,Least Concern,Various,143,53,Solitary,12
+Anteater,374,2467,Grey,85,Carnivore,Ocean,Hyenas,76,Africa,Critically Endangered,Various,74,23,Pack-based,3
+Albatross,181,3076,Yellow-brown,51,Insectivore,Grasslands,Lions,21,South America,Critically Endangered,Various,124,83,Group-based,11
+Flamingo,91,421,White,78,Omnivore,Mountains,Humans,100,Europe,Critically Endangered,Various,240,70,Group-based,5
+Iguana,129,934,Grey,73,Insectivore,Rivers,Lions,20,Europe,Critically Endangered,Various,130,42,Group-based,1
+Anteater,327,2648,Multicolored,20,Omnivore,Rivers,Hyenas,10,North America,Vulnerable,Various,347,56,Pack-based,8
+Hippopotamus,450,157,Yellow-brown,23,Omnivore,Ocean,Leopards,24,Europe,Endangered,Various,131,13,Solitary,6
+Ocelot,482,397,White,49,Omnivore,Tropical Rainforest,Lions,88,Africa,Endangered,Various,273,92,Pack-based,2
+Python,109,616,Grey,59,Herbivore,Mountains,Hyenas,43,Antarctica,Vulnerable,Various,213,74,Herd-based,10
+Puffin,41,833,Multicolored,44,Omnivore,Savannas,Leopards,8,Asia,Endangered,Various,264,67,Group-based,4
+Moose,317,2066,Black and White,90,Herbivore,Grasslands,Lions,35,Antarctica,Vulnerable,Various,196,91,Group-based,8
+Porcupine,465,3232,White,21,Omnivore,Rivers,None (apex predator),26,Europe,Critically Endangered,Various,233,95,Pack-based,11
+Orangutan,361,506,Black,51,Carnivore,Grasslands,Hyenas,31,Australia,Endangered,Various,315,56,Pack-based,8
+Penguin,482,3166,Multicolored,61,Omnivore,Ocean,Hyenas,81,South America,Vulnerable,Various,180,10,Pack-based,8
+Hippopotamus,52,1038,Grey,37,Omnivore,Forests,None (apex predator),68,Europe,Critically Endangered,Various,242,66,Pack-based,12
+Black Widow Spider,192,2683,Multicolored,5,Omnivore,Forests,None (apex predator),95,Arctic,Endangered,Various,231,11,Herd-based,11
+Hippopotamus,326,504,White,54,Insectivore,Ocean,Hyenas,65,Africa,Vulnerable,Various,198,69,Solitary,9
+Moose,218,1403,Black,60,Omnivore,Savannas,Humans,58,Antarctica,Vulnerable,Various,230,55,Pack-based,12
+Python,277,1634,Black and White,19,Insectivore,Rivers,None (apex predator),81,North America,Critically Endangered,Various,210,52,Group-based,6
+Koala,43,3131,Multicolored,79,Omnivore,Savannas,Lions,75,Australia,Vulnerable,Various,118,68,Pack-based,1
+Mountain Goat,248,399,Yellow-brown,74,Carnivore,Tropical Rainforest,Hyenas,13,Africa,Critically Endangered,Various,67,10,Pack-based,2
+Chimpanzee,54,2193,White,74,Omnivore,Ocean,Hyenas,99,North America,Vulnerable,Various,107,28,Herd-based,12
+Manatee,342,1251,Yellow-brown,30,Omnivore,Tropical Rainforest,None (apex predator),81,Asia,Vulnerable,Various,259,26,Pack-based,7
+Emperor Penguin,86,3047,Grey,45,Carnivore,Forests,Humans,31,South America,Least Concern,Various,194,15,Pack-based,5
+Otter,302,1605,Multicolored,100,Omnivore,Rivers,Lions,53,Africa,Critically Endangered,Various,197,81,Solitary,10
+Moose,227,626,Yellow-brown,39,Insectivore,Grasslands,Hyenas,7,Antarctica,Least Concern,Various,278,44,Herd-based,3
+Tiger,193,674,Brown,29,Omnivore,Mountains,None (apex predator),96,Arctic,Endangered,Various,306,34,Pack-based,1
+Hippopotamus,343,2184,Brown,7,Omnivore,Arctic,None (apex predator),79,South America,Critically Endangered,Various,240,57,Pack-based,4
+Panda,265,1493,Black and White,38,Insectivore,Forests,Lions,14,South America,Least Concern,Various,91,53,Herd-based,1
+Mountain Goat,445,1910,Multicolored,29,Omnivore,Mountains,Eagles,67,Africa,Endangered,Various,89,18,Pack-based,9
+Panda,494,2363,Yellow-brown,56,Carnivore,Mountains,Humans,51,Asia,Least Concern,Various,260,24,Pack-based,9
+Armadillo,388,1131,Black and White,17,Carnivore,Savannas,None (apex predator),24,Europe,Vulnerable,Various,271,89,Solitary,3
+Hammerhead Shark,79,1787,Golden,75,Carnivore,Mountains,Humans,26,North America,Endangered,Various,306,92,Solitary,7
+Cheetah,426,1593,White,97,Insectivore,Rivers,Eagles,71,South America,Endangered,Various,321,16,Herd-based,1
+Manatee,264,815,White,33,Insectivore,Savannas,Lions,55,Europe,Least Concern,Various,246,65,Pack-based,2
+Manta Ray,283,1867,Black and White,6,Omnivore,Grasslands,Eagles,78,Antarctica,Vulnerable,Various,267,60,Solitary,6
+Wolf,351,2470,Yellow-brown,87,Carnivore,Rivers,Humans,32,Europe,Least Concern,Various,100,74,Pack-based,9
+Sloth,238,1115,Multicolored,48,Omnivore,Arctic,Lions,37,North America,Endangered,Various,160,10,Solitary,7
+Porcupine,484,3431,White,20,Herbivore,Tropical Rainforest,Eagles,90,Australia,Critically Endangered,Various,185,55,Herd-based,8
+Wombat,186,180,Black and White,88,Omnivore,Grasslands,Lions,74,Australia,Least Concern,Various,268,98,Group-based,3
+Snow Leopard,76,2961,Black,95,Insectivore,Forests,None (apex predator),21,Arctic,Endangered,Various,140,51,Herd-based,12
+Hammerhead Shark,110,2139,Brown,72,Herbivore,Mountains,Hyenas,87,Africa,Least Concern,Various,283,57,Solitary,10
+Cheetah,433,464,Black and White,28,Insectivore,Tropical Rainforest,Lions,21,North America,Vulnerable,Various,249,76,Herd-based,8
+Armadillo,177,464,White,98,Omnivore,Forests,Eagles,53,North America,Vulnerable,Various,128,33,Pack-based,7
+Orangutan,132,1104,Black and White,12,Omnivore,Rivers,Hyenas,40,North America,Endangered,Various,362,75,Pack-based,1
+Manta Ray,242,3064,White,9,Insectivore,Savannas,Leopards,42,North America,Critically Endangered,Various,331,86,Solitary,11
+Armadillo,301,2943,Golden,25,Herbivore,Forests,Humans,46,Antarctica,Critically Endangered,Various,337,79,Solitary,5
+Leopard Seal,44,300,Grey,74,Herbivore,Grasslands,Lions,68,Antarctica,Critically Endangered,Various,51,29,Pack-based,3
+Black Widow Spider,116,1147,Golden,25,Carnivore,Ocean,None (apex predator),13,Antarctica,Critically Endangered,Various,293,70,Solitary,8
+Snow Leopard,132,43,Black and White,91,Insectivore,Mountains,Hyenas,23,Antarctica,Endangered,Various,63,93,Solitary,10
+Baboon,225,2750,Black,62,Herbivore,Mountains,Leopards,69,Africa,Least Concern,Various,361,91,Solitary,10
+Kangaroo,453,1594,Black and White,59,Carnivore,Savannas,Lions,14,Antarctica,Least Concern,Various,351,77,Pack-based,1
+Python,97,3132,Golden,33,Carnivore,Tropical Rainforest,Eagles,46,South America,Vulnerable,Various,340,96,Solitary,4
+Leopard Seal,83,3439,Multicolored,98,Carnivore,Savannas,Humans,37,Australia,Endangered,Various,344,76,Herd-based,10
+Flamingo,155,847,Grey,53,Insectivore,Arctic,Leopards,86,Arctic,Endangered,Various,267,72,Solitary,11
+Wolf,430,672,Multicolored,52,Herbivore,Grasslands,Humans,88,Europe,Least Concern,Various,293,47,Herd-based,6
+Armadillo,292,2154,Black and White,65,Omnivore,Rivers,None (apex predator),56,Antarctica,Endangered,Various,238,92,Solitary,3
+Golden Eagle,188,1417,Brown,68,Insectivore,Arctic,None (apex predator),84,Australia,Endangered,Various,331,56,Pack-based,9
+Puffin,269,716,White,19,Herbivore,Tropical Rainforest,Leopards,44,South America,Vulnerable,Various,93,15,Group-based,3
+Walrus,192,2934,Black and White,72,Carnivore,Tropical Rainforest,None (apex predator),33,Antarctica,Least Concern,Various,328,68,Herd-based,6
+Jaguar,435,3183,Grey,77,Omnivore,Grasslands,Lions,32,Europe,Vulnerable,Various,297,20,Solitary,8
+Mountain Goat,85,2163,White,100,Carnivore,Forests,Hyenas,35,Australia,Vulnerable,Various,116,24,Pack-based,1
+Rhino,333,1762,Black and White,22,Carnivore,Ocean,None (apex predator),38,South America,Vulnerable,Various,312,26,Pack-based,7
+Penguin,339,325,White,100,Herbivore,Rivers,Humans,84,Arctic,Least Concern,Various,246,43,Pack-based,11
+Chimpanzee,349,2480,Grey,11,Herbivore,Mountains,None (apex predator),13,Australia,Critically Endangered,Various,284,60,Solitary,5
+Alligator,284,1835,White,36,Herbivore,Rivers,Humans,49,Australia,Critically Endangered,Various,328,25,Solitary,12
+Narwhal,454,2262,Yellow-brown,79,Omnivore,Grasslands,Hyenas,69,Africa,Vulnerable,Various,240,59,Group-based,4
+Anteater,455,293,White,25,Herbivore,Grasslands,None (apex predator),98,Australia,Least Concern,Various,252,22,Group-based,2
+Koala,406,1606,Black,23,Omnivore,Ocean,None (apex predator),94,Europe,Endangered,Various,96,33,Pack-based,2
+Emperor Penguin,100,285,Black,75,Carnivore,Grasslands,Humans,12,Antarctica,Vulnerable,Various,255,47,Solitary,12
+Ocelot,499,1185,Black and White,73,Insectivore,Savannas,Leopards,59,Australia,Critically Endangered,Various,80,12,Herd-based,11
+Python,224,3055,Grey,54,Carnivore,Ocean,Hyenas,55,Australia,Vulnerable,Various,257,62,Solitary,2
+Hammerhead Shark,427,2865,Brown,55,Carnivore,Ocean,None (apex predator),86,South America,Critically Endangered,Various,231,90,Solitary,9
+Lynx,72,3470,Grey,34,Herbivore,Ocean,Lions,80,Australia,Endangered,Various,133,94,Herd-based,6
+Iguana,111,492,Yellow-brown,100,Insectivore,Rivers,Humans,76,North America,Critically Endangered,Various,61,93,Solitary,6
+Iguana,281,1960,Multicolored,65,Insectivore,Rivers,Eagles,42,North America,Endangered,Various,135,86,Pack-based,7
+Leopard Seal,39,2962,Brown,87,Insectivore,Grasslands,Lions,77,Australia,Endangered,Various,195,22,Herd-based,8
+Giraffe,460,1719,Black,96,Carnivore,Grasslands,None (apex predator),99,North America,Vulnerable,Various,181,77,Solitary,2
+Kangaroo,461,2794,Yellow-brown,75,Herbivore,Mountains,Hyenas,31,Europe,Endangered,Various,109,92,Herd-based,11
+Eagle,361,2815,Black and White,54,Herbivore,Ocean,Leopards,36,Antarctica,Critically Endangered,Various,266,86,Herd-based,12
+Mountain Goat,333,868,Multicolored,27,Insectivore,Tropical Rainforest,Lions,69,Antarctica,Critically Endangered,Various,61,72,Group-based,12
+Zebra,419,2850,Black and White,61,Herbivore,Mountains,None (apex predator),48,Asia,Least Concern,Various,144,82,Group-based,10
+Otter,445,1732,White,27,Insectivore,Mountains,Humans,67,Asia,Critically Endangered,Various,243,61,Group-based,3
+Leopard Seal,156,2625,Golden,49,Insectivore,Grasslands,Lions,8,North America,Least Concern,Various,363,60,Group-based,12
+Otter,386,3291,Golden,90,Insectivore,Grasslands,Eagles,71,Antarctica,Critically Endangered,Various,219,56,Pack-based,3
+Cheetah,441,1256,Yellow-brown,97,Insectivore,Savannas,Leopards,98,Europe,Vulnerable,Various,78,25,Herd-based,2
+Snow Leopard,269,1219,Multicolored,14,Herbivore,Rivers,Leopards,5,Asia,Vulnerable,Various,305,70,Solitary,7
+Manta Ray,219,3291,Brown,15,Omnivore,Rivers,Leopards,42,Antarctica,Critically Endangered,Various,211,42,Pack-based,12
+Golden Eagle,322,118,Brown,72,Omnivore,Savannas,Leopards,100,Antarctica,Endangered,Various,61,98,Herd-based,6
+Iguana,380,1977,Black and White,90,Omnivore,Ocean,Hyenas,87,North America,Vulnerable,Various,198,65,Herd-based,7
+Wombat,499,27,Black and White,83,Carnivore,Tropical Rainforest,Humans,28,South America,Critically Endangered,Various,95,51,Pack-based,1
+Lynx,204,1551,Grey,94,Herbivore,Savannas,Leopards,90,Africa,Critically Endangered,Various,168,62,Pack-based,2
+Emperor Penguin,163,985,White,74,Omnivore,Grasslands,Humans,60,Africa,Endangered,Various,324,50,Solitary,8
+Panda,149,1049,Brown,49,Insectivore,Rivers,Hyenas,15,South America,Endangered,Various,230,25,Herd-based,2
+Polar Bear,375,295,Black and White,94,Omnivore,Grasslands,Humans,55,Africa,Vulnerable,Various,190,41,Pack-based,4
+Snow Leopard,293,1134,Yellow-brown,89,Omnivore,Arctic,Hyenas,77,Europe,Critically Endangered,Various,140,26,Solitary,2
+Arctic Fox,167,2132,White,22,Herbivore,Forests,Lions,11,Arctic,Least Concern,Various,313,95,Herd-based,6
+Komodo Dragon,433,1294,Black,43,Omnivore,Grasslands,Leopards,99,North America,Vulnerable,Various,331,92,Group-based,10
+Bison,69,812,Grey,20,Herbivore,Forests,Hyenas,15,Africa,Critically Endangered,Various,157,83,Group-based,7
+Wombat,160,2522,White,59,Herbivore,Ocean,Eagles,59,Europe,Least Concern,Various,350,73,Solitary,11
+Penguin,379,1875,Black and White,80,Insectivore,Forests,Leopards,19,South America,Least Concern,Various,188,30,Pack-based,6
+Narwhal,79,3084,Black and White,72,Omnivore,Ocean,Humans,51,Antarctica,Endangered,Various,252,30,Herd-based,9
+Dolphin,48,1864,Golden,23,Herbivore,Forests,Eagles,89,Europe,Critically Endangered,Various,176,32,Solitary,5
+Jaguar,147,1437,Yellow-brown,100,Herbivore,Forests,Eagles,96,Arctic,Endangered,Various,262,45,Group-based,3
+Zebra,263,1087,Grey,85,Omnivore,Savannas,Leopards,54,Antarctica,Endangered,Various,171,94,Group-based,7
+Dolphin,490,3471,Grey,60,Carnivore,Grasslands,Hyenas,62,Asia,Critically Endangered,Various,147,58,Solitary,8
+Toucan,314,1581,Black,15,Omnivore,Grasslands,Humans,56,North America,Vulnerable,Various,311,22,Herd-based,5
+Chimpanzee,199,971,Grey,76,Carnivore,Tropical Rainforest,Leopards,10,Europe,Critically Endangered,Various,69,57,Herd-based,11
+Bison,458,2947,White,55,Herbivore,Savannas,Eagles,38,Arctic,Vulnerable,Various,212,46,Herd-based,8
+Flamingo,418,3039,Black and White,92,Carnivore,Savannas,None (apex predator),30,Arctic,Least Concern,Various,213,55,Herd-based,5
+Dolphin,232,2769,Brown,76,Insectivore,Rivers,None (apex predator),34,North America,Critically Endangered,Various,309,24,Pack-based,1
+Toucan,273,2011,White,37,Herbivore,Savannas,Humans,87,Antarctica,Vulnerable,Various,302,88,Solitary,8
+Panda,329,1961,Brown,67,Omnivore,Arctic,Eagles,29,Africa,Least Concern,Various,305,23,Pack-based,5
+Otter,188,968,Black,56,Carnivore,Rivers,None (apex predator),89,Australia,Vulnerable,Various,354,81,Solitary,4
+Armadillo,80,3069,Black,32,Herbivore,Ocean,Humans,80,Europe,Least Concern,Various,62,67,Herd-based,12
+Koala,225,3291,Brown,52,Omnivore,Forests,Leopards,57,Antarctica,Endangered,Various,357,68,Herd-based,7
+Penguin,91,1469,Brown,11,Omnivore,Ocean,None (apex predator),65,Arctic,Critically Endangered,Various,277,58,Solitary,4
+Manatee,443,2431,White,60,Herbivore,Rivers,Leopards,96,Arctic,Critically Endangered,Various,301,56,Pack-based,11
+Eagle,95,3066,Multicolored,75,Insectivore,Arctic,Eagles,10,South America,Vulnerable,Various,61,29,Group-based,6
+Walrus,140,2122,White,66,Omnivore,Tropical Rainforest,Hyenas,55,Europe,Least Concern,Various,146,38,Group-based,9
+Puffin,312,3132,Brown,91,Omnivore,Mountains,Humans,11,South America,Least Concern,Various,150,25,Herd-based,2
+Penguin,434,14,Grey,59,Omnivore,Forests,None (apex predator),94,Africa,Endangered,Various,81,29,Herd-based,1
+Tiger,339,410,Black,59,Carnivore,Forests,Humans,58,Australia,Least Concern,Various,308,18,Group-based,12
+Armadillo,459,2488,Yellow-brown,19,Carnivore,Grasslands,Hyenas,78,South America,Least Concern,Various,187,13,Pack-based,7
+Manta Ray,254,302,White,58,Omnivore,Ocean,Humans,62,Africa,Vulnerable,Various,306,41,Herd-based,7
+Ocelot,197,2751,White,60,Omnivore,Savannas,None (apex predator),68,North America,Endangered,Various,227,20,Group-based,5
+Giraffe,449,1077,Brown,81,Insectivore,Forests,Eagles,25,Asia,Critically Endangered,Various,332,15,Solitary,6
+Otter,381,2573,Black,42,Carnivore,Forests,Eagles,32,Europe,Vulnerable,Various,172,26,Solitary,1
+Komodo Dragon,402,1741,White,43,Herbivore,Savannas,Hyenas,25,Arctic,Vulnerable,Various,205,98,Pack-based,1
+Sloth,116,126,Brown,71,Insectivore,Rivers,Humans,32,Arctic,Least Concern,Various,329,79,Group-based,1
+Albatross,141,613,Grey,87,Herbivore,Mountains,Hyenas,39,South America,Vulnerable,Various,344,24,Herd-based,10
+Eagle,145,666,Black and White,39,Insectivore,Tropical Rainforest,Leopards,55,Asia,Least Concern,Various,116,10,Solitary,7
+Koala,453,3276,Yellow-brown,100,Insectivore,Tropical Rainforest,Hyenas,41,Asia,Endangered,Various,52,20,Herd-based,11
+Otter,131,2378,Black,77,Insectivore,Savannas,Hyenas,60,Asia,Least Concern,Various,263,100,Group-based,4
+Chimpanzee,496,1276,Golden,41,Herbivore,Savannas,Eagles,62,South America,Endangered,Various,358,10,Pack-based,6
+Leopard Seal,483,505,Brown,71,Insectivore,Grasslands,Leopards,58,South America,Vulnerable,Various,354,34,Herd-based,2
+Ocelot,342,1556,Multicolored,95,Insectivore,Grasslands,Hyenas,24,Africa,Endangered,Various,359,85,Pack-based,11
+Otter,112,120,Black and White,95,Omnivore,Ocean,Eagles,57,Europe,Endangered,Various,338,15,Pack-based,5
+Alligator,468,2420,Golden,38,Herbivore,Rivers,Eagles,86,North America,Endangered,Various,175,12,Herd-based,7
+Baboon,73,2832,Brown,62,Carnivore,Grasslands,Humans,30,Europe,Least Concern,Various,359,47,Group-based,5
+Arctic Fox,102,357,Black and White,28,Insectivore,Arctic,Leopards,21,Antarctica,Vulnerable,Various,94,94,Group-based,8
+Cheetah,59,284,Grey,92,Carnivore,Forests,Hyenas,64,Europe,Critically Endangered,Various,104,22,Solitary,6
+Emperor Penguin,323,620,Golden,44,Insectivore,Savannas,Humans,95,Antarctica,Least Concern,Various,209,46,Solitary,11
+Hammerhead Shark,241,1840,White,34,Carnivore,Forests,None (apex predator),7,South America,Critically Endangered,Various,217,65,Solitary,5
+Chimpanzee,208,1550,Grey,43,Carnivore,Mountains,None (apex predator),75,North America,Least Concern,Various,357,44,Solitary,4
+Rhino,486,129,Brown,78,Insectivore,Tropical Rainforest,Leopards,98,Australia,Critically Endangered,Various,70,59,Group-based,5
+Cheetah,61,907,Multicolored,76,Omnivore,Grasslands,Eagles,52,Australia,Vulnerable,Various,95,46,Herd-based,3
+Komodo Dragon,182,1876,Golden,58,Herbivore,Rivers,Humans,63,Asia,Critically Endangered,Various,192,43,Herd-based,7
+Eagle,190,2247,Brown,23,Carnivore,Mountains,Hyenas,87,Australia,Critically Endangered,Various,220,62,Herd-based,6
+Walrus,362,2645,Golden,25,Carnivore,Ocean,Hyenas,80,South America,Endangered,Various,277,76,Herd-based,12
+Koala,119,107,Black and White,56,Carnivore,Mountains,Lions,20,Australia,Endangered,Various,282,69,Solitary,11
+Manta Ray,430,1414,Black,58,Insectivore,Arctic,Humans,25,Arctic,Least Concern,Various,150,86,Herd-based,5
+Komodo Dragon,320,2697,Brown,86,Carnivore,Mountains,Lions,24,Antarctica,Critically Endangered,Various,269,16,Group-based,1
+Sea Turtle,472,2530,Black,53,Carnivore,Tropical Rainforest,Humans,24,South America,Endangered,Various,337,16,Herd-based,1
+Zebra,379,1939,Multicolored,73,Omnivore,Grasslands,None (apex predator),94,Africa,Endangered,Various,91,25,Solitary,4
+Rhino,234,155,Brown,16,Herbivore,Mountains,None (apex predator),77,South America,Vulnerable,Various,108,66,Herd-based,1
+Leopard Seal,193,2850,Brown,45,Insectivore,Tropical Rainforest,Humans,95,Australia,Critically Endangered,Various,279,28,Group-based,11
+Armadillo,45,2598,Yellow-brown,55,Carnivore,Forests,None (apex predator),70,South America,Critically Endangered,Various,223,17,Herd-based,10
+Emperor Penguin,97,391,White,41,Omnivore,Mountains,Leopards,57,South America,Endangered,Various,118,82,Herd-based,11
+Sloth,150,140,Yellow-brown,76,Omnivore,Tropical Rainforest,None (apex predator),56,Australia,Endangered,Various,309,11,Group-based,8
+Otter,163,1501,Golden,57,Omnivore,Grasslands,None (apex predator),30,Australia,Least Concern,Various,81,81,Herd-based,11
+Wombat,242,241,Brown,93,Insectivore,Arctic,Humans,53,Australia,Endangered,Various,245,29,Herd-based,1
+Python,121,1308,Grey,97,Insectivore,Ocean,Eagles,78,Arctic,Critically Endangered,Various,189,49,Pack-based,8
+Jaguar,416,2197,Yellow-brown,54,Omnivore,Mountains,Hyenas,55,South America,Critically Endangered,Various,232,92,Pack-based,1
+Sloth,126,735,Grey,48,Herbivore,Savannas,Leopards,9,Australia,Least Concern,Various,339,82,Pack-based,5
+Puffin,264,1086,Black,43,Omnivore,Rivers,None (apex predator),79,Asia,Endangered,Various,342,31,Herd-based,10
+Armadillo,453,206,Grey,86,Insectivore,Savannas,Eagles,83,Asia,Critically Endangered,Various,194,55,Herd-based,8
+Penguin,54,1568,Brown,32,Insectivore,Arctic,Hyenas,38,South America,Least Concern,Various,82,98,Herd-based,3
+Parrot,447,55,Grey,10,Herbivore,Forests,Humans,65,Arctic,Least Concern,Various,185,49,Group-based,7
+Otter,164,1647,Brown,26,Omnivore,Tropical Rainforest,Leopards,43,Africa,Critically Endangered,Various,140,32,Group-based,6
+Eagle,436,884,Golden,6,Herbivore,Grasslands,Lions,24,North America,Critically Endangered,Various,187,72,Solitary,1
+Porcupine,384,2575,Black,59,Carnivore,Grasslands,Eagles,72,Europe,Least Concern,Various,153,43,Group-based,7
+Polar Bear,366,1109,Brown,10,Herbivore,Rivers,Lions,58,Arctic,Least Concern,Various,257,35,Herd-based,11
+Otter,282,2449,Black,14,Omnivore,Savannas,Hyenas,30,Asia,Endangered,Various,296,89,Group-based,4
+Anteater,191,1661,Golden,65,Carnivore,Grasslands,Eagles,97,North America,Vulnerable,Various,179,29,Solitary,10
+Anteater,113,3332,Grey,73,Insectivore,Tropical Rainforest,Lions,55,Arctic,Critically Endangered,Various,191,96,Herd-based,7
+Red Panda,485,2615,Grey,18,Omnivore,Tropical Rainforest,Hyenas,76,North America,Vulnerable,Various,299,10,Herd-based,11
+Porcupine,260,1884,Brown,43,Insectivore,Mountains,Leopards,65,Arctic,Vulnerable,Various,323,95,Solitary,3
+Emperor Penguin,259,1871,Grey,96,Herbivore,Mountains,Leopards,91,Europe,Endangered,Various,313,89,Herd-based,5
+Sea Turtle,250,3398,Multicolored,22,Herbivore,Mountains,Humans,85,North America,Least Concern,Various,292,35,Pack-based,8
+Sea Turtle,469,465,Multicolored,22,Herbivore,Arctic,Leopards,46,Europe,Critically Endangered,Various,296,25,Solitary,5
+Wombat,36,3294,Black and White,76,Carnivore,Rivers,Hyenas,52,North America,Least Concern,Various,154,17,Group-based,3
+Penguin,333,17,White,89,Herbivore,Savannas,Lions,81,Asia,Least Concern,Various,181,51,Pack-based,4
+Emperor Penguin,172,260,Multicolored,11,Omnivore,Tropical Rainforest,Humans,57,Australia,Least Concern,Various,144,75,Group-based,6
+Snow Leopard,363,1088,Brown,30,Insectivore,Grasslands,Leopards,10,Australia,Critically Endangered,Various,147,61,Herd-based,8
+Sloth,188,1876,Black,60,Carnivore,Mountains,Humans,58,Europe,Endangered,Various,310,79,Herd-based,7
+Python,98,579,Grey,18,Omnivore,Forests,Humans,48,Australia,Critically Endangered,Various,145,94,Herd-based,4
+Jaguar,45,3141,White,47,Carnivore,Arctic,Hyenas,18,Africa,Least Concern,Various,287,98,Pack-based,11
+Moose,493,1353,Grey,77,Omnivore,Grasslands,Humans,12,Asia,Least Concern,Various,162,48,Group-based,4
+Red Panda,223,1430,Multicolored,94,Omnivore,Savannas,Hyenas,42,Europe,Critically Endangered,Various,222,51,Pack-based,12
+Rhino,483,2491,Black,70,Herbivore,Ocean,Hyenas,64,Arctic,Endangered,Various,257,100,Herd-based,1
+Polar Bear,283,632,Yellow-brown,37,Omnivore,Grasslands,Lions,9,South America,Critically Endangered,Various,325,24,Group-based,10
+Mountain Goat,206,1830,Multicolored,81,Herbivore,Rivers,Eagles,73,Australia,Vulnerable,Various,70,80,Pack-based,1
+Rhino,450,2297,Brown,67,Insectivore,Rivers,Lions,47,North America,Critically Endangered,Various,76,44,Pack-based,1
+Albatross,453,1629,Yellow-brown,62,Insectivore,Tropical Rainforest,Humans,62,Asia,Endangered,Various,251,29,Solitary,4
+Jaguar,328,1204,Grey,90,Insectivore,Ocean,Humans,55,Arctic,Endangered,Various,218,57,Solitary,11
+Arctic Fox,203,2298,Grey,30,Carnivore,Savannas,Eagles,5,North America,Critically Endangered,Various,184,27,Solitary,10
+Penguin,53,3238,White,31,Omnivore,Arctic,Humans,22,South America,Least Concern,Various,267,65,Pack-based,11
+Arctic Fox,468,1094,White,31,Insectivore,Grasslands,Hyenas,65,Antarctica,Critically Endangered,Various,329,75,Pack-based,12
+Dolphin,176,2635,Yellow-brown,99,Insectivore,Tropical Rainforest,Eagles,13,Europe,Vulnerable,Various,122,20,Solitary,11
+Zebra,45,3303,Multicolored,97,Carnivore,Mountains,Leopards,91,Europe,Least Concern,Various,284,24,Pack-based,3
+Otter,185,1323,White,58,Insectivore,Forests,Leopards,11,Europe,Endangered,Various,213,34,Herd-based,6
+Ocelot,54,2950,White,89,Herbivore,Arctic,Lions,37,Antarctica,Critically Endangered,Various,216,34,Pack-based,10
+Tiger,31,2134,Grey,40,Carnivore,Grasslands,None (apex predator),87,North America,Least Concern,Various,358,18,Herd-based,6
+Gazelle,462,3121,Golden,27,Herbivore,Rivers,Eagles,85,Australia,Endangered,Various,234,49,Group-based,12
+Polar Bear,192,1984,Black,46,Insectivore,Tropical Rainforest,Humans,98,South America,Least Concern,Various,90,22,Herd-based,5
+Panda,496,1297,White,28,Carnivore,Tropical Rainforest,None (apex predator),83,North America,Endangered,Various,208,35,Solitary,4
+Baboon,169,2997,Black,8,Carnivore,Mountains,Eagles,76,Australia,Vulnerable,Various,353,19,Pack-based,8
+Eagle,268,3126,Black,28,Carnivore,Arctic,Eagles,10,Europe,Least Concern,Various,299,50,Group-based,5
+Parrot,270,1840,White,94,Insectivore,Arctic,Hyenas,28,Asia,Critically Endangered,Various,258,13,Herd-based,8
+Baboon,386,846,Golden,80,Insectivore,Tropical Rainforest,None (apex predator),14,North America,Endangered,Various,322,25,Solitary,2
+Manatee,143,2203,Black and White,99,Herbivore,Mountains,Leopards,79,Europe,Endangered,Various,212,84,Pack-based,11
+Toucan,283,1974,White,31,Carnivore,Mountains,None (apex predator),99,Arctic,Critically Endangered,Various,237,82,Solitary,4
+Puffin,251,2638,Black and White,61,Herbivore,Ocean,Lions,15,Australia,Least Concern,Various,198,75,Group-based,6
+Mountain Goat,144,1793,Golden,28,Insectivore,Rivers,Humans,27,Europe,Least Concern,Various,220,46,Herd-based,4
+Komodo Dragon,223,2314,Black,27,Herbivore,Ocean,Humans,77,Africa,Vulnerable,Various,253,76,Solitary,4
+Alligator,237,2551,Black and White,90,Carnivore,Rivers,Humans,78,Antarctica,Endangered,Various,157,36,Group-based,8
+Narwhal,254,859,Multicolored,46,Insectivore,Ocean,Leopards,22,North America,Vulnerable,Various,148,13,Group-based,9
+Gazelle,412,3214,Golden,27,Herbivore,Mountains,Eagles,77,Europe,Vulnerable,Various,109,24,Group-based,7
+Narwhal,261,2583,Grey,30,Omnivore,Forests,Eagles,81,Arctic,Vulnerable,Various,161,94,Pack-based,1
+Snow Leopard,130,1655,Yellow-brown,16,Herbivore,Rivers,Leopards,16,North America,Critically Endangered,Various,202,46,Pack-based,2
+Golden Eagle,335,1676,Black,37,Omnivore,Savannas,Eagles,100,South America,Vulnerable,Various,77,25,Solitary,10
+Flamingo,353,3391,Black and White,49,Insectivore,Forests,Hyenas,59,Antarctica,Least Concern,Various,173,17,Herd-based,8
+Dolphin,456,673,Black and White,81,Omnivore,Ocean,None (apex predator),22,North America,Critically Endangered,Various,325,44,Group-based,10
+Koala,337,67,White,42,Insectivore,Grasslands,Humans,44,North America,Vulnerable,Various,170,18,Solitary,11
+Narwhal,338,296,Black and White,38,Omnivore,Arctic,Hyenas,93,South America,Endangered,Various,109,37,Pack-based,1
+Anteater,386,3456,Golden,55,Omnivore,Arctic,Lions,81,Europe,Least Concern,Various,353,13,Pack-based,12
+Parrot,280,2478,Multicolored,70,Herbivore,Ocean,Eagles,7,Australia,Least Concern,Various,249,89,Pack-based,7
+Golden Eagle,375,283,White,13,Carnivore,Tropical Rainforest,None (apex predator),26,Europe,Vulnerable,Various,102,47,Herd-based,1
+Koala,287,1480,Black,76,Insectivore,Tropical Rainforest,Eagles,66,Europe,Endangered,Various,95,95,Pack-based,1
+Rhino,35,3039,Multicolored,43,Carnivore,Tropical Rainforest,Humans,56,Africa,Least Concern,Various,222,59,Group-based,4
+Cheetah,76,1504,Golden,58,Omnivore,Mountains,Hyenas,79,Asia,Endangered,Various,333,86,Group-based,4
+Baboon,72,466,Yellow-brown,68,Insectivore,Grasslands,None (apex predator),83,Arctic,Least Concern,Various,242,63,Herd-based,8
+Chimpanzee,480,3002,Golden,78,Insectivore,Rivers,Lions,21,Africa,Least Concern,Various,202,67,Group-based,7
+Flamingo,403,450,Black and White,25,Omnivore,Ocean,Leopards,19,Arctic,Vulnerable,Various,227,21,Herd-based,1
+Giraffe,486,1098,Grey,34,Omnivore,Ocean,Eagles,92,Arctic,Least Concern,Various,267,64,Herd-based,11
+Eagle,216,2034,Black and White,83,Carnivore,Savannas,Humans,19,North America,Endangered,Various,141,38,Group-based,3
+Orangutan,381,1856,Brown,43,Omnivore,Forests,Hyenas,56,Arctic,Endangered,Various,62,83,Pack-based,4
+Emperor Penguin,171,2277,Black,26,Insectivore,Ocean,Lions,7,Europe,Vulnerable,Various,301,58,Herd-based,7
+Cheetah,151,104,Black and White,57,Insectivore,Ocean,Leopards,83,South America,Critically Endangered,Various,303,32,Pack-based,5
+Python,91,3098,Brown,83,Insectivore,Rivers,Humans,93,Europe,Least Concern,Various,162,88,Solitary,6
+Bison,149,249,Brown,98,Carnivore,Rivers,Hyenas,62,Australia,Vulnerable,Various,136,82,Solitary,2
+Anteater,486,1798,White,50,Insectivore,Ocean,Hyenas,92,South America,Critically Endangered,Various,251,90,Group-based,10
+Python,93,1152,Black,69,Omnivore,Ocean,Hyenas,78,Australia,Endangered,Various,82,88,Group-based,2
+Bison,367,1346,Black,89,Insectivore,Savannas,Hyenas,63,Asia,Least Concern,Various,249,42,Solitary,11
+Bison,226,2988,White,12,Carnivore,Grasslands,Leopards,22,South America,Critically Endangered,Various,259,76,Herd-based,5
+Python,147,37,Black,95,Insectivore,Savannas,Hyenas,29,North America,Endangered,Various,200,15,Pack-based,9
+Jaguar,88,60,Grey,16,Insectivore,Grasslands,Humans,25,Asia,Least Concern,Various,213,62,Solitary,12
+Manta Ray,469,3239,White,96,Omnivore,Rivers,None (apex predator),45,Africa,Least Concern,Various,201,38,Herd-based,4
+Wombat,246,2461,Golden,42,Herbivore,Arctic,Humans,7,South America,Least Concern,Various,198,49,Pack-based,4
+Ocelot,39,1587,Black,39,Omnivore,Rivers,None (apex predator),51,Arctic,Endangered,Various,94,70,Group-based,10
+Jaguar,94,453,Grey,59,Insectivore,Tropical Rainforest,Hyenas,45,Africa,Critically Endangered,Various,67,30,Pack-based,4
+Kangaroo,74,167,Golden,21,Insectivore,Ocean,Hyenas,71,Antarctica,Critically Endangered,Various,111,25,Solitary,8
+Bison,374,2051,Brown,12,Carnivore,Grasslands,None (apex predator),43,South America,Critically Endangered,Various,235,95,Group-based,4
+Giraffe,289,1545,Grey,95,Herbivore,Tropical Rainforest,Hyenas,44,Antarctica,Least Concern,Various,288,89,Herd-based,8
+Eagle,496,2804,Yellow-brown,53,Herbivore,Grasslands,Hyenas,6,South America,Endangered,Various,246,96,Pack-based,2
+Chimpanzee,41,2443,Yellow-brown,73,Insectivore,Arctic,Hyenas,48,North America,Vulnerable,Various,215,17,Herd-based,1
+Hippopotamus,295,1556,Golden,82,Omnivore,Grasslands,Eagles,83,Australia,Least Concern,Various,310,32,Solitary,8
+Manatee,259,1891,White,15,Insectivore,Forests,Humans,46,Australia,Least Concern,Various,251,25,Herd-based,11
+Penguin,38,870,White,10,Carnivore,Grasslands,Lions,33,Australia,Critically Endangered,Various,172,34,Solitary,10
+Wolf,322,2387,Black and White,14,Omnivore,Mountains,Leopards,82,Antarctica,Vulnerable,Various,260,84,Herd-based,11
+Orangutan,265,1649,Multicolored,40,Herbivore,Rivers,Lions,38,Arctic,Least Concern,Various,153,71,Solitary,10
+Python,161,961,Grey,54,Insectivore,Forests,None (apex predator),34,Arctic,Least Concern,Various,316,97,Solitary,4
+Iguana,487,1279,Multicolored,55,Carnivore,Ocean,Eagles,69,North America,Endangered,Various,59,83,Solitary,2
+Iguana,203,2872,White,23,Carnivore,Forests,Hyenas,20,Europe,Critically Endangered,Various,292,86,Solitary,3
+Red Panda,187,3402,Golden,38,Insectivore,Savannas,Eagles,64,Africa,Critically Endangered,Various,235,59,Group-based,4
+Hammerhead Shark,400,2589,Golden,62,Herbivore,Forests,None (apex predator),35,Arctic,Least Concern,Various,101,78,Herd-based,10
+Mountain Goat,374,491,Black and White,48,Insectivore,Tropical Rainforest,Eagles,53,Australia,Least Concern,Various,332,62,Pack-based,2
+Bison,259,1185,Yellow-brown,86,Insectivore,Tropical Rainforest,Humans,99,Africa,Vulnerable,Various,237,75,Pack-based,7
+Orangutan,98,2646,Yellow-brown,21,Carnivore,Ocean,Lions,56,Asia,Least Concern,Various,170,76,Pack-based,8
+Tiger,221,3169,Black and White,61,Insectivore,Grasslands,Humans,62,Arctic,Critically Endangered,Various,206,25,Pack-based,10
+Dolphin,360,1899,Brown,72,Insectivore,Grasslands,Humans,53,Europe,Endangered,Various,293,62,Herd-based,2
+Manta Ray,433,891,Brown,95,Herbivore,Grasslands,Hyenas,88,North America,Critically Endangered,Various,62,38,Pack-based,11
+Red Panda,209,3414,Multicolored,26,Carnivore,Savannas,None (apex predator),14,Asia,Critically Endangered,Various,250,50,Herd-based,5
+Ocelot,165,3446,White,37,Insectivore,Arctic,Lions,73,Australia,Endangered,Various,166,96,Solitary,4
+Alligator,461,540,Grey,38,Herbivore,Arctic,Eagles,97,South America,Least Concern,Various,257,66,Solitary,11
+Red Panda,345,1290,Black,64,Insectivore,Rivers,Eagles,10,Arctic,Vulnerable,Various,209,83,Herd-based,1
+Giraffe,183,2112,Multicolored,90,Herbivore,Arctic,Leopards,60,Europe,Least Concern,Various,302,11,Solitary,10
+Gazelle,344,1262,Brown,62,Herbivore,Ocean,Humans,85,South America,Critically Endangered,Various,325,45,Pack-based,4
+Polar Bear,157,269,Yellow-brown,86,Insectivore,Arctic,Leopards,28,Arctic,Least Concern,Various,180,29,Group-based,5
+Albatross,339,486,Yellow-brown,43,Insectivore,Ocean,None (apex predator),25,Antarctica,Least Concern,Various,192,42,Pack-based,3
+Sloth,33,2545,Grey,30,Insectivore,Forests,Hyenas,94,Antarctica,Vulnerable,Various,162,21,Herd-based,7
+Toucan,351,2061,Multicolored,76,Herbivore,Ocean,None (apex predator),70,Asia,Vulnerable,Various,331,74,Solitary,5
+Golden Eagle,206,520,Black,29,Carnivore,Forests,Lions,70,South America,Endangered,Various,54,86,Pack-based,9
+Arctic Fox,280,1909,Multicolored,11,Omnivore,Rivers,None (apex predator),60,Arctic,Least Concern,Various,99,98,Herd-based,12
+Parrot,447,976,Grey,59,Omnivore,Grasslands,Humans,51,Australia,Endangered,Various,191,59,Pack-based,2
+Dolphin,270,1421,Yellow-brown,84,Insectivore,Tropical Rainforest,Leopards,57,Africa,Critically Endangered,Various,108,34,Group-based,6
+Iguana,101,2254,Yellow-brown,39,Omnivore,Grasslands,Eagles,51,South America,Vulnerable,Various,220,58,Herd-based,12
+Armadillo,254,2481,Brown,62,Omnivore,Tropical Rainforest,Humans,96,North America,Least Concern,Various,271,73,Solitary,1
+Wombat,258,3106,Yellow-brown,33,Carnivore,Forests,None (apex predator),83,Africa,Least Concern,Various,199,88,Herd-based,10
+Anteater,216,1088,Brown,39,Insectivore,Rivers,Leopards,25,Antarctica,Vulnerable,Various,83,58,Herd-based,12
+Panda,95,1637,Golden,42,Insectivore,Grasslands,Hyenas,43,North America,Endangered,Various,232,93,Solitary,2
+Koala,197,3189,Grey,47,Herbivore,Tropical Rainforest,Humans,34,Antarctica,Vulnerable,Various,364,11,Solitary,5
+Jaguar,317,1744,Black,93,Omnivore,Forests,Hyenas,66,Africa,Least Concern,Various,329,26,Group-based,7
+Python,104,2796,Brown,20,Insectivore,Rivers,None (apex predator),64,Arctic,Endangered,Various,74,11,Solitary,1
+Leopard Seal,400,1302,Black,97,Insectivore,Ocean,Leopards,15,Arctic,Endangered,Various,313,71,Pack-based,6
+Jaguar,143,918,White,80,Insectivore,Forests,Humans,16,South America,Endangered,Various,160,62,Herd-based,12
+Mountain Goat,78,1713,Yellow-brown,60,Carnivore,Arctic,Leopards,91,Australia,Critically Endangered,Various,98,17,Solitary,6
+Albatross,411,1969,Golden,17,Insectivore,Ocean,None (apex predator),43,Europe,Endangered,Various,154,91,Group-based,12
+Cheetah,445,1741,Black,69,Omnivore,Grasslands,None (apex predator),14,Arctic,Critically Endangered,Various,265,49,Herd-based,1
+Parrot,131,2654,White,75,Omnivore,Mountains,Humans,78,North America,Least Concern,Various,174,42,Pack-based,3
+Parrot,476,948,White,46,Insectivore,Mountains,Eagles,54,North America,Vulnerable,Various,285,13,Herd-based,5
+Sloth,444,2276,Grey,33,Carnivore,Arctic,Humans,12,Asia,Critically Endangered,Various,332,21,Pack-based,3
+Arctic Fox,377,1476,Grey,53,Omnivore,Rivers,None (apex predator),79,Asia,Endangered,Various,316,37,Herd-based,8
+Leopard Seal,434,1084,Golden,61,Omnivore,Tropical Rainforest,Humans,13,Asia,Least Concern,Various,63,100,Group-based,9
+Zebra,293,2247,Yellow-brown,86,Carnivore,Arctic,Lions,6,Europe,Critically Endangered,Various,102,26,Herd-based,4
+Chimpanzee,94,2820,Black and White,98,Herbivore,Rivers,Hyenas,65,North America,Least Concern,Various,290,27,Herd-based,8
+Golden Eagle,135,1902,Multicolored,95,Herbivore,Tropical Rainforest,Eagles,76,Asia,Endangered,Various,297,39,Solitary,10
+Wolf,179,3216,Brown,35,Insectivore,Forests,Lions,54,Australia,Critically Endangered,Various,130,88,Pack-based,7
+Narwhal,493,2011,Golden,93,Herbivore,Ocean,None (apex predator),76,Arctic,Vulnerable,Various,78,23,Herd-based,7
+Gazelle,377,1426,White,31,Insectivore,Grasslands,Leopards,69,Arctic,Vulnerable,Various,80,45,Solitary,4
+Sea Turtle,447,1011,White,44,Carnivore,Mountains,Hyenas,82,Australia,Endangered,Various,200,35,Group-based,7
+Snow Leopard,422,770,Multicolored,83,Herbivore,Arctic,None (apex predator),47,North America,Critically Endangered,Various,244,37,Herd-based,10
+Komodo Dragon,265,3253,Brown,70,Herbivore,Mountains,Hyenas,94,Australia,Vulnerable,Various,237,20,Herd-based,10
+Arctic Fox,174,1751,Black,43,Carnivore,Savannas,None (apex predator),53,North America,Least Concern,Various,63,34,Herd-based,12
+Albatross,323,2764,Yellow-brown,39,Insectivore,Ocean,Humans,26,Arctic,Critically Endangered,Various,353,13,Herd-based,5
+Toucan,141,1061,Yellow-brown,54,Carnivore,Savannas,Leopards,54,Antarctica,Endangered,Various,297,83,Group-based,8
+Eagle,251,3343,Yellow-brown,40,Insectivore,Savannas,Leopards,26,Europe,Critically Endangered,Various,240,74,Solitary,11
+Baboon,273,1913,Golden,19,Insectivore,Forests,Humans,69,Australia,Critically Endangered,Various,258,20,Pack-based,4
+Armadillo,112,15,Grey,7,Carnivore,Forests,Humans,35,Australia,Endangered,Various,198,44,Solitary,12
+Snow Leopard,425,478,Black and White,99,Herbivore,Grasslands,Hyenas,17,Antarctica,Least Concern,Various,306,57,Group-based,8
+Dolphin,338,2556,Black,6,Insectivore,Mountains,Humans,99,Africa,Vulnerable,Various,330,15,Pack-based,11
+Giraffe,449,1177,Brown,88,Herbivore,Savannas,None (apex predator),60,Europe,Endangered,Various,281,94,Pack-based,7
+Red Panda,270,2273,Golden,53,Omnivore,Grasslands,Humans,20,Antarctica,Endangered,Various,287,43,Group-based,1
+Hippopotamus,85,2385,Golden,70,Omnivore,Savannas,Leopards,29,Europe,Vulnerable,Various,344,17,Herd-based,9
+Sea Turtle,216,1808,Black,91,Omnivore,Ocean,Eagles,17,Asia,Vulnerable,Various,333,46,Pack-based,4
+Manatee,130,3111,White,65,Insectivore,Grasslands,Hyenas,58,Australia,Endangered,Various,243,11,Group-based,7
+Porcupine,353,1159,Black and White,97,Omnivore,Arctic,Hyenas,41,Antarctica,Endangered,Various,278,56,Herd-based,4
+Bison,299,1381,White,79,Herbivore,Tropical Rainforest,Hyenas,57,Arctic,Vulnerable,Various,235,74,Group-based,2
+Leopard Seal,283,969,Brown,84,Omnivore,Savannas,Eagles,12,Africa,Least Concern,Various,182,35,Group-based,6
+Orangutan,273,2320,Grey,96,Omnivore,Arctic,Hyenas,40,Asia,Vulnerable,Various,208,98,Herd-based,5
+Sloth,71,2582,Grey,18,Insectivore,Ocean,Leopards,31,Europe,Endangered,Various,338,11,Solitary,2
+Eagle,163,24,Yellow-brown,6,Insectivore,Arctic,None (apex predator),40,Australia,Least Concern,Various,208,66,Pack-based,9
+Puffin,429,1992,Multicolored,63,Herbivore,Forests,Humans,20,South America,Least Concern,Various,287,82,Solitary,7
+Puffin,369,1777,Multicolored,43,Omnivore,Mountains,None (apex predator),72,Arctic,Vulnerable,Various,188,94,Pack-based,6
+Dolphin,489,922,Brown,55,Herbivore,Tropical Rainforest,Hyenas,65,Arctic,Critically Endangered,Various,331,67,Herd-based,7
+Albatross,95,1617,Yellow-brown,27,Herbivore,Savannas,Eagles,47,Europe,Vulnerable,Various,306,24,Pack-based,12
+Albatross,87,1957,Multicolored,33,Carnivore,Tropical Rainforest,Humans,78,Africa,Endangered,Various,83,56,Group-based,10
+Toucan,458,1023,Black and White,73,Insectivore,Grasslands,Hyenas,63,Asia,Vulnerable,Various,326,51,Group-based,5
+Orangutan,343,2977,Golden,92,Herbivore,Rivers,Lions,76,North America,Critically Endangered,Various,314,63,Solitary,5
+Kangaroo,159,575,Multicolored,23,Insectivore,Rivers,Eagles,6,Europe,Vulnerable,Various,137,48,Pack-based,9
+Emperor Penguin,363,2350,Yellow-brown,40,Insectivore,Grasslands,Lions,30,Europe,Critically Endangered,Various,282,36,Group-based,11
+Sloth,462,1369,Multicolored,16,Insectivore,Arctic,Lions,89,Europe,Endangered,Various,335,25,Group-based,12
+Hippopotamus,178,827,Multicolored,52,Insectivore,Rivers,Eagles,10,Antarctica,Least Concern,Various,192,40,Pack-based,9
+Emperor Penguin,452,1602,Black and White,53,Carnivore,Tropical Rainforest,Hyenas,17,South America,Least Concern,Various,273,36,Group-based,7
+Komodo Dragon,65,154,Multicolored,71,Omnivore,Tropical Rainforest,Humans,99,North America,Vulnerable,Various,277,77,Pack-based,9
+Zebra,160,3172,Multicolored,41,Carnivore,Ocean,None (apex predator),59,Europe,Least Concern,Various,293,40,Solitary,4
+Moose,69,1467,Black and White,99,Herbivore,Tropical Rainforest,Hyenas,10,Antarctica,Endangered,Various,109,77,Solitary,1
+Bison,31,1589,Yellow-brown,41,Omnivore,Grasslands,Hyenas,87,Asia,Least Concern,Various,227,19,Solitary,6
+Flamingo,493,771,Grey,89,Omnivore,Tropical Rainforest,None (apex predator),17,Arctic,Critically Endangered,Various,63,85,Herd-based,7
+Chimpanzee,31,661,Grey,5,Herbivore,Tropical Rainforest,Hyenas,76,Antarctica,Vulnerable,Various,315,27,Herd-based,2
+Puffin,144,1999,Brown,36,Carnivore,Arctic,Humans,22,North America,Critically Endangered,Various,340,36,Pack-based,11
+Polar Bear,337,675,Golden,44,Omnivore,Savannas,Humans,71,Australia,Critically Endangered,Various,313,11,Group-based,3
+Wombat,380,1282,White,60,Insectivore,Grasslands,None (apex predator),64,South America,Critically Endangered,Various,163,72,Herd-based,1
+Tiger,289,2631,Grey,72,Omnivore,Arctic,Leopards,81,Australia,Vulnerable,Various,60,47,Group-based,11
+Narwhal,386,701,White,52,Insectivore,Rivers,Humans,30,Arctic,Least Concern,Various,91,58,Group-based,11
+Anteater,150,579,Black,85,Insectivore,Ocean,Humans,24,Asia,Endangered,Various,352,69,Pack-based,10
+Alligator,112,1828,Grey,79,Herbivore,Arctic,Humans,82,Australia,Least Concern,Various,115,76,Group-based,5
+Golden Eagle,173,1046,Yellow-brown,89,Herbivore,Mountains,Leopards,55,South America,Least Concern,Various,151,73,Herd-based,6
+Emperor Penguin,397,1244,Black and White,61,Carnivore,Tropical Rainforest,None (apex predator),50,South America,Endangered,Various,67,30,Solitary,1
+Sloth,86,2708,Golden,6,Carnivore,Forests,Humans,23,Asia,Endangered,Various,176,74,Herd-based,9
+Albatross,282,712,Black and White,29,Omnivore,Arctic,Hyenas,62,North America,Vulnerable,Various,187,91,Herd-based,5
+Emperor Penguin,92,2257,Black and White,18,Omnivore,Savannas,Hyenas,20,Arctic,Endangered,Various,361,34,Pack-based,11
+Koala,232,2991,Brown,42,Herbivore,Arctic,Eagles,59,Africa,Least Concern,Various,207,94,Group-based,11
+Cheetah,98,859,Multicolored,80,Omnivore,Grasslands,Leopards,56,Africa,Critically Endangered,Various,225,75,Solitary,3
+Komodo Dragon,412,2705,Yellow-brown,67,Herbivore,Forests,Humans,90,Australia,Vulnerable,Various,166,65,Herd-based,8
+Emperor Penguin,68,216,Golden,92,Insectivore,Forests,Humans,13,Arctic,Critically Endangered,Various,354,23,Pack-based,11
+Flamingo,432,804,Brown,86,Carnivore,Rivers,Humans,56,Africa,Vulnerable,Various,267,47,Pack-based,12
+Porcupine,99,2349,Yellow-brown,98,Insectivore,Rivers,Leopards,27,Asia,Vulnerable,Various,58,64,Group-based,2
+Hammerhead Shark,215,2646,Black and White,77,Herbivore,Forests,Hyenas,92,Asia,Vulnerable,Various,85,56,Pack-based,6
+Baboon,300,1696,Black and White,20,Carnivore,Rivers,Leopards,81,Arctic,Critically Endangered,Various,55,41,Solitary,11
+Kangaroo,80,1624,White,17,Insectivore,Ocean,None (apex predator),19,Australia,Vulnerable,Various,147,37,Group-based,7
+Black Widow Spider,100,2911,Black,55,Insectivore,Ocean,Eagles,14,South America,Critically Endangered,Various,242,35,Herd-based,1
+Bison,66,753,Black,38,Herbivore,Arctic,Lions,29,Asia,Least Concern,Various,196,97,Solitary,6
+Python,172,2612,Brown,12,Herbivore,Rivers,Lions,26,North America,Vulnerable,Various,53,83,Herd-based,6
+Albatross,134,374,Yellow-brown,88,Herbivore,Tropical Rainforest,Humans,28,Europe,Vulnerable,Various,263,51,Pack-based,12
+Mountain Goat,138,1222,Black,88,Herbivore,Arctic,Leopards,9,Asia,Critically Endangered,Various,170,80,Herd-based,8
+Otter,430,851,Grey,93,Insectivore,Arctic,None (apex predator),59,Antarctica,Critically Endangered,Various,245,52,Solitary,10
+Hammerhead Shark,252,677,Golden,11,Herbivore,Savannas,None (apex predator),5,Europe,Critically Endangered,Various,189,50,Herd-based,6
+Komodo Dragon,259,1938,Multicolored,13,Herbivore,Ocean,Humans,91,Arctic,Least Concern,Various,92,89,Pack-based,8
+Emperor Penguin,225,782,Black,41,Carnivore,Ocean,Leopards,47,Arctic,Critically Endangered,Various,305,49,Pack-based,1
+Snow Leopard,410,3450,Multicolored,89,Herbivore,Arctic,None (apex predator),74,North America,Critically Endangered,Various,282,71,Group-based,3
+Ocelot,35,220,Yellow-brown,16,Carnivore,Rivers,Eagles,90,Africa,Endangered,Various,110,52,Herd-based,7
+Iguana,240,715,Grey,44,Carnivore,Arctic,Leopards,27,Africa,Critically Endangered,Various,146,83,Solitary,6
+Bison,158,1346,Grey,35,Herbivore,Forests,Hyenas,39,Antarctica,Critically Endangered,Various,283,77,Pack-based,3
+Flamingo,357,2461,Yellow-brown,9,Herbivore,Savannas,Leopards,22,Asia,Critically Endangered,Various,75,80,Group-based,7
+Dolphin,118,1695,Golden,76,Insectivore,Mountains,Hyenas,49,South America,Vulnerable,Various,262,80,Pack-based,2
+Gazelle,196,643,Black,91,Insectivore,Savannas,Lions,75,North America,Vulnerable,Various,179,18,Solitary,1
+Bison,310,2428,White,61,Herbivore,Ocean,Eagles,19,Africa,Least Concern,Various,83,15,Herd-based,5
+Giraffe,219,3253,Brown,26,Herbivore,Rivers,Humans,65,Australia,Endangered,Various,297,49,Group-based,9
+Rhino,349,1938,Brown,21,Herbivore,Ocean,Leopards,98,Arctic,Endangered,Various,225,92,Solitary,3
+Penguin,412,95,Multicolored,36,Omnivore,Ocean,Leopards,6,Antarctica,Least Concern,Various,216,66,Group-based,1
+Sea Turtle,231,432,White,33,Insectivore,Ocean,Lions,72,South America,Vulnerable,Various,157,51,Solitary,10
+Anteater,273,1592,White,53,Insectivore,Mountains,Humans,29,Arctic,Endangered,Various,130,27,Pack-based,9
+Panda,163,2871,White,75,Herbivore,Arctic,Hyenas,94,Asia,Least Concern,Various,323,38,Pack-based,4
+Koala,370,405,Black and White,60,Carnivore,Tropical Rainforest,Humans,33,North America,Critically Endangered,Various,76,56,Pack-based,1
+Lynx,292,1619,Black,68,Omnivore,Forests,Eagles,95,Australia,Least Concern,Various,143,67,Group-based,3
+Armadillo,51,809,Yellow-brown,46,Carnivore,Forests,Lions,65,Asia,Least Concern,Various,132,36,Herd-based,5
+Hippopotamus,331,700,Yellow-brown,83,Omnivore,Ocean,Hyenas,65,Antarctica,Least Concern,Various,243,83,Solitary,12
+Cheetah,305,1764,Golden,26,Carnivore,Ocean,Hyenas,68,Europe,Least Concern,Various,113,75,Group-based,8
+Lynx,469,3439,Multicolored,85,Omnivore,Forests,None (apex predator),26,Arctic,Vulnerable,Various,75,79,Herd-based,12
+Manta Ray,311,34,Grey,51,Herbivore,Rivers,Leopards,59,Australia,Endangered,Various,275,64,Solitary,2
+Python,371,846,Grey,61,Carnivore,Forests,Eagles,8,Africa,Vulnerable,Various,249,44,Pack-based,2
+Giraffe,192,348,White,68,Omnivore,Rivers,Leopards,34,Europe,Least Concern,Various,332,66,Group-based,1
+Chimpanzee,85,2411,Grey,57,Herbivore,Arctic,Humans,42,Antarctica,Least Concern,Various,301,25,Pack-based,11
+Manta Ray,259,2353,Black and White,32,Omnivore,Mountains,Humans,7,Europe,Least Concern,Various,333,50,Group-based,8
+Anteater,374,364,White,50,Herbivore,Savannas,Leopards,98,Asia,Vulnerable,Various,136,39,Group-based,11
+Sloth,295,1253,Black,37,Herbivore,Mountains,Leopards,36,South America,Endangered,Various,123,91,Solitary,5
+Kangaroo,374,2352,Yellow-brown,70,Omnivore,Arctic,Eagles,77,Europe,Critically Endangered,Various,137,55,Solitary,12
+Orangutan,57,2999,Yellow-brown,52,Insectivore,Arctic,None (apex predator),59,Arctic,Critically Endangered,Various,164,89,Solitary,11
+Wombat,229,121,Multicolored,86,Omnivore,Tropical Rainforest,Eagles,52,Antarctica,Least Concern,Various,291,37,Herd-based,9
+Rhino,114,594,Brown,37,Insectivore,Tropical Rainforest,Humans,60,South America,Endangered,Various,226,65,Herd-based,10
+Eagle,458,579,White,73,Carnivore,Savannas,Eagles,10,Antarctica,Least Concern,Various,88,94,Pack-based,1
+Walrus,159,3477,Multicolored,9,Insectivore,Ocean,Hyenas,16,Australia,Endangered,Various,213,88,Herd-based,3
+Tiger,270,1426,Black and White,29,Insectivore,Forests,Eagles,43,Australia,Least Concern,Various,217,95,Group-based,12
+Chimpanzee,176,69,Grey,68,Omnivore,Arctic,Lions,93,Europe,Critically Endangered,Various,199,89,Group-based,3
+Penguin,98,1156,Multicolored,82,Insectivore,Mountains,Leopards,53,Arctic,Least Concern,Various,173,94,Solitary,6
+Moose,368,1444,Black and White,47,Omnivore,Mountains,Eagles,73,South America,Endangered,Various,122,25,Group-based,12
+Jaguar,87,3242,Black,32,Carnivore,Tropical Rainforest,None (apex predator),60,Africa,Endangered,Various,279,18,Herd-based,10
+Manatee,320,1820,Multicolored,69,Insectivore,Forests,Leopards,88,Asia,Vulnerable,Various,221,29,Group-based,12
+Bison,287,2549,Brown,20,Carnivore,Forests,None (apex predator),56,Africa,Critically Endangered,Various,337,59,Pack-based,8
+Iguana,427,2994,Black and White,99,Insectivore,Forests,Hyenas,33,Asia,Vulnerable,Various,155,85,Herd-based,8
+Puffin,332,425,Multicolored,9,Insectivore,Grasslands,Eagles,52,Asia,Vulnerable,Various,144,72,Pack-based,11
+Flamingo,103,936,Golden,86,Herbivore,Ocean,Lions,98,Asia,Least Concern,Various,150,15,Herd-based,6
+Manta Ray,243,1725,Grey,34,Herbivore,Savannas,Lions,97,Antarctica,Critically Endangered,Various,231,86,Group-based,6
+Wombat,379,437,Brown,30,Omnivore,Tropical Rainforest,Eagles,100,Arctic,Critically Endangered,Various,189,35,Solitary,3
+Orangutan,467,1490,Black and White,39,Carnivore,Tropical Rainforest,Humans,56,Arctic,Endangered,Various,118,96,Solitary,6
+Moose,327,1869,Black,61,Herbivore,Tropical Rainforest,Leopards,58,Australia,Vulnerable,Various,227,69,Group-based,12
+Leopard Seal,65,2341,Brown,64,Insectivore,Grasslands,Eagles,80,North America,Vulnerable,Various,335,70,Solitary,11
+Kangaroo,376,2699,Black and White,20,Omnivore,Savannas,Eagles,5,Europe,Critically Endangered,Various,160,71,Herd-based,4
+Alligator,266,1949,Grey,17,Carnivore,Forests,Humans,10,Antarctica,Least Concern,Various,83,76,Pack-based,4
+Flamingo,276,2737,Yellow-brown,75,Herbivore,Savannas,Humans,98,Asia,Critically Endangered,Various,132,44,Herd-based,5
+Hippopotamus,159,1563,Grey,72,Omnivore,Savannas,Leopards,96,Africa,Vulnerable,Various,285,91,Herd-based,3
+Puffin,453,1028,Yellow-brown,59,Carnivore,Rivers,Eagles,58,Antarctica,Vulnerable,Various,305,90,Group-based,4
+Manta Ray,157,2435,Brown,78,Omnivore,Forests,Eagles,7,North America,Least Concern,Various,78,33,Herd-based,10
+Rhino,328,488,Black and White,66,Carnivore,Forests,Humans,53,Asia,Critically Endangered,Various,181,41,Pack-based,3
+Manta Ray,155,1623,Golden,56,Insectivore,Forests,Leopards,80,South America,Vulnerable,Various,133,86,Solitary,3
+Wombat,35,1171,Black,94,Herbivore,Ocean,Hyenas,59,Arctic,Vulnerable,Various,80,36,Pack-based,1
+Albatross,114,2646,Yellow-brown,80,Omnivore,Grasslands,Lions,23,Europe,Endangered,Various,197,56,Herd-based,7
+Anteater,413,2504,Grey,39,Carnivore,Ocean,Lions,6,Asia,Vulnerable,Various,67,21,Solitary,2
+Ocelot,47,2140,Brown,93,Insectivore,Savannas,Lions,24,Arctic,Least Concern,Various,119,72,Herd-based,1
+Mountain Goat,441,48,Black,70,Omnivore,Savannas,Eagles,99,Africa,Least Concern,Various,174,78,Group-based,10
+Zebra,436,1724,Black,44,Carnivore,Mountains,Humans,51,Europe,Least Concern,Various,105,58,Group-based,5
+Kangaroo,332,1540,Brown,41,Herbivore,Forests,Leopards,14,Australia,Vulnerable,Various,305,60,Herd-based,4
+Black Widow Spider,399,3005,Yellow-brown,74,Carnivore,Ocean,Lions,38,Antarctica,Vulnerable,Various,193,80,Solitary,11
+Polar Bear,153,1702,Yellow-brown,7,Omnivore,Forests,Eagles,90,Europe,Endangered,Various,313,79,Pack-based,4
+Manatee,392,998,Black,70,Carnivore,Rivers,Humans,75,South America,Endangered,Various,147,20,Solitary,12
+Wolf,400,2531,Grey,40,Omnivore,Tropical Rainforest,Humans,21,Australia,Critically Endangered,Various,172,88,Herd-based,3
+Manta Ray,210,1036,Golden,66,Omnivore,Tropical Rainforest,Lions,70,North America,Endangered,Various,357,40,Pack-based,6
+Ocelot,118,900,White,93,Omnivore,Mountains,Lions,42,Europe,Least Concern,Various,306,16,Solitary,1
+Kangaroo,98,2496,Golden,43,Insectivore,Grasslands,Leopards,24,South America,Critically Endangered,Various,250,44,Solitary,3
+Otter,424,2866,Multicolored,24,Carnivore,Grasslands,Leopards,5,Australia,Critically Endangered,Various,342,19,Solitary,2
+Hippopotamus,68,2908,Black,9,Insectivore,Forests,None (apex predator),85,Europe,Critically Endangered,Various,290,28,Group-based,6
+Puffin,438,3001,Yellow-brown,13,Omnivore,Grasslands,Eagles,24,Arctic,Vulnerable,Various,57,78,Herd-based,6
+Armadillo,178,2712,Grey,14,Insectivore,Tropical Rainforest,Lions,94,Arctic,Endangered,Various,295,43,Group-based,12
+Porcupine,304,2231,White,98,Carnivore,Ocean,Lions,96,Europe,Least Concern,Various,112,58,Herd-based,3
+Ocelot,209,1307,Golden,23,Omnivore,Ocean,None (apex predator),35,Europe,Critically Endangered,Various,319,23,Group-based,8
+Albatross,296,160,Black and White,54,Insectivore,Tropical Rainforest,Humans,21,Antarctica,Critically Endangered,Various,79,67,Group-based,3
+Python,185,1372,Grey,24,Insectivore,Forests,Eagles,80,Europe,Endangered,Various,204,67,Group-based,1
+Zebra,335,2254,Yellow-brown,45,Insectivore,Grasslands,None (apex predator),49,Antarctica,Endangered,Various,352,89,Group-based,9
+Walrus,170,3452,Brown,68,Omnivore,Tropical Rainforest,Hyenas,34,Africa,Vulnerable,Various,50,76,Solitary,4
+Dolphin,89,117,Brown,56,Herbivore,Tropical Rainforest,None (apex predator),24,Arctic,Least Concern,Various,204,99,Group-based,11
+Tiger,415,696,Golden,65,Carnivore,Ocean,Hyenas,12,Antarctica,Critically Endangered,Various,122,59,Group-based,9
+Kangaroo,488,1483,Black,34,Omnivore,Rivers,Lions,74,North America,Vulnerable,Various,296,17,Group-based,3
+Panda,279,2096,White,57,Carnivore,Ocean,Eagles,32,Antarctica,Least Concern,Various,204,20,Pack-based,5
+Zebra,246,7,Black,62,Herbivore,Grasslands,Lions,67,Europe,Endangered,Various,65,94,Herd-based,8
+Ocelot,255,2477,Multicolored,56,Herbivore,Mountains,Hyenas,5,Arctic,Vulnerable,Various,130,42,Solitary,11
+Mountain Goat,58,1350,Black and White,63,Herbivore,Rivers,Eagles,53,Australia,Vulnerable,Various,162,51,Herd-based,12
+Alligator,390,3296,Yellow-brown,19,Herbivore,Forests,Hyenas,94,Australia,Critically Endangered,Various,129,52,Solitary,7
+Penguin,392,1050,Black and White,67,Carnivore,Savannas,None (apex predator),36,Africa,Least Concern,Various,139,47,Herd-based,3
+Manta Ray,206,2065,Golden,35,Omnivore,Ocean,Lions,72,South America,Least Concern,Various,261,88,Pack-based,11
+Arctic Fox,252,1390,Black,16,Herbivore,Savannas,None (apex predator),19,North America,Vulnerable,Various,218,87,Pack-based,8
+Koala,238,3459,Black,23,Omnivore,Ocean,Leopards,88,Europe,Endangered,Various,100,66,Pack-based,12
+Wolf,89,462,Yellow-brown,54,Insectivore,Arctic,Leopards,14,Arctic,Least Concern,Various,50,87,Herd-based,9
+Snow Leopard,382,3057,Multicolored,61,Carnivore,Arctic,Humans,94,North America,Critically Endangered,Various,257,34,Herd-based,5
+Koala,350,266,Black,18,Omnivore,Tropical Rainforest,Hyenas,28,Australia,Endangered,Various,311,90,Pack-based,9
+Manta Ray,147,1639,White,76,Herbivore,Ocean,Eagles,79,South America,Critically Endangered,Various,98,50,Group-based,6
+Zebra,45,2265,Multicolored,90,Herbivore,Tropical Rainforest,None (apex predator),91,South America,Endangered,Various,106,41,Solitary,2
+Gazelle,437,1242,Grey,36,Carnivore,Arctic,None (apex predator),19,Asia,Vulnerable,Various,352,84,Group-based,1
+Albatross,284,3068,Black,54,Carnivore,Arctic,None (apex predator),73,Africa,Vulnerable,Various,239,82,Solitary,8
+Orangutan,337,285,White,58,Herbivore,Forests,Lions,26,Antarctica,Endangered,Various,337,34,Herd-based,7
+Orangutan,95,1002,Grey,20,Herbivore,Forests,Leopards,66,South America,Critically Endangered,Various,68,35,Herd-based,4
+Bison,422,2216,Golden,86,Omnivore,Mountains,Eagles,61,Australia,Critically Endangered,Various,112,96,Herd-based,8
+Panda,375,1817,Multicolored,10,Carnivore,Rivers,Leopards,7,North America,Vulnerable,Various,234,14,Group-based,5
+Gazelle,130,2185,Grey,90,Insectivore,Ocean,Humans,34,North America,Vulnerable,Various,362,28,Herd-based,9
+Jaguar,436,3319,Golden,80,Herbivore,Rivers,Humans,98,North America,Vulnerable,Various,154,24,Pack-based,11
+Moose,228,1328,Grey,28,Omnivore,Grasslands,Eagles,51,Asia,Endangered,Various,307,55,Solitary,4
+Baboon,355,2535,Brown,39,Carnivore,Ocean,None (apex predator),92,Australia,Endangered,Various,282,79,Group-based,10
+Flamingo,235,3043,Black and White,74,Carnivore,Rivers,Leopards,85,Europe,Least Concern,Various,114,58,Pack-based,1
+Penguin,377,52,Black,68,Carnivore,Grasslands,Leopards,95,South America,Vulnerable,Various,352,30,Pack-based,3
+Panda,333,3214,White,63,Carnivore,Savannas,Leopards,25,Antarctica,Endangered,Various,357,33,Solitary,2
+Golden Eagle,445,91,Black,10,Insectivore,Savannas,Lions,36,Australia,Least Concern,Various,270,33,Pack-based,5
+Tiger,459,1864,Golden,63,Herbivore,Ocean,Leopards,17,Australia,Critically Endangered,Various,323,85,Herd-based,10
+Arctic Fox,46,2044,Grey,61,Insectivore,Tropical Rainforest,Hyenas,85,Antarctica,Vulnerable,Various,117,15,Herd-based,12
+Bison,181,1736,Brown,32,Herbivore,Arctic,Lions,9,Asia,Endangered,Various,75,52,Herd-based,11
+Golden Eagle,302,465,Golden,60,Insectivore,Arctic,None (apex predator),56,Australia,Least Concern,Various,155,23,Group-based,1
+Porcupine,302,1658,Black and White,10,Omnivore,Tropical Rainforest,Eagles,93,North America,Endangered,Various,326,26,Group-based,7
+Polar Bear,469,3290,Black and White,62,Insectivore,Ocean,Humans,37,Asia,Least Concern,Various,346,83,Herd-based,3
+Manta Ray,386,1871,Golden,43,Omnivore,Grasslands,Humans,21,South America,Vulnerable,Various,258,83,Pack-based,10
+Anteater,464,2412,Multicolored,43,Herbivore,Grasslands,None (apex predator),11,North America,Critically Endangered,Various,363,69,Herd-based,11
+Panda,412,3149,Golden,88,Carnivore,Tropical Rainforest,Eagles,79,Antarctica,Least Concern,Various,178,48,Solitary,7
+Mountain Goat,441,1919,Multicolored,18,Herbivore,Mountains,Lions,23,Africa,Endangered,Various,74,29,Herd-based,6
+Penguin,244,1774,White,17,Omnivore,Grasslands,None (apex predator),16,Antarctica,Endangered,Various,242,79,Solitary,6
+Dolphin,428,3127,Black,95,Carnivore,Rivers,None (apex predator),83,South America,Critically Endangered,Various,267,12,Solitary,6
+Dolphin,438,2394,Golden,52,Herbivore,Grasslands,Leopards,85,Australia,Critically Endangered,Various,334,34,Herd-based,10
+Leopard Seal,296,1165,Yellow-brown,83,Carnivore,Arctic,Lions,43,Australia,Critically Endangered,Various,189,45,Pack-based,3
+Tiger,76,2680,Brown,53,Omnivore,Grasslands,Humans,71,Asia,Least Concern,Various,170,35,Herd-based,7
+Puffin,389,270,Multicolored,29,Herbivore,Ocean,None (apex predator),36,Europe,Least Concern,Various,179,85,Herd-based,3
+Chimpanzee,356,1253,White,10,Insectivore,Mountains,Lions,31,Europe,Endangered,Various,123,93,Pack-based,10
+Orangutan,298,2668,White,81,Insectivore,Arctic,Leopards,58,Africa,Vulnerable,Various,124,31,Pack-based,10
+Manatee,463,601,Multicolored,9,Omnivore,Forests,Leopards,75,North America,Endangered,Various,229,80,Group-based,11
+Bison,329,66,Grey,16,Omnivore,Savannas,None (apex predator),23,Antarctica,Least Concern,Various,136,64,Pack-based,10
+Bison,446,1145,Brown,13,Herbivore,Forests,Leopards,6,North America,Least Concern,Various,357,26,Herd-based,2
+Dolphin,480,595,Black,33,Herbivore,Rivers,Lions,34,Africa,Critically Endangered,Various,261,38,Pack-based,2
+Anteater,94,2094,Black and White,24,Insectivore,Mountains,Lions,31,Arctic,Endangered,Various,173,52,Pack-based,12
+Baboon,444,2634,Black and White,96,Herbivore,Grasslands,Hyenas,54,Asia,Vulnerable,Various,312,97,Herd-based,9
+Hammerhead Shark,172,1118,Golden,44,Insectivore,Arctic,Eagles,29,South America,Vulnerable,Various,161,44,Group-based,3
+Polar Bear,282,927,Yellow-brown,92,Carnivore,Tropical Rainforest,Leopards,98,Arctic,Least Concern,Various,217,12,Solitary,6
+Jaguar,122,1547,Black,94,Carnivore,Tropical Rainforest,Leopards,34,Asia,Endangered,Various,315,34,Herd-based,12
+Wolf,215,205,Golden,67,Omnivore,Forests,None (apex predator),59,Antarctica,Least Concern,Various,150,10,Solitary,8
+Wombat,213,1538,Golden,86,Omnivore,Tropical Rainforest,Hyenas,27,North America,Critically Endangered,Various,206,40,Group-based,8
+Komodo Dragon,79,458,Yellow-brown,99,Insectivore,Forests,Eagles,65,North America,Vulnerable,Various,365,87,Solitary,6
+Wolf,184,77,Yellow-brown,28,Omnivore,Rivers,Leopards,27,Antarctica,Vulnerable,Various,230,46,Herd-based,3
+Wolf,422,961,Black and White,97,Herbivore,Rivers,Hyenas,36,Antarctica,Endangered,Various,116,72,Herd-based,2
+Gazelle,453,28,White,32,Herbivore,Rivers,Lions,64,South America,Critically Endangered,Various,234,46,Pack-based,2
+Hippopotamus,271,475,Black and White,49,Herbivore,Forests,Eagles,31,Asia,Least Concern,Various,130,96,Herd-based,10
+Giraffe,406,2009,White,60,Carnivore,Rivers,Hyenas,62,North America,Vulnerable,Various,195,25,Herd-based,8
+Lynx,495,1575,White,90,Carnivore,Forests,Eagles,9,North America,Vulnerable,Various,293,88,Group-based,12
+Orangutan,179,2254,Grey,75,Carnivore,Ocean,None (apex predator),20,Antarctica,Vulnerable,Various,180,81,Herd-based,1
+Cheetah,325,2866,Multicolored,28,Carnivore,Mountains,None (apex predator),66,Antarctica,Critically Endangered,Various,227,45,Pack-based,2
+Parrot,435,2880,Black and White,89,Herbivore,Forests,Hyenas,19,Australia,Critically Endangered,Various,360,64,Solitary,12
+Komodo Dragon,397,1291,Golden,59,Carnivore,Forests,Hyenas,83,Arctic,Least Concern,Various,137,62,Group-based,4
+Narwhal,471,1201,Golden,26,Carnivore,Rivers,Humans,30,North America,Vulnerable,Various,101,21,Solitary,9
+Anteater,383,2369,Multicolored,70,Carnivore,Ocean,Eagles,53,Europe,Least Concern,Various,204,68,Herd-based,7
+Gazelle,424,345,Black,33,Insectivore,Mountains,Hyenas,90,Africa,Critically Endangered,Various,73,87,Group-based,7
+Red Panda,246,1483,Yellow-brown,25,Insectivore,Rivers,Lions,66,Africa,Vulnerable,Various,261,64,Herd-based,5
+Parrot,89,825,Brown,83,Omnivore,Mountains,None (apex predator),5,Australia,Critically Endangered,Various,225,39,Group-based,11
+Narwhal,219,620,Brown,7,Carnivore,Ocean,Lions,11,Asia,Endangered,Various,300,16,Herd-based,5
+Emperor Penguin,149,1680,White,22,Insectivore,Grasslands,None (apex predator),14,Africa,Endangered,Various,197,79,Herd-based,8
+Zebra,482,88,Yellow-brown,29,Omnivore,Forests,None (apex predator),41,Australia,Least Concern,Various,51,76,Solitary,11
+Emperor Penguin,381,1945,Multicolored,6,Herbivore,Forests,Hyenas,44,South America,Endangered,Various,59,99,Group-based,4
+Manatee,192,54,Golden,31,Insectivore,Forests,Leopards,59,Australia,Vulnerable,Various,100,25,Solitary,11
+Chimpanzee,137,2220,Golden,76,Herbivore,Savannas,Hyenas,34,South America,Endangered,Various,260,75,Solitary,11
+Red Panda,275,2289,Yellow-brown,75,Omnivore,Rivers,Leopards,75,Arctic,Endangered,Various,209,45,Solitary,4
+Parrot,263,3490,Brown,13,Insectivore,Arctic,Lions,46,Asia,Vulnerable,Various,221,83,Group-based,4
+Polar Bear,378,65,Black and White,37,Omnivore,Grasslands,Hyenas,50,Australia,Critically Endangered,Various,163,68,Solitary,7
+Flamingo,459,3147,Golden,23,Herbivore,Grasslands,None (apex predator),14,Australia,Endangered,Various,224,77,Group-based,4
+Black Widow Spider,493,3352,Black,39,Herbivore,Forests,None (apex predator),53,North America,Critically Endangered,Various,140,42,Group-based,11
+Tiger,201,1030,Yellow-brown,9,Omnivore,Ocean,Leopards,97,Antarctica,Least Concern,Various,261,22,Pack-based,1
+Sea Turtle,133,207,Yellow-brown,27,Insectivore,Mountains,Hyenas,28,Arctic,Endangered,Various,160,34,Group-based,9
+Cheetah,83,2161,Yellow-brown,89,Insectivore,Rivers,Leopards,96,North America,Critically Endangered,Various,364,34,Group-based,3
+Toucan,369,2648,Brown,75,Herbivore,Rivers,Humans,53,North America,Vulnerable,Various,251,97,Herd-based,12
+Armadillo,147,988,White,38,Omnivore,Forests,Humans,75,South America,Critically Endangered,Various,131,27,Pack-based,9
+Walrus,123,3336,Yellow-brown,72,Carnivore,Arctic,Lions,21,North America,Least Concern,Various,98,52,Herd-based,6
+Hippopotamus,293,3207,Golden,63,Omnivore,Rivers,Lions,91,Australia,Critically Endangered,Various,87,31,Herd-based,10
+Alligator,329,2054,Grey,52,Insectivore,Tropical Rainforest,Humans,49,Africa,Endangered,Various,121,82,Herd-based,9
+Porcupine,105,1025,Multicolored,94,Herbivore,Forests,None (apex predator),68,Antarctica,Vulnerable,Various,102,30,Pack-based,7
+Sloth,296,986,Multicolored,29,Carnivore,Mountains,Leopards,8,North America,Least Concern,Various,332,38,Herd-based,12
+Rhino,486,64,Grey,64,Carnivore,Arctic,Hyenas,47,Australia,Vulnerable,Various,241,98,Herd-based,8
+Arctic Fox,385,3063,Golden,96,Insectivore,Rivers,Lions,57,Africa,Least Concern,Various,174,18,Group-based,10
+Chimpanzee,166,2035,Grey,84,Carnivore,Mountains,Lions,95,Australia,Vulnerable,Various,259,99,Herd-based,12
+Leopard Seal,375,3124,White,9,Insectivore,Arctic,Hyenas,49,Africa,Critically Endangered,Various,362,29,Herd-based,9
+Puffin,97,2967,Yellow-brown,59,Omnivore,Tropical Rainforest,Humans,70,Africa,Critically Endangered,Various,249,11,Solitary,11
+Wombat,104,28,Black,64,Carnivore,Forests,Lions,28,Antarctica,Least Concern,Various,320,12,Group-based,8
+Koala,420,210,Golden,35,Insectivore,Tropical Rainforest,Humans,64,Europe,Endangered,Various,176,96,Solitary,4
+Penguin,487,313,Golden,60,Insectivore,Mountains,Lions,72,Arctic,Least Concern,Various,167,76,Solitary,9
+Flamingo,190,1869,Black and White,88,Omnivore,Arctic,Humans,60,Africa,Vulnerable,Various,305,80,Group-based,6
+Anteater,160,48,Black and White,88,Omnivore,Grasslands,Eagles,69,Africa,Least Concern,Various,360,48,Solitary,11
+Komodo Dragon,221,2808,Black,96,Insectivore,Forests,Leopards,16,South America,Endangered,Various,114,69,Solitary,5
+Red Panda,144,1370,White,73,Insectivore,Ocean,Hyenas,57,North America,Critically Endangered,Various,62,44,Pack-based,7
+Flamingo,191,2813,Brown,31,Carnivore,Forests,None (apex predator),58,Europe,Critically Endangered,Various,71,12,Pack-based,11
+Python,245,2175,Grey,99,Omnivore,Savannas,Humans,30,Africa,Critically Endangered,Various,317,60,Solitary,3
+Gazelle,385,2202,White,47,Omnivore,Rivers,Lions,57,Europe,Vulnerable,Various,63,11,Solitary,10
+Wolf,178,2947,Golden,51,Carnivore,Arctic,Eagles,29,Australia,Endangered,Various,329,86,Group-based,9
+Hammerhead Shark,293,2297,Multicolored,21,Herbivore,Mountains,Leopards,56,Africa,Least Concern,Various,207,81,Solitary,2
+Jaguar,309,3146,Yellow-brown,64,Herbivore,Rivers,Hyenas,13,Asia,Critically Endangered,Various,361,92,Herd-based,3
+Giraffe,37,1027,Multicolored,12,Carnivore,Tropical Rainforest,None (apex predator),15,Asia,Vulnerable,Various,183,28,Group-based,5
+Flamingo,193,206,Multicolored,8,Herbivore,Arctic,Eagles,43,South America,Vulnerable,Various,126,10,Solitary,2
+Eagle,335,1729,White,37,Insectivore,Tropical Rainforest,None (apex predator),95,Arctic,Critically Endangered,Various,364,93,Group-based,12
+Rhino,204,1760,Multicolored,7,Insectivore,Mountains,Hyenas,38,Antarctica,Endangered,Various,250,58,Pack-based,7
+Toucan,180,1727,Black,77,Herbivore,Savannas,Leopards,89,Arctic,Least Concern,Various,347,40,Pack-based,9
+Parrot,218,3228,Golden,82,Carnivore,Tropical Rainforest,Leopards,60,Arctic,Least Concern,Various,198,30,Pack-based,3
+Anteater,264,2709,Yellow-brown,91,Carnivore,Forests,Hyenas,39,South America,Least Concern,Various,342,27,Pack-based,1
+Manatee,259,1192,Black and White,81,Carnivore,Mountains,Lions,90,Arctic,Critically Endangered,Various,137,23,Pack-based,5
+Iguana,347,719,Grey,5,Insectivore,Mountains,Leopards,5,South America,Least Concern,Various,271,27,Pack-based,12
+Arctic Fox,372,3140,Grey,23,Insectivore,Arctic,Leopards,56,Arctic,Endangered,Various,217,25,Group-based,10
+Walrus,104,1461,Black,74,Carnivore,Rivers,Humans,90,South America,Vulnerable,Various,193,31,Solitary,3
+Manatee,96,2974,White,99,Insectivore,Mountains,Leopards,25,Arctic,Endangered,Various,79,23,Group-based,11
+Iguana,422,2038,Multicolored,6,Omnivore,Rivers,Hyenas,69,Europe,Endangered,Various,159,100,Group-based,11
+Toucan,218,356,Brown,31,Herbivore,Arctic,Lions,12,Asia,Endangered,Various,237,88,Pack-based,8
+Albatross,214,233,Golden,42,Insectivore,Arctic,Lions,100,Australia,Critically Endangered,Various,152,68,Pack-based,8
+Penguin,356,2849,Multicolored,92,Carnivore,Arctic,None (apex predator),56,North America,Endangered,Various,288,65,Solitary,7
+Manatee,268,563,White,98,Carnivore,Arctic,Leopards,33,Arctic,Least Concern,Various,126,93,Solitary,2
+Porcupine,260,223,Yellow-brown,40,Herbivore,Ocean,Hyenas,27,Asia,Critically Endangered,Various,292,16,Group-based,4
+Parrot,42,2585,Multicolored,99,Herbivore,Grasslands,Eagles,65,Africa,Critically Endangered,Various,65,68,Group-based,7
+Snow Leopard,320,876,Yellow-brown,77,Insectivore,Savannas,None (apex predator),77,Asia,Least Concern,Various,86,19,Herd-based,7
+Toucan,234,99,White,45,Omnivore,Savannas,Lions,97,Europe,Least Concern,Various,135,18,Pack-based,9
+Black Widow Spider,163,1820,Black and White,62,Carnivore,Savannas,Humans,56,North America,Critically Endangered,Various,300,80,Pack-based,6
+Kangaroo,122,1623,White,48,Insectivore,Forests,Hyenas,42,Europe,Least Concern,Various,238,56,Pack-based,10
+Moose,120,1684,Black,68,Insectivore,Forests,Eagles,92,North America,Critically Endangered,Various,94,18,Pack-based,10
+Manta Ray,42,2954,Multicolored,62,Insectivore,Savannas,Eagles,61,Arctic,Least Concern,Various,360,45,Herd-based,4
+Toucan,337,1066,Brown,60,Herbivore,Tropical Rainforest,Hyenas,15,Australia,Vulnerable,Various,352,47,Solitary,1
+Hammerhead Shark,400,3232,Grey,97,Omnivore,Ocean,Humans,94,Australia,Vulnerable,Various,263,64,Solitary,11
+Wolf,447,2568,Grey,72,Omnivore,Grasslands,Leopards,88,Africa,Critically Endangered,Various,141,23,Herd-based,9
+Narwhal,156,3256,Yellow-brown,29,Omnivore,Mountains,Lions,81,Antarctica,Critically Endangered,Various,110,12,Group-based,1
+Gazelle,252,1560,Brown,20,Omnivore,Grasslands,Eagles,59,Arctic,Critically Endangered,Various,65,47,Group-based,10
+Moose,327,2304,Black,40,Herbivore,Mountains,None (apex predator),53,Arctic,Least Concern,Various,212,24,Herd-based,12
+Red Panda,76,1720,Grey,5,Carnivore,Ocean,Lions,15,South America,Critically Endangered,Various,345,89,Solitary,10
+Jaguar,177,1148,Multicolored,54,Insectivore,Ocean,Lions,95,Arctic,Least Concern,Various,209,93,Solitary,8
+Tiger,240,2890,Black and White,8,Herbivore,Tropical Rainforest,Leopards,66,Arctic,Critically Endangered,Various,277,61,Solitary,9
+Toucan,72,1063,Brown,39,Herbivore,Rivers,Hyenas,64,Asia,Critically Endangered,Various,191,88,Group-based,8
+Snow Leopard,414,2963,Multicolored,32,Insectivore,Grasslands,Hyenas,98,Australia,Least Concern,Various,311,81,Group-based,1
+Bison,140,2502,White,9,Insectivore,Forests,None (apex predator),55,Arctic,Critically Endangered,Various,149,98,Solitary,3
+Wombat,243,1170,Yellow-brown,17,Herbivore,Grasslands,Hyenas,54,Africa,Endangered,Various,248,45,Group-based,4
+Black Widow Spider,248,2871,Golden,80,Insectivore,Mountains,Eagles,89,Australia,Least Concern,Various,83,12,Pack-based,4
+Polar Bear,342,783,Black,45,Carnivore,Arctic,Leopards,17,Asia,Least Concern,Various,360,29,Herd-based,11
+Hippopotamus,282,1919,White,25,Carnivore,Grasslands,Eagles,11,Antarctica,Least Concern,Various,288,11,Solitary,11
+Albatross,204,296,Black,15,Herbivore,Savannas,Leopards,87,Australia,Least Concern,Various,253,91,Herd-based,12
+Orangutan,478,2588,Grey,6,Insectivore,Mountains,Leopards,21,Africa,Least Concern,Various,171,94,Group-based,4
+Hammerhead Shark,404,921,Yellow-brown,100,Carnivore,Ocean,Hyenas,61,Arctic,Endangered,Various,301,36,Pack-based,6
+Mountain Goat,80,487,White,61,Herbivore,Savannas,Hyenas,35,Asia,Least Concern,Various,297,39,Group-based,9
+Black Widow Spider,47,731,Multicolored,7,Herbivore,Forests,Lions,67,South America,Least Concern,Various,185,91,Solitary,3
+Wolf,171,2394,Yellow-brown,68,Carnivore,Rivers,None (apex predator),66,Africa,Least Concern,Various,63,15,Herd-based,4
+Giraffe,287,2602,Yellow-brown,41,Carnivore,Ocean,Humans,91,Australia,Least Concern,Various,103,69,Pack-based,11
+Armadillo,102,1316,Yellow-brown,14,Omnivore,Arctic,Eagles,53,Australia,Critically Endangered,Various,227,37,Herd-based,9
+Lynx,345,635,Yellow-brown,28,Insectivore,Rivers,Humans,20,Africa,Endangered,Various,119,62,Solitary,11
+Lynx,438,2379,Multicolored,75,Insectivore,Arctic,Hyenas,39,Africa,Critically Endangered,Various,260,54,Herd-based,3
+Zebra,492,1393,Multicolored,52,Carnivore,Tropical Rainforest,Eagles,28,Australia,Critically Endangered,Various,138,36,Herd-based,2
+Red Panda,348,2687,Yellow-brown,8,Carnivore,Savannas,Lions,56,Antarctica,Least Concern,Various,85,60,Pack-based,3
+Emperor Penguin,70,3327,Brown,93,Herbivore,Forests,Hyenas,36,Australia,Critically Endangered,Various,78,83,Group-based,4
+Sea Turtle,107,2815,Yellow-brown,88,Carnivore,Grasslands,Eagles,23,Australia,Endangered,Various,80,83,Group-based,3
+Komodo Dragon,264,2189,Brown,46,Insectivore,Ocean,None (apex predator),42,Arctic,Least Concern,Various,139,26,Pack-based,7
+Manta Ray,420,594,Black and White,10,Herbivore,Tropical Rainforest,Hyenas,52,Europe,Critically Endangered,Various,111,44,Herd-based,6
+Anteater,206,3201,Black,92,Herbivore,Ocean,Lions,47,Asia,Vulnerable,Various,232,99,Group-based,2
+Wombat,359,736,Multicolored,91,Insectivore,Tropical Rainforest,Lions,25,Asia,Endangered,Various,206,24,Pack-based,4
+Sloth,340,2835,Black and White,43,Insectivore,Forests,Eagles,7,Europe,Critically Endangered,Various,304,93,Solitary,12
+Black Widow Spider,372,563,Golden,31,Insectivore,Tropical Rainforest,Eagles,25,Antarctica,Least Concern,Various,52,53,Pack-based,8
+Wolf,185,3107,Black and White,62,Herbivore,Arctic,Hyenas,74,North America,Vulnerable,Various,80,26,Solitary,2
+Sloth,173,620,Black,51,Herbivore,Arctic,Hyenas,26,Antarctica,Endangered,Various,156,27,Herd-based,2
+Hammerhead Shark,180,2829,Brown,92,Carnivore,Savannas,Humans,48,Australia,Least Concern,Various,282,60,Solitary,7
+Moose,489,2415,White,98,Insectivore,Rivers,None (apex predator),98,Africa,Endangered,Various,92,73,Solitary,6
+Hippopotamus,428,2906,Golden,43,Omnivore,Forests,Humans,73,Africa,Least Concern,Various,130,32,Solitary,10
+Chimpanzee,431,919,Brown,48,Carnivore,Forests,Eagles,44,Antarctica,Endangered,Various,228,90,Pack-based,4
+Parrot,223,2742,Brown,26,Carnivore,Savannas,Hyenas,13,Europe,Vulnerable,Various,274,65,Group-based,9
+Snow Leopard,38,17,Grey,100,Carnivore,Arctic,Lions,23,Africa,Endangered,Various,122,98,Solitary,7
+Koala,38,1656,Golden,27,Carnivore,Grasslands,Leopards,19,Asia,Critically Endangered,Various,81,100,Group-based,4
+Mountain Goat,339,596,Black and White,45,Omnivore,Rivers,None (apex predator),92,Africa,Least Concern,Various,165,75,Herd-based,1
+Porcupine,128,3263,White,37,Insectivore,Mountains,Leopards,16,Antarctica,Vulnerable,Various,254,26,Herd-based,6
+Albatross,105,3346,Black,31,Carnivore,Tropical Rainforest,Lions,79,Antarctica,Vulnerable,Various,246,11,Solitary,5
+Zebra,219,2092,White,40,Carnivore,Mountains,Hyenas,44,Africa,Endangered,Various,159,85,Herd-based,12
+Koala,143,1128,Black and White,33,Carnivore,Grasslands,Lions,38,Asia,Vulnerable,Various,52,65,Group-based,3
+Lynx,65,2070,Grey,46,Insectivore,Ocean,Leopards,99,Antarctica,Endangered,Various,185,29,Solitary,6
+Lynx,436,1043,White,47,Herbivore,Rivers,Lions,100,Australia,Least Concern,Various,135,71,Pack-based,5
