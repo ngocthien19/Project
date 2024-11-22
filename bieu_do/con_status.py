@@ -2,40 +2,54 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 def ConStatusChart():
-    # Đọc dữ liệu từ file CSV đã làm sạch
-    data = pd.read_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
+    # Chọn dữ liệu khi đã làm sạch để vẽ biểu đồ
+    data = pd.read_csv("D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
 
     # Đếm tần suất của từng trạng thái bảo tồn
     status_counts = data["Conservation Status"].value_counts()
 
-    # Hàm hiển thị phần trăm chỉ khi giá trị lớn hơn 5%
+    # Hàm hiển thị tỷ lệ nếu lớn hơn 5%
     def autopct_func_status(pct):
-        return f'{pct:.1f}%' if pct > 5 else ''  # Hiển thị 1 chữ số thập phân nếu > 5%
+        return f'{pct:.1f}%' if pct > 5 else ''
 
     # Tạo biểu đồ tròn
-    plt.figure(figsize=(10, 6))  # Điều chỉnh kích thước hợp lý với chiều rộng 10 và chiều cao 6
+    plt.figure(figsize=(8, 8))
+
+    # Vẽ biểu đồ tròn
     wedges, texts, autotexts = plt.pie(
         status_counts,
-        labels=None,  # Không hiển thị nhãn trực tiếp trên biểu đồ
-        autopct=autopct_func_status,  # Hiển thị % cho các phần có giá trị lớn hơn 5%
-        startangle=90,  # Xoay biểu đồ để bắt đầu từ góc 90 độ
-        colors=plt.cm.tab20.colors  # Sử dụng bảng màu 'tab20'
+        labels=None,  # Xóa nhãn khỏi biểu đồ
+        autopct=autopct_func_status,
+        startangle=90,
+        colors=plt.cm.tab20.colors
     )
 
-    # Thêm tiêu đề biểu đồ
+    # Tiêu đề
     plt.title('Proportion of Conservation Status', fontsize=14)
 
-    # Thêm chú thích bên phải biểu đồ
+    # Chú thích bên tay phải (vẫn giữ nguyên)
     plt.legend(
-        wedges,  # Truyền các phần (wedges) vào chú thích
-        status_counts.index,  # Tên của các trạng thái bảo tồn
-        title="Conservation Status",  # Tiêu đề của chú thích
-        loc="center left",  # Đặt chú thích ở bên trái
-        bbox_to_anchor=(1, 0, 0.5, 1)  # Định vị trí của chú thích
+        wedges,
+        status_counts.index,
+        title="Conservation Status",
+        loc="center left",
+        bbox_to_anchor=(1, 0, 0.5, 1)
     )
 
-    # Tự động điều chỉnh bố cục để không bị chèn lấn
-    plt.tight_layout()
+    # Thêm hiệu ứng hover để hiển thị chú thích cho vùng dưới 5%
+    def on_hover(event):
+        for wedge, label in zip(wedges, status_counts.index):
+            if wedge.contains(event)[0]:
+                # Hiển thị chú thích cho vùng dưới 5% khi hover
+                if status_counts[label] < 5:
+                    plt.gca().set_title(f"Hovering over: {label} ({status_counts[label]}%)", fontsize=14)
+                else:
+                    plt.gca().set_title('Proportion of Conservation Status', fontsize=14)
+                break  # Chỉ hiển thị một lần khi di chuột vào vùng này
+        plt.draw()
 
-    # Hiển thị biểu đồ
+    # Thiết lập sự kiện hover
+    plt.gcf().canvas.mpl_connect('motion_notify_event', on_hover)
+
+    plt.tight_layout()
     plt.show()
