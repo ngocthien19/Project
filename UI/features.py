@@ -142,7 +142,7 @@ def search_animals(event, entry, table):
     filter_value = entry.get()  # Lấy giá trị từ ô Entry
     populate_table(table, filter_value=filter_value)  # Cập nhật bảng với giá trị tìm kiếm và giữ nguyên trang hiện tại
 
-    # Tự động chọn giá trị đầu tiên trong bảng nếu có
+    # Tự động chọn giá trị đầu tiên trong bảng 
     if table.get_children():
         table.selection_set(table.get_children()[0])  # Chọn giá trị đầu tiên
 
