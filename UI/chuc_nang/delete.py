@@ -6,7 +6,7 @@ def Delete(table):
     # Hiển thị hộp thoại xác nhận
     confirm = messagebox.askyesno("Delete Confirmation", "Are you sure you want to delete the selected items?")
     if not confirm:
-        return  # Nếu người dùng chọn "No", thoát khỏi hàm
+        return  # Nếu chọn "No", thoát khỏi hàm
     
     # Lấy các hàng đang được chọn trong Treeview
     selected_items = table.selection()
