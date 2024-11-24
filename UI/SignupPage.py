@@ -4,7 +4,7 @@ from PIL import ImageTk, Image
 
 # Mảng để quản lý dữ liệu người dùng
 user_data = []
-
+ 
 # Hàm tải dữ liệu từ file vào mảng
 def load_user_data():
     try:
@@ -24,7 +24,7 @@ def save_user_data(username, password):
 
 def SignupPage(open_login_callback):
     signup_window = Tk()
-    signup_window.geometry('1100x700')  # Đặt kích thước cố định cho cửa sổ
+    signup_window.geometry('1100x700')  
     signup_window.resizable(False, False)
     signup_window.title('Sign Up Page')
 
