@@ -21,7 +21,7 @@ def ChartPage(root):
     button_canvas = tk.Canvas(chartPage, bg="#FFF", height=400, highlightthickness=0, width=600)
     button_canvas.pack(pady=(10, 20))
 
-    # Tạo các nút tương ứng với từng biểu đồ với 5 màu sắc khác nhau
+    # Tạo các nút tương ứng với từng biểu đồ 
     create_rounded_button(
         button_canvas,
         x=200,
