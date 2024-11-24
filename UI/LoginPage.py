@@ -5,7 +5,6 @@ import SignupPage
 import main
 
 def LoginPage():
-    # Khởi tạo cửa sổ chính
     window = Tk()
     window.geometry('1100x700')  # Đặt kích thước cố định cho cửa sổ
     window.resizable(False, False)  
