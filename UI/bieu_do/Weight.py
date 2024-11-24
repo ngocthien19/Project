@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 def WeightChart():
-    # Đọc dữ liệu từ file CSV đã làm sạch
+    # Đọc dữ liệu từ file csv đã làm sạch
     data = pd.read_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
 
     # Thiết lập kích thước cho biểu đồ

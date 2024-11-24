@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 def DietChart():
-    # Đọc dữ liệu đã làm sạch từ file CSV
+    # Đọc dữ liệu đã làm sạch từ file csv
     data = pd.read_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
 
     # Đếm tần suất của từng chế độ ăn

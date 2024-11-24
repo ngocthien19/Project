@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 def HabitatChart():
-    # Đọc dữ liệu từ file CSV đã làm sạch
+    # Đọc dữ liệu từ file csv đã làm sạch
     data = pd.read_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
 
     # Trích xuất môi trường sống đầu tiên từ mỗi mục trong cột 'Habitat'

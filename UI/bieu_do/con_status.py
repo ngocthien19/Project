@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 def ConStatusChart():
-    # Chọn dữ liệu khi đã làm sạch để vẽ biểu đồ
+    # Chọn dữ liệu khi đã làm sạch 
     data = pd.read_csv("D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
 
     # Đếm tần suất của từng trạng thái bảo tồn
