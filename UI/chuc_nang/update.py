@@ -14,7 +14,7 @@ def show_update_item_details(item_data, table):
     title_label = tk.Label(modal, text="Update Animal Info", font=("Arial", 22, "bold"), bg="#FFF", fg="#2980b9")
     title_label.pack(pady=(10, 20))
 
-    # Danh sách các label và entry tương ứng (bỏ qua ID)
+    # Danh sách các label và entry tương ứng (bỏ qua id)
     labels = ["Animal: ", "Weight (kg): ", "Lifespan (years): ", "Diet: ", "Habitat: ", "Conservation Status: "]
     entries = []
 
