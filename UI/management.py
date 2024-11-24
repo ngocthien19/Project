@@ -18,7 +18,6 @@ def get_unique_values(file_path, column_name):
     return sorted(values)  # Sắp xếp giá trị duy nhất để dễ nhìn
 
 def Submit(entries):
-    # Đường dẫn đến file CSV
     file_path = r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv"
     file_exists = os.path.isfile(file_path)
 
