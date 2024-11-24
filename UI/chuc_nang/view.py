@@ -47,7 +47,7 @@ def show_item_details(item_data):
     )
 
 def View(table):
-    # Lấy mục được chọn từ Treeview
+    # Lấy item được chọn từ Treeview
     selected_item = table.selection()
     if selected_item:
         item_values = table.item(selected_item)['values']  # Lấy giá trị của hàng đã chọn
