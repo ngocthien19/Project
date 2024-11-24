@@ -35,7 +35,7 @@ def on_button_click():
 def HomePage(root):
     # Tạo khung chính
     frame = tk.Frame(root, bg='white')
-    frame.pack(fill="both", expand=True)  # Đặt khung chính
+    frame.pack(fill="both", expand=True)  
 
     # Fonts
     label_font = font.Font(family="Arial", size=22, weight="bold")  # Font cho tiêu đề
