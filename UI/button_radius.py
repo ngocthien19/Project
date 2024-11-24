@@ -15,7 +15,7 @@ def create_rounded_button(
     text_y = y + height / 2
     text_button = canvas.create_text(text_x, text_y, text=text, fill=text_color, font=("Arial", 12, "bold"))
 
-    # Liên kết sự kiện click với nút, nếu có lệnh (command)
+    # Liên kết sự kiện click với nút, nếu có lệnh 
     if command:
         canvas.tag_bind(button, "<Button-1>", lambda e: command())
         canvas.tag_bind(text_button, "<Button-1>", lambda e: command())
