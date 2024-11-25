@@ -2,8 +2,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 def ConStatusChart():
-    # Chọn dữ liệu khi đã làm sạch 
-    data = pd.read_csv("D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
+    # Chọn dữ liệu khi đã làm sạch để vẽ biểu đồ
+    data = pd.read_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
 
     # Đếm tần suất của từng trạng thái bảo tồn
     status_counts = data["Conservation Status"].value_counts()
@@ -12,8 +12,8 @@ def ConStatusChart():
     def autopct_func_status(pct):
         return f'{pct:.1f}%' if pct > 5 else ''
 
-    # Tạo biểu đồ tròn
-    plt.figure(figsize=(8, 8))
+    # Tạo đối tượng Figure
+    fig, ax = plt.subplots(figsize=(6, 6))
 
     # Vẽ biểu đồ tròn
     wedges, texts, autotexts = plt.pie(
@@ -51,5 +51,8 @@ def ConStatusChart():
     # Thiết lập sự kiện hover
     plt.gcf().canvas.mpl_connect('motion_notify_event', on_hover)
 
-    plt.tight_layout()
-    plt.show()
+    # Điều chỉnh lề để tránh tràn nội dung
+    plt.tight_layout()  # Tự động điều chỉnh các thành phần trong Figure để tránh bị cắt
+
+    # Trả về đối tượng Figure
+    return fig
