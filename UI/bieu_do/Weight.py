@@ -2,11 +2,11 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 def WeightChart():
-    # Đọc dữ liệu từ file csv đã làm sạch
+    # Đọc dữ liệu từ file CSV đã làm sạch
     data = pd.read_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
 
-    # Thiết lập kích thước cho biểu đồ
-    plt.figure(figsize=(8, 5))  # Tạo khung vẽ với chiều rộng 8 và chiều cao 5
+    # Tạo đối tượng Figure
+    fig, ax = plt.subplots(figsize=(8, 5))
 
     # Vẽ biểu đồ histogram để thể hiện phân bố cân nặng của động vật
     plt.hist(
@@ -28,5 +28,4 @@ def WeightChart():
     # Điều chỉnh bố cục để không bị chèn các thành phần
     plt.tight_layout()  # Đảm bảo bố cục tự động điều chỉnh khoảng cách giữa các thành phần trong biểu đồ
 
-    # Hiển thị biểu đồ
-    plt.show()  
+    return fig
