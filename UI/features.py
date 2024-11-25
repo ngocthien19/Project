@@ -152,9 +152,6 @@ def sort_by_weight(table):
     populate_table(table, sort_by_weight=True, page=current_page)
     sort_ascending = not sort_ascending
 
-def Table():
-    return table
-
 def back_to_home():
     featuresPage.destroy()
 
