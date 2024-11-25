@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 def DietChart():
-    # Đọc dữ liệu đã làm sạch từ file csv
+    # Đọc dữ liệu đã làm sạch từ file CSV
     data = pd.read_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
 
     # Đếm tần suất của từng chế độ ăn
@@ -12,8 +12,8 @@ def DietChart():
     def autopct_func(pct):
         return f'{pct:.1f}%' if pct > 5 else ''
 
-    # Tạo biểu đồ tròn
-    plt.figure(figsize=(8, 8))
+    # Tạo đối tượng Figure
+    fig, ax = plt.subplots(figsize=(6, 6))
 
     # Vẽ biểu đồ tròn
     wedges, texts, autotexts = plt.pie(
@@ -51,5 +51,7 @@ def DietChart():
     # Thiết lập sự kiện hover
     plt.gcf().canvas.mpl_connect('motion_notify_event', on_hover)
 
-    plt.tight_layout()
-    plt.show()
+    # Điều chỉnh lề để tránh tràn nội dung
+    plt.tight_layout()  # Tự động điều chỉnh các thành phần trong Figure để tránh bị cắt
+
+    return fig
