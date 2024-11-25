@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 def HabitatChart():
-    # Đọc dữ liệu từ file csv đã làm sạch
+    # Đọc dữ liệu từ file CSV đã làm sạch
     data = pd.read_csv(r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv")
 
     # Trích xuất môi trường sống đầu tiên từ mỗi mục trong cột 'Habitat'
@@ -22,8 +22,9 @@ def HabitatChart():
     # Xoay dữ liệu để tương thích với bản đồ nhiệt
     heatmap_df = heatmap_df.pivot_table(index='Habitat', values='Percentage')
 
-    # Vẽ biểu đồ nhiệt (heatmap)
-    plt.figure(figsize=(8, 6))  # Kích thước hợp lý với chiều rộng 8 và chiều cao 6
+    # Tạo đối tượng Figure
+    fig, ax = plt.subplots(figsize=(8, 6))
+
     sns.heatmap(
         heatmap_df,
         annot=True,  # Hiển thị giá trị trên các ô
@@ -39,8 +40,7 @@ def HabitatChart():
     plt.xlabel('')  # Để trống vì bản đồ nhiệt không cần nhãn trục X
     plt.ylabel('Habitat', fontsize=12)  # Nhãn trục Y với kích thước chữ 12
 
-    # Tự động điều chỉnh bố cục để không bị chèn lấn
-    plt.tight_layout()
+    # Điều chỉnh lề để tránh tràn nội dung
+    plt.tight_layout()  # Tự động điều chỉnh các thành phần trong Figure để tránh bị cắt
 
-    # Hiển thị biểu đồ
-    plt.show()
+    return fig
