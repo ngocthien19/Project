@@ -18,6 +18,7 @@ def get_unique_values(file_path, column_name):
     return sorted(values)  # Sắp xếp giá trị duy nhất để dễ nhìn
 
 def Submit(entries):
+    # Đường dẫn đến file CSV
     file_path = r"D:\VScode\Python\Project\database\Cleaned_Animal_Dataset.csv"
     file_exists = os.path.isfile(file_path)
 
@@ -78,14 +79,11 @@ def Submit(entries):
             elif entry_type == ttk.Combobox:
                 entry.set("")  # Đặt về trạng thái rỗng
 
-        # Thêm dữ liệu vào Treeview
-        Table().insert("", "0", values=data_with_id)  # Thêm dữ liệu mới vào Treeview
-
         # Hiển thị thông báo thành công
         messagebox.showinfo("Success", "✅ Submit Successfully!")
         
     except Exception as e:
-        messagebox.showwarning("Warning", f"Submitted successfully. But please open the Feature window for better observation!")
+        messagebox.showerror("Error", f"Submitted failure!")
 
 def back_to_home():
     managementPage.destroy()
