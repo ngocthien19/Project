@@ -12,7 +12,7 @@ sidebar_width = int(window_width * 0.18)
 button_width = int(sidebar_width * 0.8)
 button_height = 40
 button_radius = 15
-canvas_width = sidebar_width + 20 
+canvas_width = sidebar_width + 20  # Kích thước canvas cho sidebar
 canvas_height = 50
 sidebar_padding = 8
 title_padding = 10
@@ -42,8 +42,8 @@ def show_frame(frame_name, button_canvas=None):
         show_frame("Home", button_canvas=sidebar.winfo_children()[1])    
     elif frame_name == "Chart":
         ChartPage(frames["Chart"])
-        show_frame("Home", button_canvas=sidebar.winfo_children()[1])    
-
+        show_frame("Home", button_canvas=sidebar.winfo_children()[1])  
+          
     # Xóa tam giác active cũ nếu có
     if active_triangle and active_button_canvas:
         active_button_canvas.delete(active_triangle)
@@ -100,6 +100,7 @@ def animate_color_and_label(target, start_color, end_color, step=0):
 
 def run_main():
     # Tạo cửa sổ chính
+    global window
     window = tk.Tk()
     window.title('Animals')
     window.geometry(f"{window_width}x{window_height}")
