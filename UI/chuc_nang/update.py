@@ -1,5 +1,6 @@
 import tkinter as tk
 import pandas as pd
+import re
 from tkinter import messagebox
 from button_radius import create_rounded_button
 
@@ -30,23 +31,32 @@ def show_update_item_details(item_data, table):
         entry_widget.pack(side=tk.LEFT)
         entry_widget.insert(1, item_data[i + 1])  # Điền dữ liệu vào entry, bỏ qua ID
         
-        # Disable các trường ngoài Weight và Lifespan
-        if i != 1 and i != 2:  # Chỉ cho phép chỉnh sửa Weight và Lifespan
-            entry_widget.config(state='disabled')
-        
         entries.append(entry_widget)  # Thêm entry vào danh sách
 
     def update_item():
-        # Lấy dữ liệu cập nhật từ các trường
-        updated_data = [entry.get() for entry in entries]
+        # Lấy dữ liệu cập nhật từ các trường và loại bỏ khoảng trắng thừa
+        updated_data = [entry.get().strip() for entry in entries]
 
-        # Chuyển đổi các giá trị trong `updated_data` thành kiểu phù hợp với DataFrame
+        # Kiểm tra nếu Animal là text hợp lệ (chỉ chứa chữ cái và dấu cách, không phải là chỉ dấu cách)
+        animal_value = updated_data[0]
+        if not re.match("^[A-Za-zÀ-ÿ ,]+$", animal_value) or animal_value.strip() == "":
+            messagebox.showerror("Error", "The 'Animal' must be text.")
+            return
+
+        # Kiểm tra nếu Weight (kg) và Lifespan (years) là số hợp lệ
         try:
             updated_data[1] = float(updated_data[1])  # Weight (kg) cần là float
             updated_data[2] = float(updated_data[2])  # Lifespan (years) cần là float
         except ValueError:
             messagebox.showerror("Error", "Weight and Lifespan must be numbers.")
             return
+
+        # Kiểm tra các trường Diet, Habitat, Conservation Status có phải là text hợp lệ
+        for i, field in enumerate([3, 4, 5]):  # Diet, Habitat, Conservation Status
+            field_value = updated_data[field]
+            if not re.match("^[A-Za-zÀ-ÿ ,]+$", field_value) or field_value.strip() == "":
+                messagebox.showerror("Error", "The 'Animal' must be text.")
+                return
 
         # Cập nhật dữ liệu trong CSV
         try:
@@ -121,4 +131,4 @@ def Update(table):
         item_values = table.item(selected_item)['values']  # Lấy giá trị của hàng đã chọn
         show_update_item_details(item_values, table)  # Hiện modal với thông tin chi tiết để cập nhật
     else:
-        messagebox.showwarning("Warning", "Vui lòng chọn một mục từ danh sách.")
+        messagebox.showwarning("Warning", "Please select an item from the list.")
