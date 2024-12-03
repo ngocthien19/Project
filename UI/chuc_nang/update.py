@@ -55,7 +55,7 @@ def show_update_item_details(item_data, table):
         for i, field in enumerate([3, 4, 5]):  # Diet, Habitat, Conservation Status
             field_value = updated_data[field]
             if not re.match("^[A-Za-zÀ-ÿ ,]+$", field_value) or field_value.strip() == "":
-                messagebox.showerror("Error", "The 'Animal' must be text.")
+                messagebox.showerror("Error", "The 'Diet, Habitat, Conservation Status' must be text.")
                 return
 
         # Cập nhật dữ liệu trong CSV
