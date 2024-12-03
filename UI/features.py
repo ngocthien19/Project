@@ -17,6 +17,10 @@ sort_ascending_all = True # Sort all
 
 def populate_table(table, filter_value="", filter_data ="", page=None):
     global current_page, total_pages
+
+    # Nếu page được cung cấp, cập nhật current_page
+    if page is not None:
+        current_page = page
     
     # Đọc dữ liệu từ file CSV   
     try:
